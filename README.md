@@ -11,6 +11,19 @@ Miscellaneous teaching documents that are not part of any app repo — HTML comp
 - Pearson / homework vs review maps (e.g. exam comparison HTML)
 - Other school HTML or markdown you want synced between home PC and school laptop
 
+## Exam 2 Review map
+
+| File | Role |
+|---|---|
+| `exam2-review-map.html` | Page (open via docs server) |
+| `exam2-review-map-data.js` | Review / homework / problem text |
+| `exam2-review-map-app.js` | UI logic |
+| `exam2-review-map-state.json` | Added + removed question IDs (commit this to sync machines) |
+
+**Local link:** [http://127.0.0.1:8765/exam2-review-map.html](http://127.0.0.1:8765/exam2-review-map.html) (requires `node scripts/serve-programs-docs.js` from Programs)
+
+**Sync flow:** edit on one PC → **Download state for GitHub** → replace `exam2-review-map-state.json` in this folder → commit & push → on the other PC pull → **Load from GitHub file** (or first visit auto-loads when the browser has no local state).
+
 ## What does *not* go here
 
 - App source code (those live in their own repos under `School Scrips\`)

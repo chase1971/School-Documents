@@ -1,0 +1,455 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exam 2 Review vs Homework</title>
+  <style>
+    :root {
+      --bg: #0f1419;
+      --surface: #1a2332;
+      --surface2: #243044;
+      --text: #e8eef4;
+      --muted: #9db0c4;
+      --accent: #5eb8ff;
+      --accent2: #7ee787;
+      --warn: #f0b429;
+      --purple: #d2a8ff;
+      --border: #3d5166;
+      --match-bg: #1a3d28;
+      --match-border: #7ee787;
+      --hw-only-bg: #1a2332;
+      --review-only-bg: #3d2f1a;
+      --review-only-border: #f0b429;
+      --added-bg: #1a2a3d;
+      --added-border: #5eb8ff;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Segoe UI", system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+      font-size: 18px;
+    }
+    .wrap { max-width: 1280px; margin: 0 auto; padding: 1.5rem 1.25rem 3rem; }
+    h1 { font-size: 1.85rem; margin: 0 0 0.3rem; }
+    .subtitle { color: var(--muted); margin-bottom: 1rem; font-size: 1rem; }
+
+    .legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      margin-bottom: 1.25rem;
+      padding: 0.85rem 1rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      font-size: 0.95rem;
+    }
+    .legend-item { display: flex; align-items: center; gap: 0.5rem; }
+    .swatch {
+      width: 1.25rem;
+      height: 1.25rem;
+      border-radius: 4px;
+      border: 2px solid;
+      flex-shrink: 0;
+    }
+    .swatch-match { background: var(--match-bg); border-color: var(--match-border); }
+    .swatch-hw { background: var(--hw-only-bg); border-color: var(--border); }
+    .swatch-review { background: var(--review-only-bg); border-color: var(--review-only-border); }
+    .swatch-added { background: var(--added-bg); border-color: var(--added-border); }
+
+    .columns {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1rem;
+      align-items: start;
+    }
+    @media (max-width: 900px) { .columns { grid-template-columns: 1fr; } }
+
+    .panel {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    #left-panel { overflow: visible; }
+    .panel-head {
+      padding: 0.85rem 1rem;
+      background: var(--surface2);
+      border-bottom: 1px solid var(--border);
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .panel-head span { color: var(--muted); font-weight: 400; font-size: 0.9rem; }
+
+    .summary-bar {
+      padding: 0.65rem 1rem;
+      font-size: 0.92rem;
+      color: var(--muted);
+      border-bottom: 1px solid var(--border);
+      background: #151c26;
+    }
+    .summary-bar strong { color: var(--text); }
+
+    /* Accordion — big click targets for dwell */
+    .section-btn {
+      display: flex;
+      align-items: center;
+      gap: 0.65rem;
+      width: 100%;
+      min-height: 52px;
+      padding: 0.75rem 1rem;
+      border: none;
+      border-bottom: 1px solid var(--border);
+      background: var(--surface);
+      color: var(--text);
+      font: inherit;
+      text-align: left;
+      cursor: pointer;
+    }
+    .section-btn:hover { background: var(--surface2); }
+    .section-btn.active {
+      background: #1e3350;
+      border-left: 4px solid var(--accent);
+      padding-left: calc(1rem - 4px);
+    }
+    .section-btn .chev {
+      color: var(--muted);
+      font-size: 0.85rem;
+      width: 1.2rem;
+      flex-shrink: 0;
+    }
+    .section-btn .label { flex: 1; font-weight: 600; }
+    .section-btn .counts {
+      font-size: 0.82rem;
+      color: var(--muted);
+      white-space: nowrap;
+    }
+    .section-btn.no-hw { opacity: 0.85; }
+
+    .section-body {
+      display: none;
+      padding: 0.5rem 0;
+      border-bottom: 1px solid var(--border);
+      background: #151c26;
+    }
+    .section-body.open { display: block; }
+
+    .q-row {
+      display: flex;
+      align-items: baseline;
+      gap: 0.75rem;
+      min-height: 44px;
+      padding: 0.55rem 1rem 0.55rem 1.5rem;
+      border-bottom: 1px solid rgba(61, 81, 102, 0.4);
+      font-size: 0.95rem;
+    }
+    .q-row:last-child { border-bottom: none; }
+    .qid {
+      font-family: Consolas, "Courier New", monospace;
+      font-weight: 700;
+      color: var(--purple);
+      min-width: 5.5rem;
+      flex-shrink: 0;
+    }
+    .q-note { color: var(--muted); font-size: 0.88rem; flex: 1; }
+
+    .q-row.match {
+      background: var(--match-bg);
+      border-left: 4px solid var(--match-border);
+      padding-left: calc(1.5rem - 4px);
+    }
+    .q-row.match .qid { color: var(--accent2); }
+    .q-row.added-planned {
+      background: var(--added-bg);
+      border-left: 4px solid var(--added-border);
+      padding-left: calc(1.5rem - 4px);
+    }
+    .q-row.added-planned .qid { color: var(--accent); }
+    .q-row.hw-only { background: transparent; }
+    .q-row.review-only {
+      background: var(--review-only-bg);
+      border-left: 4px solid var(--review-only-border);
+      padding-left: calc(1rem - 4px);
+    }
+    .q-row.review-only .qid { color: var(--warn); }
+
+    .badge {
+      font-size: 0.72rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      padding: 0.15em 0.5em;
+      border-radius: 4px;
+      flex-shrink: 0;
+    }
+    .badge-match { background: #264032; color: var(--accent2); }
+    .badge-hw { background: #243044; color: var(--muted); }
+    .badge-review { background: #4a3818; color: var(--warn); }
+    .badge-added { background: #1e3350; color: var(--accent); }
+
+    .btn-add-review {
+      min-height: 44px;
+      min-width: 7.5rem;
+      padding: 0.35rem 0.65rem;
+      border: 2px solid var(--accent);
+      border-radius: 8px;
+      background: rgba(94, 184, 255, 0.12);
+      color: var(--accent);
+      font: inherit;
+      font-size: 0.82rem;
+      font-weight: 700;
+      cursor: pointer;
+      flex-shrink: 0;
+      white-space: nowrap;
+    }
+    .btn-add-review:hover,
+    .btn-add-review:focus-visible {
+      background: rgba(94, 184, 255, 0.22);
+    }
+    .btn-add-review.is-added {
+      border-color: var(--accent2);
+      background: rgba(126, 231, 135, 0.14);
+      color: var(--accent2);
+    }
+    .btn-remove {
+      min-height: 44px;
+      min-width: 6.5rem;
+      padding: 0.35rem 0.65rem;
+      border: 2px solid var(--warn);
+      border-radius: 8px;
+      background: rgba(240, 180, 41, 0.12);
+      color: var(--warn);
+      font: inherit;
+      font-size: 0.82rem;
+      font-weight: 700;
+      cursor: pointer;
+      flex-shrink: 0;
+      white-space: nowrap;
+    }
+    .btn-remove:hover,
+    .btn-remove:focus-visible {
+      background: rgba(240, 180, 41, 0.22);
+    }
+    .btn-restore {
+      min-height: 44px;
+      padding: 0.35rem 0.85rem;
+      border: 2px solid var(--border);
+      border-radius: 8px;
+      background: var(--surface2);
+      color: var(--text);
+      font: inherit;
+      font-size: 0.88rem;
+      font-weight: 600;
+      cursor: pointer;
+    }
+
+    .view-tabs {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin-bottom: 1.25rem;
+    }
+    .view-tab {
+      min-height: 48px;
+      padding: 0.5rem 1.15rem;
+      border: 2px solid var(--border);
+      border-radius: 10px;
+      background: var(--surface);
+      color: var(--muted);
+      font: inherit;
+      font-weight: 700;
+      cursor: pointer;
+    }
+    .view-tab:hover,
+    .view-tab:focus-visible { border-color: var(--accent); color: var(--text); }
+    .view-tab.active {
+      border-color: var(--accent);
+      background: #1e3350;
+      color: var(--accent);
+    }
+    .columns.hidden,
+    #full-view.hidden { display: none; }
+    #full-view { margin-bottom: 0; }
+    .full-toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.75rem;
+      padding: 0.65rem 1rem;
+      border-bottom: 1px solid var(--border);
+      background: #151c26;
+      font-size: 0.92rem;
+      color: var(--muted);
+    }
+    .full-toolbar strong { color: var(--text); }
+    .full-section-head {
+      padding: 0.75rem 1rem;
+      background: var(--surface2);
+      border-bottom: 1px solid var(--border);
+      border-top: 1px solid var(--border);
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .full-section-head:first-child { border-top: none; }
+    .full-section-head span { color: var(--muted); font-weight: 400; font-size: 0.9rem; }
+
+    .empty-msg {
+      padding: 1.5rem 1rem;
+      color: var(--muted);
+      text-align: center;
+      font-style: italic;
+    }
+
+    .footer {
+      margin-top: 2rem;
+      padding-top: 1rem;
+      border-top: 1px solid var(--border);
+      color: var(--muted);
+      font-size: 0.88rem;
+    }
+    .footer a { color: var(--accent); }
+
+    .legend-item .swatch-problem { background: #2a2248; border-color: var(--purple); }
+
+    .qid-wrap {
+      position: relative;
+      flex-shrink: 0;
+      min-width: 5.5rem;
+    }
+    .qid-wrap.has-problem .qid {
+      border-bottom: 1px dotted rgba(210, 168, 255, 0.55);
+      cursor: help;
+    }
+    .qid-wrap.has-problem:hover .qid,
+    .qid-wrap.has-problem:focus-within .qid {
+      color: var(--accent);
+      background: rgba(94, 184, 255, 0.1);
+      border-radius: 4px;
+    }
+    .q-row.match .qid-wrap.has-problem:hover .qid,
+    .q-row.match .qid-wrap.has-problem:focus-within .qid {
+      color: var(--accent2);
+      background: rgba(126, 231, 135, 0.12);
+    }
+    .problem-tip {
+      display: none;
+      position: absolute;
+      left: calc(100% + 0.65rem);
+      top: 50%;
+      transform: translateY(-50%);
+      z-index: 30;
+      width: max-content;
+      min-width: 8rem;
+      max-width: min(28rem, calc(100vw - 2.5rem));
+      height: auto;
+      padding: 0.65rem 0.85rem;
+      border: 1px solid var(--purple);
+      border-radius: 8px;
+      background: #15101f;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.45);
+      pointer-events: none;
+      line-height: 1.4;
+      overflow: visible;
+    }
+    .qid-wrap.has-problem:hover .problem-tip,
+    .qid-wrap.has-problem:focus-within .problem-tip {
+      display: block;
+    }
+    .problem-tip .tip-expr {
+      display: block;
+      font-family: Consolas, "Courier New", monospace;
+      font-size: 1.05rem;
+      font-weight: 700;
+      color: var(--accent);
+      white-space: normal;
+      overflow-wrap: anywhere;
+      word-break: break-word;
+    }
+    .problem-tip .tip-prompt {
+      display: block;
+      margin-top: 0.35rem;
+      font-size: 0.82rem;
+      color: var(--muted);
+      white-space: normal;
+      overflow-wrap: anywhere;
+      word-break: break-word;
+    }
+
+    .sync-bar {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.65rem;
+      margin-bottom: 1.25rem;
+      padding: 0.75rem 1rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+    }
+    .sync-status { flex: 1 1 12rem; color: var(--muted); font-size: 0.92rem; }
+    .btn-sync {
+      min-height: 48px;
+      padding: 0.45rem 0.9rem;
+      border: 2px solid var(--accent2);
+      border-radius: 10px;
+      background: rgba(126, 231, 135, 0.12);
+      color: var(--accent2);
+      font: inherit;
+      font-size: 0.88rem;
+      font-weight: 700;
+      cursor: pointer;
+    }
+    .btn-sync:hover, .btn-sync:focus-visible { background: rgba(126, 231, 135, 0.22); }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Exam 2 Review vs Homework</h1>
+    <p class="subtitle" id="subtitle">Click a homework section on the left — the right shows matching Exam 2 Review questions for that section number.</p>
+
+    <div class="view-tabs" role="tablist" aria-label="View mode">
+      <button type="button" class="view-tab active" id="tab-section" data-view="section">By section</button>
+      <button type="button" class="view-tab" id="tab-full" data-view="full">Full review</button>
+    </div>
+
+    <div class="legend">
+      <div class="legend-item"><span class="swatch swatch-match"></span> Same ID on homework &amp; review</div>
+      <div class="legend-item"><span class="swatch swatch-hw"></span> Homework only (not on review)</div>
+      <div class="legend-item"><span class="swatch swatch-review"></span> Review only (not on this homework)</div>
+      <div class="legend-item"><span class="swatch swatch-problem"></span> Hover question ID — quick problem preview</div>
+      <div class="legend-item"><span class="swatch swatch-added"></span> Marked to add to Exam 2 Review (saved in browser)</div>
+    </div>
+
+    <div class="columns" id="section-view">
+      <div class="panel" id="left-panel">
+        <div class="panel-head">Homework <span>— click section to expand or collapse</span></div>
+        <div id="homework-sections"></div>
+      </div>
+
+      <div class="panel" id="right-panel">
+        <div class="panel-head">Exam 2 Review <span>— filtered by section</span></div>
+        <div id="review-summary" class="summary-bar">Select a section on the left.</div>
+        <div id="review-list"></div>
+      </div>
+    </div>
+
+    <div class="panel hidden" id="full-view">
+      <div class="panel-head">Exam 2 Review <span>— all questions by section</span></div>
+      <div class="full-toolbar" id="full-toolbar"></div>
+      <div id="full-list"></div>
+    </div>
+
+    <div class="footer">
+      <a href="http://127.0.0.1:8765/exam2-review-map.html">http://127.0.0.1:8765/exam2-review-map.html</a>
+      · Exam 2 Review: 18 Q (2026-08-02) · homework 3.3–3.10 · 3.7 uses <strong>Copy</strong>
+    </div>
+  </div>
+
+  <script src="exam2-review-map-data.js"></script>
+  <script src="exam2-review-map-app.js"></script>
+</body>
+</html>
