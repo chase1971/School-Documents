@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exam 3 Homework Problems</title>
+  <style>
+    :root {
+      --bg: #0f1419;
+      --surface: #1a2332;
+      --surface2: #243044;
+      --text: #e8eef4;
+      --muted: #9db0c4;
+      --accent: #5eb8ff;
+      --purple: #d2a8ff;
+      --border: #3d5166;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Segoe UI", system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+      font-size: 18px;
+    }
+    .wrap { max-width: 1280px; margin: 0 auto; padding: 1.5rem 1.25rem 3rem; }
+    h1 { font-size: 1.85rem; margin: 0 0 0.3rem; }
+    .subtitle { color: var(--muted); margin-bottom: 1.25rem; font-size: 1rem; }
+    .columns {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1rem;
+      align-items: start;
+    }
+    @media (max-width: 900px) { .columns { grid-template-columns: 1fr; } }
+    .panel {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .panel-head {
+      padding: 0.85rem 1rem;
+      background: var(--surface2);
+      border-bottom: 1px solid var(--border);
+      font-weight: 600;
+      font-size: 1.05rem;
+    }
+    .summary-bar {
+      padding: 0.65rem 1rem;
+      font-size: 0.92rem;
+      color: var(--muted);
+      border-bottom: 1px solid var(--border);
+      background: #151c26;
+    }
+    .section-btn {
+      display: flex;
+      align-items: center;
+      gap: 0.65rem;
+      width: 100%;
+      min-height: 52px;
+      padding: 0.75rem 1rem;
+      border: none;
+      border-bottom: 1px solid var(--border);
+      background: var(--surface);
+      color: var(--text);
+      font: inherit;
+      text-align: left;
+      cursor: pointer;
+    }
+    .section-btn:hover, .section-btn:focus-visible { background: var(--surface2); }
+    .section-btn.active {
+      background: #1e3350;
+      border-left: 4px solid var(--accent);
+      padding-left: calc(1rem - 4px);
+    }
+    .section-btn .chev { color: var(--muted); width: 1.2rem; flex-shrink: 0; }
+    .section-btn .label { flex: 1; font-weight: 600; }
+    .section-btn .counts { font-size: 0.82rem; color: var(--muted); }
+    .section-body { padding: 0.25rem 0; border-bottom: 1px solid var(--border); background: #151c26; }
+    .q-row {
+      display: flex;
+      align-items: baseline;
+      gap: 0.75rem;
+      width: 100%;
+      min-height: 48px;
+      padding: 0.55rem 1rem 0.55rem 1.5rem;
+      border: none;
+      border-bottom: 1px solid rgba(61, 81, 102, 0.4);
+      background: transparent;
+      color: var(--text);
+      font: inherit;
+      text-align: left;
+      cursor: pointer;
+    }
+    .q-row:last-child { border-bottom: none; }
+    .q-row:hover, .q-row:focus-visible { background: var(--surface2); }
+    .q-row.selected {
+      background: #1e3350;
+      border-left: 4px solid var(--accent);
+      padding-left: calc(1.5rem - 4px);
+    }
+    .qid {
+      font-family: Consolas, "Courier New", monospace;
+      font-weight: 700;
+      color: var(--purple);
+      min-width: 5.5rem;
+      flex-shrink: 0;
+    }
+    .q-note { color: var(--muted); font-size: 0.88rem; flex: 1; text-align: left; }
+    .detail-body { padding: 1rem 1.25rem 1.5rem; }
+    .detail-expr {
+      font-family: Consolas, "Courier New", monospace;
+      font-size: 1.05rem;
+      color: var(--accent);
+      margin-bottom: 0.75rem;
+    }
+    .detail-prompt { color: var(--text); font-size: 1rem; }
+    .footer {
+      margin-top: 1.5rem;
+      font-size: 0.88rem;
+      color: var(--muted);
+    }
+    .footer a { color: var(--accent); }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Exam 3 Homework Problems</h1>
+    <p class="subtitle">Sections 3.8, 3.11, 4.1–4.8 — Pearson print harvest. Click a section, then a question.</p>
+
+    <div class="columns">
+      <div class="panel">
+        <div class="panel-head">Homework sections</div>
+        <div id="homework-sections"></div>
+      </div>
+      <div class="panel">
+        <div class="panel-head">Problem detail</div>
+        <div class="summary-bar" id="detail-summary">Click a homework section on the left.</div>
+        <div class="detail-body" id="detail-panel"></div>
+      </div>
+    </div>
+
+    <div class="footer">
+      <a href="http://127.0.0.1:8765/exam3-homework-map.html">http://127.0.0.1:8765/exam3-homework-map.html</a>
+      · Separate from Exam 2 review map
+    </div>
+  </div>
+
+  <script src="exam3-homework-map-data.js"></script>
+  <script src="exam3-homework-map-app.js"></script>
+</body>
+</html>

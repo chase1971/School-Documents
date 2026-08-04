@@ -1,0 +1,892 @@
+[
+  {
+    "header": {
+      "name": "3.8 Implicit Differentiation",
+      "chapterCoverage": "3",
+      "totalPoints": "13",
+      "estimatedTime": "32m 6s+",
+      "difficulty": "Moderate (13)",
+      "historyId": "97040_H_492775443_2"
+    },
+    "rows": [
+      {
+        "order": "1",
+        "questionId": "3.8.15",
+        "objective": "Use implicit differentiation to find slopes of curves at given points.",
+        "estimatedTime": "1m 52s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "2",
+        "questionId": "3.8.17",
+        "objective": "Use implicit differentiation to find slopes of curves at given points.",
+        "estimatedTime": "2m 6s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "3",
+        "questionId": "3.8.18",
+        "objective": "Use implicit differentiation to find slopes of curves at given points.",
+        "estimatedTime": "2m 30s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "4",
+        "questionId": "3.8.19",
+        "objective": "Use implicit differentiation to find slopes of curves at given points.",
+        "estimatedTime": "2m 23s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "5",
+        "questionId": "3.8.24",
+        "objective": "Use implicit differentiation to find slopes of curves at given points.",
+        "estimatedTime": "2m 16s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "6",
+        "questionId": "3.8.31",
+        "objective": "Use implicit differentiation along with the product, quotient, and chain rules to find derivatives.",
+        "estimatedTime": "3m 19s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "7",
+        "questionId": "3.8.32",
+        "objective": "Use implicit differentiation along with the product, quotient, and chain rules to find derivatives.",
+        "estimatedTime": "2m 18s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "8",
+        "questionId": "3.8.33",
+        "objective": "Use implicit differentiation along with the product, quotient, and chain rules to find derivatives.",
+        "estimatedTime": "2m 22s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "9",
+        "questionId": "3.8.34",
+        "objective": "Use implicit differentiation along with the product, quotient, and chain rules to find derivatives.",
+        "estimatedTime": "2m 45s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "10",
+        "questionId": "3.8.37",
+        "objective": "Use implicit differentiation along with the product, quotient, and chain rules to find derivatives.",
+        "estimatedTime": "2m 11s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "11",
+        "questionId": "3.8.52",
+        "objective": "Find second derivatives using implicit differentiation.",
+        "estimatedTime": "2m 49s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "12",
+        "questionId": "3.8.53",
+        "objective": "Find second derivatives using implicit differentiation.",
+        "estimatedTime": "2m 48s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "13",
+        "questionId": "3.8.55",
+        "objective": "Find second derivatives using implicit differentiation.",
+        "estimatedTime": "2m 27s",
+        "difficulty": "Moderate",
+        "points": "1"
+      }
+    ],
+    "requested": "3.8 Implicit Differentiation"
+  },
+  {
+    "header": {
+      "name": "3.11 Related Rates",
+      "chapterCoverage": "3",
+      "totalPoints": "15",
+      "estimatedTime": "39m 52s+",
+      "difficulty": "Easy (1), Moderate (8), Hard (6)",
+      "historyId": "97040_H_492775446_2"
+    },
+    "rows": [
+      {
+        "order": "1",
+        "questionId": "3.11.3",
+        "objective": "Answer conceptual questions involving related rates.",
+        "estimatedTime": "49s",
+        "difficulty": "Easy",
+        "points": "1"
+      },
+      {
+        "order": "2",
+        "questionId": "3.11.11",
+        "objective": "Solve related rates problems involving geometry.",
+        "estimatedTime": "1m 41s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "3",
+        "questionId": "3.11.15-Setup & Solve",
+        "objective": "Solve related rates problems involving geometry.",
+        "estimatedTime": "3m 51s",
+        "difficulty": "Hard",
+        "points": "1"
+      },
+      {
+        "order": "4",
+        "questionId": "3.11.16-Setup & Solve",
+        "objective": "Solve related rates problems involving geometry.",
+        "estimatedTime": "2m 10s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "5",
+        "questionId": "3.11.17",
+        "objective": "Solve related rates problems involving geometry.",
+        "estimatedTime": "1m 58s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "6",
+        "questionId": "3.11.19",
+        "objective": "Solve applications involving related rates.",
+        "estimatedTime": "2m 23s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "7",
+        "questionId": "3.11.20-Setup & Solve",
+        "objective": "Solve related rates problems involving geometry.",
+        "estimatedTime": "2m 57s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "8",
+        "questionId": "3.11.23",
+        "objective": "Solve applications involving related rates.",
+        "estimatedTime": "3m 33s",
+        "difficulty": "Hard",
+        "points": "1"
+      },
+      {
+        "order": "9",
+        "questionId": "3.11.27",
+        "objective": "Solve applications involving related rates.",
+        "estimatedTime": "5m 2s",
+        "difficulty": "Hard",
+        "points": "1"
+      },
+      {
+        "order": "10",
+        "questionId": "3.11.29",
+        "objective": "Solve applications involving related rates.",
+        "estimatedTime": "3m 15s",
+        "difficulty": "Hard",
+        "points": "1"
+      },
+      {
+        "order": "11",
+        "questionId": "3.11.33",
+        "objective": "Solve applications involving related rates.",
+        "estimatedTime": "2m 18s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "12",
+        "questionId": "3.11.35",
+        "objective": "Solve applications involving related rates.",
+        "estimatedTime": "2m 18s",
+        "difficulty": "Hard",
+        "points": "1"
+      },
+      {
+        "order": "13",
+        "questionId": "3.11.36",
+        "objective": "Solve applications involving related rates.",
+        "estimatedTime": "2m 24s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "14",
+        "questionId": "3.11.41",
+        "objective": "Solve applications involving related rates.",
+        "estimatedTime": "2m 26s",
+        "difficulty": "Hard",
+        "points": "1"
+      },
+      {
+        "order": "15",
+        "questionId": "3.11.43",
+        "objective": "Solve applications involving related rates.",
+        "estimatedTime": "2m 47s",
+        "difficulty": "Moderate",
+        "points": "1"
+      }
+    ],
+    "requested": "3.11 Related Rates"
+  },
+  {
+    "header": {
+      "name": "4.1 Maxima and Minima",
+      "chapterCoverage": "3",
+      "totalPoints": "18",
+      "estimatedTime": "38m 0s+",
+      "difficulty": "Easy (3), Moderate (13), Hard (2)",
+      "historyId": "97040_H_492775447_2"
+    },
+    "rows": [
+      {
+        "order": "1",
+        "questionId": "4.1.11",
+        "objective": "Use a graph to identify absolute extrema.",
+        "estimatedTime": "48s",
+        "difficulty": "Easy",
+        "points": "1"
+      },
+      {
+        "order": "2",
+        "questionId": "4.1.13",
+        "objective": "Use a graph to identify absolute extrema.",
+        "estimatedTime": "57s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "3",
+        "questionId": "4.1.15",
+        "objective": "Use a graph to identify absolute and local extrema.",
+        "estimatedTime": "1m 30s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "4",
+        "questionId": "4.1.19",
+        "objective": "Sketch the graph of a function on an interval satisfying given properties.",
+        "estimatedTime": "1m 12s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "5",
+        "questionId": "4.1.21",
+        "objective": "Sketch the graph of a function on an interval satisfying given properties.",
+        "estimatedTime": "1m 49s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "6",
+        "questionId": "4.1.23",
+        "objective": "Locate critical points of functions.",
+        "estimatedTime": "1m 22s",
+        "difficulty": "Easy",
+        "points": "1"
+      },
+      {
+        "order": "7",
+        "questionId": "4.1.25",
+        "objective": "Locate critical points of functions.",
+        "estimatedTime": "1m 37s",
+        "difficulty": "Easy",
+        "points": "1"
+      },
+      {
+        "order": "8",
+        "questionId": "4.1.27",
+        "objective": "Locate critical points of functions.",
+        "estimatedTime": "2m 9s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "9",
+        "questionId": "4.1.31",
+        "objective": "Locate critical points of functions.",
+        "estimatedTime": "2m 1s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "10",
+        "questionId": "4.1.35",
+        "objective": "Locate critical points of functions.",
+        "estimatedTime": "1m 16s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "11",
+        "questionId": "4.1.37",
+        "objective": "Locate critical points of functions.",
+        "estimatedTime": "2m 49s",
+        "difficulty": "Hard",
+        "points": "1"
+      },
+      {
+        "order": "12",
+        "questionId": "4.1.43",
+        "objective": "Determine the existence, location, and value of absolute extrema on a given interval of a function.",
+        "estimatedTime": "1m 51s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "13",
+        "questionId": "4.1.49",
+        "objective": "Determine the existence, location, and value of absolute extrema on a given interval of a function.",
+        "estimatedTime": "3m 11s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "14",
+        "questionId": "4.1.51",
+        "objective": "Determine the existence, location, and value of absolute extrema on a given interval of a function.",
+        "estimatedTime": "2m 57s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "15",
+        "questionId": "4.1.57",
+        "objective": "Determine the existence, location, and value of absolute extrema on a given interval of a function.",
+        "estimatedTime": "3m 11s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "16",
+        "questionId": "4.1.59",
+        "objective": "Determine the existence, location, and value of absolute extrema on a given interval of a function.",
+        "estimatedTime": "4m 22s",
+        "difficulty": "Hard",
+        "points": "1"
+      },
+      {
+        "order": "17",
+        "questionId": "4.1.65",
+        "objective": "Determine the existence, location, and value of absolute extrema on a given interval of a function.",
+        "estimatedTime": "2m 49s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "18",
+        "questionId": "4.1.73",
+        "objective": "Solve applications involving maxima and minima.",
+        "estimatedTime": "2m 9s",
+        "difficulty": "Moderate",
+        "points": "1"
+      }
+    ],
+    "requested": "4.1 Maxima and Minima"
+  },
+  {
+    "header": {
+      "name": "4.2 Mean Value Theorem",
+      "chapterCoverage": "3",
+      "totalPoints": "10",
+      "estimatedTime": "19m 30s+",
+      "difficulty": "Easy (1), Moderate (9)",
+      "historyId": "97040_H_494161052_2"
+    },
+    "rows": [
+      {
+        "order": "1",
+        "questionId": "4.2.3",
+        "objective": "Answer conceptual questions involving Rolle's Theorem and the Mean Value Theorem.",
+        "estimatedTime": "45s",
+        "difficulty": "Easy",
+        "points": "1"
+      },
+      {
+        "order": "2",
+        "questionId": "4.2.11",
+        "objective": "Determine if Rolle's Theorem applies and find the point(s) guaranteed to exist by Rolle's Theorem.",
+        "estimatedTime": "2m 8s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "3",
+        "questionId": "4.2.13",
+        "objective": "Determine if Rolle's Theorem applies and find the point(s) guaranteed to exist by Rolle's Theorem.",
+        "estimatedTime": "2m 10s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "4",
+        "questionId": "4.2.15",
+        "objective": "Determine if Rolle's Theorem applies and find the point(s) guaranteed to exist by Rolle's Theorem.",
+        "estimatedTime": "1m 18s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "5",
+        "questionId": "4.2.17",
+        "objective": "Determine if Rolle's Theorem applies and find the point(s) guaranteed to exist by Rolle's Theorem.",
+        "estimatedTime": "2m 8s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "6",
+        "questionId": "4.2.21",
+        "objective": "Find the point(s) guaranteed to exist by the Mean Value Theorem.",
+        "estimatedTime": "2m 11s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "7",
+        "questionId": "4.2.25",
+        "objective": "Find the point(s) guaranteed to exist by the Mean Value Theorem.",
+        "estimatedTime": "2m 2s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "8",
+        "questionId": "4.2.26",
+        "objective": "Find the point(s) guaranteed to exist by the Mean Value Theorem.",
+        "estimatedTime": "2m 15s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "9",
+        "questionId": "4.2.30",
+        "objective": "Find the point(s) guaranteed to exist by the Mean Value Theorem.",
+        "estimatedTime": "2m 58s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "10",
+        "questionId": "4.2.31",
+        "objective": "Find the point(s) guaranteed to exist by the Mean Value Theorem.",
+        "estimatedTime": "1m 35s",
+        "difficulty": "Moderate",
+        "points": "1"
+      }
+    ],
+    "requested": "4.2 Mean Value Theorem"
+  },
+  {
+    "header": {
+      "name": "4.3 What Derivatives Tell Us",
+      "chapterCoverage": "3",
+      "totalPoints": "15",
+      "estimatedTime": "43m 49s+",
+      "difficulty": "Moderate (10), Hard (5)",
+      "historyId": "97040_H_494163782_2"
+    },
+    "rows": [
+      {
+        "order": "1",
+        "questionId": "4.3.21",
+        "objective": "Find the intervals on which a function is increasing or decreasing.",
+        "estimatedTime": "1m 29s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "2",
+        "questionId": "4.3.22",
+        "objective": "Find the intervals on which a function is increasing or decreasing.",
+        "estimatedTime": "1m 47s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "3",
+        "questionId": "4.3.34",
+        "objective": "Find the intervals on which a function is increasing or decreasing.",
+        "estimatedTime": "4m 10s",
+        "difficulty": "Hard",
+        "points": "1"
+      },
+      {
+        "order": "4",
+        "questionId": "4.3.40",
+        "objective": "Find the intervals on which a function is increasing or decreasing.",
+        "estimatedTime": "2m 18s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "5",
+        "questionId": "4.3.46",
+        "objective": "Use the first derivative test to locate critical points and local and absolute extrema.",
+        "estimatedTime": "3m 50s",
+        "difficulty": "Hard",
+        "points": "1"
+      },
+      {
+        "order": "6",
+        "questionId": "4.3.47",
+        "objective": "Use the first derivative test to locate critical points and local and absolute extrema.",
+        "estimatedTime": "5m 54s",
+        "difficulty": "Hard",
+        "points": "1"
+      },
+      {
+        "order": "7",
+        "questionId": "4.3.48",
+        "objective": "Use the first derivative test to locate critical points and local and absolute extrema.",
+        "estimatedTime": "4m 5s",
+        "difficulty": "Hard",
+        "points": "1"
+      },
+      {
+        "order": "8",
+        "questionId": "4.3.59",
+        "objective": "Sketch the graph of a function given properties of the function.",
+        "estimatedTime": "1m 0s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "9",
+        "questionId": "4.3.63",
+        "objective": "Determine the concavity on intervals and find inflection points.",
+        "estimatedTime": "3m 12s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "10",
+        "questionId": "4.3.65",
+        "objective": "Determine the concavity on intervals and find inflection points.",
+        "estimatedTime": "2m 55s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "11",
+        "questionId": "4.3.67",
+        "objective": "Determine the concavity on intervals and find inflection points.",
+        "estimatedTime": "2m 48s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "12",
+        "questionId": "4.3.71",
+        "objective": "Determine the concavity on intervals and find inflection points.",
+        "estimatedTime": "3m 48s",
+        "difficulty": "Hard",
+        "points": "1"
+      },
+      {
+        "order": "13",
+        "questionId": "4.3.77",
+        "objective": "Determine if critical points correspond to local minima/maxima using the second derivative test.",
+        "estimatedTime": "2m 7s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "14",
+        "questionId": "4.3.81",
+        "objective": "Determine if critical points correspond to local minima/maxima using the second derivative test.",
+        "estimatedTime": "2m 18s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "15",
+        "questionId": "4.3.83",
+        "objective": "Determine if critical points correspond to local minima/maxima using the second derivative test.",
+        "estimatedTime": "2m 8s",
+        "difficulty": "Moderate",
+        "points": "1"
+      }
+    ],
+    "requested": "4.3 What Derivatives Tell Us"
+  },
+  {
+    "header": {
+      "name": "4.4 Graphing Functions",
+      "chapterCoverage": "3",
+      "totalPoints": "28",
+      "estimatedTime": "110m 44s+",
+      "difficulty": "Easy (2), Moderate (16), Hard (8)",
+      "historyId": "97040_H_494203143_2"
+    },
+    "rows": [
+      {
+        "order": "1",
+        "questionId": "4.4.15",
+        "objective": "Graph functions using analytic methods involving derivatives.",
+        "estimatedTime": "1m 13s",
+        "difficulty": "Easy",
+        "points": "1"
+      },
+      {
+        "order": "2",
+        "questionId": "4.4.17",
+        "objective": "Graph functions using analytic methods involving derivatives.",
+        "estimatedTime": "1m 46s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "3",
+        "questionId": "4.4.29",
+        "objective": "Graph functions using analytic methods involving derivatives.",
+        "estimatedTime": "1m 49s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "4",
+        "questionId": "4.4.31",
+        "objective": "Graph functions using analytic methods involving derivatives.",
+        "estimatedTime": "1m 14s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "5",
+        "questionId": "4.4.33",
+        "objective": "Graph functions using analytic methods involving derivatives.",
+        "estimatedTime": "1m 50s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "6",
+        "questionId": "4.4.42",
+        "objective": "Graph functions using analytic methods involving derivatives.",
+        "estimatedTime": "1m 44s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "7",
+        "questionId": "4.4.49-T",
+        "objective": "Graph functions using analytic methods with the aid of technology.",
+        "estimatedTime": "1m 41s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "8",
+        "questionId": "4.4.53-T",
+        "objective": "Graph functions using analytic methods with the aid of technology.",
+        "estimatedTime": "1m 17s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "9",
+        "questionId": "4.7.106",
+        "objective": "Graph functions using the methods of section 4.4.",
+        "estimatedTime": "1m 2s",
+        "difficulty": "Easy",
+        "points": "1"
+      },
+      {
+        "order": "10",
+        "questionId": "4.4.43",
+        "objective": "Graph functions using analytic methods involving derivatives.",
+        "estimatedTime": "2m 29s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "11",
+        "questionId": "4.4.99",
+        "objective": "",
+        "estimatedTime": "1m 3s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "12",
+        "questionId": "4.4.100",
+        "objective": "",
+        "estimatedTime": "1m 52s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "13",
+        "questionId": "24.5.39",
+        "objective": "",
+        "estimatedTime": "3m 34s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "14",
+        "questionId": "24.6.1",
+        "objective": "",
+        "estimatedTime": "2m 2s",
+        "difficulty": "Hard",
+        "points": "1"
+      },
+      {
+        "order": "15",
+        "questionId": "24.6.3",
+        "objective": "",
+        "estimatedTime": "14m 4s",
+        "difficulty": "Hard",
+        "points": "1"
+      },
+      {
+        "order": "16",
+        "questionId": "24.6.7",
+        "objective": "",
+        "estimatedTime": "2m 2s",
+        "difficulty": "Hard",
+        "points": "1"
+      },
+      {
+        "order": "17",
+        "questionId": "24.6.9",
+        "objective": "",
+        "estimatedTime": "",
+        "difficulty": "",
+        "points": "1"
+      },
+      {
+        "order": "18",
+        "questionId": "24.6.15",
+        "objective": "",
+        "estimatedTime": "13m 59s",
+        "difficulty": "Hard",
+        "points": "1"
+      },
+      {
+        "order": "19",
+        "questionId": "24.6.17",
+        "objective": "",
+        "estimatedTime": "5m 49s",
+        "difficulty": "Hard",
+        "points": "1"
+      },
+      {
+        "order": "20",
+        "questionId": "5.4.2",
+        "objective": "",
+        "estimatedTime": "23m 46s",
+        "difficulty": "Hard",
+        "points": "1"
+      },
+      {
+        "order": "21",
+        "questionId": "5.4.3-Setup & Solve",
+        "objective": "",
+        "estimatedTime": "4m 13s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "22",
+        "questionId": "5.4.4-Setup & Solve",
+        "objective": "",
+        "estimatedTime": "",
+        "difficulty": "",
+        "points": "1"
+      },
+      {
+        "order": "23",
+        "questionId": "5.4.5-Setup & Solve",
+        "objective": "",
+        "estimatedTime": "8m 12s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "24",
+        "questionId": "5.4.8-Setup & Solve",
+        "objective": "",
+        "estimatedTime": "4m 31s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "25",
+        "questionId": "5.4.10",
+        "objective": "",
+        "estimatedTime": "3m 26s",
+        "difficulty": "Hard",
+        "points": "1"
+      },
+      {
+        "order": "26",
+        "questionId": "5.4.19",
+        "objective": "",
+        "estimatedTime": "1m 25s",
+        "difficulty": "Hard",
+        "points": "1"
+      },
+      {
+        "order": "27",
+        "questionId": "5.4.20",
+        "objective": "",
+        "estimatedTime": "2m 17s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "28",
+        "questionId": "5.4.21",
+        "objective": "",
+        "estimatedTime": "2m 24s",
+        "difficulty": "Moderate",
+        "points": "1"
+      }
+    ],
+    "requested": "4.4 Graphing Functions"
+  },
+  {
+    "requested": "4.5 Optimization Problems",
+    "error": "Locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"menuitem\", name=\"Question details\")\n    - locator resolved to <li tabindex=\"-1\" role=\"menuitem\" aria-label=\"Question details\" class=\"MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters MuiMenuItem-root MuiMenuItem-gutters css-xamasc\">\u2026</li>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - element is outside of the viewport\n    - retrying click action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - element is outside of the viewport\n    - retrying click action\n      - waiting 100ms\n    57 \u00d7 waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - element is outside of the viewport\n     - retrying click action\n       - waiting 500ms\n",
+    "rows": []
+  },
+  {
+    "requested": "4.6 Linear Approximation and Differentials",
+    "error": "Frame.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"button[aria-label=\\\"More options for 4.6 Linear Approximation and Differentials\\\"]\")\n    - locator resolved to <button tabindex=\"0\" type=\"button\" aria-haspopup=\"true\" id=\"manageAssignmentOptions_urn:xl-hed:assessment:homework:727004911\" aria-label=\"More options for 4.6 Linear Approximation and Differentials\" class=\"MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1jx6728\">\u2026</button>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <li tabindex=\"0\" role=\"menuitem\" aria-label=\"Edit\" class=\"MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters MuiMenuItem-root MuiMenuItem-gutters css-xamasc\">\u2026</li> from <div id=\"optionsMenu\" role=\"presentation\" class=\"MuiPopover-root MuiMenu-root MuiModal-root css-1odvin1\">\u2026</div> subtree intercepts pointer events\n    - retrying click action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <li tabindex=\"0\" role=\"menuitem\" aria-label=\"Edit\" class=\"MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters MuiMenuItem-root MuiMenuItem-gutters css-xamasc\">\u2026</li> from <div id=\"optionsMenu\" role=\"presentation\" class=\"MuiPopover-root MuiMenu-root MuiModal-root css-1odvin1\">\u2026</div> subtree intercepts pointer events\n    - retrying click action\n      - waiting 100ms\n    55 \u00d7 waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <li tabindex=\"0\" role=\"menuitem\" aria-label=\"Edit\" class=\"MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters MuiMenuItem-root MuiMenuItem-gutters css-xamasc\">\u2026</li> from <div id=\"optionsMenu\" role=\"presentation\" class=\"MuiPopover-root MuiMenu-root MuiModal-root css-1odvin1\">\u2026</div> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n",
+    "rows": []
+  },
+  {
+    "requested": "4.7 L'Hopital's Rule",
+    "error": "Frame.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"button[aria-label=\\\"More options for 4.7 L'Hopital's Rule\\\"]\")\n    - locator resolved to <button tabindex=\"0\" type=\"button\" aria-haspopup=\"true\" aria-label=\"More options for 4.7 L'Hopital's Rule\" id=\"manageAssignmentOptions_urn:xl-hed:assessment:homework:727004912\" class=\"MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1jx6728\">\u2026</button>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <li tabindex=\"-1\" role=\"menuitem\" aria-label=\"Delete\" class=\"MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters MuiMenuItem-root MuiMenuItem-gutters css-xamasc\">\u2026</li> from <div id=\"optionsMenu\" role=\"presentation\" class=\"MuiPopover-root MuiMenu-root MuiModal-root css-1odvin1\">\u2026</div> subtree intercepts pointer events\n    - retrying click action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <li tabindex=\"-1\" role=\"menuitem\" aria-label=\"Delete\" class=\"MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters MuiMenuItem-root MuiMenuItem-gutters css-xamasc\">\u2026</li> from <div id=\"optionsMenu\" role=\"presentation\" class=\"MuiPopover-root MuiMenu-root MuiModal-root css-1odvin1\">\u2026</div> subtree intercepts pointer events\n    - retrying click action\n      - waiting 100ms\n    55 \u00d7 waiting for element to be visible, enabled and stable\n       - element is visible, enabled and stable\n       - scrolling into view if needed\n       - done scrolling\n       - <li tabindex=\"-1\" role=\"menuitem\" aria-label=\"Delete\" class=\"MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters MuiMenuItem-root MuiMenuItem-gutters css-xamasc\">\u2026</li> from <div id=\"optionsMenu\" role=\"presentation\" class=\"MuiPopover-root MuiMenu-root MuiModal-root css-1odvin1\">\u2026</div> subtree intercepts pointer events\n     - retrying click action\n       - waiting 500ms\n",
+    "rows": []
+  },
+  {
+    "requested": "4.8 Newton's Method",
+    "error": "Locator.click: Target page, context or browser has been closed\nCall log:\n  - waiting for get_by_role(\"menuitem\", name=\"Question details\")\n    - locator resolved to <li tabindex=\"-1\" role=\"menuitem\" aria-label=\"Question details\" class=\"MuiButtonBase-root MuiMenuItem-root MuiMenuItem-gutters MuiMenuItem-root MuiMenuItem-gutters css-xamasc\">\u2026</li>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - element is outside of the viewport\n    - retrying click action\n    - waiting 20ms\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - element is outside of the viewport\n    - retrying click action\n      - waiting 100ms\n    - waiting for element to be visible, enabled and stable\n    - element is visible, enabled and stable\n    - scrolling into view if needed\n    - done scrolling\n    - element is outside of the viewport\n  - retrying click action\n    - waiting 500ms\n",
+    "rows": []
+  }
+]
