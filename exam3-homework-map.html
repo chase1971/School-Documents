@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Exam 3 Homework Problems</title>
+  <title>Exam 3 Homework &amp; Review</title>
   <style>
     :root {
       --bg: #0f1419;
@@ -12,8 +12,17 @@
       --text: #e8eef4;
       --muted: #9db0c4;
       --accent: #5eb8ff;
+      --accent2: #7ee787;
+      --warn: #f0b429;
       --purple: #d2a8ff;
       --border: #3d5166;
+      --match-bg: #1a3d28;
+      --match-border: #7ee787;
+      --hw-only-bg: #1a2332;
+      --review-only-bg: #3d2f1a;
+      --review-only-border: #f0b429;
+      --added-bg: #1a2a3d;
+      --added-border: #5eb8ff;
     }
     * { box-sizing: border-box; }
     body {
@@ -26,14 +35,93 @@
     }
     .wrap { max-width: 1280px; margin: 0 auto; padding: 1.5rem 1.25rem 3rem; }
     h1 { font-size: 1.85rem; margin: 0 0 0.3rem; }
-    .subtitle { color: var(--muted); margin-bottom: 1.25rem; font-size: 1rem; }
+    .subtitle { color: var(--muted); margin-bottom: 1rem; font-size: 1rem; }
+
+    .view-tabs {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin-bottom: 1.25rem;
+    }
+    .view-tab {
+      min-height: 48px;
+      min-width: 140px;
+      padding: 0.65rem 1.25rem;
+      border: 2px solid var(--border);
+      border-radius: 10px;
+      background: var(--surface);
+      color: var(--muted);
+      font: inherit;
+      font-weight: 700;
+      cursor: pointer;
+    }
+    .view-tab:hover, .view-tab:focus-visible { border-color: var(--accent); color: var(--text); }
+    .view-tab.active {
+      background: #1e3350;
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
+    .sync-bar {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.65rem;
+      margin-bottom: 1.25rem;
+      padding: 0.75rem 1rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+    }
+    .sync-status { flex: 1 1 12rem; color: var(--muted); font-size: 0.92rem; }
+    .btn-sync {
+      min-height: 48px;
+      padding: 0.45rem 0.9rem;
+      border: 2px solid var(--accent2);
+      border-radius: 10px;
+      background: rgba(126, 231, 135, 0.12);
+      color: var(--accent2);
+      font: inherit;
+      font-size: 0.88rem;
+      font-weight: 700;
+      cursor: pointer;
+    }
+    .btn-sync:hover, .btn-sync:focus-visible { background: rgba(126, 231, 135, 0.22); }
+
+    .legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      margin-bottom: 1.25rem;
+      padding: 0.85rem 1rem;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      font-size: 0.95rem;
+    }
+    .legend.hidden { display: none; }
+    .legend-item { display: flex; align-items: center; gap: 0.5rem; }
+    .swatch {
+      width: 1.25rem;
+      height: 1.25rem;
+      border-radius: 4px;
+      border: 2px solid;
+      flex-shrink: 0;
+    }
+    .swatch-match { background: var(--match-bg); border-color: var(--match-border); }
+    .swatch-hw { background: var(--hw-only-bg); border-color: var(--border); }
+    .swatch-review { background: var(--review-only-bg); border-color: var(--review-only-border); }
+    .swatch-added { background: var(--added-bg); border-color: var(--added-border); }
+
     .columns {
       display: grid;
       grid-template-columns: 1fr 1fr;
       gap: 1rem;
       align-items: start;
     }
+    .columns.hidden { display: none; }
     @media (max-width: 900px) { .columns { grid-template-columns: 1fr; } }
+
     .panel {
       background: var(--surface);
       border: 1px solid var(--border);
@@ -47,6 +135,8 @@
       font-weight: 600;
       font-size: 1.05rem;
     }
+    .panel-head span { color: var(--muted); font-weight: 400; font-size: 0.9rem; }
+
     .summary-bar {
       padding: 0.65rem 1rem;
       font-size: 0.92rem;
@@ -54,6 +144,8 @@
       border-bottom: 1px solid var(--border);
       background: #151c26;
     }
+    .summary-bar strong { color: var(--text); }
+
     .section-btn {
       display: flex;
       align-items: center;
@@ -77,30 +169,58 @@
     }
     .section-btn .chev { color: var(--muted); width: 1.2rem; flex-shrink: 0; }
     .section-btn .label { flex: 1; font-weight: 600; }
-    .section-btn .counts { font-size: 0.82rem; color: var(--muted); }
-    .section-body { padding: 0.25rem 0; border-bottom: 1px solid var(--border); background: #151c26; }
+    .section-btn .counts { font-size: 0.82rem; color: var(--muted); white-space: nowrap; }
+
+    .section-body {
+      display: none;
+      padding: 0.25rem 0;
+      border-bottom: 1px solid var(--border);
+      background: #151c26;
+    }
+    .section-body.open { display: block; }
+
+    .q-block { border-bottom: 1px solid rgba(61, 81, 102, 0.35); }
+    .q-block:last-child { border-bottom: none; }
+
     .q-row {
       display: flex;
       align-items: baseline;
+      flex-wrap: wrap;
       gap: 0.75rem;
       width: 100%;
       min-height: 48px;
       padding: 0.55rem 1rem 0.55rem 1.5rem;
       border: none;
-      border-bottom: 1px solid rgba(61, 81, 102, 0.4);
       background: transparent;
       color: var(--text);
       font: inherit;
+      font-size: 0.95rem;
       text-align: left;
       cursor: pointer;
     }
-    .q-row:last-child { border-bottom: none; }
     .q-row:hover, .q-row:focus-visible { background: var(--surface2); }
-    .q-row.selected {
-      background: #1e3350;
-      border-left: 4px solid var(--accent);
+    .q-row.expanded-head { background: #1a2840; }
+
+    .q-row.match {
+      background: var(--match-bg);
+      border-left: 4px solid var(--match-border);
       padding-left: calc(1.5rem - 4px);
     }
+    .q-row.match .qid { color: var(--accent2); }
+    .q-row.added-planned {
+      background: var(--added-bg);
+      border-left: 4px solid var(--added-border);
+      padding-left: calc(1.5rem - 4px);
+    }
+    .q-row.added-planned .qid { color: var(--accent); }
+    .q-row.hw-only { background: transparent; }
+    .q-row.review-only {
+      background: var(--review-only-bg);
+      border-left: 4px solid var(--review-only-border);
+      padding-left: calc(1rem - 4px);
+    }
+    .q-row.review-only .qid { color: var(--warn); }
+
     .qid {
       font-family: Consolas, "Courier New", monospace;
       font-weight: 700;
@@ -108,15 +228,121 @@
       min-width: 5.5rem;
       flex-shrink: 0;
     }
-    .q-note { color: var(--muted); font-size: 0.88rem; flex: 1; text-align: left; }
-    .detail-body { padding: 1rem 1.25rem 1.5rem; }
-    .detail-expr {
-      font-family: Consolas, "Courier New", monospace;
-      font-size: 1.05rem;
+    .q-note {
+      color: var(--muted);
+      font-size: 0.88rem;
+      flex: 1;
+      text-align: left;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .badge {
+      font-size: 0.72rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      padding: 0.15em 0.5em;
+      border-radius: 4px;
+      flex-shrink: 0;
+    }
+    .badge-match { background: #264032; color: var(--accent2); }
+    .badge-hw { background: #243044; color: var(--muted); }
+    .badge-review { background: #4a3818; color: var(--warn); }
+    .badge-added { background: #1e3350; color: var(--accent); }
+
+    .btn-add-review {
+      min-height: 44px;
+      min-width: 7.5rem;
+      padding: 0.35rem 0.65rem;
+      border: 2px solid var(--accent);
+      border-radius: 8px;
+      background: rgba(94, 184, 255, 0.12);
       color: var(--accent);
+      font: inherit;
+      font-size: 0.82rem;
+      font-weight: 700;
+      cursor: pointer;
+      flex-shrink: 0;
+    }
+    .btn-add-review:hover, .btn-add-review:focus-visible { background: rgba(94, 184, 255, 0.22); }
+    .btn-add-review.is-added {
+      border-color: var(--accent2);
+      background: rgba(126, 231, 135, 0.14);
+      color: var(--accent2);
+    }
+    .btn-remove {
+      min-height: 44px;
+      min-width: 6.5rem;
+      padding: 0.35rem 0.65rem;
+      border: 2px solid var(--warn);
+      border-radius: 8px;
+      background: rgba(240, 180, 41, 0.12);
+      color: var(--warn);
+      font: inherit;
+      font-size: 0.82rem;
+      font-weight: 700;
+      cursor: pointer;
+      flex-shrink: 0;
+    }
+    .btn-remove:hover, .btn-remove:focus-visible { background: rgba(240, 180, 41, 0.22); }
+    .btn-restore {
+      min-height: 44px;
+      padding: 0.35rem 0.85rem;
+      border: 2px solid var(--border);
+      border-radius: 8px;
+      background: var(--surface2);
+      color: var(--text);
+      font: inherit;
+      font-size: 0.88rem;
+      font-weight: 700;
+      cursor: pointer;
+      margin-top: 0.75rem;
+    }
+
+    .q-detail {
+      display: none;
+      padding: 0.75rem 1.25rem 1.25rem 1.5rem;
+      background: #0d1218;
+      border-top: 1px solid var(--border);
+    }
+    .q-detail.open { display: block; }
+    .detail-full {
+      color: var(--text);
+      font-size: 0.95rem;
+      white-space: pre-wrap;
+      line-height: 1.55;
       margin-bottom: 0.75rem;
     }
-    .detail-prompt { color: var(--text); font-size: 1rem; }
+    .detail-part-label {
+      font-weight: 700;
+      color: var(--accent);
+      margin-top: 0.65rem;
+      margin-bottom: 0.3rem;
+    }
+    .detail-part-label:first-child { margin-top: 0; }
+
+    .summary-panel-body {
+      padding: 1rem 1.25rem 1.5rem;
+      font-size: 0.95rem;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+    .summary-panel-body ul {
+      margin: 0.5rem 0 0;
+      padding-left: 1.25rem;
+    }
+    .summary-panel-body li { margin-bottom: 0.35rem; }
+
+    .empty-msg {
+      padding: 1.5rem 1rem;
+      color: var(--muted);
+      text-align: center;
+      font-style: italic;
+    }
+
     .footer {
       margin-top: 1.5rem;
       font-size: 0.88rem;
@@ -127,28 +353,61 @@
 </head>
 <body>
   <div class="wrap">
-    <h1>Exam 3 Homework Problems</h1>
-    <p class="subtitle">Sections 3.8, 3.11, 4.1–4.8 — Pearson print harvest. Click a section, then a question.</p>
+    <h1>Exam 3 Homework &amp; Review</h1>
+    <p class="subtitle" id="subtitle">Click a homework section — homework on the left, matching Exam 3 Review on the right. Click a question to expand full text inline.</p>
 
-    <div class="columns">
+    <div class="view-tabs" role="tablist" aria-label="Problem source">
+      <button type="button" class="view-tab active" id="tab-homework" data-view="homework">Homework</button>
+      <button type="button" class="view-tab" id="tab-review" data-view="review">Exam 3 Review</button>
+    </div>
+
+    <div class="sync-bar" id="sync-bar">
+      <span class="sync-status" id="sync-status">Browser edits stay local until you download state for GitHub.</span>
+      <button type="button" class="btn-sync" id="btn-download-state">Download state for GitHub</button>
+      <button type="button" class="btn-sync" id="btn-load-repo">Load from GitHub file</button>
+      <button type="button" class="btn-sync" id="btn-import-state">Import state file</button>
+      <input type="file" id="import-state-input" accept="application/json,.json" hidden />
+    </div>
+
+    <div class="legend" id="homework-legend">
+      <div class="legend-item"><span class="swatch swatch-match"></span> Same ID on homework &amp; review</div>
+      <div class="legend-item"><span class="swatch swatch-hw"></span> Homework only</div>
+      <div class="legend-item"><span class="swatch swatch-review"></span> Review only</div>
+      <div class="legend-item"><span class="swatch swatch-added"></span> Marked to add to review</div>
+    </div>
+
+    <div class="columns" id="homework-view">
       <div class="panel">
-        <div class="panel-head">Homework sections</div>
-        <div id="homework-sections"></div>
+        <div class="panel-head">Homework <span>— click section to expand</span></div>
+        <div id="hw-sections"></div>
       </div>
       <div class="panel">
-        <div class="panel-head">Problem detail</div>
-        <div class="summary-bar" id="detail-summary">Click a homework section on the left.</div>
-        <div class="detail-body" id="detail-panel"></div>
+        <div class="panel-head">Exam 3 Review <span>— same section as left</span></div>
+        <div id="review-summary-hw" class="summary-bar">Select a homework section on the left.</div>
+        <div id="review-list-hw"></div>
+      </div>
+    </div>
+
+    <div class="columns hidden" id="review-view">
+      <div class="panel">
+        <div class="panel-head">Exam 3 Review <span>— click section to expand</span></div>
+        <div id="review-sections"></div>
+      </div>
+      <div class="panel">
+        <div class="panel-head">Section summary</div>
+        <div id="review-summary-panel" class="summary-bar">Select a review section on the left.</div>
+        <div id="review-summary-detail" class="summary-panel-body"></div>
       </div>
     </div>
 
     <div class="footer">
       <a href="http://127.0.0.1:8765/exam3-homework-map.html">http://127.0.0.1:8765/exam3-homework-map.html</a>
-      · Separate from Exam 2 review map
+      · Homework: 145 Q · Exam 3 Review: 16 Q
     </div>
   </div>
 
   <script src="exam3-homework-map-data.js"></script>
+  <script src="exam3-map-state.js"></script>
   <script src="exam3-homework-map-app.js"></script>
 </body>
 </html>

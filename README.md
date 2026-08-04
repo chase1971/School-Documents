@@ -11,6 +11,20 @@ Miscellaneous teaching documents that are not part of any app repo — HTML comp
 - Pearson / homework vs review maps (e.g. exam comparison HTML)
 - Other school HTML or markdown you want synced between home PC and school laptop
 
+## Exam 3 Homework & Review map
+
+| File | Role |
+|---|---|
+| `exam3-homework-map.html` | Page (open via docs server) |
+| `exam3-homework-map-data.js` | Homework + review harvest data |
+| `exam3-map-state.js` | Add/remove review state logic |
+| `exam3-homework-map-app.js` | UI (homework vs review side-by-side) |
+| `exam3-review-map-state.json` | Added + removed question IDs (commit to sync machines) |
+
+**Local link:** [http://127.0.0.1:8765/exam3-homework-map.html](http://127.0.0.1:8765/exam3-homework-map.html)
+
+**Sync flow:** edit on one PC → **Download state for GitHub** → replace `exam3-review-map-state.json` → commit & push → on the other PC pull → **Load from GitHub file**.
+
 ## Exam 2 Review map
 
 | File | Role |

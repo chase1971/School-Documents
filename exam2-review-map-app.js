@@ -4,11 +4,31 @@
 const STATE_FILE = "exam2-review-map-state.json";
 const ADDED_STORAGE_KEY = "exam2-review-map-added";
 const REMOVED_STORAGE_KEY = "exam2-review-map-removed";
+const EXAM_GROUPS_STORAGE_KEY = "exam2-review-map-exam-groups";
 
 let selectedId = "3.3";
 let viewMode = "section";
 let addedToReview = new Set(JSON.parse(localStorage.getItem(ADDED_STORAGE_KEY) || "[]"));
 let removedFromReview = new Set(JSON.parse(localStorage.getItem(REMOVED_STORAGE_KEY) || "[]"));
+
+// Exam 2 "live pools" — starts from the harvested EXAM2_POOLS, but the user can
+// merge/split/add/remove members from the Vs Exam 2 tab. Each pool is just an
+// array of question IDs; pool number is always its position in this array, so
+// deleting an emptied pool naturally renumbers everything after it.
+function defaultExamGroups() {
+  return EXAM2_POOLS.map((p) => [...p.questions]);
+}
+function loadExamGroups() {
+  try {
+    const raw = localStorage.getItem(EXAM_GROUPS_STORAGE_KEY);
+    if (!raw) return defaultExamGroups();
+    const parsed = JSON.parse(raw);
+    return Array.isArray(parsed) && parsed.length ? parsed : defaultExamGroups();
+  } catch (_) {
+    return defaultExamGroups();
+  }
+}
+let examGroups = loadExamGroups();
 
 function setSyncStatus(msg) {
   const el = document.getElementById("sync-status");
@@ -21,11 +41,15 @@ function saveAddedToReview() {
 function saveRemovedFromReview() {
   localStorage.setItem(REMOVED_STORAGE_KEY, JSON.stringify([...removedFromReview]));
 }
+function saveExamGroups() {
+  localStorage.setItem(EXAM_GROUPS_STORAGE_KEY, JSON.stringify(examGroups));
+}
 
 function currentState() {
   return {
     added: [...addedToReview].sort(),
     removed: [...removedFromReview].sort(),
+    examGroups: examGroups,
   };
 }
 
@@ -34,8 +58,13 @@ function applyState(state, sourceLabel) {
   const removed = Array.isArray(state.removed) ? state.removed : [];
   addedToReview = new Set(added);
   removedFromReview = new Set(removed);
+  examGroups =
+    Array.isArray(state.examGroups) && state.examGroups.length
+      ? state.examGroups
+      : defaultExamGroups();
   saveAddedToReview();
   saveRemovedFromReview();
+  saveExamGroups();
   setSyncStatus(
     "Loaded " + added.length + " added · " + removed.length + " removed from " + sourceLabel + "."
   );
@@ -65,7 +94,8 @@ async function loadStateFromRepo() {
 function hasLocalStateKeys() {
   return (
     localStorage.getItem(ADDED_STORAGE_KEY) !== null ||
-    localStorage.getItem(REMOVED_STORAGE_KEY) !== null
+    localStorage.getItem(REMOVED_STORAGE_KEY) !== null ||
+    localStorage.getItem(EXAM_GROUPS_STORAGE_KEY) !== null
   );
 }
 
@@ -473,21 +503,30 @@ function setViewMode(mode) {
 function renderAll() {
   const sectionView = document.getElementById("section-view");
   const fullView = document.getElementById("full-view");
+  const examView = document.getElementById("exam-view");
   const tabSection = document.getElementById("tab-section");
   const tabFull = document.getElementById("tab-full");
+  const tabExam = document.getElementById("tab-exam");
   const subtitle = document.getElementById("subtitle");
-  const isFull = viewMode === "full";
 
-  tabSection.classList.toggle("active", !isFull);
-  tabFull.classList.toggle("active", isFull);
-  sectionView.classList.toggle("hidden", isFull);
-  fullView.classList.toggle("hidden", !isFull);
-  subtitle.textContent = isFull
-    ? "Full review by section with problem text shown. Remove saves in this browser; download state for GitHub sync."
-    : "Click a homework section on the left — the right shows matching Exam 2 Review questions for that section number.";
+  tabSection.classList.toggle("active", viewMode === "section");
+  tabFull.classList.toggle("active", viewMode === "full");
+  tabExam.classList.toggle("active", viewMode === "exam");
+  sectionView.classList.toggle("hidden", viewMode !== "section");
+  fullView.classList.toggle("hidden", viewMode !== "full");
+  examView.classList.toggle("hidden", viewMode !== "exam");
 
-  if (isFull) renderFull();
-  else {
+  if (viewMode === "full") {
+    subtitle.textContent =
+      "Full review by section with problem text shown. Remove saves in this browser; download state for GitHub sync.";
+    renderFull();
+  } else if (viewMode === "exam") {
+    subtitle.textContent =
+      "Review (left) vs the live Exam 2 question pools (right) — matches highlighted in green. Pools with more than one question are randomly assigned, one per student.";
+    renderExamComparison();
+  } else {
+    subtitle.textContent =
+      "Click a homework section on the left — the right shows matching Exam 2 Review questions for that section number.";
     renderLeft();
     renderRight();
   }
@@ -532,6 +571,9 @@ async function boot() {
     document
       .getElementById("tab-full")
       .addEventListener("click", () => setViewMode("full"));
+    document
+      .getElementById("tab-exam")
+      .addEventListener("click", () => setViewMode("exam"));
 
     if (!hasLocalStateKeys()) {
       try {

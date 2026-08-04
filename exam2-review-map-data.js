@@ -1,4 +1,48 @@
 // Exam 2 review map data — loaded by exam2-review-map.html
+//
+// Live Exam 2 question pools — harvested from Pearson Question Details
+// (Macro App CDP, scripts/pearson_question_details.py). The "order" column
+// from that table is the pool number: rows sharing an order value are pooled
+// together and only one is randomly assigned per student.
+// Source: School Scrips/Macro App/exam2_question_details.json (2026-08-04)
+const EXAM2_POOLS = [
+  { pool: 1,  questions: ["3.4.20", "3.4.24-Setup & Solve"] },
+  { pool: 2,  questions: ["3.4.22", "3.4.25-Setup & Solve"] },
+  { pool: 3,  questions: ["3.5.32", "3.5.34"] },
+  { pool: 4,  questions: ["3.5.59", "3.5.61"] },
+  { pool: 5,  questions: ["3.6.29", "3.6.32"] },
+  { pool: 6,  questions: ["3.6.36"] },
+  { pool: 7,  questions: ["3.7.20", "3.7.24"] },
+  { pool: 8,  questions: ["3.7.29", "3.7.31"] },
+  { pool: 9,  questions: ["3.9.16", "3.9.36"] },
+  { pool: 10, questions: ["3.9.73", "3.9.77"] },
+  { pool: 11, questions: ["3.10.23", "3.10.29"] },
+];
+
+const EXAM2_OBJECTIVES = {
+  "3.4.20": "Find derivatives of products and quotients of functions involving exponentials.",
+  "3.4.24-Setup & Solve": "Find derivatives of products and quotients of functions involving exponentials.",
+  "3.4.22": "Find derivatives of products and quotients of algebraic expressions.",
+  "3.4.25-Setup & Solve": "Find derivatives of products and quotients of functions involving exponentials.",
+  "3.5.32": "Find derivatives of products, quotients, and powers of functions with trigonometric expressions.",
+  "3.5.34": "Find derivatives of products, quotients, and powers of functions with trigonometric expressions.",
+  "3.5.59": "Find higher order derivatives of functions involving trigonometric expressions.",
+  "3.5.61": "Find higher order derivatives of functions involving trigonometric expressions.",
+  "3.6.29": "Find average and marginal cost and profit functions.",
+  "3.6.32": "Find average and marginal cost and profit functions.",
+  "3.6.36": "Solve applications involving position, velocity, and acceleration functions.",
+  "3.7.20": "Identify inner functions and outer functions for composite functions, and then apply the chain rule.",
+  "3.7.24": "Identify inner functions and outer functions for composite functions, and then apply the chain rule.",
+  "3.7.29": "Find derivatives of basic functions using the chain rule.",
+  "3.7.31": "Find derivatives of basic functions using the chain rule.",
+  "3.9.16": "Find derivatives involving logarithms and exponentials.",
+  "3.9.36": "Find derivatives involving logarithms and exponentials.",
+  "3.9.73": "Find derivatives involving logarithms and exponentials.",
+  "3.9.77": "Find derivatives using logarithmic differentiation.",
+  "3.10.23": "Find derivatives of functions involving inverse trigonometric functions.",
+  "3.10.29": "Find derivatives of functions involving inverse trigonometric functions.",
+};
+
 const REVIEW = [
   { order: 1,  questionId: "3.3.63", objective: "Use derivatives to find slope locations and equations of tangent lines." },
   { order: 2,  questionId: "3.4.20", objective: "Find derivatives of products and quotients of functions involving exponentials." },
@@ -66,7 +110,7 @@ const HOMEWORK = [
 ];
 
 // Pearson print harvest — homework 3.3–3.10 + review-only IDs from Exam 2 Review print (2026-08-02)
-// Source: Macro App/docs/PEARSON_BROWSER_AUTOMATION.md § print-problem-text-harvest
+// Source: Macro App/docs/Automations/PEARSON_BROWSER_AUTOMATION.md § print-problem-text-harvest
 //   TDX print tab → .singleQuestion blocks → { prompt, expr } mapped by inventory order
 const PROBLEMS = {
   "3.3.19": { prompt: "Find the derivative of the following function.", expr: "y = x¹¹" },

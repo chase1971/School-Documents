@@ -1,0 +1,545 @@
+[
+  {
+    "requested": "Exam 3 Review",
+    "problems": [
+      {
+        "questionId": "4.1.27",
+        "summary": "Find the critical points of the following function.",
+        "fullText": "Part 1\nFind the critical points of the following function.\nf(x) = 2 x\u00b3 \u2212 19/2 x\u00b2 + 10 x\nPart 1\nSelect the correct choice and, if necessary, fill in the answer box to complete your choice.\nA.\nThe critical point(s) occur(s) at x\n(Simplify your answer. Use a comma to separate answers as needed.)\nB.\nThere are no critical points.",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "Find the critical points of the following function.\nf(x) = 2 x\u00b3 \u2212 19/2 x\u00b2 + 10 x"
+          },
+          {
+            "label": "Part 1",
+            "text": "Select the correct choice and, if necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "A.",
+            "text": "The critical point(s) occur(s) at x\n(Simplify your answer. Use a comma to separate answers as needed.)"
+          },
+          {
+            "label": "B.",
+            "text": "There are no critical points."
+          }
+        ],
+        "prompt": "Find the critical points of the following function.",
+        "expr": ""
+      },
+      {
+        "questionId": "4.1.49",
+        "summary": "Determine the location and value of the absolute extreme values of f on the given interval,\u2026",
+        "fullText": "Part 1\nDetermine the location and value of the absolute extreme values of f on the given interval, if they exist.\nf(x)\nf(x) = 2 sin\u00b2 x\n2sin\u00b2x on\n[0 , \u03c0]\n[0,\u03c0]\nPart 1\nSelect the correct choice below and, if necessary, fill in the answer boxes to complete your choice.\n(Type an exact answer, using\npi\n\u03c0 as needed. Use a comma to separate answers as needed.)\nA.\nThe absolute maximum is\nat x\n, but there is no absolute minimum.\nB.\nThe absolute minimum is\nat x\nand the absolute maximum is\nat x\nC.\nThe absolute minimum is\nat x\n, but there is no absolute maximum.\nD.\nThere are no absolute extreme values for\nf(x)\nf(x) on\n[0 , \u03c0]\n[0,\u03c0].",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "Determine the location and value of the absolute extreme values of f on the given interval, if they exist.\nf(x)\nf(x) = 2 sin\u00b2 x\n2sin\u00b2x on\n[0 , \u03c0]\n[0,\u03c0]"
+          },
+          {
+            "label": "Part 1",
+            "text": "Select the correct choice below and, if necessary, fill in the answer boxes to complete your choice.\n(Type an exact answer, using\npi\n\u03c0 as needed. Use a comma to separate answers as needed.)"
+          },
+          {
+            "label": "A.",
+            "text": "The absolute maximum is\nat x\n, but there is no absolute minimum."
+          },
+          {
+            "label": "B.",
+            "text": "The absolute minimum is\nat x\nand the absolute maximum is\nat x"
+          },
+          {
+            "label": "C.",
+            "text": "The absolute minimum is\nat x\n, but there is no absolute maximum."
+          },
+          {
+            "label": "D.",
+            "text": "There are no absolute extreme values for\nf(x)\nf(x) on\n[0 , \u03c0]\n[0,\u03c0]."
+          }
+        ],
+        "prompt": "Determine the location and value of the absolute extreme values of f on the given interval,\u2026",
+        "expr": ""
+      },
+      {
+        "questionId": "4.1.57",
+        "summary": "Determine the location and value of the absolute extreme values of f on the given interval,\u2026",
+        "fullText": "Part 1\nDetermine the location and value of the absolute extreme values of f on the given interval, if they exist.\nf(x)\nf(x) = \u2212 2 x\u00b3 + 33 x\u00b2 \u2212 168 x\n\u2212 2x\u00b3 + 33x\u00b2 \u2212 168x on\n[3 , 8]\nPart 1\nWhat is/are the absolute maximum/maxima of f on the given interval? Select the correct choice below and, if necessary, fill in the answer boxes to complete your choice.\nA.\nThe absolute maximum/maxima is/are\nat x\n(Use a comma to separate answers as needed. Type exact answers, using radicals as needed.)\nB.\nThere is no absolute maximum of f on the given interval.\nPart 2\nWhat is/are the absolute minimum/minima of f on the given interval? Select the correct choice below and, if necessary, fill in the answer boxes to complete your choice.\nA.\nThe absolute minimum/minima is/are\nat x\n(Use a comma to separate answers as needed. Type exact answers, using radicals as needed.)\nB.\nThere is no absolute minimum of f on the given interval.",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "Determine the location and value of the absolute extreme values of f on the given interval, if they exist.\nf(x)\nf(x) = \u2212 2 x\u00b3 + 33 x\u00b2 \u2212 168 x\n\u2212 2x\u00b3 + 33x\u00b2 \u2212 168x on\n[3 , 8]"
+          },
+          {
+            "label": "Part 1",
+            "text": "What is/are the absolute maximum/maxima of f on the given interval? Select the correct choice below and, if necessary, fill in the answer boxes to complete your choice."
+          },
+          {
+            "label": "A.",
+            "text": "The absolute maximum/maxima is/are\nat x\n(Use a comma to separate answers as needed. Type exact answers, using radicals as needed.)"
+          },
+          {
+            "label": "B.",
+            "text": "There is no absolute maximum of f on the given interval."
+          },
+          {
+            "label": "Part 2",
+            "text": "What is/are the absolute minimum/minima of f on the given interval? Select the correct choice below and, if necessary, fill in the answer boxes to complete your choice."
+          },
+          {
+            "label": "A.",
+            "text": "The absolute minimum/minima is/are\nat x\n(Use a comma to separate answers as needed. Type exact answers, using radicals as needed.)"
+          },
+          {
+            "label": "B.",
+            "text": "There is no absolute minimum of f on the given interval."
+          }
+        ],
+        "prompt": "Determine the location and value of the absolute extreme values of f on the given interval,\u2026",
+        "expr": ""
+      },
+      {
+        "questionId": "4.2.13",
+        "summary": "Determine whether Rolle's Theorem applies to the given function on the given interval. If \u2026",
+        "fullText": "Part 1\nDetermine whether Rolle's Theorem applies to the given function on the given interval. If so, find the point(s) that are guaranteed to exist by Rolle's Theorem.\nf(x) negative sin e 4 x \u2212 sin\u2074x ; \u03c0 4 , \u03c0 2 on [\u03c0/4 , \u03c0/2]\nPart 1\nSelect the correct choice and, if necessary, fill in the answer box to complete your choice.\nA.\nRolle's Theorem applies and the point(s) guaranteed to exist is/are c\n(Type exact answer(s). Use a comma to separate answers as needed.)\nB.\nRolle's Theorem does not apply.",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "Determine whether Rolle's Theorem applies to the given function on the given interval. If so, find the point(s) that are guaranteed to exist by Rolle's Theorem.\nf(x) negative sin e 4 x \u2212 sin\u2074x ; \u03c0 4 , \u03c0 2 on [\u03c0/4 , \u03c0/2]"
+          },
+          {
+            "label": "Part 1",
+            "text": "Select the correct choice and, if necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "A.",
+            "text": "Rolle's Theorem applies and the point(s) guaranteed to exist is/are c\n(Type exact answer(s). Use a comma to separate answers as needed.)"
+          },
+          {
+            "label": "B.",
+            "text": "Rolle's Theorem does not apply."
+          }
+        ],
+        "prompt": "Determine whether Rolle's Theorem applies to the given function on the given interval. If \u2026",
+        "expr": ""
+      },
+      {
+        "questionId": "4.2.30",
+        "summary": "a. Determine whether the Mean Value Theorem applies to the function f(x)",
+        "fullText": "Part 1\na. Determine whether the Mean Value Theorem applies to the function f(x)\nx + 1/x\non the interval [\nnegative 4\n\u2212 4 ,\nnegative 3\n\u22123].\nb. If so, find or approximate the point(s) that are guaranteed to exist by the Mean Value Theorem.\nPart 1\na. Choose the correct answer below.\nA.\nNo, because the function is differentiable on the interval (\nnegative 4\n\u2212 4 ,\nnegative 3\n\u22123), but is not continuous on the interval [\nnegative 4\n\u2212 4 ,\nnegative 3\n\u22123].\nB.\nNo, because the function is not continuous on the interval [\nnegative 4\n\u2212 4 ,\nnegative 3\n\u22123], and is not differentiable on the interval (\nnegative 4\n\u2212 4 ,\nnegative 3\n\u2212 3).\nC.\nYes, because the function is continuous on the interval [\nnegative 4\n\u2212 4 ,\nnegative 3\n\u22123] and differentiable on the interval (\nnegative 4\n\u2212 4 ,\nnegative 3\n\u2212 3).\nD.\nNo, because the function is continuous on the interval [\nnegative 4\n\u2212 4 ,\nnegative 3\n\u22123], but is not differentiable on the interval (\nnegative 4\n\u2212 4 ,\nnegative 3\n\u2212 3).\nPart 2\nb. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe point(s) is/are x\n(Type an exact answer, using radicals as needed. Use a comma to separate answers as needed.)\nB.\nThe Mean Value Theorem does not apply in this case.",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": ""
+          },
+          {
+            "label": "a. Determine whether the Mean Value Theorem applies to the function \u200bf(x)",
+            "text": "=\nx + 1/x\non the interval [\nnegative 4\n\u2212 4 ,\nnegative 3\n\u22123]."
+          },
+          {
+            "label": "b. If\u200b so, find or approximate the\u200b point(s) that are guaranteed to exist by the Mean Value Theorem.",
+            "text": ""
+          },
+          {
+            "label": "Part 1",
+            "text": ""
+          },
+          {
+            "label": "a. Choose the correct answer below.",
+            "text": ""
+          },
+          {
+            "label": "A.",
+            "text": "No, because the function is differentiable on the interval (\nnegative 4\n\u2212 4 ,\nnegative 3\n\u22123), but is not continuous on the interval [\nnegative 4\n\u2212 4 ,\nnegative 3\n\u22123]."
+          },
+          {
+            "label": "B.",
+            "text": "No, because the function is not continuous on the interval [\nnegative 4\n\u2212 4 ,\nnegative 3\n\u22123], and is not differentiable on the interval (\nnegative 4\n\u2212 4 ,\nnegative 3\n\u2212 3)."
+          },
+          {
+            "label": "C.",
+            "text": "Yes, because the function is continuous on the interval [\nnegative 4\n\u2212 4 ,\nnegative 3\n\u22123] and differentiable on the interval (\nnegative 4\n\u2212 4 ,\nnegative 3\n\u2212 3)."
+          },
+          {
+            "label": "D.",
+            "text": "No, because the function is continuous on the interval [\nnegative 4\n\u2212 4 ,\nnegative 3\n\u22123], but is not differentiable on the interval (\nnegative 4\n\u2212 4 ,\nnegative 3\n\u2212 3)."
+          },
+          {
+            "label": "Part 2",
+            "text": ""
+          },
+          {
+            "label": "b. Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.",
+            "text": ""
+          },
+          {
+            "label": "A.",
+            "text": "The point(s) is/are x\n(Type an exact answer, using radicals as needed. Use a comma to separate answers as needed.)"
+          },
+          {
+            "label": "B.",
+            "text": "The Mean Value Theorem does not apply in this case."
+          }
+        ],
+        "prompt": "a. Determine whether the Mean Value Theorem applies to the function f(x)",
+        "expr": ""
+      },
+      {
+        "questionId": "4.3.40",
+        "summary": "Find the intervals on which f is increasing and decreasing.",
+        "fullText": "Part 1\nFind the intervals on which f is increasing and decreasing.\nf(x) = 3 x\u00b2 \u2212 54 ln x\n3x\u00b2 \u2212 54lnx\nPart 1\nSelect the correct choice below and, if necessary, fill in the answer box(es) within your choice.\nA.\nThe function is increasing on the open interval(s)\nand decreasing on the open interval(s)\n(Simplify your answers. Type your answers in interval notation. Use a comma to separate answers as needed.)\nB.\nThe function is increasing on the open interval(s)\n. The function is never decreasing.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)\nC.\nThe function is decreasing on the open interval(s)\n. The function is never increasing.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)\nD.\nThe function is never increasing or decreasing.",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "Find the intervals on which f is increasing and decreasing.\nf(x) = 3 x\u00b2 \u2212 54 ln x\n3x\u00b2 \u2212 54lnx"
+          },
+          {
+            "label": "Part 1",
+            "text": "Select the correct choice below and, if necessary, fill in the answer box(es) within your choice."
+          },
+          {
+            "label": "A.",
+            "text": "The function is increasing on the open interval(s)\nand decreasing on the open interval(s)\n(Simplify your answers. Type your answers in interval notation. Use a comma to separate answers as needed.)"
+          },
+          {
+            "label": "B.",
+            "text": "The function is increasing on the open interval(s)\n. The function is never decreasing.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)"
+          },
+          {
+            "label": "C.",
+            "text": "The function is decreasing on the open interval(s)\n. The function is never increasing.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)"
+          },
+          {
+            "label": "D.",
+            "text": "The function is never increasing or decreasing."
+          }
+        ],
+        "prompt": "Find the intervals on which f is increasing and decreasing.",
+        "expr": ""
+      },
+      {
+        "questionId": "4.3.63",
+        "summary": "Determine the intervals on which the following function is concave up or concave down. Ident\u2026",
+        "fullText": "Part 1\nDetermine the intervals on which the following function is concave up or concave down. Identify any inflection points.\nf(x) = 3 x\u2074 \u2212 3 x\u00b3 + 4\n3x\u2074 \u2212 3x\u00b3 + 4\nPart 1\nDetermine the intervals on which the given function is concave up or concave down. Select the correct choice and, if necessary, fill in the answer box(es) to complete your choice.\nA.\nThe function is concave up on\nand the function is never concave down.\n(Simplify your answer. Type your answer in interval notation. Use integers or fractions for any numbers in the expression. Use a comma to separate answers as needed.)\nB.\nThe function is concave up on\nand concave down on\n(Simplify your answers. Type your answers in interval notation. Use integers or fractions for any numbers in the expression. Use a comma to separate answers as needed.)\nC.\nThe function is concave down on\nand the function is never concave up.\n(Simplify your answer. Type your answer in interval notation. Use integers or fractions for any numbers in the expression. Use a comma to separate answers as needed.)\nD.\nThe function is never concave up nor concave down.\nPart 2\nLocate any inflection points of f. Select the correct choice and, if necessary, fill in the answer box to complete your choice.\nA.\nAn inflection point occurs at x\n(Type an integer or a simplified fraction. Use a comma to separate answers as needed.)\nB.\nThere are no inflection points for f.",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "Determine the intervals on which the following function is concave up or concave down. Identify any inflection points.\nf(x) = 3 x\u2074 \u2212 3 x\u00b3 + 4\n3x\u2074 \u2212 3x\u00b3 + 4"
+          },
+          {
+            "label": "Part 1",
+            "text": "Determine the intervals on which the given function is concave up or concave down. Select the correct choice and, if necessary, fill in the answer box(es) to complete your choice."
+          },
+          {
+            "label": "A.",
+            "text": "The function is concave up on\nand the function is never concave down.\n(Simplify your answer. Type your answer in interval notation. Use integers or fractions for any numbers in the expression. Use a comma to separate answers as needed.)"
+          },
+          {
+            "label": "B.",
+            "text": "The function is concave up on\nand concave down on\n(Simplify your answers. Type your answers in interval notation. Use integers or fractions for any numbers in the expression. Use a comma to separate answers as needed.)"
+          },
+          {
+            "label": "C.",
+            "text": "The function is concave down on\nand the function is never concave up.\n(Simplify your answer. Type your answer in interval notation. Use integers or fractions for any numbers in the expression. Use a comma to separate answers as needed.)"
+          },
+          {
+            "label": "D.",
+            "text": "The function is never concave up nor concave down."
+          },
+          {
+            "label": "Part 2",
+            "text": "Locate any inflection points of f. Select the correct choice and, if necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "A.",
+            "text": "An inflection point occurs at x\n(Type an integer or a simplified fraction. Use a comma to separate answers as needed.)"
+          },
+          {
+            "label": "B.",
+            "text": "There are no inflection points for f."
+          }
+        ],
+        "prompt": "Determine the intervals on which the following function is concave up or concave down. Ident\u2026",
+        "expr": ""
+      },
+      {
+        "questionId": "4.3.83",
+        "summary": "Locate the critical points of the following function. Then use the Second Derivative Test to\u2026",
+        "fullText": "Part 1\nLocate the critical points of the following function. Then use the Second Derivative Test to determine whether they correspond to local maxima, local minima, or neither.\nf(x)\nf(x) = \u2212 x\u00b3 \u2212 3 x\u00b2 + 11\n\u2212 x\u00b3 \u2212 3x\u00b2 + 11\nPart 1\nWhat is(are) the critical point(s) of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe critical point(s) is(are) x\n(Use a comma to separate answers as needed. Type an integer or a simplified fraction.)\nB.\nThere are no critical points for f.\nPart 2\nWhat is/are the local maximum/maxima of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe local maximum/maxima of f is/are at x\n(Use a comma to separate answers as needed. Type an integer or a simplified fraction.)\nB.\nThere is no local maximum of f.\nPart 3\nWhat is/are the local minimum/minima of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe local minimum/minima of f is/are at x\n(Use a comma to separate answers as needed. Type an integer or a simplified fraction.)\nB.\nThere is no local minimum of f.",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "Locate the critical points of the following function. Then use the Second Derivative Test to determine whether they correspond to local maxima, local minima, or neither.\nf(x)\nf(x) = \u2212 x\u00b3 \u2212 3 x\u00b2 + 11\n\u2212 x\u00b3 \u2212 3x\u00b2 + 11"
+          },
+          {
+            "label": "Part 1",
+            "text": "What is(are) the critical point(s) of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "A.",
+            "text": "The critical point(s) is(are) x\n(Use a comma to separate answers as needed. Type an integer or a simplified fraction.)"
+          },
+          {
+            "label": "B.",
+            "text": "There are no critical points for f."
+          },
+          {
+            "label": "Part 2",
+            "text": "What is/are the local maximum/maxima of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "A.",
+            "text": "The local maximum/maxima of f is/are at x\n(Use a comma to separate answers as needed. Type an integer or a simplified fraction.)"
+          },
+          {
+            "label": "B.",
+            "text": "There is no local maximum of f."
+          },
+          {
+            "label": "Part 3",
+            "text": "What is/are the local minimum/minima of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "A.",
+            "text": "The local minimum/minima of f is/are at x\n(Use a comma to separate answers as needed. Type an integer or a simplified fraction.)"
+          },
+          {
+            "label": "B.",
+            "text": "There is no local minimum of f."
+          }
+        ],
+        "prompt": "Locate the critical points of the following function. Then use the Second Derivative Test to\u2026",
+        "expr": ""
+      },
+      {
+        "questionId": "4.4.42",
+        "summary": "Use the graphing guidelines to make a complete graph of f.",
+        "fullText": "Part 1\nUse the graphing guidelines to make a complete graph of f.\nf(x) = x\nx + 3\nPart 1\nChoose the correct graph below.\nA.\n-4\n4\n-2\n2\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 4 to 4 in increments of 1 and a vertical y-axis labeled from negative 2 to 2 in increments of 1. A curve starts at (negative 3, 0) and falls from left to right at a decreasing rate to a minimum at (negative 2, negative 2) and rises, passing through the origin. All coordinates are approximate.\nB.\n-4\n4\n-2\n2\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 4 to 4 in increments of 1 and a vertical y-axis labeled from negative 2 to 2 in increments of 1. A curve starts at (negative 3, 0) and rises from left to right at a decreasing rate to a maximum at (negative 2, 2) and falls, passing through the origin. All coordinates are approximate.\nC.\n-4\n4\n-2\n2\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 4 to 4 in increments of 1 and a vertical y-axis labeled from negative 2 to 2 in increments of 1. From left to right, a curve falls at a decreasing rate to a minimum at (2, negative 2) and rises, ending at (3, 0). All coordinates are approximate.\nD.\n-4\n4\n-2\n2\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 4 to 4 in increments of 1 and a vertical y-axis labeled from negative 2 to 2 in increments of 1. From left to right, a curve rises at a decreasing rate to a maximum at (2, 2) and falls, ending at (3, 0). All coordinates are approximate.",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "Use the graphing guidelines to make a complete graph of f.\nf(x) = x\nx + 3"
+          },
+          {
+            "label": "Part 1",
+            "text": "Choose the correct graph below."
+          },
+          {
+            "label": "A.",
+            "text": "-4\n4\n-2\n2\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 4 to 4 in increments of 1 and a vertical y-axis labeled from negative 2 to 2 in increments of 1. A curve starts at (negative 3, 0) and falls from left to right at a decreasing rate to a minimum at (negative 2, negative 2) and rises, passing through the origin. All coordinates are approximate."
+          },
+          {
+            "label": "B.",
+            "text": "-4\n4\n-2\n2\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 4 to 4 in increments of 1 and a vertical y-axis labeled from negative 2 to 2 in increments of 1. A curve starts at (negative 3, 0) and rises from left to right at a decreasing rate to a maximum at (negative 2, 2) and falls, passing through the origin. All coordinates are approximate."
+          },
+          {
+            "label": "C.",
+            "text": "-4\n4\n-2\n2\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 4 to 4 in increments of 1 and a vertical y-axis labeled from negative 2 to 2 in increments of 1. From left to right, a curve falls at a decreasing rate to a minimum at (2, negative 2) and rises, ending at (3, 0). All coordinates are approximate."
+          },
+          {
+            "label": "D.",
+            "text": "-4\n4\n-2\n2\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 4 to 4 in increments of 1 and a vertical y-axis labeled from negative 2 to 2 in increments of 1. From left to right, a curve rises at a decreasing rate to a maximum at (2, 2) and falls, ending at (3, 0). All coordinates are approximate."
+          }
+        ],
+        "prompt": "Use the graphing guidelines to make a complete graph of f.",
+        "expr": "f(x) = x"
+      },
+      {
+        "questionId": "4.5.28",
+        "summary": "9 mi from the nearest point on a straight shoreline; that point is",
+        "fullText": "Question content area left\nPart 1\nAn island is\n9\n9 mi from the nearest point on a straight shoreline; that point is\n15\n15 mi from a power station (see figure). A Utility company plans to lay electrical cable underwater from the island to the shore and then underground along the shore to the power station. Assume that is costs $\n3000\n3000/mi to lay cable underwater and $\n1500\n1500/mi to lay underground cable. At what point should the underwater cable meet the shore to minimize the cost of the project?\nIsland\nCable\nPower\nStation\ntheta\n\u03b8\n9 mi\n9\u00a0mi\n15 mi\n15\u00a0mi\nQuestion content area right\nPart 1\nLet x be the distance from the shoreline closest to the island and the point where the cable leaves the shore.\nThe cost is minimized when x is\nmi.\n(Type an exact answer.)\nPart 2\nThe minimum installation cost is $\n(Round to the nearest cent as needed.)",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Question content area left"
+          },
+          {
+            "label": "Part 1",
+            "text": "An island is\n9\n9 mi from the nearest point on a straight shoreline; that point is\n15\n15 mi from a power station (see figure). A Utility company plans to lay electrical cable underwater from the island to the shore and then underground along the shore to the power station. Assume that is costs $\n3000\n3000/mi to lay cable underwater and $\n1500\n1500/mi to lay underground cable. At what point should the underwater cable meet the shore to minimize the cost of the project?\nIsland\nCable\nPower\nStation\ntheta\n\u03b8\n9 mi\n9\u00a0mi\n15 mi\n15\u00a0mi\nQuestion content area right"
+          },
+          {
+            "label": "Part 1",
+            "text": "Let x be the distance from the shoreline closest to the island and the point where the cable leaves the shore.\nThe cost is minimized when x is\nmi.\n(Type an exact answer.)"
+          },
+          {
+            "label": "Part 2",
+            "text": "The minimum installation cost is $\n(Round to the nearest cent as needed.)"
+          }
+        ],
+        "prompt": "9 mi from the nearest point on a straight shoreline; that point is",
+        "expr": ""
+      },
+      {
+        "questionId": "4.6.28",
+        "summary": "a. Write the equation of the line that represents the linear approximation to the following \u2026",
+        "fullText": "Part 1\na. Write the equation of the line that represents the linear approximation to the following function at the given point a.\nb. Use the linear approximation to estimate the given quantity.\nc. Compute the percent error in the approximation,\n100 \u00b7 StartAbsoluteValue approximation \u2212 exact EndAbsoluteValue/StartAbsoluteValue exact EndAbsoluteValue\n100\u2022\napproximation \u2212 exact\nexact\n, where the exact value is given by a calculator.\nf(x) = x/x + 2\n; a\n= 1 ; f(\n0.9\n0.9)\nPart 1\na. L(x)\n(Use integers or fractions for any numbers in the expression.)\nPart 2\nb. Using the linear approximation, f(\n0.9\n0.9)\nalmost =\n\u2248\n(Round to three decimal places as needed.)\nPart 3\nc. The percent error in the approximation is\n%.\n(Round to three decimal places as needed.)",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": ""
+          },
+          {
+            "label": "a. Write the equation of the line that represents the linear approximation to the following function at the given point a.",
+            "text": ""
+          },
+          {
+            "label": "b. Use the linear approximation to estimate the given quantity.",
+            "text": ""
+          },
+          {
+            "label": "c. Compute the percent error in the\u200b approximation,",
+            "text": "100 \u00b7 StartAbsoluteValue approximation \u2212 exact EndAbsoluteValue/StartAbsoluteValue exact EndAbsoluteValue\n100\u2022\napproximation \u2212 exact\nexact\n, where the exact value is given by a calculator.\nf(x) = x/x + 2\n; a\n= 1 ; f(\n0.9\n0.9)"
+          },
+          {
+            "label": "Part 1",
+            "text": "a. L(x)\n(Use integers or fractions for any numbers in the expression.)"
+          },
+          {
+            "label": "Part 2",
+            "text": ""
+          },
+          {
+            "label": "b. Using the linear\u200b approximation, \u200bf(",
+            "text": "0.9\n0.9)\nalmost =\n\u2248\n(Round to three decimal places as needed.)"
+          },
+          {
+            "label": "Part 3",
+            "text": ""
+          },
+          {
+            "label": "c. The percent error in the approximation is",
+            "text": "%.\n(Round to three decimal places as needed.)"
+          }
+        ],
+        "prompt": "a. Write the equation of the line that represents the linear approximation to the following \u2026",
+        "expr": "= 1 ; f("
+      },
+      {
+        "questionId": "4.6.55",
+        "summary": "Approximate the change in the volume of a sphere when its radius changes from r =",
+        "fullText": "Part 1\nApproximate the change in the volume of a sphere when its radius changes from r =\n60\n60 ft to\nr = 60.05\u00a0ft\n(Upper V (r) = four thirds \u03c0 r\u00b3)\nV(r) =\n(4 , 3)\n\u03c0r\u00b3.\nPart 1\nWhen r changes from\n60\n60 ft to\n60.05\n60.05 ft ,\nUpper Delta\n\u0394V\nalmost =\n\u2248\nft\n\u00b3\n(Type an exact answer.)",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "Approximate the change in the volume of a sphere when its radius changes from r =\n60\n60 ft to\nr = 60.05\u00a0ft\n(Upper V (r) = four thirds \u03c0 r\u00b3)\nV(r) =\n(4 , 3)\n\u03c0r\u00b3."
+          },
+          {
+            "label": "Part 1",
+            "text": "When r changes from\n60\n60 ft to\n60.05\n60.05 ft ,\nUpper Delta\n\u0394V\nalmost =\n\u2248\nft\n\u00b3\n(Type an exact answer.)"
+          }
+        ],
+        "prompt": "Approximate the change in the volume of a sphere when its radius changes from r =",
+        "expr": "r = 60.05\u00a0ft"
+      },
+      {
+        "questionId": "4.6.69",
+        "summary": "Consider the following function and express the relationship between a small change in x and\u2026",
+        "fullText": "Part 1\nConsider the following function and express the relationship between a small change in x and the corresponding change in y in the form dy\nf prime (x)\nf\u2032(x) dx.\nf(x) cotangent 5 x cot\u2075x\nPart 1\ndy\ndx",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "Consider the following function and express the relationship between a small change in x and the corresponding change in y in the form dy\nf prime (x)\nf\u2032(x) dx.\nf(x) cotangent 5 x cot\u2075x"
+          },
+          {
+            "label": "Part 1",
+            "text": "dy\ndx"
+          }
+        ],
+        "prompt": "Consider the following function and express the relationship between a small change in x and\u2026",
+        "expr": ""
+      },
+      {
+        "questionId": "4.7.21",
+        "summary": "Evaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.",
+        "fullText": "Part 1\nEvaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow 1\nlim\nx\u21921\nln x/9 x \u2212 x\u00b2 \u2212 8\nPart 1\nModifyingBelow lim With x right arrow 1\nlim\nx\u21921\nln x/9 x \u2212 x\u00b2 \u2212 8\n(Type an exact answer.)",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "Evaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow 1\nlim\nx\u21921\nln x/9 x \u2212 x\u00b2 \u2212 8"
+          },
+          {
+            "label": "Part 1",
+            "text": "ModifyingBelow lim With x right arrow 1\nlim\nx\u21921\nln x/9 x \u2212 x\u00b2 \u2212 8\n(Type an exact answer.)"
+          }
+        ],
+        "prompt": "Evaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.",
+        "expr": ""
+      },
+      {
+        "questionId": "4.7.33",
+        "summary": "Evaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.",
+        "fullText": "Part 1\nEvaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow 0\nlim\nx\u21920\n1 \u2212 cos 9 x/2 x\u00b2\nPart 1\nModifyingBelow lim With x right arrow 0\nlim\nx\u21920\n1 \u2212 cos 9 x/2 x\u00b2\n(Type an exact answer.)",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "Evaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow 0\nlim\nx\u21920\n1 \u2212 cos 9 x/2 x\u00b2"
+          },
+          {
+            "label": "Part 1",
+            "text": "ModifyingBelow lim With x right arrow 0\nlim\nx\u21920\n1 \u2212 cos 9 x/2 x\u00b2\n(Type an exact answer.)"
+          }
+        ],
+        "prompt": "Evaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.",
+        "expr": ""
+      },
+      {
+        "questionId": "4.8.10",
+        "summary": "Write the formula for Newton's method and use the given initial approximation to compute th\u2026",
+        "fullText": "Part 1\nWrite the formula for Newton's method and use the given initial approximation to compute the approximations\nx\u00b9\nx\u00b9 and\nx\u00b2\nx\u00b2.\nf(x) = x\u00b2 \u2212 2x \u2212 3 ,\nx\u2070 = 2\nPart 1\nWrite the formula for Newton's method for the given function. Choose the correct answer below.\nA.\nx Subscript n + 1 Baseline = x Subscript n Baseline \u2212 x Subscript n\u00b2 \u2212 2 x Subscript n Baseline \u2212 3/x Subscript n\u00b2 \u2212 3\nxn + 1 = xn \u2212\nx\u00b2n \u2212 2xn \u2212 3\nx\u00b2n \u2212 3\nB.\nx Subscript n + 1 Baseline = x Subscript n Baseline + x Subscript n\u00b2 \u2212 2 x Subscript n Baseline \u2212 3/2 x Subscript n Baseline \u2212 2\nxn + 1 = xn +\nx\u00b2n \u2212 2xn \u2212 3\n2xn \u2212 2\nC.\nx Subscript n + 1 Baseline = x Subscript n Baseline \u2212 2 x Subscript n Baseline \u2212 2/x Subscript n\u00b2 \u2212 2 x Subscript n Baseline \u2212 3\nxn + 1 = xn \u2212\n2xn \u2212 2\nx\u00b2n \u2212 2xn \u2212 3\nD.\nx Subscript n + 1 Baseline = x Subscript n Baseline \u2212 x Subscript n\u00b2 \u2212 2 x Subscript n Baseline \u2212 3/2 x Subscript n Baseline \u2212 2\nxn + 1 = xn \u2212\nx\u00b2n \u2212 2xn \u2212 3\n2xn \u2212 2\nPart 2\nUse the given initial approximation to compute the approximations\nx\u00b9\nx\u00b9 and\nx\u00b2\nx\u00b2.\nx\u00b9\n(Do not round until the final answer. Then round to three decimal places as needed.)\nPart 3\nx\u00b2\n(Do not round until the final answer. Then round to three decimal places as needed.)",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "Write the formula for Newton's method and use the given initial approximation to compute the approximations\nx\u00b9\nx\u00b9 and\nx\u00b2\nx\u00b2.\nf(x) = x\u00b2 \u2212 2x \u2212 3 ,\nx\u2070 = 2"
+          },
+          {
+            "label": "Part 1",
+            "text": "Write the formula for Newton's method for the given function. Choose the correct answer below."
+          },
+          {
+            "label": "A.",
+            "text": "x Subscript n + 1 Baseline = x Subscript n Baseline \u2212 x Subscript n\u00b2 \u2212 2 x Subscript n Baseline \u2212 3/x Subscript n\u00b2 \u2212 3\nxn + 1 = xn \u2212\nx\u00b2n \u2212 2xn \u2212 3\nx\u00b2n \u2212 3"
+          },
+          {
+            "label": "B.",
+            "text": "x Subscript n + 1 Baseline = x Subscript n Baseline + x Subscript n\u00b2 \u2212 2 x Subscript n Baseline \u2212 3/2 x Subscript n Baseline \u2212 2\nxn + 1 = xn +\nx\u00b2n \u2212 2xn \u2212 3\n2xn \u2212 2"
+          },
+          {
+            "label": "C.",
+            "text": "x Subscript n + 1 Baseline = x Subscript n Baseline \u2212 2 x Subscript n Baseline \u2212 2/x Subscript n\u00b2 \u2212 2 x Subscript n Baseline \u2212 3\nxn + 1 = xn \u2212\n2xn \u2212 2\nx\u00b2n \u2212 2xn \u2212 3"
+          },
+          {
+            "label": "D.",
+            "text": "x Subscript n + 1 Baseline = x Subscript n Baseline \u2212 x Subscript n\u00b2 \u2212 2 x Subscript n Baseline \u2212 3/2 x Subscript n Baseline \u2212 2\nxn + 1 = xn \u2212\nx\u00b2n \u2212 2xn \u2212 3\n2xn \u2212 2"
+          },
+          {
+            "label": "Part 2",
+            "text": "Use the given initial approximation to compute the approximations\nx\u00b9\nx\u00b9 and\nx\u00b2\nx\u00b2.\nx\u00b9\n(Do not round until the final answer. Then round to three decimal places as needed.)"
+          },
+          {
+            "label": "Part 3",
+            "text": "x\u00b2\n(Do not round until the final answer. Then round to three decimal places as needed.)"
+          }
+        ],
+        "prompt": "Write the formula for Newton's method and use the given initial approximation to compute th\u2026",
+        "expr": "f(x) = x\u00b2 \u2212 2x \u2212 3 ,"
+      }
+    ],
+    "questionIds": [
+      "4.1.27",
+      "4.1.49",
+      "4.1.57",
+      "4.2.13",
+      "4.2.30",
+      "4.3.40",
+      "4.3.63",
+      "4.3.83",
+      "4.4.42",
+      "4.5.28",
+      "4.6.28",
+      "4.6.55",
+      "4.6.69",
+      "4.7.21",
+      "4.7.33",
+      "4.8.10"
+    ]
+  }
+]
