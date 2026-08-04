@@ -494,16 +494,21 @@ function renderAll() {
 }
 
 function wireSyncControls() {
-  document
-    .getElementById("btn-download-state")
-    .addEventListener("click", downloadState);
-  document.getElementById("btn-load-repo").addEventListener("click", () => {
+  const downloadBtn = document.getElementById("btn-download-state");
+  const loadBtn = document.getElementById("btn-load-repo");
+  const importBtn = document.getElementById("btn-import-state");
+  const input = document.getElementById("import-state-input");
+  if (!downloadBtn || !loadBtn || !importBtn || !input) {
+    console.error("Sync controls missing from HTML — rendering without them.");
+    return;
+  }
+  downloadBtn.addEventListener("click", downloadState);
+  loadBtn.addEventListener("click", () => {
     loadStateFromRepo().catch((err) => {
       setSyncStatus("Could not load " + STATE_FILE + ": " + err.message);
     });
   });
-  const input = document.getElementById("import-state-input");
-  document.getElementById("btn-import-state").addEventListener("click", () => {
+  importBtn.addEventListener("click", () => {
     input.value = "";
     input.click();
   });
@@ -519,34 +524,39 @@ function wireSyncControls() {
 }
 
 async function boot() {
-  wireSyncControls();
-  document
-    .getElementById("tab-section")
-    .addEventListener("click", () => setViewMode("section"));
-  document
-    .getElementById("tab-full")
-    .addEventListener("click", () => setViewMode("full"));
+  try {
+    wireSyncControls();
+    document
+      .getElementById("tab-section")
+      .addEventListener("click", () => setViewMode("section"));
+    document
+      .getElementById("tab-full")
+      .addEventListener("click", () => setViewMode("full"));
 
-  if (!hasLocalStateKeys()) {
-    try {
-      await loadStateFromRepo();
-      return;
-    } catch (_) {
+    if (!hasLocalStateKeys()) {
+      try {
+        await loadStateFromRepo();
+        return;
+      } catch (_) {
+        setSyncStatus(
+          "No saved browser state and no " +
+            STATE_FILE +
+            " yet. Edits stay local until you download state."
+        );
+      }
+    } else {
+      const s = currentState();
       setSyncStatus(
-        "No saved browser state and no " +
-          STATE_FILE +
-          " yet. Edits stay local until you download state."
+        "Using this browser: " +
+          s.added.length +
+          " added · " +
+          s.removed.length +
+          " removed. Download state for GitHub when ready."
       );
     }
-  } else {
-    const s = currentState();
-    setSyncStatus(
-      "Using this browser: " +
-        s.added.length +
-        " added · " +
-        s.removed.length +
-        " removed. Download state for GitHub when ready."
-    );
+  } catch (err) {
+    console.error("Boot setup failed:", err);
+    setSyncStatus("Setup error — showing questions anyway. " + err.message);
   }
   renderAll();
 }

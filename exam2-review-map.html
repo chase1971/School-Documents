@@ -416,6 +416,14 @@
       <button type="button" class="view-tab" id="tab-full" data-view="full">Full review</button>
     </div>
 
+    <div class="sync-bar" id="sync-bar">
+      <span class="sync-status" id="sync-status">Browser edits stay local until you download state for GitHub.</span>
+      <button type="button" class="btn-sync" id="btn-download-state">Download state for GitHub</button>
+      <button type="button" class="btn-sync" id="btn-load-repo">Load from GitHub file</button>
+      <button type="button" class="btn-sync" id="btn-import-state">Import state file</button>
+      <input type="file" id="import-state-input" accept="application/json,.json" hidden />
+    </div>
+
     <div class="legend">
       <div class="legend-item"><span class="swatch swatch-match"></span> Same ID on homework &amp; review</div>
       <div class="legend-item"><span class="swatch swatch-hw"></span> Homework only (not on review)</div>
