@@ -2,6 +2,18 @@
 
 Teaching HTML, exam maps, Pearson harvest artifacts under `School Scrips/School documents/`.
 
+## 2026-08-04 — Exam 2 pool ordering, Exam 2 pools tab, state sync
+
+**Files changed:** `exam2-review-map-exam.js`, `exam2-review-map-app.js`, `exam2-review-map.html`, `exam2-review-map-state.json`, `exam3-review-map-state.json`
+
+**What worked:** Vs Exam 2 tab now inserts split-out pool questions in numeric/section order (not at the bottom). New **Exam 2 pools** tab shows pool numbers and question IDs only, in order. Downloaded browser state synced to GitHub for both exam 2 (with `examGroups`) and exam 3 review map.
+
+**Current state:** Green — map at `http://127.0.0.1:8765/exam2-review-map.html` (docs server must be running).
+
+**File size flag:** None
+
+**Next session:** Manual check pool split ordering on Vs Exam 2; pull state on school laptop via Load from GitHub file.
+
 ## 2026-08-04 — Exam 3 homework/review map + harvest pipeline
 
 **Files changed:** `exam3-homework-map.html` (413), `exam3-homework-map-app.js` (374), `exam3-map-state.js` (264), `exam3-homework-map-data.js`, `exam3-homework-harvest.json`, `exam3-review-harvest.json`, `exam3-review-map-state.json`, `harvest/` (HARVEST.md, batch harvest/clean/map scripts, `pearson_a11y_math.py` (568)), `README.md`; exam2 map files touched for comparison pattern.

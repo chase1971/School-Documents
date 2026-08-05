@@ -28,6 +28,39 @@ function sectionRank(sec) {
   return idx === -1 ? 999 : idx;
 }
 
+function numericIdParts(id) {
+  return examBaseId(id)
+    .split(".")
+    .map((n) => parseInt(n, 10) || 0);
+}
+
+function compareQuestionIds(a, b) {
+  const ra = sectionRank(sectionOf(a));
+  const rb = sectionRank(sectionOf(b));
+  if (ra !== rb) return ra - rb;
+  const pa = numericIdParts(a);
+  const pb = numericIdParts(b);
+  const len = Math.max(pa.length, pb.length);
+  for (let i = 0; i < len; i++) {
+    const va = pa[i] || 0;
+    const vb = pb[i] || 0;
+    if (va !== vb) return va - vb;
+  }
+  return String(a).localeCompare(String(b));
+}
+
+function poolSortKey(group) {
+  return group.slice().sort(compareQuestionIds)[0];
+}
+
+function insertIndexForPool(group) {
+  const key = poolSortKey(group);
+  for (let i = 0; i < examGroups.length; i++) {
+    if (compareQuestionIds(key, poolSortKey(examGroups[i])) < 0) return i;
+  }
+  return examGroups.length;
+}
+
 function selectExamId(id) {
   selectedExamId = selectedExamId === id ? null : id;
   renderExamComparison();
@@ -49,7 +82,8 @@ function removeFromGroup(id) {
   const srcIndex = findGroupIndex(id);
   if (srcIndex === -1 || examGroups[srcIndex].length <= 1) return;
   examGroups[srcIndex] = examGroups[srcIndex].filter((x) => x !== id);
-  examGroups.push([id]);
+  if (examGroups[srcIndex].length === 0) examGroups.splice(srcIndex, 1);
+  examGroups.splice(insertIndexForPool([id]), 0, [id]);
   saveExamGroups();
   selectedExamId = null;
   setSyncStatus("Local change saved in this browser. Download state for GitHub when ready.");
@@ -58,15 +92,7 @@ function removeFromGroup(id) {
 
 function addReviewIdToExam(id) {
   if (findGroupIndex(id) !== -1) return;
-  const rank = sectionRank(sectionOf(id));
-  let insertAt = examGroups.length;
-  for (let i = 0; i < examGroups.length; i++) {
-    if (sectionRank(sectionOf(examGroups[i][0])) > rank) {
-      insertAt = i;
-      break;
-    }
-  }
-  examGroups.splice(insertAt, 0, [id]);
+  examGroups.splice(insertIndexForPool([id]), 0, [id]);
   saveExamGroups();
   setSyncStatus("Added to exam. Saved in this browser — download state for GitHub when ready.");
   renderExamComparison();
@@ -310,4 +336,46 @@ function renderExamComparison() {
   const examBaseSet = new Set(examGroups.flat().map(examBaseId));
   renderExamReviewSide(examBaseSet);
   renderExamPoolSide(reviewIds);
+}
+
+function renderExamList() {
+  const flatIds = examGroups.flat();
+  const toolbar = document.getElementById("exam-list-toolbar");
+  toolbar.innerHTML =
+    "<strong>" +
+    examGroups.length +
+    " pools</strong>" +
+    " · " +
+    flatIds.length +
+    " possible questions";
+
+  const list = document.getElementById("exam-list-body");
+  list.innerHTML = "";
+  if (!examGroups.length) {
+    list.innerHTML = '<div class="empty-msg">No exam pools.</div>';
+    return;
+  }
+  examGroups.forEach((group, groupIndex) => {
+    const sortedIds = group.slice().sort(compareQuestionIds);
+    const row = document.createElement("div");
+    row.className = "q-row";
+    const label = document.createElement("span");
+    label.className = "qid";
+    label.style.minWidth = "6.5rem";
+    label.textContent = "Pool " + (groupIndex + 1);
+    row.appendChild(label);
+    const ids = document.createElement("span");
+    ids.className = "q-note";
+    ids.style.fontFamily = 'Consolas, "Courier New", monospace';
+    ids.style.color = "var(--purple)";
+    ids.textContent = sortedIds.join(" · ");
+    row.appendChild(ids);
+    if (group.length > 1) {
+      const badge = document.createElement("span");
+      badge.className = "badge badge-hw";
+      badge.textContent = "1 of " + group.length;
+      row.appendChild(badge);
+    }
+    list.appendChild(row);
+  });
 }

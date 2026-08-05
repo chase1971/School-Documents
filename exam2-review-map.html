@@ -272,7 +272,8 @@
       color: var(--accent);
     }
     .columns.hidden,
-    #full-view.hidden { display: none; }
+    #full-view.hidden,
+    #exam-list-view.hidden { display: none; }
     #full-view { margin-bottom: 0; }
     .full-toolbar {
       display: flex;
@@ -466,6 +467,7 @@
       <button type="button" class="view-tab active" id="tab-section" data-view="section">By section</button>
       <button type="button" class="view-tab" id="tab-full" data-view="full">Full review</button>
       <button type="button" class="view-tab" id="tab-exam" data-view="exam">Vs Exam 2</button>
+      <button type="button" class="view-tab" id="tab-examlist" data-view="examlist">Exam 2 pools</button>
     </div>
 
     <div class="sync-bar" id="sync-bar">
@@ -515,6 +517,12 @@
         <div class="pool-hint" id="pool-hint"></div>
         <div id="exam-pool-list"></div>
       </div>
+    </div>
+
+    <div class="panel hidden" id="exam-list-view">
+      <div class="panel-head">Exam 2 <span>— all pools, IDs only</span></div>
+      <div class="full-toolbar" id="exam-list-toolbar"></div>
+      <div id="exam-list-body"></div>
     </div>
 
     <div class="footer">

@@ -504,17 +504,21 @@ function renderAll() {
   const sectionView = document.getElementById("section-view");
   const fullView = document.getElementById("full-view");
   const examView = document.getElementById("exam-view");
+  const examListView = document.getElementById("exam-list-view");
   const tabSection = document.getElementById("tab-section");
   const tabFull = document.getElementById("tab-full");
   const tabExam = document.getElementById("tab-exam");
+  const tabExamList = document.getElementById("tab-examlist");
   const subtitle = document.getElementById("subtitle");
 
   tabSection.classList.toggle("active", viewMode === "section");
   tabFull.classList.toggle("active", viewMode === "full");
   tabExam.classList.toggle("active", viewMode === "exam");
+  tabExamList.classList.toggle("active", viewMode === "examlist");
   sectionView.classList.toggle("hidden", viewMode !== "section");
   fullView.classList.toggle("hidden", viewMode !== "full");
   examView.classList.toggle("hidden", viewMode !== "exam");
+  examListView.classList.toggle("hidden", viewMode !== "examlist");
 
   if (viewMode === "full") {
     subtitle.textContent =
@@ -524,6 +528,10 @@ function renderAll() {
     subtitle.textContent =
       "Review (left) vs the live Exam 2 question pools (right) — matches highlighted in green. Pools with more than one question are randomly assigned, one per student.";
     renderExamComparison();
+  } else if (viewMode === "examlist") {
+    subtitle.textContent =
+      "All Exam 2 question pools — IDs only, in order.";
+    renderExamList();
   } else {
     subtitle.textContent =
       "Click a homework section on the left — the right shows matching Exam 2 Review questions for that section number.";
@@ -574,6 +582,9 @@ async function boot() {
     document
       .getElementById("tab-exam")
       .addEventListener("click", () => setViewMode("exam"));
+    document
+      .getElementById("tab-examlist")
+      .addEventListener("click", () => setViewMode("examlist"));
 
     if (!hasLocalStateKeys()) {
       try {
