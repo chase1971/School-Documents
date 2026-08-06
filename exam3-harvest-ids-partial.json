@@ -1,0 +1,422 @@
+[
+  {
+    "header": {
+      "name": "4.5 Optimization Problems",
+      "chapterCoverage": "3",
+      "totalPoints": "13",
+      "estimatedTime": "9m 40s+",
+      "difficulty": "Hard (1), Moderate (2)",
+      "historyId": "97040_H_492775450_2"
+    },
+    "rows": [
+      {
+        "order": "1",
+        "questionId": "4.5.16",
+        "objective": "Solve applications involving optimization.",
+        "estimatedTime": "4m 9s",
+        "difficulty": "Hard",
+        "points": "1"
+      },
+      {
+        "order": "2",
+        "questionId": "4.5.20",
+        "objective": "Solve applications involving optimization.",
+        "estimatedTime": "2m 29s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "3",
+        "questionId": "4.5.21",
+        "objective": "Solve applications involving optimization.",
+        "estimatedTime": "3m 2s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "4",
+        "questionId": "4.8.12",
+        "objective": "",
+        "estimatedTime": "",
+        "difficulty": "",
+        "points": "1"
+      },
+      {
+        "order": "5",
+        "questionId": "4.8.13",
+        "objective": "",
+        "estimatedTime": "",
+        "difficulty": "",
+        "points": "1"
+      },
+      {
+        "order": "6",
+        "questionId": "4.6.19-BE",
+        "objective": "",
+        "estimatedTime": "",
+        "difficulty": "",
+        "points": "1"
+      },
+      {
+        "order": "7",
+        "questionId": "4.6.21-BE",
+        "objective": "",
+        "estimatedTime": "",
+        "difficulty": "",
+        "points": "1"
+      },
+      {
+        "order": "8",
+        "questionId": "4.6.25-BE",
+        "objective": "",
+        "estimatedTime": "",
+        "difficulty": "",
+        "points": "1"
+      },
+      {
+        "order": "9",
+        "questionId": "4.6.27-BE",
+        "objective": "",
+        "estimatedTime": "",
+        "difficulty": "",
+        "points": "1"
+      },
+      {
+        "order": "10",
+        "questionId": "4.6.37-BE",
+        "objective": "",
+        "estimatedTime": "",
+        "difficulty": "",
+        "points": "1"
+      },
+      {
+        "order": "11",
+        "questionId": "4.6.38-LS",
+        "objective": "",
+        "estimatedTime": "",
+        "difficulty": "",
+        "points": "1"
+      },
+      {
+        "order": "12",
+        "questionId": "4.6.39-BE",
+        "objective": "",
+        "estimatedTime": "",
+        "difficulty": "",
+        "points": "1"
+      },
+      {
+        "order": "13",
+        "questionId": "4.6.41-BE",
+        "objective": "",
+        "estimatedTime": "",
+        "difficulty": "",
+        "points": "1"
+      }
+    ],
+    "requested": "4.5 Optimization Problems"
+  },
+  {
+    "header": {
+      "name": "4.6 Linear Approximation and Differentials",
+      "chapterCoverage": "3",
+      "totalPoints": "15",
+      "estimatedTime": "23m 50s+",
+      "difficulty": "Moderate (9), Hard (1), Easy (5)",
+      "historyId": "97040_H_492775451_2"
+    },
+    "rows": [
+      {
+        "order": "1",
+        "questionId": "4.6.7",
+        "objective": "Answer conceptual questions involving linear approximations and differentials.",
+        "estimatedTime": "1m 32s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "2",
+        "questionId": "4.6.25",
+        "objective": "Construct a linear approximation to estimate the value of a function and find the percent error.",
+        "estimatedTime": "3m 4s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "3",
+        "questionId": "4.6.28",
+        "objective": "Construct a linear approximation to estimate the value of a function and find the percent error.",
+        "estimatedTime": "3m 20s",
+        "difficulty": "Hard",
+        "points": "1"
+      },
+      {
+        "order": "4",
+        "questionId": "4.6.30",
+        "objective": "Construct a linear approximation to estimate the value of a function and find the percent error.",
+        "estimatedTime": "2m 33s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "5",
+        "questionId": "4.6.39",
+        "objective": "Choose a value to minimize error and use it to write a linear approximation of a quantity.",
+        "estimatedTime": "1m 49s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "6",
+        "questionId": "4.6.40",
+        "objective": "Choose a value to minimize error and use it to write a linear approximation of a quantity.",
+        "estimatedTime": "1m 56s",
+        "difficulty": "Easy",
+        "points": "1"
+      },
+      {
+        "order": "7",
+        "questionId": "4.6.41",
+        "objective": "Choose a value to minimize error and use it to write a linear approximation of a quantity.",
+        "estimatedTime": "1m 22s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "8",
+        "questionId": "4.6.55",
+        "objective": "Use linear approximations to approximate changes in volume or surface area of geometric objects.",
+        "estimatedTime": "1m 25s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "9",
+        "questionId": "4.6.57",
+        "objective": "Use linear approximations to approximate changes in volume or surface area of geometric objects.",
+        "estimatedTime": "1m 22s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "10",
+        "questionId": "4.6.61",
+        "objective": "Given y=f(x), write a differential expressing the change in y as a function of a change in x.",
+        "estimatedTime": "39s",
+        "difficulty": "Easy",
+        "points": "1"
+      },
+      {
+        "order": "11",
+        "questionId": "4.6.63",
+        "objective": "Given y=f(x), write a differential expressing the change in y as a function of a change in x.",
+        "estimatedTime": "57s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "12",
+        "questionId": "4.6.64",
+        "objective": "Given y=f(x), write a differential expressing the change in y as a function of a change in x.",
+        "estimatedTime": "42s",
+        "difficulty": "Easy",
+        "points": "1"
+      },
+      {
+        "order": "13",
+        "questionId": "4.6.65",
+        "objective": "Given y=f(x), write a differential expressing the change in y as a function of a change in x.",
+        "estimatedTime": "59s",
+        "difficulty": "Easy",
+        "points": "1"
+      },
+      {
+        "order": "14",
+        "questionId": "4.6.67",
+        "objective": "Given y=f(x), write a differential expressing the change in y as a function of a change in x.",
+        "estimatedTime": "1m 3s",
+        "difficulty": "Easy",
+        "points": "1"
+      },
+      {
+        "order": "15",
+        "questionId": "4.6.69",
+        "objective": "Given y=f(x), write a differential expressing the change in y as a function of a change in x.",
+        "estimatedTime": "1m 7s",
+        "difficulty": "Moderate",
+        "points": "1"
+      }
+    ],
+    "requested": "4.6 Linear Approximation and Differentials"
+  },
+  {
+    "header": {
+      "name": "4.7 L'Hopital's Rule",
+      "chapterCoverage": "3",
+      "totalPoints": "13",
+      "estimatedTime": "21m 20s+",
+      "difficulty": "Easy (6), Moderate (7)",
+      "historyId": "97040_H_492775453_2"
+    },
+    "rows": [
+      {
+        "order": "1",
+        "questionId": "4.7.17",
+        "objective": "Evaluate limits using the form 0/0 or infinity/infinity of l'Hopital's Rule if it applies.",
+        "estimatedTime": "1m 45s",
+        "difficulty": "Easy",
+        "points": "1"
+      },
+      {
+        "order": "2",
+        "questionId": "4.7.18",
+        "objective": "Evaluate limits using the form 0/0 or infinity/infinity of l'Hopital's Rule if it applies.",
+        "estimatedTime": "1m 26s",
+        "difficulty": "Easy",
+        "points": "1"
+      },
+      {
+        "order": "3",
+        "questionId": "4.7.21",
+        "objective": "Evaluate limits using the form 0/0 or infinity/infinity of l'Hopital's Rule if it applies.",
+        "estimatedTime": "1m 19s",
+        "difficulty": "Easy",
+        "points": "1"
+      },
+      {
+        "order": "4",
+        "questionId": "4.7.22",
+        "objective": "Evaluate limits using the form 0/0 or infinity/infinity of l'Hopital's Rule if it applies.",
+        "estimatedTime": "1m 27s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "5",
+        "questionId": "4.7.25",
+        "objective": "Evaluate limits using the form 0/0 or infinity/infinity of l'Hopital's Rule if it applies.",
+        "estimatedTime": "1m 36s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "6",
+        "questionId": "4.7.29",
+        "objective": "Evaluate limits using the form 0/0 or infinity/infinity of l'Hopital's Rule if it applies.",
+        "estimatedTime": "1m 23s",
+        "difficulty": "Easy",
+        "points": "1"
+      },
+      {
+        "order": "7",
+        "questionId": "4.7.33",
+        "objective": "Evaluate limits using the form 0/0 or infinity/infinity of l'Hopital's Rule if it applies.",
+        "estimatedTime": "1m 44s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "8",
+        "questionId": "4.7.35",
+        "objective": "Evaluate limits using the form 0/0 or infinity/infinity of l'Hopital's Rule if it applies.",
+        "estimatedTime": "1m 39s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "9",
+        "questionId": "4.7.39",
+        "objective": "Evaluate limits using the form 0/0 or infinity/infinity of l'Hopital's Rule if it applies.",
+        "estimatedTime": "2m 13s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "10",
+        "questionId": "4.7.43",
+        "objective": "Evaluate limits using the form 0/0 or infinity/infinity of l'Hopital's Rule if it applies.",
+        "estimatedTime": "1m 52s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "11",
+        "questionId": "4.7.23",
+        "objective": "Evaluate limits using the form 0/0 or infinity/infinity of l'Hopital's Rule if it applies.",
+        "estimatedTime": "1m 28s",
+        "difficulty": "Easy",
+        "points": "1"
+      },
+      {
+        "order": "12",
+        "questionId": "4.7.51",
+        "objective": "Evaluate limits using the form 0/0 or infinity/infinity of l'Hopital's Rule if it applies.",
+        "estimatedTime": "2m 1s",
+        "difficulty": "Easy",
+        "points": "1"
+      },
+      {
+        "order": "13",
+        "questionId": "4.7.53",
+        "objective": "Evaluate limits involving the indeterminate form 0*infinity.",
+        "estimatedTime": "1m 27s",
+        "difficulty": "Moderate",
+        "points": "1"
+      }
+    ],
+    "requested": "4.7 L'Hopital's Rule"
+  },
+  {
+    "header": {
+      "name": "4.8 Newton's Method",
+      "chapterCoverage": "3",
+      "totalPoints": "5",
+      "estimatedTime": "17m 0s+",
+      "difficulty": "Moderate (3), Hard (2)",
+      "historyId": "97040_H_492775454_2"
+    },
+    "rows": [
+      {
+        "order": "1",
+        "questionId": "4.8.10",
+        "objective": "Given an initial approximation, use Newton's method to find the first two approximations.",
+        "estimatedTime": "2m 31s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "2",
+        "questionId": "4.8.11",
+        "objective": "Given an initial approximation, use Newton's method to find the first two approximations.",
+        "estimatedTime": "3m 26s",
+        "difficulty": "Hard",
+        "points": "1"
+      },
+      {
+        "order": "3",
+        "questionId": "4.8.12",
+        "objective": "Given an initial approximation, use Newton's method to find the first two approximations.",
+        "estimatedTime": "2m 36s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "4",
+        "questionId": "4.8.13-T",
+        "objective": "Given an initial approximation, use Newton's method to approximate a root of a function.",
+        "estimatedTime": "3m 49s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "5",
+        "questionId": "4.8.15-T",
+        "objective": "Given an initial approximation, use Newton's method to approximate a root of a function.",
+        "estimatedTime": "4m 38s",
+        "difficulty": "Hard",
+        "points": "1"
+      }
+    ],
+    "requested": "4.8 Newton's Method"
+  }
+]

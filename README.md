@@ -45,3 +45,5 @@ Miscellaneous teaching documents that are not part of any app repo — HTML comp
 - Macro App infographics (`School Scrips\Macro App\docs\infographics\`)
 
 When creating new school HTML, tell the AI to save it in this folder.
+
+Construction recipe for exam maps: `../../recipes/school-exam-map-html.md`.

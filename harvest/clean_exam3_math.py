@@ -10,8 +10,10 @@ HARVEST = Path(__file__).resolve().parent
 
 HOMEWORK_JSON = ROOT / "exam3-homework-harvest.json"
 REVIEW_JSON = ROOT / "exam3-review-harvest.json"
+EXAM_JSON = ROOT / "exam3-exam-harvest.json"
 HOMEWORK_BACKUP = ROOT / "exam3-homework-harvest.a11y.json"
 REVIEW_BACKUP = ROOT / "exam3-review-harvest.a11y.json"
+EXAM_BACKUP = ROOT / "exam3-exam-harvest.a11y.json"
 
 sys.path.insert(0, str(HARVEST))
 from pearson_a11y_math import clean_problem_fields  # noqa: E402
@@ -44,6 +46,7 @@ def _clean_file(path: Path, backup: Path) -> bool:
 def main() -> None:
     ok = _clean_file(HOMEWORK_JSON, HOMEWORK_BACKUP)
     _clean_file(REVIEW_JSON, REVIEW_BACKUP)
+    _clean_file(EXAM_JSON, EXAM_BACKUP)
     if not ok:
         raise SystemExit(1)
     write_map()

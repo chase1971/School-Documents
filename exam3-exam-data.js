@@ -1,0 +1,50 @@
+// Exam 3 live pools - harvested from Pearson Question Details.
+// Source: Macro App/scripts/pearson_question_details.py, assignment "Exam 3" (2026-08-06).
+// Rows with the same Pearson order value are pooled; one question from each pool is assigned.
+
+const EXAM3_POOLS = [
+  { pool: 1, questions: ["4.1.23", "4.1.27"] },
+  { pool: 2, questions: ["4.1.49", "4.1.57"] },
+  { pool: 3, questions: ["4.2.21", "4.2.25"] },
+  { pool: 4, questions: ["4.3.39-Setup & Solve", "4.3.40"] },
+  { pool: 5, questions: ["4.3.63", "4.3.65"] },
+  { pool: 6, questions: ["4.3.83", "4.3.85"] },
+  { pool: 7, questions: ["4.4.55"] },
+  { pool: 8, questions: ["4.6.30", "4.6.53"] },
+  { pool: 9, questions: ["4.6.64", "4.6.67"] },
+  { pool: 10, questions: ["4.7.22-Setup & Solve", "4.7.25-Setup & Solve"] },
+  { pool: 11, questions: ["4.8.9", "4.8.10"] },
+  { pool: 12, questions: ["4.9.25", "4.9.35"] },
+  { pool: 13, questions: ["4.9.45", "4.9.47"] },
+  { pool: 14, questions: ["4.9.74", "4.9.91"] },
+];
+
+const EXAM3_OBJECTIVES = {
+  "4.1.23": "Locate critical points of functions.",
+  "4.1.27": "Locate critical points of functions.",
+  "4.1.49": "Determine the existence, location, and value of absolute extrema on a given interval of a function.",
+  "4.1.57": "Determine the existence, location, and value of absolute extrema on a given interval of a function.",
+  "4.2.21": "Find the point(s) guaranteed to exist by the Mean Value Theorem.",
+  "4.2.25": "Find the point(s) guaranteed to exist by the Mean Value Theorem.",
+  "4.3.39-Setup & Solve": "Find the intervals on which a function is increasing or decreasing.",
+  "4.3.40": "Find the intervals on which a function is increasing or decreasing.",
+  "4.3.63": "Determine the concavity on intervals and find inflection points.",
+  "4.3.65": "Determine the concavity on intervals and find inflection points.",
+  "4.3.83": "Determine if critical points correspond to local minima/maxima using the second derivative test.",
+  "4.3.85": "Determine if critical points correspond to local minima/maxima using the second derivative test.",
+  "4.4.55": "Answer advanced conceptual questions about graphing functions.",
+  "4.6.30": "Construct a linear approximation to estimate the value of a function and find the percent error.",
+  "4.6.53": "Answer conceptual questions involving linear approximations and differentials.",
+  "4.6.64": "Given y=f(x), write a differential expressing the change in y as a function of a change in x.",
+  "4.6.67": "Given y=f(x), write a differential expressing the change in y as a function of a change in x.",
+  "4.7.22-Setup & Solve": "Evaluate limits using the form 0/0 or infinity/infinity of L'Hopital's Rule if it applies.",
+  "4.7.25-Setup & Solve": "Evaluate limits using the form 0/0 or infinity/infinity of L'Hopital's Rule if it applies.",
+  "4.8.9": "Given an initial approximation, use Newton's method to find the first two approximations.",
+  "4.8.10": "Given an initial approximation, use Newton's method to find the first two approximations.",
+  "4.9.25": "Determine the indefinite integrals of a function.",
+  "4.9.35": "Determine the indefinite integrals of a function.",
+  "4.9.45": "Determine the indefinite integrals of a function.",
+  "4.9.47": "Determine the indefinite integrals of a function.",
+  "4.9.74": "Given a function, find the antiderivative satisfying a given condition.",
+  "4.9.91": "Find a position function given a velocity function and an initial position.",
+};

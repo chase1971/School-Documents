@@ -1,0 +1,592 @@
+[
+  {
+    "requested": "Exam 3",
+    "captureMethod": "Pearson preview player (assignmentplayer.aspx) + Ask the publisher ID",
+    "capturedAt": "2026-08-06T22:19:38Z",
+    "questionIds": [
+      "4.1.23",
+      "4.1.27",
+      "4.1.49",
+      "4.1.57",
+      "4.2.21",
+      "4.2.25",
+      "4.3.39-Setup & Solve",
+      "4.3.40",
+      "4.3.63",
+      "4.3.65",
+      "4.3.83",
+      "4.3.85",
+      "4.4.55",
+      "4.6.30",
+      "4.6.53",
+      "4.6.64",
+      "4.6.67",
+      "4.7.22-Setup & Solve",
+      "4.7.25-Setup & Solve",
+      "4.8.9",
+      "4.8.10",
+      "4.9.25",
+      "4.9.35",
+      "4.9.45",
+      "4.9.47",
+      "4.9.74",
+      "4.9.91"
+    ],
+    "capturedQuestionIds": [
+      "4.1.23",
+      "4.1.49",
+      "4.2.21",
+      "4.3.39-Setup & Solve",
+      "4.3.65",
+      "4.3.85",
+      "4.4.55",
+      "4.6.30",
+      "4.6.64",
+      "4.7.22-Setup & Solve",
+      "4.8.10",
+      "4.9.35",
+      "4.9.45",
+      "4.9.74"
+    ],
+    "missingQuestionIds": [
+      "4.1.27",
+      "4.1.57",
+      "4.2.25",
+      "4.3.40",
+      "4.3.63",
+      "4.3.83",
+      "4.6.53",
+      "4.6.67",
+      "4.7.25-Setup & Solve",
+      "4.8.9",
+      "4.9.25",
+      "4.9.47",
+      "4.9.91"
+    ],
+    "unexpectedQuestionIds": [],
+    "coverage": {
+      "captured": 14,
+      "expected": 27
+    },
+    "problems": [
+      {
+        "printOrder": 1,
+        "questionId": "4.1.23",
+        "summary": "Find the critical points of the following function.",
+        "fullText": "Find the critical points of the following function.\nf(x) = 5x² + 3x + 1\nSelect the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe critical point(s) occur(s) at x\n(Use a comma to separate answers as needed.)\nB.\nThere are no critical points.",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "Find the critical points of the following function.\nf(x) = 5x² + 3x + 1\nSelect the correct choice below and, if necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "A.",
+            "text": "The critical point(s) occur(s) at x\n(Use a comma to separate answers as needed.)"
+          },
+          {
+            "label": "B.",
+            "text": "There are no critical points."
+          }
+        ],
+        "prompt": "Find the critical points of the following function.",
+        "expr": "f(x) = 5x² + 3x + 1",
+        "objective": "Locate critical points of functions.",
+        "poolOrder": "1",
+        "difficulty": "Easy",
+        "estimatedTime": "1m 22s"
+      },
+      {
+        "printOrder": 2,
+        "questionId": "4.1.49",
+        "summary": "Determine the location and value of the absolute extreme values of f on the given interval, if…",
+        "fullText": "Determine the location and value of the absolute extreme values of f on the given interval, if they exist.\nf(x) = 5 cos² x\n5cos²x on\n[0 , π]\n[0,π]\nSelect the correct choice below and, if necessary, fill in the answer boxes to complete your choice.\n(Type an exact answer, using\npi\nπ as needed. Use a comma to separate answers as needed.)\nA.\nThe absolute maximum is\nat x\n, but there is no absolute minimum.\nB.\nThe absolute maximum is\nat x\nand the absolute minimum is\nat x\nC.\nThe absolute minimum is\nat x\n, but there is no absolute maximum.\nD.\nThere are no absolute extreme values for\nf(x) = f(x) [0 , π] [0 , π].",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "Determine the location and value of the absolute extreme values of f on the given interval, if they exist.\nf(x) = 5 cos² x\n5cos²x on\n[0 , π]\n[0,π]\nSelect the correct choice below and, if necessary, fill in the answer boxes to complete your choice.\n(Type an exact answer, using\npi\nπ as needed. Use a comma to separate answers as needed.)"
+          },
+          {
+            "label": "A.",
+            "text": "The absolute maximum is\nat x\n, but there is no absolute minimum."
+          },
+          {
+            "label": "B.",
+            "text": "The absolute maximum is\nat x\nand the absolute minimum is\nat x"
+          },
+          {
+            "label": "C.",
+            "text": "The absolute minimum is\nat x\n, but there is no absolute maximum."
+          },
+          {
+            "label": "D.",
+            "text": "There are no absolute extreme values for\nf(x) = f(x) [0 , π] [0 , π]."
+          }
+        ],
+        "prompt": "Determine the location and value of the absolute extreme values of f on the given interval, if…",
+        "expr": "f(x) = 5 cos² x",
+        "objective": "",
+        "poolOrder": "2"
+      },
+      {
+        "printOrder": 3,
+        "questionId": "4.2.21",
+        "summary": "a. Determine whether the Mean Value Theorem applies to the function f(x)",
+        "fullText": "a. Determine whether the Mean Value Theorem applies to the function f(x)\n= 6\n− x\n²\n2 on the interval [\nnegative 2\n−2,1].\nb. If so, find the point(s) that are guaranteed to exist by the Mean Value Theorem.\nPart 1 of 2\na. Choose the correct answer below.\nA.\nNo, because the function is not continuous on the interval [\nnegative 2\n−2,1], and is not differentiable on the interval (\nnegative 2\n− 2 , 1).\nB.\nNo, because the function is differentiable on the interval (\nnegative 2\n−2,1), but is not continuous on the interval [\nnegative 2\n−2,1].\nC.\nYes, because the function is continuous on the interval [\nnegative 2\n−2,1] and differentiable on the interval (\nnegative 2\n− 2 , 1).\nD.\nNo, because the function is continuous on the interval [\nnegative 2\n−2,1], but is not differentiable on the interval (\nnegative 2\n− 2 , 1).\nPart 2 of 2\nb. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe point(s) is/are x\n(Simplify your answer. Use a comma to separate answers as needed.)\nB.\nThe Mean Value Theorem does not apply in this case.",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "a. Determine whether the Mean Value Theorem applies to the function f(x)\n= 6\n− x\n²\n2 on the interval [\nnegative 2\n−2,1].\nb. If so, find the point(s) that are guaranteed to exist by the Mean Value Theorem."
+          },
+          {
+            "label": "Part 1 of 2",
+            "text": "a. Choose the correct answer below."
+          },
+          {
+            "label": "A.",
+            "text": "No, because the function is not continuous on the interval [\nnegative 2\n−2,1], and is not differentiable on the interval (\nnegative 2\n− 2 , 1)."
+          },
+          {
+            "label": "B.",
+            "text": "No, because the function is differentiable on the interval (\nnegative 2\n−2,1), but is not continuous on the interval [\nnegative 2\n−2,1]."
+          },
+          {
+            "label": "C.",
+            "text": "Yes, because the function is continuous on the interval [\nnegative 2\n−2,1] and differentiable on the interval (\nnegative 2\n− 2 , 1)."
+          },
+          {
+            "label": "D.",
+            "text": "No, because the function is continuous on the interval [\nnegative 2\n−2,1], but is not differentiable on the interval (\nnegative 2\n− 2 , 1)."
+          },
+          {
+            "label": "Part 2 of 2",
+            "text": "b. Select the correct choice below and, if necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "A.",
+            "text": "The point(s) is/are x\n(Simplify your answer. Use a comma to separate answers as needed.)"
+          },
+          {
+            "label": "B.",
+            "text": "The Mean Value Theorem does not apply in this case."
+          }
+        ],
+        "prompt": "a. Determine whether the Mean Value Theorem applies to the function f(x)",
+        "expr": "",
+        "objective": "",
+        "poolOrder": "3"
+      },
+      {
+        "printOrder": 4,
+        "questionId": "4.3.39-Setup & Solve",
+        "summary": "Find the intervals on which f is increasing and the intervals on which it is decreasing.",
+        "fullText": "Find the intervals on which f is increasing and the intervals on which it is decreasing.\nf(x) = − 12 x⁵ + + 135 x⁴ − 400 x³\nPart 1 of 2\nFind\nf′ (x)\nf′(x).\nf′ (x)\nf′(x)\nPart 2 of 2\nSelect the correct choice below and, if necessary, fill in the answer box(es) to complete your choice.\nA.\nThe function is decreasing on the open interval(s)\n. The function is never increasing.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)\nB.\nThe function is increasing on the open interval(s)\n. The function is never decreasing.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)\nC.\nThe function is increasing on the open interval(s)\nand decreasing on the open interval(s)\n(Simplify your answers. Type your answers in interval notation. Use a comma to separate answers as needed.)\nD.\nThe function is never increasing or decreasing.",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "Find the intervals on which f is increasing and the intervals on which it is decreasing.\nf(x) = − 12 x⁵ + + 135 x⁴ − 400 x³"
+          },
+          {
+            "label": "Part 1 of 2",
+            "text": "Find\nf′ (x)\nf′(x).\nf′ (x)\nf′(x)"
+          },
+          {
+            "label": "Part 2 of 2",
+            "text": "Select the correct choice below and, if necessary, fill in the answer box(es) to complete your choice."
+          },
+          {
+            "label": "A.",
+            "text": "The function is decreasing on the open interval(s)\n. The function is never increasing.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)"
+          },
+          {
+            "label": "B.",
+            "text": "The function is increasing on the open interval(s)\n. The function is never decreasing.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)"
+          },
+          {
+            "label": "C.",
+            "text": "The function is increasing on the open interval(s)\nand decreasing on the open interval(s)\n(Simplify your answers. Type your answers in interval notation. Use a comma to separate answers as needed.)"
+          },
+          {
+            "label": "D.",
+            "text": "The function is never increasing or decreasing."
+          }
+        ],
+        "prompt": "Find the intervals on which f is increasing and the intervals on which it is decreasing.",
+        "expr": "f(x) = − 12 x⁵ + + 135 x⁴ − 400 x³",
+        "objective": "Find the intervals on which a function is increasing or decreasing.",
+        "poolOrder": "4",
+        "difficulty": "Moderate",
+        "estimatedTime": "4m 15s"
+      },
+      {
+        "printOrder": 5,
+        "questionId": "4.3.65",
+        "summary": "Determine the intervals on which the following function is concave up or concave down. Identif…",
+        "fullText": "Determine the intervals on which the following function is concave up or concave down. Identify any inflection points.\nf(x) = − 5 x⁴ − 60 x³ + 10\n− 5x⁴ − 60x³ + 10\nPart 1 of 2\nDetermine the intervals on which the following functions are concave up or concave down. Select the correct choice and, if necessary, fill in the answer box(es) to complete your choice.\nA.\nThe function is concave down on\nand concave up on\n(Simplify your answers. Type your answers in interval notation. Use a comma to separate answers as needed.)\nB.\nThe function is concave up on\nand the function is never concave down.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)\nC.\nThe function is concave down on\nand the function is never concave up.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)\nD.\nThe function is never concave up nor concave down.\nPart 2 of 2\nLocate any inflection points of f. Select the correct choice and, if necessary, fill in the answer box to complete your choice.\nA.\nAn inflection point occurs at x\n(Use a comma to separate answers as needed.)\nB.\nThere are no inflection points for f.",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "Determine the intervals on which the following function is concave up or concave down. Identify any inflection points.\nf(x) = − 5 x⁴ − 60 x³ + 10\n− 5x⁴ − 60x³ + 10"
+          },
+          {
+            "label": "Part 1 of 2",
+            "text": "Determine the intervals on which the following functions are concave up or concave down. Select the correct choice and, if necessary, fill in the answer box(es) to complete your choice."
+          },
+          {
+            "label": "A.",
+            "text": "The function is concave down on\nand concave up on\n(Simplify your answers. Type your answers in interval notation. Use a comma to separate answers as needed.)"
+          },
+          {
+            "label": "B.",
+            "text": "The function is concave up on\nand the function is never concave down.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)"
+          },
+          {
+            "label": "C.",
+            "text": "The function is concave down on\nand the function is never concave up.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)"
+          },
+          {
+            "label": "D.",
+            "text": "The function is never concave up nor concave down."
+          },
+          {
+            "label": "Part 2 of 2",
+            "text": "Locate any inflection points of f. Select the correct choice and, if necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "A.",
+            "text": "An inflection point occurs at x\n(Use a comma to separate answers as needed.)"
+          },
+          {
+            "label": "B.",
+            "text": "There are no inflection points for f."
+          }
+        ],
+        "prompt": "Determine the intervals on which the following function is concave up or concave down. Identif…",
+        "expr": "f(x) = − 5 x⁴ − 60 x³ + 10",
+        "objective": "Determine the concavity on intervals and find inflection points.",
+        "poolOrder": "5",
+        "difficulty": "Moderate",
+        "estimatedTime": "2m 55s"
+      },
+      {
+        "printOrder": 6,
+        "questionId": "4.3.85",
+        "summary": "Locate the critical points of the following function. Then use the Second Derivative Test to d…",
+        "fullText": "Locate the critical points of the following function. Then use the Second Derivative Test to determine whether they correspond to local maxima, local minima, or neither.\nf(x) = 4 x² e^(−2x) − 1\n4x²e − 2x − 1\nPart 1 of 3\nWhat is(are) the critical point(s) of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe critical point(s) is(are) x\n. (Use a comma to separate answers as needed.)\nB.\nThere are no critical points for f.\nPart 2 of 3\nWhat is/are the local minimum/minima of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe local minimum/minima of f is/are at x\n(Use a comma to separate answers as needed.)\nB.\nThere is no local minimum of f.\nPart 3 of 3\nWhat is/are the local maximum/maxima of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe local maximum/maxima of f is/are at x\n(Use a comma to separate answers as needed.)\nB.\nThere is no local maximum of f.",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "Locate the critical points of the following function. Then use the Second Derivative Test to determine whether they correspond to local maxima, local minima, or neither.\nf(x) = 4 x² e^(−2x) − 1\n4x²e − 2x − 1"
+          },
+          {
+            "label": "Part 1 of 3",
+            "text": "What is(are) the critical point(s) of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "A.",
+            "text": "The critical point(s) is(are) x\n. (Use a comma to separate answers as needed.)"
+          },
+          {
+            "label": "B.",
+            "text": "There are no critical points for f."
+          },
+          {
+            "label": "Part 2 of 3",
+            "text": "What is/are the local minimum/minima of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "A.",
+            "text": "The local minimum/minima of f is/are at x\n(Use a comma to separate answers as needed.)"
+          },
+          {
+            "label": "B.",
+            "text": "There is no local minimum of f."
+          },
+          {
+            "label": "Part 3 of 3",
+            "text": "What is/are the local maximum/maxima of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "A.",
+            "text": "The local maximum/maxima of f is/are at x\n(Use a comma to separate answers as needed.)"
+          },
+          {
+            "label": "B.",
+            "text": "There is no local maximum of f."
+          }
+        ],
+        "prompt": "Locate the critical points of the following function. Then use the Second Derivative Test to d…",
+        "expr": "f(x) = 4 x² e^(−2x) − 1",
+        "objective": "Determine if critical points correspond to local minima/maxima using the second derivative test.",
+        "poolOrder": "6",
+        "difficulty": "Moderate",
+        "estimatedTime": "3m 30s"
+      },
+      {
+        "printOrder": 7,
+        "questionId": "4.4.55",
+        "summary": "Determine whether the following statements are true and give an explanation or counterexample.",
+        "fullText": "Determine whether the following statements are true and give an explanation or counterexample.\nPart 1 of 4\na. The zeroes of\nf′\nf′ are\n−3, 1, and 4, so the local extrema are located at these points. Choose the correct answer below.\nA.\nTrue.  The zeros of\nf′\nf′ are local extrema so long as the denominator is nonzero at those points.\nB.\nFalse. A zero of\nf′\nf′ is a critical point and is a local extremum so long as\nf′ (x)\nf′(x) changes sign.  Take, for example, the function\nf(x) = (x + 3)3(x − 1)3(x − 4)3.\nC.\nFalse. The zeros of\nf′\nf′ are the inflection points of f.\nD.\nTrue. The zeros of\nf′\nf′ are the local extrema of f.\nPart 2 of 4\nb. The zeros of\nf′′\nf′′ are\n−2 and 4, so the inflection points are located at these points. Choose the correct answer below.\nA.\nTrue. Another requirement is that\nf′′ (x)\nf′′(x) changes sign at these points.\nB.\nFalse. Another requirement is that\nf′′ (x)\nf′′(x) does not change sign at these points. Take, for example, the function\nf(x) = x³.\nC.\nTrue. If the zeroes of\nf′′\nf′′ occur at these points, then the inflection points are located at these points.\nD.\nFalse. Another requirement is that\nf′′ (x)\nf′′(x) changes sign at these points. Take, for example, the function\nf(x) = (x + 2)4(x − 4)4.\nPart 3 of 4\nc. The zeros of the denominator of f are\n−3 and 4, so f has vertical asymptotes at these points. Choose the correct answer below.\nA.\nFalse. These points are only candidates for vertical asymptotes. Consider, for example, the function f(x)\n(x² − 9)/(x² − x − 12)\nB.\nTrue. Vertical asymptotes occur where zeros of the denominator happen.\nC.\nFalse. Vertical asymptotes require examining limits as x\nright arrow\n→\nplus or minus\n±\ninfinity\n∞.\nD.\nTrue. Vertical asymptotes require examining limits of the denominator as x\nright arrow\n→\nplus or minus\n±\ninfinity\n∞.\nPart 4 of 4\nd. If a rational function has a finite limit as x\nright arrow\n→\ninfinity\n∞, it must have a finite limit as x\nright arrow\n→\ninfinity\n∞. Choose the correct answer below.\nA.\nFalse. One side of a rational function does not dictate the limit of the opposite side of the function. Take, for example, the function\nf(x) =\n1\nlnx\nB.\nTrue. If a rational function has a finite limit as x\nright arrow\n→\ninfinity\n∞, then the degree of the numerator is greater than the degree of the denominator. In this instance, the limit as x\nright arrow\n→\ninfinity\n∞ is finite.\nC.\nFalse. If one side of a rational function has a finite limit, then the other side must diverge to infinity. Take, for example, the function\nf(x) =\n1\nex\nD.\nTrue. If a rational function has a finite limit as x\nright arrow\n→\ninfinity\n∞, then either the degree of the numerator is the same as the degree of the denominator or the degree of the numerator is less than the degree of the denominator. In either of these instances, the limit as x\nright arrow\n→\ninfinity\n∞ is finite.",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "Determine whether the following statements are true and give an explanation or counterexample."
+          },
+          {
+            "label": "Part 1 of 4",
+            "text": "a. The zeroes of\nf′\nf′ are\n−3, 1, and 4, so the local extrema are located at these points. Choose the correct answer below."
+          },
+          {
+            "label": "A.",
+            "text": "True.  The zeros of\nf′\nf′ are local extrema so long as the denominator is nonzero at those points."
+          },
+          {
+            "label": "B.",
+            "text": "False. A zero of\nf′\nf′ is a critical point and is a local extremum so long as\nf′ (x)\nf′(x) changes sign.  Take, for example, the function\nf(x) = (x + 3)3(x − 1)3(x − 4)3."
+          },
+          {
+            "label": "C.",
+            "text": "False. The zeros of\nf′\nf′ are the inflection points of f."
+          },
+          {
+            "label": "D.",
+            "text": "True. The zeros of\nf′\nf′ are the local extrema of f."
+          },
+          {
+            "label": "Part 2 of 4",
+            "text": "b. The zeros of\nf′′\nf′′ are\n−2 and 4, so the inflection points are located at these points. Choose the correct answer below."
+          },
+          {
+            "label": "A.",
+            "text": "True. Another requirement is that\nf′′ (x)\nf′′(x) changes sign at these points."
+          },
+          {
+            "label": "B.",
+            "text": "False. Another requirement is that\nf′′ (x)\nf′′(x) does not change sign at these points. Take, for example, the function\nf(x) = x³."
+          },
+          {
+            "label": "C.",
+            "text": "True. If the zeroes of\nf′′\nf′′ occur at these points, then the inflection points are located at these points."
+          },
+          {
+            "label": "D.",
+            "text": "False. Another requirement is that\nf′′ (x)\nf′′(x) changes sign at these points. Take, for example, the function\nf(x) = (x + 2)4(x − 4)4."
+          },
+          {
+            "label": "Part 3 of 4",
+            "text": "c. The zeros of the denominator of f are\n−3 and 4, so f has vertical asymptotes at these points. Choose the correct answer below."
+          },
+          {
+            "label": "A.",
+            "text": "False. These points are only candidates for vertical asymptotes. Consider, for example, the function f(x)\n(x² − 9)/(x² − x − 12)"
+          },
+          {
+            "label": "B.",
+            "text": "True. Vertical asymptotes occur where zeros of the denominator happen."
+          },
+          {
+            "label": "C.",
+            "text": "False. Vertical asymptotes require examining limits as x\nright arrow\n→\nplus or minus\n±\ninfinity\n∞."
+          },
+          {
+            "label": "D.",
+            "text": "True. Vertical asymptotes require examining limits of the denominator as x\nright arrow\n→\nplus or minus\n±\ninfinity\n∞."
+          },
+          {
+            "label": "Part 4 of 4",
+            "text": "d. If a rational function has a finite limit as x\nright arrow\n→\ninfinity\n∞, it must have a finite limit as x\nright arrow\n→\ninfinity\n∞. Choose the correct answer below."
+          },
+          {
+            "label": "A.",
+            "text": "False. One side of a rational function does not dictate the limit of the opposite side of the function. Take, for example, the function\nf(x) =\n1\nlnx"
+          },
+          {
+            "label": "B.",
+            "text": "True. If a rational function has a finite limit as x\nright arrow\n→\ninfinity\n∞, then the degree of the numerator is greater than the degree of the denominator. In this instance, the limit as x\nright arrow\n→\ninfinity\n∞ is finite."
+          },
+          {
+            "label": "C.",
+            "text": "False. If one side of a rational function has a finite limit, then the other side must diverge to infinity. Take, for example, the function\nf(x) =\n1\nex"
+          },
+          {
+            "label": "D.",
+            "text": "True. If a rational function has a finite limit as x\nright arrow\n→\ninfinity\n∞, then either the degree of the numerator is the same as the degree of the denominator or the degree of the numerator is less than the degree of the denominator. In either of these instances, the limit as x\nright arrow\n→\ninfinity\n∞ is finite."
+          }
+        ],
+        "prompt": "Determine whether the following statements are true and give an explanation or counterexample.",
+        "expr": "f(x) = (x + 3)3(x − 1)3(x − 4)3.",
+        "objective": "Answer advanced conceptual questions about graphing functions.",
+        "poolOrder": "7",
+        "difficulty": "Moderate",
+        "estimatedTime": "2m 3s"
+      },
+      {
+        "printOrder": 8,
+        "questionId": "4.6.30",
+        "summary": "a. Write the equation of the line that represents the linear approximation to the following fu…",
+        "fullText": "a. Write the equation of the line that represents the linear approximation to the following function at the given point a.\nb. Use the linear approximation to estimate the given quantity.\nc. Compute the percent error in the approximation,\n100 · (StartAbsoluteValue approximation − exact EndAbsoluteValue)/(StartAbsoluteValue exact EndAbsoluteValue)\n100•\napproximation − exact\nexact\n, where the exact value is given by a calculator.\nf(x) = 3ex at a\n= 0 ; f(0.02)\nPart 1 of 3\na. L(x)\nPart 2 of 3\nb. Using the linear approximation , f(0.02)\nalmost =\n≈\n(Type an integer or a decimal.)\nPart 3 of 3\nc. The percent error in the approximation is\n%.\n(Round to four decimal places as needed.)",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "a. Write the equation of the line that represents the linear approximation to the following function at the given point a.\nb. Use the linear approximation to estimate the given quantity.\nc. Compute the percent error in the approximation,\n100 · (StartAbsoluteValue approximation − exact EndAbsoluteValue)/(StartAbsoluteValue exact EndAbsoluteValue)\n100•\napproximation − exact\nexact\n, where the exact value is given by a calculator.\nf(x) = 3ex at a\n= 0 ; f(0.02)"
+          },
+          {
+            "label": "Part 1 of 3",
+            "text": "a. L(x)"
+          },
+          {
+            "label": "Part 2 of 3",
+            "text": "b. Using the linear approximation , f(0.02)\nalmost =\n≈\n(Type an integer or a decimal.)"
+          },
+          {
+            "label": "Part 3 of 3",
+            "text": "c. The percent error in the approximation is\n%.\n(Round to four decimal places as needed.)"
+          }
+        ],
+        "prompt": "a. Write the equation of the line that represents the linear approximation to the following fu…",
+        "expr": "f(x) = 3ex at a",
+        "objective": "Construct a linear approximation to estimate the value of a function and find the percent error.",
+        "poolOrder": "8",
+        "difficulty": "Moderate",
+        "estimatedTime": "2m 33s"
+      },
+      {
+        "printOrder": 9,
+        "questionId": "4.6.64",
+        "summary": "Consider the following function and express the relationship between a small change in x and t…",
+        "fullText": "Consider the following function and express the relationship between a small change in x and the corresponding change in y in the form dy\nf′ (x) dx\nf′(x)dx.\nf(x) = e^(15x)\ndx\n(Type an exact answer in terms of\ne\ne.)",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "Consider the following function and express the relationship between a small change in x and the corresponding change in y in the form dy\nf′ (x) dx\nf′(x)dx.\nf(x) = e^(15x)\ndx\n(Type an exact answer in terms of\ne\ne.)"
+          }
+        ],
+        "prompt": "Consider the following function and express the relationship between a small change in x and t…",
+        "expr": "f(x) = e^(15x)",
+        "objective": "",
+        "poolOrder": "9"
+      },
+      {
+        "printOrder": 10,
+        "questionId": "4.7.22-Setup & Solve",
+        "summary": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.",
+        "fullText": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\nlim x→0 (e^(2x) − 1)/(4 x² + 2 x)",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\nlim x→0 (e^(2x) − 1)/(4 x² + 2 x)"
+          },
+          {
+            "label": "Part 1 of 2",
+            "text": "Use l'Hôpital's Rule to rewrite the given limit so that it is not an indeterminate form.\nlim x→0 (e^(2x) − 1)/(4 x² + 2 x)\nlim x→0"
+          },
+          {
+            "label": "Part 2 of 2",
+            "text": "Evaluate the limit.\nlim x→0 (e^(2x) − 1)/(4 x² + 2 x)\n(Type an exact answer.)"
+          }
+        ],
+        "prompt": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.",
+        "expr": "lim x→0 (e^(2x) − 1)/(4 x² + 2 x)",
+        "objective": "Evaluate limits using the form 0/0 or infinity/infinity of l'Hopital's Rule if it applies.",
+        "poolOrder": "10",
+        "difficulty": "Moderate",
+        "estimatedTime": "1m 25s"
+      },
+      {
+        "printOrder": 11,
+        "questionId": "4.8.10",
+        "summary": "Write the formula for Newton's method and use the given initial approximation to compute the a…",
+        "fullText": "Write the formula for Newton's method and use the given initial approximation to compute the approximations\nx¹\nx¹ and\nx²\nx².\nf(x) = x² − 2x − 63 ,\nx⁰ = 8\nPart 1 of 3\nWrite the formula for Newton's method for the given function. Choose the correct answer below.\nA.\nxn + 1 = xn −\n2xn − 2\nx²n − 2xn − 63\nB.\nxn + 1 = xn −\nx²n − 2xn − 63\nx²n − 63\nC.\nxn + 1 = xn −\nx²n − 2xn − 63\n2xn − 2\nD.\nxn + 1 = xn +\nx²n − 2xn − 63\n2xn − 2\nPart 2 of 3\nUse the given initial approximation to compute the approximations\nx¹\nx¹ and\nx²\nx².\nx¹\n(Do not round until the final answer. Then round to three decimal places as needed.)\nPart 3 of 3\nx²\n(Do not round until the final answer. Then round to three decimal places as needed.)",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "Write the formula for Newton's method and use the given initial approximation to compute the approximations\nx¹\nx¹ and\nx²\nx².\nf(x) = x² − 2x − 63 ,\nx⁰ = 8"
+          },
+          {
+            "label": "Part 1 of 3",
+            "text": "Write the formula for Newton's method for the given function. Choose the correct answer below."
+          },
+          {
+            "label": "A.",
+            "text": "xn + 1 = xn −\n2xn − 2\nx²n − 2xn − 63"
+          },
+          {
+            "label": "B.",
+            "text": "xn + 1 = xn −\nx²n − 2xn − 63\nx²n − 63"
+          },
+          {
+            "label": "C.",
+            "text": "xn + 1 = xn −\nx²n − 2xn − 63\n2xn − 2"
+          },
+          {
+            "label": "D.",
+            "text": "xn + 1 = xn +\nx²n − 2xn − 63\n2xn − 2"
+          },
+          {
+            "label": "Part 2 of 3",
+            "text": "Use the given initial approximation to compute the approximations\nx¹\nx¹ and\nx²\nx².\nx¹\n(Do not round until the final answer. Then round to three decimal places as needed.)"
+          },
+          {
+            "label": "Part 3 of 3",
+            "text": "x²\n(Do not round until the final answer. Then round to three decimal places as needed.)"
+          }
+        ],
+        "prompt": "Write the formula for Newton's method and use the given initial approximation to compute the a…",
+        "expr": "f(x) = x² − 2x − 63 ,",
+        "objective": "Given an initial approximation, use Newton's method to find the first two approximations.",
+        "poolOrder": "11",
+        "difficulty": "Moderate",
+        "estimatedTime": "2m 31s"
+      },
+      {
+        "printOrder": 12,
+        "questionId": "4.9.35",
+        "summary": "Determine the following indefinite integral.",
+        "fullText": "Determine the following indefinite integral.\n∫ (7 x⁸ + 12 x⁴)/(x²) dx",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "Determine the following indefinite integral.\n∫ (7 x⁸ + 12 x⁴)/(x²) dx\n∫\n7x⁸ + 12x⁴\nx²\ndx\n∫ (7 x⁸ + 12 x⁴)/(x²) dx\n∫\n7x⁸ + 12x⁴\nx²\ndx"
+          }
+        ],
+        "prompt": "Determine the following indefinite integral.",
+        "expr": "∫ (7 x⁸ + 12 x⁴)/(x²) dx",
+        "objective": "Determine the indefinite integrals of a function.",
+        "poolOrder": "12",
+        "difficulty": "Moderate",
+        "estimatedTime": "1m 19s"
+      },
+      {
+        "printOrder": 13,
+        "questionId": "4.9.45",
+        "summary": "Determine the following indefinite integral.",
+        "fullText": "Determine the following indefinite integral.\nIntegral from nothing to nothing (− 7 Bold sec x Bold tan x − 5 Bold sec² x) dx\n∫−7secxtanx −5sec2x dx\nIntegral from nothing to nothing (− 7 Bold sec x Bold tan x − 5 Bold sec² x) dx\n∫−7secxtanx −5sec2x dx",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "Determine the following indefinite integral.\nIntegral from nothing to nothing (− 7 Bold sec x Bold tan x − 5 Bold sec² x) dx\n∫−7secxtanx −5sec2x dx\nIntegral from nothing to nothing (− 7 Bold sec x Bold tan x − 5 Bold sec² x) dx\n∫−7secxtanx −5sec2x dx"
+          }
+        ],
+        "prompt": "Determine the following indefinite integral.",
+        "expr": "∫−7secxtanx −5sec2x dx",
+        "objective": "",
+        "poolOrder": "13"
+      },
+      {
+        "printOrder": 14,
+        "questionId": "4.9.74",
+        "summary": "For the following function f, find the antiderivative F that satisfies the given condition.",
+        "fullText": "For the following function f, find the antiderivative F that satisfies the given condition.\nf(u)\n3 e^u + 17\n3eu+17; F(0)\n= 9\nThe antiderivative that satisfies the given condition is F(u)",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "For the following function f, find the antiderivative F that satisfies the given condition.\nf(u)\n3 e^u + 17\n3eu+17; F(0)\n= 9\nThe antiderivative that satisfies the given condition is F(u)"
+          }
+        ],
+        "prompt": "For the following function f, find the antiderivative F that satisfies the given condition.",
+        "expr": "",
+        "objective": "",
+        "poolOrder": "14"
+      }
+    ]
+  }
+]

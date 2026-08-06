@@ -1,0 +1,682 @@
+[
+  {
+    "requested": "Exam 3",
+    "captureMethod": "Pearson Print Test with Include Question ID checked",
+    "capturedAt": "2026-08-06T14:40:39",
+    "questionIds": [
+      "4.1.23",
+      "4.1.27",
+      "4.1.49",
+      "4.1.57",
+      "4.2.21",
+      "4.2.25",
+      "4.3.39-Setup & Solve",
+      "4.3.40",
+      "4.3.63",
+      "4.3.65",
+      "4.3.83",
+      "4.3.85",
+      "4.4.55",
+      "4.6.30",
+      "4.6.53",
+      "4.6.64",
+      "4.6.67",
+      "4.7.22-Setup & Solve",
+      "4.7.25-Setup & Solve",
+      "4.8.9",
+      "4.8.10",
+      "4.9.25",
+      "4.9.35",
+      "4.9.45",
+      "4.9.47",
+      "4.9.74",
+      "4.9.91"
+    ],
+    "capturedQuestionIds": [
+      "4.3.39-Setup & Solve",
+      "4.1.57",
+      "4.2.25",
+      "4.1.23",
+      "4.3.85",
+      "4.8.10",
+      "4.7.22-Setup & Solve",
+      "4.6.67",
+      "4.9.35",
+      "4.9.47",
+      "4.4.55",
+      "4.3.65",
+      "4.6.30",
+      "4.9.91"
+    ],
+    "missingQuestionIds": [
+      "4.1.27",
+      "4.1.49",
+      "4.2.21",
+      "4.3.40",
+      "4.3.63",
+      "4.3.83",
+      "4.6.53",
+      "4.6.64",
+      "4.7.25-Setup & Solve",
+      "4.8.9",
+      "4.9.25",
+      "4.9.45",
+      "4.9.74"
+    ],
+    "unexpectedQuestionIds": [],
+    "coverage": {
+      "captured": 14,
+      "expected": 27
+    },
+    "problems": [
+      {
+        "printOrder": 1,
+        "questionId": "4.3.39-Setup & Solve",
+        "summary": "Find the intervals on which f is increasing and the intervals on which it is decreasing.",
+        "fullText": "Part 1\nFind the intervals on which f is increasing and the intervals on which it is decreasing.\n\u200bf(x)\nequals\n=\nminus\n\u221212\nx Superscript 5\nx5\nplus\n+\n135\n135\nx Superscript 4\nx4\nminus\n\u2212\n400\n400\nx cubed\nx3\nPart 1\nFind\nf prime left parenthesis x right parenthesis\nf\u2032(x).\nf prime left parenthesis x right parenthesis\nf\u2032(x)\nequals\n=\nPart 2\nSelect the correct choice below\u200b and, if\u200b necessary, fill in the answer\u200b box(es) to complete your choice.\nA.\nThe function is increasing on the open\u200b interval(s)\n. The function is never decreasing.\n\u200b(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as\u200b needed.)\nB.\nThe function is increasing on the open\u200b interval(s)\nand decreasing on the open\u200b interval(s)\n.\n\u200b(Simplify your answers. Type your answers in interval notation. Use a comma to separate answers as\u200b needed.)\nC.\nThe function is decreasing on the open\u200b interval(s)\n. The function is never increasing.\n\u200b(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as\u200b needed.)\nD.\nThe function is never increasing or decreasing.",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "Find the intervals on which f is increasing and the intervals on which it is decreasing.\n\u200bf(x)\nequals\n=\nminus\n\u221212\nx Superscript 5\nx5\nplus\n+\n135\n135\nx Superscript 4\nx4\nminus\n\u2212\n400\n400\nx cubed\nx3"
+          },
+          {
+            "label": "Part 1",
+            "text": "Find\nf prime left parenthesis x right parenthesis\nf\u2032(x).\nf prime left parenthesis x right parenthesis\nf\u2032(x)\nequals\n="
+          },
+          {
+            "label": "Part 2",
+            "text": "Select the correct choice below\u200b and, if\u200b necessary, fill in the answer\u200b box(es) to complete your choice."
+          },
+          {
+            "label": "A.",
+            "text": "The function is increasing on the open\u200b interval(s)\n. The function is never decreasing.\n\u200b(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as\u200b needed.)"
+          },
+          {
+            "label": "B.",
+            "text": "The function is increasing on the open\u200b interval(s)\nand decreasing on the open\u200b interval(s)\n.\n\u200b(Simplify your answers. Type your answers in interval notation. Use a comma to separate answers as\u200b needed.)"
+          },
+          {
+            "label": "C.",
+            "text": "The function is decreasing on the open\u200b interval(s)\n. The function is never increasing.\n\u200b(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as\u200b needed.)"
+          },
+          {
+            "label": "D.",
+            "text": "The function is never increasing or decreasing."
+          }
+        ],
+        "prompt": "Find the intervals on which f is increasing and the intervals on which it is decreasing.",
+        "expr": "",
+        "objective": "Find the intervals on which a function is increasing or decreasing.",
+        "poolOrder": "4",
+        "difficulty": "Moderate",
+        "estimatedTime": "4m 15s"
+      },
+      {
+        "printOrder": 2,
+        "questionId": "4.1.57",
+        "summary": "Determine the location and value of the absolute extreme values of f on the given\u200b interval,...",
+        "fullText": "Part 1\nDetermine the location and value of the absolute extreme values of f on the given\u200b interval, if they exist.\nf left parenthesis x right parenthesis\nf(x)\nequals\n=\nnegative 2 x cubed plus 21 x squared minus 36 x\n\u22122x3+21x2\u221236x on\nleft bracket 0,7 right bracket\n[0,7]\nPart 1\nWhat\u200b is/are the absolute\u200b maximum/maxima of f on the given\u200b interval? Select the correct choice below\u200b and, if\u200b necessary, fill in the answer boxes to complete your choice.\nA.\nThe absolute\u200b maximum/maxima is/are\nat x\nequals\n=\n.\n\u200b(Use a comma to separate answers as needed. Type exact\u200b answers, using radicals as\u200b needed.)\nB.\nThere is no absolute maximum of f on the given interval.\nPart 2\nWhat\u200b is/are the absolute\u200b minimum/minima of f on the given\u200b interval? Select the correct choice below\u200b and, if\u200b necessary, fill in the answer boxes to complete your choice.\nA.\nThe absolute\u200b minimum/minima is/are\nat x\nequals\n=\n.\n\u200b(Use a comma to separate answers as needed. Type exact\u200b answers, using radicals as\u200b needed.)\nB.\nThere is no absolute minimum of f on the given interval.",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "Determine the location and value of the absolute extreme values of f on the given\u200b interval, if they exist.\nf left parenthesis x right parenthesis\nf(x)\nequals\n=\nnegative 2 x cubed plus 21 x squared minus 36 x\n\u22122x3+21x2\u221236x on\nleft bracket 0,7 right bracket\n[0,7]"
+          },
+          {
+            "label": "Part 1",
+            "text": "What\u200b is/are the absolute\u200b maximum/maxima of f on the given\u200b interval? Select the correct choice below\u200b and, if\u200b necessary, fill in the answer boxes to complete your choice."
+          },
+          {
+            "label": "A.",
+            "text": "The absolute\u200b maximum/maxima is/are\nat x\nequals\n=\n.\n\u200b(Use a comma to separate answers as needed. Type exact\u200b answers, using radicals as\u200b needed.)"
+          },
+          {
+            "label": "B.",
+            "text": "There is no absolute maximum of f on the given interval."
+          },
+          {
+            "label": "Part 2",
+            "text": "What\u200b is/are the absolute\u200b minimum/minima of f on the given\u200b interval? Select the correct choice below\u200b and, if\u200b necessary, fill in the answer boxes to complete your choice."
+          },
+          {
+            "label": "A.",
+            "text": "The absolute\u200b minimum/minima is/are\nat x\nequals\n=\n.\n\u200b(Use a comma to separate answers as needed. Type exact\u200b answers, using radicals as\u200b needed.)"
+          },
+          {
+            "label": "B.",
+            "text": "There is no absolute minimum of f on the given interval."
+          }
+        ],
+        "prompt": "Determine the location and value of the absolute extreme values of f on the given\u200b interval,...",
+        "expr": "",
+        "objective": "Determine the existence, location, and value of absolute extrema on a given interval of a function.",
+        "poolOrder": "2",
+        "difficulty": "Moderate",
+        "estimatedTime": "3m 11s"
+      },
+      {
+        "printOrder": 3,
+        "questionId": "4.2.25",
+        "summary": "a. Determine whether the Mean Value Theorem applies to the function",
+        "fullText": "Part 1\na. Determine whether the Mean Value Theorem applies to the function\nf left parenthesis x right parenthesis equals e Superscript x\nf(x)=ex on the given interval\nleft bracket 0,ln 18 right bracket\n[0,ln18].\nb. If\u200b so, find the\u200b point(s) that are guaranteed to exist by the Mean Value Theorem.\nPart 1\na. Choose the correct answer below.\nA.\nThe Mean Value Theorem does not apply because the function is not continuous on\nleft bracket 0,ln 18 right bracket\n[0,ln18].\nB.\nThe Mean Value Theorem applies because the function is continuous on\nleft parenthesis 0,ln 18 right parenthesis\n(0,ln18) and differentiable on\nleft bracket 0,ln 18 right bracket\n[0,ln18].\nC.\nThe Mean Value Theorem applies because the function is continuous on\nleft bracket 0,ln 18 right bracket\n[0,ln18] and differentiable on\nleft parenthesis 0,ln 18 right parenthesis\n(0,ln18).\nD.\nThe Mean Value Theorem does not apply because the function is not differentiable on\nleft parenthesis 0,ln 18 right parenthesis\n(0,ln18).\nPart 2\nb. Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nThe\u200b point(s) is/are x\nequals\n=\n.\n\u200b(Type an exact answer. Use a comma to separate answers as\u200b needed.)\nB.\nThe Mean Value Theorem does not apply in this case.",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": ""
+          },
+          {
+            "label": "a. Determine whether the Mean Value Theorem applies to the function",
+            "text": "f left parenthesis x right parenthesis equals e Superscript x\nf(x)=ex on the given interval\nleft bracket 0,ln 18 right bracket\n[0,ln18]."
+          },
+          {
+            "label": "b. If\u200b so, find the\u200b point(s) that are guaranteed to exist by the Mean Value Theorem.",
+            "text": ""
+          },
+          {
+            "label": "Part 1",
+            "text": ""
+          },
+          {
+            "label": "a. Choose the correct answer below.",
+            "text": ""
+          },
+          {
+            "label": "A.",
+            "text": "The Mean Value Theorem does not apply because the function is not continuous on\nleft bracket 0,ln 18 right bracket\n[0,ln18]."
+          },
+          {
+            "label": "B.",
+            "text": "The Mean Value Theorem applies because the function is continuous on\nleft parenthesis 0,ln 18 right parenthesis\n(0,ln18) and differentiable on\nleft bracket 0,ln 18 right bracket\n[0,ln18]."
+          },
+          {
+            "label": "C.",
+            "text": "The Mean Value Theorem applies because the function is continuous on\nleft bracket 0,ln 18 right bracket\n[0,ln18] and differentiable on\nleft parenthesis 0,ln 18 right parenthesis\n(0,ln18)."
+          },
+          {
+            "label": "D.",
+            "text": "The Mean Value Theorem does not apply because the function is not differentiable on\nleft parenthesis 0,ln 18 right parenthesis\n(0,ln18)."
+          },
+          {
+            "label": "Part 2",
+            "text": ""
+          },
+          {
+            "label": "b. Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.",
+            "text": ""
+          },
+          {
+            "label": "A.",
+            "text": "The\u200b point(s) is/are x\nequals\n=\n.\n\u200b(Type an exact answer. Use a comma to separate answers as\u200b needed.)"
+          },
+          {
+            "label": "B.",
+            "text": "The Mean Value Theorem does not apply in this case."
+          }
+        ],
+        "prompt": "a. Determine whether the Mean Value Theorem applies to the function",
+        "expr": "f(x)=ex on the given interval",
+        "objective": "Find the point(s) guaranteed to exist by the Mean Value Theorem.",
+        "poolOrder": "3",
+        "difficulty": "Moderate",
+        "estimatedTime": "2m 2s"
+      },
+      {
+        "printOrder": 4,
+        "questionId": "4.1.23",
+        "summary": "Find the critical points of the following function.",
+        "fullText": "Part 1\nFind the critical points of the following function.\nf left parenthesis x right parenthesis equals 2 x squared minus 3 x minus 5\nf(x)=2x2\u22123x\u22125\nPart 1\nSelect the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nThe critical\u200b point(s) occur(s) at x\nequals\n=\n.\n\u200b(Use a comma to separate answers as\u200b needed.)\nB.\nThere are no critical points.",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "Find the critical points of the following function.\nf left parenthesis x right parenthesis equals 2 x squared minus 3 x minus 5\nf(x)=2x2\u22123x\u22125"
+          },
+          {
+            "label": "Part 1",
+            "text": "Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "A.",
+            "text": "The critical\u200b point(s) occur(s) at x\nequals\n=\n.\n\u200b(Use a comma to separate answers as\u200b needed.)"
+          },
+          {
+            "label": "B.",
+            "text": "There are no critical points."
+          }
+        ],
+        "prompt": "Find the critical points of the following function.",
+        "expr": "f(x)=2x2\u22123x\u22125",
+        "objective": "Locate critical points of functions.",
+        "poolOrder": "1",
+        "difficulty": "Easy",
+        "estimatedTime": "1m 22s"
+      },
+      {
+        "printOrder": 5,
+        "questionId": "4.3.85",
+        "summary": "Locate the critical points of the following function. Then use the Second Derivative Test to...",
+        "fullText": "Part 1\nLocate the critical points of the following function. Then use the Second Derivative Test to determine whether they correspond to local\u200b maxima, local\u200b minima, or neither.\nf left parenthesis x right parenthesis\nf(x)\nequals\n=\n5 x squared e Superscript negative x Baseline minus 1\n5x2e\u2212x\u22121\nPart 1\nWhat\u200b is(are) the critical\u200b point(s) of\u200b f? Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nThe critical\u200b point(s) is(are) x\nequals\n=\n. \u200b(Use a comma to separate answers as\u200b needed.)\nB.\nThere are no critical points for f.\nPart 2\nWhat\u200b is/are the local minimum\u200b/minima of\u200b f? Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nThe local minimum\u200b/minima of f\u200b is/are at x\nequals\n=\n.\n\u200b(Use a comma to separate answers as\u200b needed.)\nB.\nThere is no local minimum of f.\nPart 3\nWhat\u200b is/are the local maximum\u200b/maxima of\u200b f? Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nThe local maximum\u200b/maxima of f\u200b is/are at x\nequals\n=\n.\n\u200b(Use a comma to separate answers as\u200b needed.)\nB.\nThere is no local maximum of f.",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "Locate the critical points of the following function. Then use the Second Derivative Test to determine whether they correspond to local\u200b maxima, local\u200b minima, or neither.\nf left parenthesis x right parenthesis\nf(x)\nequals\n=\n5 x squared e Superscript negative x Baseline minus 1\n5x2e\u2212x\u22121"
+          },
+          {
+            "label": "Part 1",
+            "text": "What\u200b is(are) the critical\u200b point(s) of\u200b f? Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "A.",
+            "text": "The critical\u200b point(s) is(are) x\nequals\n=\n. \u200b(Use a comma to separate answers as\u200b needed.)"
+          },
+          {
+            "label": "B.",
+            "text": "There are no critical points for f."
+          },
+          {
+            "label": "Part 2",
+            "text": "What\u200b is/are the local minimum\u200b/minima of\u200b f? Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "A.",
+            "text": "The local minimum\u200b/minima of f\u200b is/are at x\nequals\n=\n.\n\u200b(Use a comma to separate answers as\u200b needed.)"
+          },
+          {
+            "label": "B.",
+            "text": "There is no local minimum of f."
+          },
+          {
+            "label": "Part 3",
+            "text": "What\u200b is/are the local maximum\u200b/maxima of\u200b f? Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "A.",
+            "text": "The local maximum\u200b/maxima of f\u200b is/are at x\nequals\n=\n.\n\u200b(Use a comma to separate answers as\u200b needed.)"
+          },
+          {
+            "label": "B.",
+            "text": "There is no local maximum of f."
+          }
+        ],
+        "prompt": "Locate the critical points of the following function. Then use the Second Derivative Test to...",
+        "expr": "",
+        "objective": "Determine if critical points correspond to local minima/maxima using the second derivative test.",
+        "poolOrder": "6",
+        "difficulty": "Moderate",
+        "estimatedTime": "3m 30s"
+      },
+      {
+        "printOrder": 6,
+        "questionId": "4.8.10",
+        "summary": "Write the formula for\u200b Newton's method and use the given initial approximation to compute th...",
+        "fullText": "Part 1\nWrite the formula for\u200b Newton's method and use the given initial approximation to compute the approximations\nx 1\nx1 and\nx 2\nx2.\nf left parenthesis x right parenthesis equals x squared plus 6 x minus 27\nf(x)=x2+6x\u221227\u200b,\nx 0 equals 6\nx0=6\nPart 1\nWrite the formula for\u200b Newton's method for the given function. Choose the correct answer below.\nA.\nx Subscript n plus 1 Baseline equals x Subscript n Baseline minus StartFraction 2 x Subscript n Baseline plus 6 Over x Subscript n Superscript 2 Baseline plus 6 x Subscript n Baseline minus 27 EndFraction\nx Subscript n plus 1 Baseline equals x Subscript n Baseline minus StartFraction 2 x Subscript n Baseline plus 6 Over x Subscript n Superscript 2 Baseline plus 6 x Subscript n Baseline minus 27 EndFraction\nxn+1=xn\u2212\n2xn+6\nx2n+6xn\u221227\nB.\nx Subscript n plus 1 Baseline equals x Subscript n Baseline minus StartFraction x Subscript n Superscript 2 Baseline plus 6 x Subscript n Baseline minus 27 Over x Subscript n Superscript 2 Baseline minus 27 EndFraction\nx Subscript n plus 1 Baseline equals x Subscript n Baseline minus StartFraction x Subscript n Superscript 2 Baseline plus 6 x Subscript n Baseline minus 27 Over x Subscript n Superscript 2 Baseline minus 27 EndFraction\nxn+1=xn\u2212\nx2n+6xn\u221227\nx2n\u221227\nC.\nx Subscript n plus 1 Baseline equals x Subscript n Baseline plus StartFraction x Subscript n Superscript 2 Baseline plus 6 x Subscript n Baseline minus 27 Over 2 x Subscript n Baseline plus 6 EndFraction\nx Subscript n plus 1 Baseline equals x Subscript n Baseline plus StartFraction x Subscript n Superscript 2 Baseline plus 6 x Subscript n Baseline minus 27 Over 2 x Subscript n Baseline plus 6 EndFraction\nxn+1=xn+\nx2n+6xn\u221227\n2xn+6\nD.\nx Subscript n plus 1 Baseline equals x Subscript n Baseline minus StartFraction x Subscript n Superscript 2 Baseline plus 6 x Subscript n Baseline minus 27 Over 2 x Subscript n Baseline plus 6 EndFraction\nx Subscript n plus 1 Baseline equals x Subscript n Baseline minus StartFraction x Subscript n Superscript 2 Baseline plus 6 x Subscript n Baseline minus 27 Over 2 x Subscript n Baseline plus 6 EndFraction\nxn+1=xn\u2212\nx2n+6xn\u221227\n2xn+6\nPart 2\nUse the given initial approximation to compute the approximations\nx 1\nx1 and\nx 2\nx2.\nx 1\nx1\nequals\n=\n\u200b(Do not round until the final answer. Then round to three decimal places as\u200b needed.)\nPart 3\nx 2\nx2\nequals\n=\n\u200b(Do not round until the final answer. Then round to three decimal places as\u200b needed.)",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "Write the formula for\u200b Newton's method and use the given initial approximation to compute the approximations\nx 1\nx1 and\nx 2\nx2.\nf left parenthesis x right parenthesis equals x squared plus 6 x minus 27\nf(x)=x2+6x\u221227\u200b,\nx 0 equals 6\nx0=6"
+          },
+          {
+            "label": "Part 1",
+            "text": "Write the formula for\u200b Newton's method for the given function. Choose the correct answer below."
+          },
+          {
+            "label": "A.",
+            "text": "x Subscript n plus 1 Baseline equals x Subscript n Baseline minus StartFraction 2 x Subscript n Baseline plus 6 Over x Subscript n Superscript 2 Baseline plus 6 x Subscript n Baseline minus 27 EndFraction\nx Subscript n plus 1 Baseline equals x Subscript n Baseline minus StartFraction 2 x Subscript n Baseline plus 6 Over x Subscript n Superscript 2 Baseline plus 6 x Subscript n Baseline minus 27 EndFraction\nxn+1=xn\u2212\n2xn+6\nx2n+6xn\u221227"
+          },
+          {
+            "label": "B.",
+            "text": "x Subscript n plus 1 Baseline equals x Subscript n Baseline minus StartFraction x Subscript n Superscript 2 Baseline plus 6 x Subscript n Baseline minus 27 Over x Subscript n Superscript 2 Baseline minus 27 EndFraction\nx Subscript n plus 1 Baseline equals x Subscript n Baseline minus StartFraction x Subscript n Superscript 2 Baseline plus 6 x Subscript n Baseline minus 27 Over x Subscript n Superscript 2 Baseline minus 27 EndFraction\nxn+1=xn\u2212\nx2n+6xn\u221227\nx2n\u221227"
+          },
+          {
+            "label": "C.",
+            "text": "x Subscript n plus 1 Baseline equals x Subscript n Baseline plus StartFraction x Subscript n Superscript 2 Baseline plus 6 x Subscript n Baseline minus 27 Over 2 x Subscript n Baseline plus 6 EndFraction\nx Subscript n plus 1 Baseline equals x Subscript n Baseline plus StartFraction x Subscript n Superscript 2 Baseline plus 6 x Subscript n Baseline minus 27 Over 2 x Subscript n Baseline plus 6 EndFraction\nxn+1=xn+\nx2n+6xn\u221227\n2xn+6"
+          },
+          {
+            "label": "D.",
+            "text": "x Subscript n plus 1 Baseline equals x Subscript n Baseline minus StartFraction x Subscript n Superscript 2 Baseline plus 6 x Subscript n Baseline minus 27 Over 2 x Subscript n Baseline plus 6 EndFraction\nx Subscript n plus 1 Baseline equals x Subscript n Baseline minus StartFraction x Subscript n Superscript 2 Baseline plus 6 x Subscript n Baseline minus 27 Over 2 x Subscript n Baseline plus 6 EndFraction\nxn+1=xn\u2212\nx2n+6xn\u221227\n2xn+6"
+          },
+          {
+            "label": "Part 2",
+            "text": "Use the given initial approximation to compute the approximations\nx 1\nx1 and\nx 2\nx2.\nx 1\nx1\nequals\n=\n\u200b(Do not round until the final answer. Then round to three decimal places as\u200b needed.)"
+          },
+          {
+            "label": "Part 3",
+            "text": "x 2\nx2\nequals\n=\n\u200b(Do not round until the final answer. Then round to three decimal places as\u200b needed.)"
+          }
+        ],
+        "prompt": "Write the formula for\u200b Newton's method and use the given initial approximation to compute th...",
+        "expr": "f(x)=x2+6x\u221227\u200b,",
+        "objective": "Given an initial approximation, use Newton's method to find the first two approximations.",
+        "poolOrder": "11",
+        "difficulty": "Moderate",
+        "estimatedTime": "2m 31s"
+      },
+      {
+        "printOrder": 7,
+        "questionId": "4.7.22-Setup & Solve",
+        "summary": "Evaluate the following limit. Use\u200b l'H\u00f4pital's Rule when it is convenient and applicable.",
+        "fullText": "Part 1\nEvaluate the following limit. Use\u200b l'H\u00f4pital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow 0\nlim\nx\u21920\nStartFraction e Superscript x Baseline minus 1 Over 4 x squared plus 5 x EndFraction\nex\u22121\n4x2+5x\nPart 1\nUse\u200b l'H\u00f4pital's Rule to rewrite the given limit so that it is not an indeterminate form.\nModifyingBelow lim With x right arrow 0\nlim\nx\u21920\nStartFraction e Superscript x Baseline minus 1 Over 4 x squared plus 5 x EndFraction\nex\u22121\n4x2+5x\nequals\n=\nModifyingBelow lim With x right arrow 0\nlim\nx\u21920\nleft parenthesis nothing right parenthesis\nPart 2\nEvaluate the limit.\nModifyingBelow lim With x right arrow 0\nlim\nx\u21920\nStartFraction e Superscript x Baseline minus 1 Over 4 x squared plus 5 x EndFraction\nex\u22121\n4x2+5x\nequals\n=\n\u200b(Type an exact\u200b answer.)",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "Evaluate the following limit. Use\u200b l'H\u00f4pital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow 0\nlim\nx\u21920\nStartFraction e Superscript x Baseline minus 1 Over 4 x squared plus 5 x EndFraction\nex\u22121\n4x2+5x"
+          },
+          {
+            "label": "Part 1",
+            "text": "Use\u200b l'H\u00f4pital's Rule to rewrite the given limit so that it is not an indeterminate form.\nModifyingBelow lim With x right arrow 0\nlim\nx\u21920\nStartFraction e Superscript x Baseline minus 1 Over 4 x squared plus 5 x EndFraction\nex\u22121\n4x2+5x\nequals\n=\nModifyingBelow lim With x right arrow 0\nlim\nx\u21920\nleft parenthesis nothing right parenthesis"
+          },
+          {
+            "label": "Part 2",
+            "text": "Evaluate the limit.\nModifyingBelow lim With x right arrow 0\nlim\nx\u21920\nStartFraction e Superscript x Baseline minus 1 Over 4 x squared plus 5 x EndFraction\nex\u22121\n4x2+5x\nequals\n=\n\u200b(Type an exact\u200b answer.)"
+          }
+        ],
+        "prompt": "Evaluate the following limit. Use\u200b l'H\u00f4pital's Rule when it is convenient and applicable.",
+        "expr": "",
+        "objective": "Evaluate limits using the form 0/0 or infinity/infinity of l'Hopital's Rule if it applies.",
+        "poolOrder": "10",
+        "difficulty": "Moderate",
+        "estimatedTime": "1m 25s"
+      },
+      {
+        "printOrder": 8,
+        "questionId": "4.6.67",
+        "summary": "Consider the following function and express the relationship between a small change in x and...",
+        "fullText": "Part 1\nConsider the following function and express the relationship between a small change in x and the corresponding change in y in the form\ndy equals f prime left parenthesis x right parenthesis dx\ndy=f\u2032(x)dx.\n\u200bf(x)\nequals\n=\n4 x cubed minus 5 x\n4x3\u22125x\nPart 1\ndy\nequals\n=\nleft parenthesis nothing right parenthesis\ndx",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "Consider the following function and express the relationship between a small change in x and the corresponding change in y in the form\ndy equals f prime left parenthesis x right parenthesis dx\ndy=f\u2032(x)dx.\n\u200bf(x)\nequals\n=\n4 x cubed minus 5 x\n4x3\u22125x"
+          },
+          {
+            "label": "Part 1",
+            "text": "dy\nequals\n=\nleft parenthesis nothing right parenthesis\ndx"
+          }
+        ],
+        "prompt": "Consider the following function and express the relationship between a small change in x and...",
+        "expr": "dy=f\u2032(x)dx.",
+        "objective": "Given y=f(x), write a differential expressing the change in y as a function of a change in x.",
+        "poolOrder": "9",
+        "difficulty": "Easy",
+        "estimatedTime": "1m 3s"
+      },
+      {
+        "printOrder": 9,
+        "questionId": "4.9.35",
+        "summary": "Determine the following indefinite integral.",
+        "fullText": "Part 1\nDetermine the following indefinite integral.\nIntegral from nothing to nothing StartFraction 3 x Superscript 5 Baseline plus 10 x Superscript 4 Over x cubed EndFraction font size decreased by 3 dx\n\u222b\n3x5+10x4\nx3\ndx\nPart 1\nIntegral from nothing to nothing StartFraction 3 x Superscript 5 Baseline plus 10 x Superscript 4 Over x cubed EndFraction font size decreased by 3 dx\n\u222b\n3x5+10x4\nx3\ndx\nequals\n=",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "Determine the following indefinite integral.\nIntegral from nothing to nothing StartFraction 3 x Superscript 5 Baseline plus 10 x Superscript 4 Over x cubed EndFraction font size decreased by 3 dx\n\u222b\n3x5+10x4\nx3\ndx"
+          },
+          {
+            "label": "Part 1",
+            "text": "Integral from nothing to nothing StartFraction 3 x Superscript 5 Baseline plus 10 x Superscript 4 Over x cubed EndFraction font size decreased by 3 dx\n\u222b\n3x5+10x4\nx3\ndx\nequals\n="
+          }
+        ],
+        "prompt": "Determine the following indefinite integral.",
+        "expr": "",
+        "objective": "Determine the indefinite integrals of a function.",
+        "poolOrder": "12",
+        "difficulty": "Moderate",
+        "estimatedTime": "1m 19s"
+      },
+      {
+        "printOrder": 10,
+        "questionId": "4.9.47",
+        "summary": "Determine the following indefinite integral. Check your work by differentiation.",
+        "fullText": "Part 1\nDetermine the following indefinite integral. Check your work by differentiation.\nIntegral from nothing to nothing left parenthesis 4 r cubed plus 2 secant squared r right parenthesis font size decreased by 3 dr\n\u222b4r3+2sec2r\u00a0dr\nPart 1\nIntegral from nothing to nothing left parenthesis 4 r cubed plus 2 secant squared r right parenthesis font size decreased by 3 dr\n\u222b4r3+2sec2r\u00a0dr\nequals\n=",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "Determine the following indefinite integral. Check your work by differentiation.\nIntegral from nothing to nothing left parenthesis 4 r cubed plus 2 secant squared r right parenthesis font size decreased by 3 dr\n\u222b4r3+2sec2r\u00a0dr"
+          },
+          {
+            "label": "Part 1",
+            "text": "Integral from nothing to nothing left parenthesis 4 r cubed plus 2 secant squared r right parenthesis font size decreased by 3 dr\n\u222b4r3+2sec2r\u00a0dr\nequals\n="
+          }
+        ],
+        "prompt": "Determine the following indefinite integral. Check your work by differentiation.",
+        "expr": "",
+        "objective": "Determine the indefinite integrals of a function.",
+        "poolOrder": "13",
+        "difficulty": "Moderate",
+        "estimatedTime": "1m 12s"
+      },
+      {
+        "printOrder": 11,
+        "questionId": "4.4.55",
+        "summary": "Determine whether the following statements are true and give an explanation or counterexample.",
+        "fullText": "Part 1\nDetermine whether the following statements are true and give an explanation or counterexample.\nPart 1\na. The zeroes of\nf prime\nf\u2032 are\nminus\n\u2212\u200b3, \u200b1, and\u200b 4, so the local extrema are located at these points. Choose the correct answer below.\nA.\nFalse. A zero of\nf prime\nf\u2032 is a critical point and is a local extremum so long as\nf prime left parenthesis x right parenthesis\nf\u2032(x) changes sign. \u200b Take, for\u200b example, the function\nf left parenthesis x right parenthesis equals left parenthesis x plus 3 right parenthesis cubed left parenthesis x minus 1 right parenthesis cubed left parenthesis x minus 4 right parenthesis cubed\nf(x)=(x+3)3(x\u22121)3(x\u22124)3.\nB.\nTrue.  The zeros of\nf prime\nf\u2032 are local extrema so long as the denominator is nonzero at those points.\nC.\nTrue. The zeros of\nf prime\nf\u2032 are the local extrema of f.\nD.\nFalse. The zeros of\nf prime\nf\u2032 are the inflection points of f.\nPart 2\nb. The zeros of\nf double prime\nf\u2032\u2032 are\nminus\n\u22122 and\u200b 4, so the inflection points are located at these points. Choose the correct answer below.\nA.\nFalse. Another requirement is that\nf double prime left parenthesis x right parenthesis\nf\u2032\u2032(x) does not change sign at these points.\u200b Take, for\u200b example, the function\nf left parenthesis x right parenthesis equals x cubed\nf(x)=x3.\nB.\nFalse. Another requirement is that\nf double prime left parenthesis x right parenthesis\nf\u2032\u2032(x) changes sign at these points.\u200b Take, for\u200b example, the function\nf left parenthesis x right parenthesis equals left parenthesis x plus 2 right parenthesis Superscript 4 Baseline left parenthesis x minus 4 right parenthesis Superscript 4\nf(x)=(x+2)4(x\u22124)4.\nC.\nTrue. If the zeroes of\nf double prime\nf\u2032\u2032 occur at these\u200b points, then the inflection points are located at these points.\nD.\nTrue. Another requirement is that\nf double prime left parenthesis x right parenthesis\nf\u2032\u2032(x) changes sign at these points.\nPart 3\nc. The zeros of the denominator of f are\nminus\n\u22123 and\u200b 4, so f has vertical asymptotes at these points. Choose the correct answer below.\nA.\nTrue. Vertical asymptotes occur where zeros of the denominator happen.\nB.\nFalse. Vertical asymptotes require examining limits as x\nright arrow\n\u2192\nplus or minus\n\u00b1\ninfinity\n\u221e.\nC.\nTrue. Vertical asymptotes require examining limits of the denominator as x\nright arrow\n\u2192\nplus or minus\n\u00b1\ninfinity\n\u221e.\nD.\nFalse. These points are only candidates for vertical asymptotes.\u200b Consider, for\u200b example, the function \u200bf(x)\nequals\n=\nStartFraction x squared minus 9 Over x squared minus x minus 12 EndFraction\nx2\u22129\nx2\u2212x\u221212\n.\nPart 4\nd. If a rational function has a finite limit as x\nright arrow\n\u2192\ninfinity\n\u221e\u200b, it must have a finite limit as x\nright arrow\n\u2192\nminus\n\u2212\ninfinity\n\u221e. Choose the correct answer below.\nA.\nTrue. If a rational function has a finite limit as x\nright arrow\n\u2192\ninfinity\n\u221e\u200b, then either the degree of the numerator is the same as the degree of the denominator or the degree of the numerator is less than the degree of the denominator. In either of these\u200b instances, the limit as x\nright arrow\n\u2192\nminus\n\u2212\ninfinity\n\u221e is finite.\nB.\nFalse. If one side of a rational function has a finite\u200b limit, then the other side must diverge to infinity.\u200b Take, for\u200b example, the function\nf left parenthesis x right parenthesis equals StartFraction 1 Over e Superscript x EndFraction\nf(x)=\n1\nex\n.\nC.\nTrue. If a rational function has a finite limit as x\nright arrow\n\u2192\ninfinity\n\u221e\u200b, then the degree of the numerator is greater than the degree of the denominator. In this\u200b instance, the limit as x\nright arrow\n\u2192\nminus\n\u2212\ninfinity\n\u221e is finite.\nD.\nFalse. One side of a rational function does not dictate the limit of the opposite side of the function.\u200b Take, for\u200b example, the function\nf left parenthesis x right parenthesis equals StartFraction 1 Over ln x EndFraction\nf(x)=\n1\nlnx\n.",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "Determine whether the following statements are true and give an explanation or counterexample."
+          },
+          {
+            "label": "Part 1",
+            "text": ""
+          },
+          {
+            "label": "a. The zeroes of",
+            "text": "f prime\nf\u2032 are\nminus\n\u2212\u200b3, \u200b1, and\u200b 4, so the local extrema are located at these points. Choose the correct answer below."
+          },
+          {
+            "label": "A.",
+            "text": "False. A zero of\nf prime\nf\u2032 is a critical point and is a local extremum so long as\nf prime left parenthesis x right parenthesis\nf\u2032(x) changes sign. \u200b Take, for\u200b example, the function\nf left parenthesis x right parenthesis equals left parenthesis x plus 3 right parenthesis cubed left parenthesis x minus 1 right parenthesis cubed left parenthesis x minus 4 right parenthesis cubed\nf(x)=(x+3)3(x\u22121)3(x\u22124)3."
+          },
+          {
+            "label": "B.",
+            "text": "True.  The zeros of\nf prime\nf\u2032 are local extrema so long as the denominator is nonzero at those points."
+          },
+          {
+            "label": "C.",
+            "text": "True. The zeros of\nf prime\nf\u2032 are the local extrema of f."
+          },
+          {
+            "label": "D.",
+            "text": "False. The zeros of\nf prime\nf\u2032 are the inflection points of f."
+          },
+          {
+            "label": "Part 2",
+            "text": ""
+          },
+          {
+            "label": "b. The zeros of",
+            "text": "f double prime\nf\u2032\u2032 are\nminus\n\u22122 and\u200b 4, so the inflection points are located at these points. Choose the correct answer below."
+          },
+          {
+            "label": "A.",
+            "text": "False. Another requirement is that\nf double prime left parenthesis x right parenthesis\nf\u2032\u2032(x) does not change sign at these points.\u200b Take, for\u200b example, the function\nf left parenthesis x right parenthesis equals x cubed\nf(x)=x3."
+          },
+          {
+            "label": "B.",
+            "text": "False. Another requirement is that\nf double prime left parenthesis x right parenthesis\nf\u2032\u2032(x) changes sign at these points.\u200b Take, for\u200b example, the function\nf left parenthesis x right parenthesis equals left parenthesis x plus 2 right parenthesis Superscript 4 Baseline left parenthesis x minus 4 right parenthesis Superscript 4\nf(x)=(x+2)4(x\u22124)4."
+          },
+          {
+            "label": "C.",
+            "text": "True. If the zeroes of\nf double prime\nf\u2032\u2032 occur at these\u200b points, then the inflection points are located at these points."
+          },
+          {
+            "label": "D.",
+            "text": "True. Another requirement is that\nf double prime left parenthesis x right parenthesis\nf\u2032\u2032(x) changes sign at these points."
+          },
+          {
+            "label": "Part 3",
+            "text": ""
+          },
+          {
+            "label": "c. The zeros of the denominator of f are",
+            "text": "minus\n\u22123 and\u200b 4, so f has vertical asymptotes at these points. Choose the correct answer below."
+          },
+          {
+            "label": "A.",
+            "text": "True. Vertical asymptotes occur where zeros of the denominator happen."
+          },
+          {
+            "label": "B.",
+            "text": "False. Vertical asymptotes require examining limits as x\nright arrow\n\u2192\nplus or minus\n\u00b1\ninfinity\n\u221e."
+          },
+          {
+            "label": "C.",
+            "text": "True. Vertical asymptotes require examining limits of the denominator as x\nright arrow\n\u2192\nplus or minus\n\u00b1\ninfinity\n\u221e."
+          },
+          {
+            "label": "D.",
+            "text": "False. These points are only candidates for vertical asymptotes.\u200b Consider, for\u200b example, the function \u200bf(x)\nequals\n=\nStartFraction x squared minus 9 Over x squared minus x minus 12 EndFraction\nx2\u22129\nx2\u2212x\u221212\n."
+          },
+          {
+            "label": "Part 4",
+            "text": ""
+          },
+          {
+            "label": "d. If a rational function has a finite limit as x",
+            "text": "right arrow\n\u2192\ninfinity\n\u221e\u200b, it must have a finite limit as x\nright arrow\n\u2192\nminus\n\u2212\ninfinity\n\u221e. Choose the correct answer below."
+          },
+          {
+            "label": "A.",
+            "text": "True. If a rational function has a finite limit as x\nright arrow\n\u2192\ninfinity\n\u221e\u200b, then either the degree of the numerator is the same as the degree of the denominator or the degree of the numerator is less than the degree of the denominator. In either of these\u200b instances, the limit as x\nright arrow\n\u2192\nminus\n\u2212\ninfinity\n\u221e is finite."
+          },
+          {
+            "label": "B.",
+            "text": "False. If one side of a rational function has a finite\u200b limit, then the other side must diverge to infinity.\u200b Take, for\u200b example, the function\nf left parenthesis x right parenthesis equals StartFraction 1 Over e Superscript x EndFraction\nf(x)=\n1\nex\n."
+          },
+          {
+            "label": "C.",
+            "text": "True. If a rational function has a finite limit as x\nright arrow\n\u2192\ninfinity\n\u221e\u200b, then the degree of the numerator is greater than the degree of the denominator. In this\u200b instance, the limit as x\nright arrow\n\u2192\nminus\n\u2212\ninfinity\n\u221e is finite."
+          },
+          {
+            "label": "D.",
+            "text": "False. One side of a rational function does not dictate the limit of the opposite side of the function.\u200b Take, for\u200b example, the function\nf left parenthesis x right parenthesis equals StartFraction 1 Over ln x EndFraction\nf(x)=\n1\nlnx\n."
+          }
+        ],
+        "prompt": "Determine whether the following statements are true and give an explanation or counterexample.",
+        "expr": "f(x)=(x+3)3(x\u22121)3(x\u22124)3.",
+        "objective": "Answer advanced conceptual questions about graphing functions.",
+        "poolOrder": "7",
+        "difficulty": "Moderate",
+        "estimatedTime": "2m 3s"
+      },
+      {
+        "printOrder": 12,
+        "questionId": "4.3.65",
+        "summary": "Determine the intervals on which the following function is concave up or concave down. Ident...",
+        "fullText": "Part 1\nDetermine the intervals on which the following function is concave up or concave down. Identify any inflection points.\nf left parenthesis x right parenthesis\nf(x)\nequals\n=\n5 x Superscript 4 Baseline minus 30 x cubed plus 10\n5x4\u221230x3+10\nPart 1\nDetermine the intervals on which the following functions are concave up or concave down. Select the correct choice\u200b and, if\u200b necessary, fill in the answer\u200b box(es) to complete your choice.\nA.\nThe function is concave up on\nand concave down on\n.\n\u200b(Simplify your answers. Type your answers in interval notation. Use a comma to separate answers as\u200b needed.)\nB.\nThe function is concave up on\nand the function is never concave down.\n\u200b(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as\u200b needed.)\nC.\nThe function is concave down on\nand the function is never concave up.\n\u200b(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as\u200b needed.)\nD.\nThe function is never concave up nor concave down.\nPart 2\nLocate any inflection points of f. Select the correct choice\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nAn inflection point occurs at x\nequals\n=\n.\n\u200b(Use a comma to separate answers as\u200b needed.)\nB.\nThere are no inflection points for f.",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "Determine the intervals on which the following function is concave up or concave down. Identify any inflection points.\nf left parenthesis x right parenthesis\nf(x)\nequals\n=\n5 x Superscript 4 Baseline minus 30 x cubed plus 10\n5x4\u221230x3+10"
+          },
+          {
+            "label": "Part 1",
+            "text": "Determine the intervals on which the following functions are concave up or concave down. Select the correct choice\u200b and, if\u200b necessary, fill in the answer\u200b box(es) to complete your choice."
+          },
+          {
+            "label": "A.",
+            "text": "The function is concave up on\nand concave down on\n.\n\u200b(Simplify your answers. Type your answers in interval notation. Use a comma to separate answers as\u200b needed.)"
+          },
+          {
+            "label": "B.",
+            "text": "The function is concave up on\nand the function is never concave down.\n\u200b(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as\u200b needed.)"
+          },
+          {
+            "label": "C.",
+            "text": "The function is concave down on\nand the function is never concave up.\n\u200b(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as\u200b needed.)"
+          },
+          {
+            "label": "D.",
+            "text": "The function is never concave up nor concave down."
+          },
+          {
+            "label": "Part 2",
+            "text": "Locate any inflection points of f. Select the correct choice\u200b and, if\u200b necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "A.",
+            "text": "An inflection point occurs at x\nequals\n=\n.\n\u200b(Use a comma to separate answers as\u200b needed.)"
+          },
+          {
+            "label": "B.",
+            "text": "There are no inflection points for f."
+          }
+        ],
+        "prompt": "Determine the intervals on which the following function is concave up or concave down. Ident...",
+        "expr": "",
+        "objective": "Determine the concavity on intervals and find inflection points.",
+        "poolOrder": "5",
+        "difficulty": "Moderate",
+        "estimatedTime": "2m 55s"
+      },
+      {
+        "printOrder": 13,
+        "questionId": "4.6.30",
+        "summary": "a. Write the equation of the line that represents the linear approximation to the following ...",
+        "fullText": "Part 1\na. Write the equation of the line that represents the linear approximation to the following function at the given point a.\nb. Use the linear approximation to estimate the given quantity.\nc. Compute the percent error in the\u200b approximation,\n100 times StartFraction StartAbsoluteValue approximation minus exact EndAbsoluteValue Over StartAbsoluteValue exact EndAbsoluteValue EndFraction\n100\u2022\napproximation\u2212exact\nexact\n\u200b, where the exact value is given by a calculator.\nf left parenthesis x right parenthesis equals 2 e Superscript x\nf(x)=2ex at a\nequals\n=\u200b0; \u200bf(\n0.03\n0.03\u200b)\nPart 1\na.\u200b L(x)\nequals\n=\nPart 2\nb. Using the linear\u200b approximation, \u200bf(\n0.03\n0.03\u200b)\nalmost equals\n\u2248\n.\n\u200b(Type an integer or a\u200b decimal.)\nPart 3\nc. The percent error in the approximation is\n\u200b%.\n\u200b(Round to four decimal places as\u200b needed.)",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": ""
+          },
+          {
+            "label": "a. Write the equation of the line that represents the linear approximation to the following function at the given point a.",
+            "text": ""
+          },
+          {
+            "label": "b. Use the linear approximation to estimate the given quantity.",
+            "text": ""
+          },
+          {
+            "label": "c. Compute the percent error in the\u200b approximation,",
+            "text": "100 times StartFraction StartAbsoluteValue approximation minus exact EndAbsoluteValue Over StartAbsoluteValue exact EndAbsoluteValue EndFraction\n100\u2022\napproximation\u2212exact\nexact\n\u200b, where the exact value is given by a calculator.\nf left parenthesis x right parenthesis equals 2 e Superscript x\nf(x)=2ex at a\nequals\n=\u200b0; \u200bf(\n0.03\n0.03\u200b)"
+          },
+          {
+            "label": "Part 1",
+            "text": "a.\u200b L(x)\nequals\n="
+          },
+          {
+            "label": "Part 2",
+            "text": ""
+          },
+          {
+            "label": "b. Using the linear\u200b approximation, \u200bf(",
+            "text": "0.03\n0.03\u200b)\nalmost equals\n\u2248\n.\n\u200b(Type an integer or a\u200b decimal.)"
+          },
+          {
+            "label": "Part 3",
+            "text": ""
+          },
+          {
+            "label": "c. The percent error in the approximation is",
+            "text": "\u200b%.\n\u200b(Round to four decimal places as\u200b needed.)"
+          }
+        ],
+        "prompt": "a. Write the equation of the line that represents the linear approximation to the following ...",
+        "expr": "f(x)=2ex at a",
+        "objective": "Construct a linear approximation to estimate the value of a function and find the percent error.",
+        "poolOrder": "8",
+        "difficulty": "Moderate",
+        "estimatedTime": "2m 33s"
+      },
+      {
+        "printOrder": 14,
+        "questionId": "4.9.91",
+        "summary": "Given the following velocity function of an object moving along a\u200b line, find the position f...",
+        "fullText": "Part 1\nGiven the following velocity function of an object moving along a\u200b line, find the position function with the given initial position.\n\u200bv(t)\nequals\n=\n2 t plus 5\n2t+5\u200b; \u200bs(0)\nequals\n=0\nPart 1\nThe position function is \u200bs(t)\nequals\n=\n.",
+        "parts": [
+          {
+            "label": "Part 1",
+            "text": "Given the following velocity function of an object moving along a\u200b line, find the position function with the given initial position.\n\u200bv(t)\nequals\n=\n2 t plus 5\n2t+5\u200b; \u200bs(0)\nequals\n=0"
+          },
+          {
+            "label": "Part 1",
+            "text": "The position function is \u200bs(t)\nequals\n=\n."
+          }
+        ],
+        "prompt": "Given the following velocity function of an object moving along a\u200b line, find the position f...",
+        "expr": "",
+        "objective": "Find a position function given a velocity function and an initial position.",
+        "poolOrder": "14",
+        "difficulty": "Easy",
+        "estimatedTime": "1m 19s"
+      }
+    ]
+  }
+]

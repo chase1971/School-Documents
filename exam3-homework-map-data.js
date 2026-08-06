@@ -296,7 +296,7 @@ const REVIEW = [
 const PROBLEMS = {
   "3.8.15": {
     "summary": "a. Use implicit differentiation to find",
-    "fullText": "Part 1\na. Use implicit differentiation to find\ndy/dx\nb. Find the slope of the curve at the given point.\ny\u00b2 = 9x ; (25 , 15)\nPart 1\na.\ndy/dx\nPart 2\nb. The slope of the curve at(25 , 15)\n15) is\n. (Simplify your answer.)",
+    "fullText": "Part 1\na. Use implicit differentiation to find\ndy/dx\nb. Find the slope of the curve at the given point.\ny² = 9x ; (25 , 15)\nPart 1\na.\ndy/dx\nPart 2\nb. The slope of the curve at(25 , 15)\n15) is\n. (Simplify your answer.)",
     "parts": [
       {
         "label": "Part 1",
@@ -308,7 +308,7 @@ const PROBLEMS = {
       },
       {
         "label": "b. Find the slope of the curve at the given point.",
-        "text": "y\u00b2 = 9x ; (25 , 15)"
+        "text": "y² = 9x ; (25 , 15)"
       },
       {
         "label": "Part 1",
@@ -323,15 +323,15 @@ const PROBLEMS = {
         "text": ""
       },
       {
-        "label": "b. The slope of the curve at \u200b(",
+        "label": "b. The slope of the curve at ​(",
         "text": "(25 , 15)\n15) is\n. (Simplify your answer.)"
       }
     ],
-    "expr": "y\u00b2 = 9x ; ("
+    "expr": "y² = 9x ; ("
   },
   "3.8.17": {
     "summary": "a. Use implicit differentiation to find",
-    "fullText": "Part 1\na. Use implicit differentiation to find\ndy/dx\nb. Find the slope of the curve at the given point.\nsin y = 7x\u2074 \u2212 7 ;\n(1 , \u03c0)\nPart 1\na.\ndy/dx\nPart 2\nb. The slope of the curve at\n(1 , \u03c0)\n(1 , \u03c0) is\n. (Simplify your answer.)",
+    "fullText": "Part 1\na. Use implicit differentiation to find\ndy/dx\nb. Find the slope of the curve at the given point.\nsin y = 7x⁴ − 7 ;\n(1 , π)\nPart 1\na.\ndy/dx\nPart 2\nb. The slope of the curve at\n(1 , π)\n(1 , π) is\n. (Simplify your answer.)",
     "parts": [
       {
         "label": "Part 1",
@@ -343,7 +343,7 @@ const PROBLEMS = {
       },
       {
         "label": "b. Find the slope of the curve at the given point.",
-        "text": "sin y = 7x\u2074 \u2212 7 ;\n(1 , \u03c0)"
+        "text": "sin y = 7x⁴ − 7 ;\n(1 , π)"
       },
       {
         "label": "Part 1",
@@ -359,14 +359,14 @@ const PROBLEMS = {
       },
       {
         "label": "b. The slope of the curve at",
-        "text": "(1 , \u03c0)\n(1 , \u03c0) is\n. (Simplify your answer.)"
+        "text": "(1 , π)\n(1 , π) is\n. (Simplify your answer.)"
       }
     ],
-    "expr": "sin y = 7x\u2074 \u2212 7 ;"
+    "expr": "sin y = 7x⁴ − 7 ;"
   },
   "3.8.18": {
     "summary": "a. Use implicit differentiation to find",
-    "fullText": "Part 1\na. Use implicit differentiation to find\ndy/dx\nb. Find the slope of the curve at the given point.\n8 \u221a(x) \u2212 9 \u221a(y) = 7\n8\nx \u2212 9\ny = 7 ; (4 , 1)\nPart 1\na.\ndy/dx\nPart 2\nb. The slope of the curve at the point(4 , 1)\n1) is\n. (Simplify your answer.)",
+    "fullText": "Part 1\na. Use implicit differentiation to find\ndy/dx\nb. Find the slope of the curve at the given point.\n8 √(x) − 9 √(y) = 7\n8\nx − 9\ny = 7 ; (4 , 1)\nPart 1\na.\ndy/dx\nPart 2\nb. The slope of the curve at the point(4 , 1)\n1) is\n. (Simplify your answer.)",
     "parts": [
       {
         "label": "Part 1",
@@ -378,7 +378,7 @@ const PROBLEMS = {
       },
       {
         "label": "b. Find the slope of the curve at the given point.",
-        "text": "8 \u221a(x) \u2212 9 \u221a(y) = 7\n8\nx \u2212 9\ny = 7 ; (4 , 1)"
+        "text": "8 √(x) − 9 √(y) = 7\n8\nx − 9\ny = 7 ; (4 , 1)"
       },
       {
         "label": "Part 1",
@@ -393,7 +393,7 @@ const PROBLEMS = {
         "text": ""
       },
       {
-        "label": "b. The slope of the curve at the point \u200b(",
+        "label": "b. The slope of the curve at the point ​(",
         "text": "(4 , 1)\n1) is\n. (Simplify your answer.)"
       }
     ],
@@ -401,7 +401,7 @@ const PROBLEMS = {
   },
   "3.8.19": {
     "summary": "a. Use implicit differentiation to find",
-    "fullText": "Part 1\na. Use implicit differentiation to find\ndy/dx\nb. Find the slope of the curve at the given point.\nsin\u2075y = x ;\n(0 , \u03c0/5)\nPart 1\na.\ndy/dx\nPart 2\nb. The slope of the curve at\n(0 , \u03c0/5)\nis\n. (Simplify your answer.)",
+    "fullText": "Part 1\na. Use implicit differentiation to find\ndy/dx\nb. Find the slope of the curve at the given point.\nsin⁵y = x ;\n(0 , π/5)\nPart 1\na.\ndy/dx\nPart 2\nb. The slope of the curve at\n(0 , π/5)\nis\n. (Simplify your answer.)",
     "parts": [
       {
         "label": "Part 1",
@@ -413,7 +413,7 @@ const PROBLEMS = {
       },
       {
         "label": "b. Find the slope of the curve at the given point.",
-        "text": "sin\u2075y = x ;\n(0 , \u03c0/5)"
+        "text": "sin⁵y = x ;\n(0 , π/5)"
       },
       {
         "label": "Part 1",
@@ -429,14 +429,14 @@ const PROBLEMS = {
       },
       {
         "label": "b. The slope of the curve at",
-        "text": "(0 , \u03c0/5)\nis\n. (Simplify your answer.)"
+        "text": "(0 , π/5)\nis\n. (Simplify your answer.)"
       }
     ],
-    "expr": "sin\u2075y = x ;"
+    "expr": "sin⁵y = x ;"
   },
   "3.8.24": {
     "summary": "a. Use implicit differentiation to find",
-    "fullText": "Part 1\na. Use implicit differentiation to find\ndy/dx\nb. Find the slope of the curve at the given point.\nx\u00b2/3 + y\u00b2/3 = 5 ;\n(1 , 8)\nPart 1\na.\ndy/dx\nPart 2\nb. The slope at\n(1 , 8)\n(1 , 8) is\n(Simplify your answer.)",
+    "fullText": "Part 1\na. Use implicit differentiation to find\ndy/dx\nb. Find the slope of the curve at the given point.\nx²/3 + y²/3 = 5 ;\n(1 , 8)\nPart 1\na.\ndy/dx\nPart 2\nb. The slope at\n(1 , 8)\n(1 , 8) is\n(Simplify your answer.)",
     "parts": [
       {
         "label": "Part 1",
@@ -448,7 +448,7 @@ const PROBLEMS = {
       },
       {
         "label": "b. Find the slope of the curve at the given point.",
-        "text": "x\u00b2/3 + y\u00b2/3 = 5 ;\n(1 , 8)"
+        "text": "x²/3 + y²/3 = 5 ;\n(1 , 8)"
       },
       {
         "label": "Part 1",
@@ -467,7 +467,7 @@ const PROBLEMS = {
         "text": "(1 , 8)\n(1 , 8) is\n(Simplify your answer.)"
       }
     ],
-    "expr": "x\u00b2/3 + y\u00b2/3 = 5 ;"
+    "expr": "x²/3 + y²/3 = 5 ;"
   },
   "3.8.31": {
     "summary": "Use implicit differentiation to find",
@@ -486,11 +486,11 @@ const PROBLEMS = {
   },
   "3.8.32": {
     "summary": "Use implicit differentiation to find",
-    "fullText": "Part 1\nUse implicit differentiation to find\ndy/dx\ne Superscript 5 xy\ne\u2075xy\n2\n2y\nPart 1\ndy/dx",
+    "fullText": "Part 1\nUse implicit differentiation to find\ndy/dx\ne Superscript 5 xy\ne⁵xy\n2\n2y\nPart 1\ndy/dx",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Use implicit differentiation to find\ndy/dx\ne Superscript 5 xy\ne\u2075xy\n2\n2y"
+        "text": "Use implicit differentiation to find\ndy/dx\ne Superscript 5 xy\ne⁵xy\n2\n2y"
       },
       {
         "label": "Part 1",
@@ -500,26 +500,26 @@ const PROBLEMS = {
   },
   "3.8.33": {
     "summary": "Use implicit differentiation to find",
-    "fullText": "Part 1\nUse implicit differentiation to find\ndy/dx\ncos\u2074y\u00b2 + 6x = 9ey\nPart 1\ndy/dx\n(Use parentheses to clearly denote the argument of each function.)",
+    "fullText": "Part 1\nUse implicit differentiation to find\ndy/dx\ncos⁴y² + 6x = 9ey\nPart 1\ndy/dx\n(Use parentheses to clearly denote the argument of each function.)",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Use implicit differentiation to find\ndy/dx\ncos\u2074y\u00b2 + 6x = 9ey"
+        "text": "Use implicit differentiation to find\ndy/dx\ncos⁴y² + 6x = 9ey"
       },
       {
         "label": "Part 1",
         "text": "dy/dx\n(Use parentheses to clearly denote the argument of each function.)"
       }
     ],
-    "expr": "cos\u2074y\u00b2 + 6x = 9ey"
+    "expr": "cos⁴y² + 6x = 9ey"
   },
   "3.8.34": {
     "summary": "Use implicit differentiation to find",
-    "fullText": "Part 1\nUse implicit differentiation to find\ndy/dx\nx + 1/y \u2212 1\nPart 1\ndy/dx",
+    "fullText": "Part 1\nUse implicit differentiation to find\ndy/dx\nx + 1/y − 1\nPart 1\ndy/dx",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Use implicit differentiation to find\ndy/dx\nx + 1/y \u2212 1"
+        "text": "Use implicit differentiation to find\ndy/dx\nx + 1/y − 1"
       },
       {
         "label": "Part 1",
@@ -529,65 +529,65 @@ const PROBLEMS = {
   },
   "3.8.37": {
     "summary": "Use implicit differentiation to find",
-    "fullText": "Part 1\nUse implicit differentiation to find\ndy/dx\nfor the following equation.\n5x\u00b3 + 3y\u00b3 = 8xy\nPart 1\ndy/dx",
+    "fullText": "Part 1\nUse implicit differentiation to find\ndy/dx\nfor the following equation.\n5x³ + 3y³ = 8xy\nPart 1\ndy/dx",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Use implicit differentiation to find\ndy/dx\nfor the following equation.\n5x\u00b3 + 3y\u00b3 = 8xy"
+        "text": "Use implicit differentiation to find\ndy/dx\nfor the following equation.\n5x³ + 3y³ = 8xy"
       },
       {
         "label": "Part 1",
         "text": "dy/dx"
       }
     ],
-    "expr": "5x\u00b3 + 3y\u00b3 = 8xy"
+    "expr": "5x³ + 3y³ = 8xy"
   },
   "3.8.52": {
-    "summary": "d\u00b2 y/dx\u00b2",
-    "fullText": "Part 1\nFind\nd\u00b2 y/dx\u00b2\n\u00b2\n4\nPart 1\nd\u00b2 y/dx\u00b2",
+    "summary": "d² y/dx²",
+    "fullText": "Part 1\nFind\nd² y/dx²\n²\n4\nPart 1\nd² y/dx²",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Find\nd\u00b2 y/dx\u00b2\n\u00b2\n4"
+        "text": "Find\nd² y/dx²\n²\n4"
       },
       {
         "label": "Part 1",
-        "text": "d\u00b2 y/dx\u00b2"
+        "text": "d² y/dx²"
       }
     ]
   },
   "3.8.53": {
-    "summary": "d\u00b2 y/dx\u00b2",
-    "fullText": "Part 1\nFind\nd\u00b2 y/dx\u00b2\n8x + 3y = sin(y)\nPart 1\nd\u00b2 y/dx\u00b2",
+    "summary": "d² y/dx²",
+    "fullText": "Part 1\nFind\nd² y/dx²\n8x + 3y = sin(y)\nPart 1\nd² y/dx²",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Find\nd\u00b2 y/dx\u00b2\n8x + 3y = sin(y)"
+        "text": "Find\nd² y/dx²\n8x + 3y = sin(y)"
       },
       {
         "label": "Part 1",
-        "text": "d\u00b2 y/dx\u00b2"
+        "text": "d² y/dx²"
       }
     ],
     "expr": "8x + 3y = sin(y)"
   },
   "3.8.55": {
-    "summary": "d\u00b2 y/dx\u00b2",
-    "fullText": "Part 1\nFind\nd\u00b2 y/dx\u00b2\ne\u2074y + x = 7y\nPart 1\nd\u00b2 y/dx\u00b2",
+    "summary": "d² y/dx²",
+    "fullText": "Part 1\nFind\nd² y/dx²\ne⁴y + x = 7y\nPart 1\nd² y/dx²",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Find\nd\u00b2 y/dx\u00b2\ne\u2074y + x = 7y"
+        "text": "Find\nd² y/dx²\ne⁴y + x = 7y"
       },
       {
         "label": "Part 1",
-        "text": "d\u00b2 y/dx\u00b2"
+        "text": "d² y/dx²"
       }
     ],
-    "expr": "e\u2074y + x = 7y"
+    "expr": "e⁴y + x = 7y"
   },
   "3.11.3": {
-    "summary": "If two opposite sides of a rectangle increase in length, how must the other two opposite si\u2026",
+    "summary": "If two opposite sides of a rectangle increase in length, how must the other two opposite si…",
     "fullText": "Part 1\nIf two opposite sides of a rectangle increase in length, how must the other two opposite sides change if the area of the rectangle is to remain constant?\nPart 1\nChoose the correct answer below.\nA.\nIf two opposite sides of a rectangle increase in length, the other two opposite sides increase in length if the area of the rectangle is to remain constant.\nB.\nThe other two opposite sides must remain the same length.\nC.\nIf two opposite sides of a rectangle increase in length, the other two opposite sides decrease in length if the area of the rectangle is to remain constant.",
     "parts": [
       {
@@ -614,7 +614,7 @@ const PROBLEMS = {
   },
   "3.11.11": {
     "summary": "The sides of a square increase in length at a rate of",
-    "fullText": "Part 1\nThe sides of a square increase in length at a rate of\n3\n3 m/sec.\na. At what rate is the area of the square changing when the sides are\n20\n20 m long?\nb. At what rate is the area of the square changing when the sides are\n27\n27 m long?\nPart 1\na. The area of the square is changing at a rate of\n(1)\nwhen the sides are\n20\n20 m long.\nPart 2\nb. The area of the square is changing at a rate of\n(2)\nwhen the sides are\n27\n27 m long.\n(1)\nm\u00b3 / s\nm\u00b2 / s\nm divided by s\nm/s\n(2)\nm\u00b2 / s\nm divided by s\nm/s\nm\u00b3 / s",
+    "fullText": "Part 1\nThe sides of a square increase in length at a rate of\n3\n3 m/sec.\na. At what rate is the area of the square changing when the sides are\n20\n20 m long?\nb. At what rate is the area of the square changing when the sides are\n27\n27 m long?\nPart 1\na. The area of the square is changing at a rate of\n(1)\nwhen the sides are\n20\n20 m long.\nPart 2\nb. The area of the square is changing at a rate of\n(2)\nwhen the sides are\n27\n27 m long.\n(1)\nm³ / s\nm² / s\nm divided by s\nm/s\n(2)\nm² / s\nm divided by s\nm/s\nm³ / s",
     "parts": [
       {
         "label": "Part 1",
@@ -642,17 +642,17 @@ const PROBLEMS = {
       },
       {
         "label": "b. The area of the square is changing at a rate of",
-        "text": "(2)\nwhen the sides are\n27\n27 m long.\n(1)\nm\u00b3 / s\nm\u00b2 / s\nm divided by s\nm/s\n(2)\nm\u00b2 / s\nm divided by s\nm/s\nm\u00b3 / s"
+        "text": "(2)\nwhen the sides are\n27\n27 m long.\n(1)\nm³ / s\nm² / s\nm divided by s\nm/s\n(2)\nm² / s\nm divided by s\nm/s\nm³ / s"
       }
     ]
   },
   "3.11.15-Setup & Solve": {
     "summary": "The area of a circle increases at a rate of",
-    "fullText": "Part 1\nThe area of a circle increases at a rate of\n4\ncm\u00b2 / s\ncm\u00b2/s.\na. How fast is the radius changing when the radius is\n2\n2 cm?\nb. How fast is the radius changing when the circumference is\n1\n1 cm?\nPart 1\na. Write an equation relating the area of a circle, A, and the radius of the circle, r.\n(Type an exact answer, using\npi\n\u03c0 as needed.)\nPart 2\nDifferentiate both sides of the equation with respect to t.\n(Type an exact answer, using\npi\n\u03c0 as needed.)\nPart 3\nWhen the radius is\n(2 , 1)\n(Type an exact answer, using\npi\n\u03c0 as needed.)\nPart 4\nb. When the circumference is\n(1 , 2)\n(Type an exact answer, using\npi\n\u03c0 as needed.)\n(1)\ncm\u00b3 / s.\ncm\u00b3/s.\ncm divided by s.\ncm/s.\ncm\u00b2 / s.\ncm\u00b2/s.\ncm.\n(2)\ncm\u00b3 / s.\ncm\u00b3/s.\ncm.\ncm\u00b2 / s.\ncm\u00b2/s.\ncm divided by s.\ncm/s.",
+    "fullText": "Part 1\nThe area of a circle increases at a rate of\n4\ncm² / s\ncm²/s.\na. How fast is the radius changing when the radius is\n2\n2 cm?\nb. How fast is the radius changing when the circumference is\n1\n1 cm?\nPart 1\na. Write an equation relating the area of a circle, A, and the radius of the circle, r.\n(Type an exact answer, using\npi\nπ as needed.)\nPart 2\nDifferentiate both sides of the equation with respect to t.\n(Type an exact answer, using\npi\nπ as needed.)\nPart 3\nWhen the radius is\n(2 , 1)\n(Type an exact answer, using\npi\nπ as needed.)\nPart 4\nb. When the circumference is\n(1 , 2)\n(Type an exact answer, using\npi\nπ as needed.)\n(1)\ncm³ / s.\ncm³/s.\ncm divided by s.\ncm/s.\ncm² / s.\ncm²/s.\ncm.\n(2)\ncm³ / s.\ncm³/s.\ncm.\ncm² / s.\ncm²/s.\ncm divided by s.\ncm/s.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "The area of a circle increases at a rate of\n4\ncm\u00b2 / s\ncm\u00b2/s."
+        "text": "The area of a circle increases at a rate of\n4\ncm² / s\ncm²/s."
       },
       {
         "label": "a. How fast is the radius changing when the radius is",
@@ -667,16 +667,16 @@ const PROBLEMS = {
         "text": ""
       },
       {
-        "label": "a. Write an equation relating the area of a\u200b circle, A, and the radius of the\u200b circle, r.",
-        "text": "(Type an exact answer, using\npi\n\u03c0 as needed.)"
+        "label": "a. Write an equation relating the area of a​ circle, A, and the radius of the​ circle, r.",
+        "text": "(Type an exact answer, using\npi\nπ as needed.)"
       },
       {
         "label": "Part 2",
-        "text": "Differentiate both sides of the equation with respect to t.\n(Type an exact answer, using\npi\n\u03c0 as needed.)"
+        "text": "Differentiate both sides of the equation with respect to t.\n(Type an exact answer, using\npi\nπ as needed.)"
       },
       {
         "label": "Part 3",
-        "text": "When the radius is\n(2 , 1)\n(Type an exact answer, using\npi\n\u03c0 as needed.)"
+        "text": "When the radius is\n(2 , 1)\n(Type an exact answer, using\npi\nπ as needed.)"
       },
       {
         "label": "Part 4",
@@ -684,13 +684,13 @@ const PROBLEMS = {
       },
       {
         "label": "b. When the circumference is",
-        "text": "(1 , 2)\n(Type an exact answer, using\npi\n\u03c0 as needed.)\n(1)\ncm\u00b3 / s.\ncm\u00b3/s.\ncm divided by s.\ncm/s.\ncm\u00b2 / s.\ncm\u00b2/s.\ncm.\n(2)\ncm\u00b3 / s.\ncm\u00b3/s.\ncm.\ncm\u00b2 / s.\ncm\u00b2/s.\ncm divided by s.\ncm/s."
+        "text": "(1 , 2)\n(Type an exact answer, using\npi\nπ as needed.)\n(1)\ncm³ / s.\ncm³/s.\ncm divided by s.\ncm/s.\ncm² / s.\ncm²/s.\ncm.\n(2)\ncm³ / s.\ncm³/s.\ncm.\ncm² / s.\ncm²/s.\ncm divided by s.\ncm/s."
       }
     ]
   },
   "3.11.16-Setup & Solve": {
     "summary": "The edges of a cube increase at a rate of",
-    "fullText": "Part 1\nThe edges of a cube increase at a rate of\n2\ncm divided by s\ncm/s. How fast is the volume changing when the length of each edge is\n50\n50 cm?\nPart 1\nWrite an equation relating the volume of a cube, V, and an edge of the cube, a.\nPart 2\nDifferentiate both sides of the equation with respect to t.\nPart 3\nThe rate of change of the volume is\n(1)\n(Simplify your answer.)\n(1)\ncm divided by sec.\ncm/sec.\ncm\u00b2 .\ncm\u00b2.\ncm\u00b3 / sec.\ncm\u00b3/sec.\ncm\u00b2 / sec.\ncm\u00b2/sec.\ncm\u00b3 .\ncm\u00b3.\ncm.",
+    "fullText": "Part 1\nThe edges of a cube increase at a rate of\n2\ncm divided by s\ncm/s. How fast is the volume changing when the length of each edge is\n50\n50 cm?\nPart 1\nWrite an equation relating the volume of a cube, V, and an edge of the cube, a.\nPart 2\nDifferentiate both sides of the equation with respect to t.\nPart 3\nThe rate of change of the volume is\n(1)\n(Simplify your answer.)\n(1)\ncm divided by sec.\ncm/sec.\ncm² .\ncm².\ncm³ / sec.\ncm³/sec.\ncm² / sec.\ncm²/sec.\ncm³ .\ncm³.\ncm.",
     "parts": [
       {
         "label": "Part 1",
@@ -706,13 +706,13 @@ const PROBLEMS = {
       },
       {
         "label": "Part 3",
-        "text": "The rate of change of the volume is\n(1)\n(Simplify your answer.)\n(1)\ncm divided by sec.\ncm/sec.\ncm\u00b2 .\ncm\u00b2.\ncm\u00b3 / sec.\ncm\u00b3/sec.\ncm\u00b2 / sec.\ncm\u00b2/sec.\ncm\u00b3 .\ncm\u00b3.\ncm."
+        "text": "The rate of change of the volume is\n(1)\n(Simplify your answer.)\n(1)\ncm divided by sec.\ncm/sec.\ncm² .\ncm².\ncm³ / sec.\ncm³/sec.\ncm² / sec.\ncm²/sec.\ncm³ .\ncm³.\ncm."
       }
     ]
   },
   "3.11.17": {
     "summary": "A circle has an initial radius of 50 ft when the radius begins decreasing at the rate of",
-    "fullText": "Part 1\nA circle has an initial radius of 50 ft when the radius begins decreasing at the rate of\n3\n3 ft/min. What is the rate in the change of area at the instant that the radius is\n21\n21 ft?\nPart 1\nThe rate of change of the area is\n(1)\n(Type an exact answer in terms of\npi\n\u03c0.)\n(1)\nft.\nft divided by min.\nft/min.\nft\u00b2 / min.\nft\u00b2/min.\nft\u00b3 / min.\nft\u00b3/min.\nft\u00b2 .\nft\u00b2.\nft\u00b3 .\nft\u00b3.",
+    "fullText": "Part 1\nA circle has an initial radius of 50 ft when the radius begins decreasing at the rate of\n3\n3 ft/min. What is the rate in the change of area at the instant that the radius is\n21\n21 ft?\nPart 1\nThe rate of change of the area is\n(1)\n(Type an exact answer in terms of\npi\nπ.)\n(1)\nft.\nft divided by min.\nft/min.\nft² / min.\nft²/min.\nft³ / min.\nft³/min.\nft² .\nft².\nft³ .\nft³.",
     "parts": [
       {
         "label": "Part 1",
@@ -720,31 +720,31 @@ const PROBLEMS = {
       },
       {
         "label": "Part 1",
-        "text": "The rate of change of the area is\n(1)\n(Type an exact answer in terms of\npi\n\u03c0.)\n(1)\nft.\nft divided by min.\nft/min.\nft\u00b2 / min.\nft\u00b2/min.\nft\u00b3 / min.\nft\u00b3/min.\nft\u00b2 .\nft\u00b2.\nft\u00b3 .\nft\u00b3."
+        "text": "The rate of change of the area is\n(1)\n(Type an exact answer in terms of\npi\nπ.)\n(1)\nft.\nft divided by min.\nft/min.\nft² / min.\nft²/min.\nft³ / min.\nft³/min.\nft² .\nft².\nft³ .\nft³."
       }
     ]
   },
   "3.11.19": {
     "summary": "A spherical balloon is inflated and its volume increases at a rate of",
-    "fullText": "Part 1\nA spherical balloon is inflated and its volume increases at a rate of\n26\nin. \u00b3 / min\nin.3/min. What is the rate of change of its radius when the radius is\n9\n9 in.?\nPart 1\nThe balloon's radius is increasing at a rate of\n(1)\nat the instant the radius is\n9\n9 in.\n(Round to three decimal places as needed.)\n(1)\nin. \u00b2 / min\nin.2/min\nin.\nin. \u00b3 / min\nin.3/min\nin. divided by min\nin./min",
+    "fullText": "Part 1\nA spherical balloon is inflated and its volume increases at a rate of\n26\nin. ³ / min\nin.3/min. What is the rate of change of its radius when the radius is\n9\n9 in.?\nPart 1\nThe balloon's radius is increasing at a rate of\n(1)\nat the instant the radius is\n9\n9 in.\n(Round to three decimal places as needed.)\n(1)\nin. ² / min\nin.2/min\nin.\nin. ³ / min\nin.3/min\nin. divided by min\nin./min",
     "parts": [
       {
         "label": "Part 1",
-        "text": "A spherical balloon is inflated and its volume increases at a rate of\n26\nin. \u00b3 / min\nin.3/min. What is the rate of change of its radius when the radius is\n9\n9 in.?"
+        "text": "A spherical balloon is inflated and its volume increases at a rate of\n26\nin. ³ / min\nin.3/min. What is the rate of change of its radius when the radius is\n9\n9 in.?"
       },
       {
         "label": "Part 1",
-        "text": "The balloon's radius is increasing at a rate of\n(1)\nat the instant the radius is\n9\n9 in.\n(Round to three decimal places as needed.)\n(1)\nin. \u00b2 / min\nin.2/min\nin.\nin. \u00b3 / min\nin.3/min\nin. divided by min\nin./min"
+        "text": "The balloon's radius is increasing at a rate of\n(1)\nat the instant the radius is\n9\n9 in.\n(Round to three decimal places as needed.)\n(1)\nin. ² / min\nin.2/min\nin.\nin. ³ / min\nin.3/min\nin. divided by min\nin./min"
       }
     ]
   },
   "3.11.20-Setup & Solve": {
     "summary": "A rectangle initially has dimensions",
-    "fullText": "Part 1\nA rectangle initially has dimensions\n4\n4 cm by\n7\n7 cm. All sides begin increasing in length at a rate of\n5 cm divided by s\n5\u00a0cm/s. At what rate is the area of the rectangle increasing after\n23 s\n23\u00a0s?\nPart 1\nLet A, b, and h be the area, base, and height of a rectangle, respectively. Write an equation relating A, b, and h.\nPart 2\nDifferentiate both sides of the equation with respect to t.\nPart 3\nAfter\n(23 , 1)\n(1)\ncm divided by s.\ncm/s.\ncm\u00b2 / s.\ncm\u00b2/s.\ncm\u00b3 / s.\ncm\u00b3/s.\ncm.",
+    "fullText": "Part 1\nA rectangle initially has dimensions\n4\n4 cm by\n7\n7 cm. All sides begin increasing in length at a rate of\n5 cm divided by s\n5 cm/s. At what rate is the area of the rectangle increasing after\n23 s\n23 s?\nPart 1\nLet A, b, and h be the area, base, and height of a rectangle, respectively. Write an equation relating A, b, and h.\nPart 2\nDifferentiate both sides of the equation with respect to t.\nPart 3\nAfter\n(23 , 1)\n(1)\ncm divided by s.\ncm/s.\ncm² / s.\ncm²/s.\ncm³ / s.\ncm³/s.\ncm.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "A rectangle initially has dimensions\n4\n4 cm by\n7\n7 cm. All sides begin increasing in length at a rate of\n5 cm divided by s\n5\u00a0cm/s. At what rate is the area of the rectangle increasing after\n23 s\n23\u00a0s?"
+        "text": "A rectangle initially has dimensions\n4\n4 cm by\n7\n7 cm. All sides begin increasing in length at a rate of\n5 cm divided by s\n5 cm/s. At what rate is the area of the rectangle increasing after\n23 s\n23 s?"
       },
       {
         "label": "Part 1",
@@ -756,69 +756,69 @@ const PROBLEMS = {
       },
       {
         "label": "Part 3",
-        "text": "After\n(23 , 1)\n(1)\ncm divided by s.\ncm/s.\ncm\u00b2 / s.\ncm\u00b2/s.\ncm\u00b3 / s.\ncm\u00b3/s.\ncm."
+        "text": "After\n(23 , 1)\n(1)\ncm divided by s.\ncm/s.\ncm² / s.\ncm²/s.\ncm³ / s.\ncm³/s.\ncm."
       }
     ]
   },
   "3.11.23": {
     "summary": "An airliner passes over an airport at noon traveling",
-    "fullText": "Part 1\nAn airliner passes over an airport at noon traveling\n500 mi divided by hr\n500\u00a0mi/hr due east. At\n1 : 00 p.m.\n1:00\u00a0p.m., another airliner passes over the same airport at the same elevation traveling due south at\n560 mi divided by hr\n560\u00a0mi/hr. Assuming both airliners maintain their (equal) elevations, how fast is the distance between them changing at\n2 : 30 p.m.\n2:30\u00a0p.m.?\nPart 1\nAt\n2 : 30 p.m.\n2:30\u00a0p.m., the distance between the airliners is changing at a rate of about\n(1)\n(Round to the nearest tenth as needed.)\n(1)\nmi\u00b3 / hr.\nmi\u00b3/hr.\nmi\u00b2 / hr.\nmi\u00b2/hr.\nmi.\nmi divided by hr.\nmi/hr.",
+    "fullText": "Part 1\nAn airliner passes over an airport at noon traveling\n500 mi divided by hr\n500 mi/hr due east. At\n1 : 00 p.m.\n1:00 p.m., another airliner passes over the same airport at the same elevation traveling due south at\n560 mi divided by hr\n560 mi/hr. Assuming both airliners maintain their (equal) elevations, how fast is the distance between them changing at\n2 : 30 p.m.\n2:30 p.m.?\nPart 1\nAt\n2 : 30 p.m.\n2:30 p.m., the distance between the airliners is changing at a rate of about\n(1)\n(Round to the nearest tenth as needed.)\n(1)\nmi³ / hr.\nmi³/hr.\nmi² / hr.\nmi²/hr.\nmi.\nmi divided by hr.\nmi/hr.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "An airliner passes over an airport at noon traveling\n500 mi divided by hr\n500\u00a0mi/hr due east. At\n1 : 00 p.m.\n1:00\u00a0p.m., another airliner passes over the same airport at the same elevation traveling due south at\n560 mi divided by hr\n560\u00a0mi/hr. Assuming both airliners maintain their (equal) elevations, how fast is the distance between them changing at\n2 : 30 p.m.\n2:30\u00a0p.m.?"
+        "text": "An airliner passes over an airport at noon traveling\n500 mi divided by hr\n500 mi/hr due east. At\n1 : 00 p.m.\n1:00 p.m., another airliner passes over the same airport at the same elevation traveling due south at\n560 mi divided by hr\n560 mi/hr. Assuming both airliners maintain their (equal) elevations, how fast is the distance between them changing at\n2 : 30 p.m.\n2:30 p.m.?"
       },
       {
         "label": "Part 1",
-        "text": "At\n2 : 30 p.m.\n2:30\u00a0p.m., the distance between the airliners is changing at a rate of about\n(1)\n(Round to the nearest tenth as needed.)\n(1)\nmi\u00b3 / hr.\nmi\u00b3/hr.\nmi\u00b2 / hr.\nmi\u00b2/hr.\nmi.\nmi divided by hr.\nmi/hr."
+        "text": "At\n2 : 30 p.m.\n2:30 p.m., the distance between the airliners is changing at a rate of about\n(1)\n(Round to the nearest tenth as needed.)\n(1)\nmi³ / hr.\nmi³/hr.\nmi² / hr.\nmi²/hr.\nmi.\nmi divided by hr.\nmi/hr."
       }
     ]
   },
   "3.11.27": {
-    "summary": "170\u00a0ft above the ground when a motorcycle (traveling in a straight line on a horizontal ro\u2026",
-    "fullText": "Part 1\nA hot-air balloon is\n170 ft\n170\u00a0ft above the ground when a motorcycle (traveling in a straight line on a horizontal road) passes directly beneath it going\n45 mi divided by hr\n45\u00a0mi/hr (\n66 ft divided by s\n66\u00a0ft/s). If the balloon rises vertically at a rate of\n7 ft divided by s\n7\u00a0ft/s, what is the rate of change of the distance between the motorcycle and the balloon\n5 seconds\n5\u00a0seconds later?\nPart 1\nThe rate of change of the distance between the motorcycle and the balloon after\n5 seconds\n5\u00a0seconds is about\n(1)\n(Round to two decimal places as needed.)\n(1)\nft divided by s.\nft/s.\nft.\nft\u00b3 / s.\nft\u00b3/s.\nft\u00b2 / s.\nft\u00b2/s.",
+    "summary": "170 ft above the ground when a motorcycle (traveling in a straight line on a horizontal ro…",
+    "fullText": "Part 1\nA hot-air balloon is\n170 ft\n170 ft above the ground when a motorcycle (traveling in a straight line on a horizontal road) passes directly beneath it going\n45 mi divided by hr\n45 mi/hr (\n66 ft divided by s\n66 ft/s). If the balloon rises vertically at a rate of\n7 ft divided by s\n7 ft/s, what is the rate of change of the distance between the motorcycle and the balloon\n5 seconds\n5 seconds later?\nPart 1\nThe rate of change of the distance between the motorcycle and the balloon after\n5 seconds\n5 seconds is about\n(1)\n(Round to two decimal places as needed.)\n(1)\nft divided by s.\nft/s.\nft.\nft³ / s.\nft³/s.\nft² / s.\nft²/s.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "A hot-air balloon is\n170 ft\n170\u00a0ft above the ground when a motorcycle (traveling in a straight line on a horizontal road) passes directly beneath it going\n45 mi divided by hr\n45\u00a0mi/hr (\n66 ft divided by s\n66\u00a0ft/s). If the balloon rises vertically at a rate of\n7 ft divided by s\n7\u00a0ft/s, what is the rate of change of the distance between the motorcycle and the balloon\n5 seconds\n5\u00a0seconds later?"
+        "text": "A hot-air balloon is\n170 ft\n170 ft above the ground when a motorcycle (traveling in a straight line on a horizontal road) passes directly beneath it going\n45 mi divided by hr\n45 mi/hr (\n66 ft divided by s\n66 ft/s). If the balloon rises vertically at a rate of\n7 ft divided by s\n7 ft/s, what is the rate of change of the distance between the motorcycle and the balloon\n5 seconds\n5 seconds later?"
       },
       {
         "label": "Part 1",
-        "text": "The rate of change of the distance between the motorcycle and the balloon after\n5 seconds\n5\u00a0seconds is about\n(1)\n(Round to two decimal places as needed.)\n(1)\nft divided by s.\nft/s.\nft.\nft\u00b3 / s.\nft\u00b3/s.\nft\u00b2 / s.\nft\u00b2/s."
+        "text": "The rate of change of the distance between the motorcycle and the balloon after\n5 seconds\n5 seconds is about\n(1)\n(Round to two decimal places as needed.)\n(1)\nft divided by s.\nft/s.\nft.\nft³ / s.\nft³/s.\nft² / s.\nft²/s."
       }
     ]
   },
   "3.11.29": {
     "summary": "An angler hooks a trout and reels in his line at",
-    "fullText": "Part 1\nAn angler hooks a trout and reels in his line at\n4 in divided by s\n4\u00a0in/s. Assume the tip of the fishing rod is\n13 ft\n13\u00a0ft above the water and directly above the angler, and the fish is pulled horizontally directly toward the angler (see figure). Find the horizontal speed of the fish when it is\n18 ft\n18\u00a0ft from the angler.\nDecreasing\nat 4 in divided by s\nat\u00a04\u00a0in/s\n13 ft\n13\u00a0ft\nPart 1\nWhen the fish is\n18 ft\n18\u00a0ft from the angler , its horizontal speed is about\n(1)\n(Round to two decimal places as needed.)\n(1)\nin.\nin\u00b2 / s.\nin\u00b2/s.\nin divided by s.\nin/s.\nin\u00b3 / s.\nin\u00b3/s.",
+    "fullText": "Part 1\nAn angler hooks a trout and reels in his line at\n4 in divided by s\n4 in/s. Assume the tip of the fishing rod is\n13 ft\n13 ft above the water and directly above the angler, and the fish is pulled horizontally directly toward the angler (see figure). Find the horizontal speed of the fish when it is\n18 ft\n18 ft from the angler.\nDecreasing\nat 4 in divided by s\nat 4 in/s\n13 ft\n13 ft\nPart 1\nWhen the fish is\n18 ft\n18 ft from the angler , its horizontal speed is about\n(1)\n(Round to two decimal places as needed.)\n(1)\nin.\nin² / s.\nin²/s.\nin divided by s.\nin/s.\nin³ / s.\nin³/s.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "An angler hooks a trout and reels in his line at\n4 in divided by s\n4\u00a0in/s. Assume the tip of the fishing rod is\n13 ft\n13\u00a0ft above the water and directly above the angler, and the fish is pulled horizontally directly toward the angler (see figure). Find the horizontal speed of the fish when it is\n18 ft\n18\u00a0ft from the angler.\nDecreasing\nat 4 in divided by s\nat\u00a04\u00a0in/s\n13 ft\n13\u00a0ft"
+        "text": "An angler hooks a trout and reels in his line at\n4 in divided by s\n4 in/s. Assume the tip of the fishing rod is\n13 ft\n13 ft above the water and directly above the angler, and the fish is pulled horizontally directly toward the angler (see figure). Find the horizontal speed of the fish when it is\n18 ft\n18 ft from the angler.\nDecreasing\nat 4 in divided by s\nat 4 in/s\n13 ft\n13 ft"
       },
       {
         "label": "Part 1",
-        "text": "When the fish is\n18 ft\n18\u00a0ft from the angler , its horizontal speed is about\n(1)\n(Round to two decimal places as needed.)\n(1)\nin.\nin\u00b2 / s.\nin\u00b2/s.\nin divided by s.\nin/s.\nin\u00b3 / s.\nin\u00b3/s."
+        "text": "When the fish is\n18 ft\n18 ft from the angler , its horizontal speed is about\n(1)\n(Round to two decimal places as needed.)\n(1)\nin.\nin² / s.\nin²/s.\nin divided by s.\nin/s.\nin³ / s.\nin³/s."
       }
     ]
   },
   "3.11.33": {
     "summary": "A piston is seated at the top of a cylindrical chamber with radius",
-    "fullText": "Part 1\nA piston is seated at the top of a cylindrical chamber with radius\n6\n6 cm when it starts moving into the chamber at a constant speed of\n5\n5 cm/s (see figure). What is the rate of change of the volume of the cylinder when the piston is\n19\n19 cm from the base of the chamber?\n6 cm\n6\u00a0cm\nPiston\nPart 1\nWhen the piston is\n(19 , 1)\n(Round to the nearest hundredth as needed.)\n(1)\ncm.\ncm\u00b2 / s.\ncm\u00b2/s.\ncm divided by s.\ncm/s.\ncm\u00b3 / s.\ncm\u00b3/s.",
+    "fullText": "Part 1\nA piston is seated at the top of a cylindrical chamber with radius\n6\n6 cm when it starts moving into the chamber at a constant speed of\n5\n5 cm/s (see figure). What is the rate of change of the volume of the cylinder when the piston is\n19\n19 cm from the base of the chamber?\n6 cm\n6 cm\nPiston\nPart 1\nWhen the piston is\n(19 , 1)\n(Round to the nearest hundredth as needed.)\n(1)\ncm.\ncm² / s.\ncm²/s.\ncm divided by s.\ncm/s.\ncm³ / s.\ncm³/s.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "A piston is seated at the top of a cylindrical chamber with radius\n6\n6 cm when it starts moving into the chamber at a constant speed of\n5\n5 cm/s (see figure). What is the rate of change of the volume of the cylinder when the piston is\n19\n19 cm from the base of the chamber?\n6 cm\n6\u00a0cm\nPiston"
+        "text": "A piston is seated at the top of a cylindrical chamber with radius\n6\n6 cm when it starts moving into the chamber at a constant speed of\n5\n5 cm/s (see figure). What is the rate of change of the volume of the cylinder when the piston is\n19\n19 cm from the base of the chamber?\n6 cm\n6 cm\nPiston"
       },
       {
         "label": "Part 1",
-        "text": "When the piston is\n(19 , 1)\n(Round to the nearest hundredth as needed.)\n(1)\ncm.\ncm\u00b2 / s.\ncm\u00b2/s.\ncm divided by s.\ncm/s.\ncm\u00b3 / s.\ncm\u00b3/s."
+        "text": "When the piston is\n(19 , 1)\n(Round to the nearest hundredth as needed.)\n(1)\ncm.\ncm² / s.\ncm²/s.\ncm divided by s.\ncm/s.\ncm³ / s.\ncm³/s."
       }
     ]
   },
   "3.11.35": {
-    "summary": "Sand falls from an overhead bin and accumulates in a conical pile with a radius that is alwa\u2026",
-    "fullText": "Part 1\nSand falls from an overhead bin and accumulates in a conical pile with a radius that is always three times its height. Suppose the height of the pile increases at a rate of\n1\ncm divided by s\ncm/s when the pile is\n15\n15 cm high. At what rate is the sand leaving the bin at that instant?\nPart 1\nThe sand is leaving the bin at a rate of\n(1)\n(Type an exact answer, using\npi\n\u03c0 as needed.)\n(1)\ncm divided by s.\ncm/s.\ncm\u00b3 / s.\ncm\u00b3/s.\ncm\u00b2 / s.\ncm\u00b2/s.\ncm.",
+    "summary": "Sand falls from an overhead bin and accumulates in a conical pile with a radius that is alwa…",
+    "fullText": "Part 1\nSand falls from an overhead bin and accumulates in a conical pile with a radius that is always three times its height. Suppose the height of the pile increases at a rate of\n1\ncm divided by s\ncm/s when the pile is\n15\n15 cm high. At what rate is the sand leaving the bin at that instant?\nPart 1\nThe sand is leaving the bin at a rate of\n(1)\n(Type an exact answer, using\npi\nπ as needed.)\n(1)\ncm divided by s.\ncm/s.\ncm³ / s.\ncm³/s.\ncm² / s.\ncm²/s.\ncm.",
     "parts": [
       {
         "label": "Part 1",
@@ -826,13 +826,13 @@ const PROBLEMS = {
       },
       {
         "label": "Part 1",
-        "text": "The sand is leaving the bin at a rate of\n(1)\n(Type an exact answer, using\npi\n\u03c0 as needed.)\n(1)\ncm divided by s.\ncm/s.\ncm\u00b3 / s.\ncm\u00b3/s.\ncm\u00b2 / s.\ncm\u00b2/s.\ncm."
+        "text": "The sand is leaving the bin at a rate of\n(1)\n(Type an exact answer, using\npi\nπ as needed.)\n(1)\ncm divided by s.\ncm/s.\ncm³ / s.\ncm³/s.\ncm² / s.\ncm²/s.\ncm."
       }
     ]
   },
   "3.11.36": {
     "summary": "An inverted conical water tank with a height of",
-    "fullText": "Question content area left\nPart 1\nAn inverted conical water tank with a height of\n8 ft\n8\u00a0ft and a radius of\n4 ft\n4\u00a0ft is drained through a hole in the vertex at a rate of\n7 ft\u00b3 / s\n7\u00a0ft3/s (see figure). What is the rate of change of the water depth when the water depth is\n3 ft\n3\u00a0ft? (Hint: Use similar triangles.)\n8 ft\n8\u00a0ft\n4 ft\n4\u00a0ft\nOutflow 7 ft\u00b3 / s\nOutflow\u00a07\u00a0ft\u00b3/s\nQuestion content area right\nPart 1\nWhen the water depth is\n3 ft\n3\u00a0ft , the rate of change of the water depth is about\n(1)\n(Round to the nearest hundredth as needed.)\n(1)\nft divided by s.\nft/s.\nft\u00b2 / s.\nft\u00b2/s.\nft\u00b3 / s.\nft\u00b3/s.\nft.",
+    "fullText": "Question content area left\nPart 1\nAn inverted conical water tank with a height of\n8 ft\n8 ft and a radius of\n4 ft\n4 ft is drained through a hole in the vertex at a rate of\n7 ft³ / s\n7 ft3/s (see figure). What is the rate of change of the water depth when the water depth is\n3 ft\n3 ft? (Hint: Use similar triangles.)\n8 ft\n8 ft\n4 ft\n4 ft\nOutflow 7 ft³ / s\nOutflow 7 ft³/s\nQuestion content area right\nPart 1\nWhen the water depth is\n3 ft\n3 ft , the rate of change of the water depth is about\n(1)\n(Round to the nearest hundredth as needed.)\n(1)\nft divided by s.\nft/s.\nft² / s.\nft²/s.\nft³ / s.\nft³/s.\nft.",
     "parts": [
       {
         "label": "Problem",
@@ -840,53 +840,53 @@ const PROBLEMS = {
       },
       {
         "label": "Part 1",
-        "text": "An inverted conical water tank with a height of\n8 ft\n8\u00a0ft and a radius of\n4 ft\n4\u00a0ft is drained through a hole in the vertex at a rate of\n7 ft\u00b3 / s\n7\u00a0ft3/s (see figure). What is the rate of change of the water depth when the water depth is\n3 ft\n3\u00a0ft? (Hint: Use similar triangles.)\n8 ft\n8\u00a0ft\n4 ft\n4\u00a0ft\nOutflow 7 ft\u00b3 / s\nOutflow\u00a07\u00a0ft\u00b3/s\nQuestion content area right"
+        "text": "An inverted conical water tank with a height of\n8 ft\n8 ft and a radius of\n4 ft\n4 ft is drained through a hole in the vertex at a rate of\n7 ft³ / s\n7 ft3/s (see figure). What is the rate of change of the water depth when the water depth is\n3 ft\n3 ft? (Hint: Use similar triangles.)\n8 ft\n8 ft\n4 ft\n4 ft\nOutflow 7 ft³ / s\nOutflow 7 ft³/s\nQuestion content area right"
       },
       {
         "label": "Part 1",
-        "text": "When the water depth is\n3 ft\n3\u00a0ft , the rate of change of the water depth is about\n(1)\n(Round to the nearest hundredth as needed.)\n(1)\nft divided by s.\nft/s.\nft\u00b2 / s.\nft\u00b2/s.\nft\u00b3 / s.\nft\u00b3/s.\nft."
+        "text": "When the water depth is\n3 ft\n3 ft , the rate of change of the water depth is about\n(1)\n(Round to the nearest hundredth as needed.)\n(1)\nft divided by s.\nft/s.\nft² / s.\nft²/s.\nft³ / s.\nft³/s.\nft."
       }
     ]
   },
   "3.11.41": {
-    "summary": "10-foot ladder is leaning against a vertical wall (see figure) when Jack begins pulling th\u2026",
-    "fullText": "Part 1\nA\n10\n10-foot ladder is leaning against a vertical wall (see figure) when Jack begins pulling the foot of the ladder away from the wall at a rate of\n0.7 ft divided by s\n0.7\u00a0ft/s. How fast is the top of the ladder sliding down the wall when the foot of the ladder is\n6 ft\n6\u00a0ft from the wall?\n10 ft\n10\u00a0ft\nPart 1\nWhen the foot of the ladder is\n6 ft\n6\u00a0ft from the wall , the top of the ladder is sliding down the wall at a rate of\n(1)\n(Round to two decimal places as needed.)\n(1)\nft\u00b3 / s.\nft\u00b3/s.\nft\u00b2 / s.\nft\u00b2/s.\nft.\nft divided by s.\nft/s.",
+    "summary": "10-foot ladder is leaning against a vertical wall (see figure) when Jack begins pulling th…",
+    "fullText": "Part 1\nA\n10\n10-foot ladder is leaning against a vertical wall (see figure) when Jack begins pulling the foot of the ladder away from the wall at a rate of\n0.7 ft divided by s\n0.7 ft/s. How fast is the top of the ladder sliding down the wall when the foot of the ladder is\n6 ft\n6 ft from the wall?\n10 ft\n10 ft\nPart 1\nWhen the foot of the ladder is\n6 ft\n6 ft from the wall , the top of the ladder is sliding down the wall at a rate of\n(1)\n(Round to two decimal places as needed.)\n(1)\nft³ / s.\nft³/s.\nft² / s.\nft²/s.\nft.\nft divided by s.\nft/s.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "A\n10\n10-foot ladder is leaning against a vertical wall (see figure) when Jack begins pulling the foot of the ladder away from the wall at a rate of\n0.7 ft divided by s\n0.7\u00a0ft/s. How fast is the top of the ladder sliding down the wall when the foot of the ladder is\n6 ft\n6\u00a0ft from the wall?\n10 ft\n10\u00a0ft"
+        "text": "A\n10\n10-foot ladder is leaning against a vertical wall (see figure) when Jack begins pulling the foot of the ladder away from the wall at a rate of\n0.7 ft divided by s\n0.7 ft/s. How fast is the top of the ladder sliding down the wall when the foot of the ladder is\n6 ft\n6 ft from the wall?\n10 ft\n10 ft"
       },
       {
         "label": "Part 1",
-        "text": "When the foot of the ladder is\n6 ft\n6\u00a0ft from the wall , the top of the ladder is sliding down the wall at a rate of\n(1)\n(Round to two decimal places as needed.)\n(1)\nft\u00b3 / s.\nft\u00b3/s.\nft\u00b2 / s.\nft\u00b2/s.\nft.\nft divided by s.\nft/s."
+        "text": "When the foot of the ladder is\n6 ft\n6 ft from the wall , the top of the ladder is sliding down the wall at a rate of\n(1)\n(Round to two decimal places as needed.)\n(1)\nft³ / s.\nft³/s.\nft² / s.\nft²/s.\nft.\nft divided by s.\nft/s."
       }
     ]
   },
   "3.11.43": {
     "summary": "9 ft/s toward a street light that is",
-    "fullText": "Part 1\nA\n5.5\n5.5-foot-tall woman walks at\n9\n9 ft/s toward a street light that is\n33\n33 ft above the ground. What is the rate of change of the length of her shadow when she is\n12 ft\n12\u00a0ft from the street light? At what rate is the tip of her shadow moving?\nPart 1\nThe rate of change of the length of the woman's shadow is\n(1)\nwhen she is\n12 ft\n12\u00a0ft from the street light.\n(Type an exact answer in simplified form.)\nPart 2\nThe tip of her shadow moves at a rate of\n(2)\nwhen she is\n12 ft\n12\u00a0ft from the street light.\n(Type an exact answer in simplified form.)\n(1)\nft divided by s\nft/s\nft\u00b2 / s\nft\u00b3 / s\n(2)\nft\nft divided by s\nft/s\nft\u00b2 / s\nft\u00b3 / s",
+    "fullText": "Part 1\nA\n5.5\n5.5-foot-tall woman walks at\n9\n9 ft/s toward a street light that is\n33\n33 ft above the ground. What is the rate of change of the length of her shadow when she is\n12 ft\n12 ft from the street light? At what rate is the tip of her shadow moving?\nPart 1\nThe rate of change of the length of the woman's shadow is\n(1)\nwhen she is\n12 ft\n12 ft from the street light.\n(Type an exact answer in simplified form.)\nPart 2\nThe tip of her shadow moves at a rate of\n(2)\nwhen she is\n12 ft\n12 ft from the street light.\n(Type an exact answer in simplified form.)\n(1)\nft divided by s\nft/s\nft² / s\nft³ / s\n(2)\nft\nft divided by s\nft/s\nft² / s\nft³ / s",
     "parts": [
       {
         "label": "Part 1",
-        "text": "A\n5.5\n5.5-foot-tall woman walks at\n9\n9 ft/s toward a street light that is\n33\n33 ft above the ground. What is the rate of change of the length of her shadow when she is\n12 ft\n12\u00a0ft from the street light? At what rate is the tip of her shadow moving?"
+        "text": "A\n5.5\n5.5-foot-tall woman walks at\n9\n9 ft/s toward a street light that is\n33\n33 ft above the ground. What is the rate of change of the length of her shadow when she is\n12 ft\n12 ft from the street light? At what rate is the tip of her shadow moving?"
       },
       {
         "label": "Part 1",
-        "text": "The rate of change of the length of the woman's shadow is\n(1)\nwhen she is\n12 ft\n12\u00a0ft from the street light.\n(Type an exact answer in simplified form.)"
+        "text": "The rate of change of the length of the woman's shadow is\n(1)\nwhen she is\n12 ft\n12 ft from the street light.\n(Type an exact answer in simplified form.)"
       },
       {
         "label": "Part 2",
-        "text": "The tip of her shadow moves at a rate of\n(2)\nwhen she is\n12 ft\n12\u00a0ft from the street light.\n(Type an exact answer in simplified form.)\n(1)\nft divided by s\nft/s\nft\u00b2 / s\nft\u00b3 / s\n(2)\nft\nft divided by s\nft/s\nft\u00b2 / s\nft\u00b3 / s"
+        "text": "The tip of her shadow moves at a rate of\n(2)\nwhen she is\n12 ft\n12 ft from the street light.\n(Type an exact answer in simplified form.)\n(1)\nft divided by s\nft/s\nft² / s\nft³ / s\n(2)\nft\nft divided by s\nft/s\nft² / s\nft³ / s"
       }
     ]
   },
   "4.1.11": {
     "summary": "Use the graph to identify the points (if any) on the interval",
-    "fullText": "Part 1\nUse the graph to identify the points (if any) on the interval\n[a , b]\n[a,b] at which the function has an absolute maximum or an absolute minimum value.\n10\nx\ny\na\nc 1\nc\u00b9\nc 2\nc\u00b2\nb\n0\ny = f(x)\nA coordinate system has a vertical y-axis labeled from 0 to 10 in increments of 10 and a horizontal x-axis with the following evenly spaced labeled values , listed from left to right: 0 , a , c 1 , c 2 , and b. A curve labeled y = f(x) starts at (a , 4) and rises from left to right until reaching (c 1 , 6). The curve then falls from left to right until reaching (c 2 , 2) , where the curve starts to rise from left to right until ending at (b , 8). All coordinates are approximate.\nPart 1\nDetermine whether the function has any absolute extreme values on\n[a , b]\n[a,b]. Choose the correct answer.\nA.\nThe function has an absolute maximum value at x\nc 1\nc\u00b9 but does not have an absolute minimum value on\n[a , b]\n[a,b].\nB.\nThe function has an absolute maximum value at x\n= b and an absolute minimum value at x\nc 2\nc\u00b2 on\n[a , b]\n[a,b].\nC.\nThe function has an absolute minimum value at x\nc 2\nc\u00b2 but does not have an absolute maximum value on\n[a , b]\n[a,b].\nD.\nThe function does not have any absolute extreme values on\n[a , b]\n[a,b].",
+    "fullText": "Part 1\nUse the graph to identify the points (if any) on the interval\n[a , b]\n[a,b] at which the function has an absolute maximum or an absolute minimum value.\n10\nx\ny\na\nc 1\nc¹\nc 2\nc²\nb\n0\ny = f(x)\nA coordinate system has a vertical y-axis labeled from 0 to 10 in increments of 10 and a horizontal x-axis with the following evenly spaced labeled values , listed from left to right: 0 , a , c 1 , c 2 , and b. A curve labeled y = f(x) starts at (a , 4) and rises from left to right until reaching (c 1 , 6). The curve then falls from left to right until reaching (c 2 , 2) , where the curve starts to rise from left to right until ending at (b , 8). All coordinates are approximate.\nPart 1\nDetermine whether the function has any absolute extreme values on\n[a , b]\n[a,b]. Choose the correct answer.\nA.\nThe function has an absolute maximum value at x\nc 1\nc¹ but does not have an absolute minimum value on\n[a , b]\n[a,b].\nB.\nThe function has an absolute maximum value at x\n= b and an absolute minimum value at x\nc 2\nc² on\n[a , b]\n[a,b].\nC.\nThe function has an absolute minimum value at x\nc 2\nc² but does not have an absolute maximum value on\n[a , b]\n[a,b].\nD.\nThe function does not have any absolute extreme values on\n[a , b]\n[a,b].",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Use the graph to identify the points (if any) on the interval\n[a , b]\n[a,b] at which the function has an absolute maximum or an absolute minimum value.\n10\nx\ny\na\nc 1\nc\u00b9\nc 2\nc\u00b2\nb\n0\ny = f(x)\nA coordinate system has a vertical y-axis labeled from 0 to 10 in increments of 10 and a horizontal x-axis with the following evenly spaced labeled values , listed from left to right: 0 , a , c 1 , c 2 , and b. A curve labeled y = f(x) starts at (a , 4) and rises from left to right until reaching (c 1 , 6). The curve then falls from left to right until reaching (c 2 , 2) , where the curve starts to rise from left to right until ending at (b , 8). All coordinates are approximate."
+        "text": "Use the graph to identify the points (if any) on the interval\n[a , b]\n[a,b] at which the function has an absolute maximum or an absolute minimum value.\n10\nx\ny\na\nc 1\nc¹\nc 2\nc²\nb\n0\ny = f(x)\nA coordinate system has a vertical y-axis labeled from 0 to 10 in increments of 10 and a horizontal x-axis with the following evenly spaced labeled values , listed from left to right: 0 , a , c 1 , c 2 , and b. A curve labeled y = f(x) starts at (a , 4) and rises from left to right until reaching (c 1 , 6). The curve then falls from left to right until reaching (c 2 , 2) , where the curve starts to rise from left to right until ending at (b , 8). All coordinates are approximate."
       },
       {
         "label": "Part 1",
@@ -894,15 +894,15 @@ const PROBLEMS = {
       },
       {
         "label": "A.",
-        "text": "The function has an absolute maximum value at x\nc 1\nc\u00b9 but does not have an absolute minimum value on\n[a , b]\n[a,b]."
+        "text": "The function has an absolute maximum value at x\nc 1\nc¹ but does not have an absolute minimum value on\n[a , b]\n[a,b]."
       },
       {
         "label": "B.",
-        "text": "The function has an absolute maximum value at x\n= b and an absolute minimum value at x\nc 2\nc\u00b2 on\n[a , b]\n[a,b]."
+        "text": "The function has an absolute maximum value at x\n= b and an absolute minimum value at x\nc 2\nc² on\n[a , b]\n[a,b]."
       },
       {
         "label": "C.",
-        "text": "The function has an absolute minimum value at x\nc 2\nc\u00b2 but does not have an absolute maximum value on\n[a , b]\n[a,b]."
+        "text": "The function has an absolute minimum value at x\nc 2\nc² but does not have an absolute maximum value on\n[a , b]\n[a,b]."
       },
       {
         "label": "D.",
@@ -913,31 +913,31 @@ const PROBLEMS = {
   },
   "4.1.13": {
     "summary": "Determine from the graph whether the function has any absolute extreme values on",
-    "fullText": "Part 1\nDetermine from the graph whether the function has any absolute extreme values on\n[a , b]\n[a,\u00a0b].\nx\ny\na\nd\nb\n0\nA coordinate system has an unlabeled vertical y-axis and a horizontal x-axis with the following labeled values, listed from left to right: 0, a, d, and b. A curve starts at an open point at x = a and rises from left to right until ending at an open point at x = d. A second curve starts at a closed point at x = d that is above the lowest point of the first curve and below the highest point of the first curve. The second curve falls from left to right until ending at an open point at x = b. The end of the second curve is above the lowest point of the first curve.\nPart 1\nWhere do the absolute extreme values of the function occur on\n[a , b]\n[a,\u00a0b]?\nA.\nThe\u00a0absolute\u00a0maximum\u00a0occurs\u00a0at\u00a0x = d and\nthe\u00a0absolute\u00a0minimum\u00a0occurs\u00a0at\u00a0x = a on\n[a , b]\n[a,\u00a0b].\nB.\nThe\u00a0absolute\u00a0maximum\u00a0occurs\u00a0at\u00a0x = d and there is no absolute minimum on\n[a , b]\n[a,\u00a0b].\nC.\nThere is no absolute maximum and\nthe\u00a0absolute\u00a0minimum\u00a0occurs\u00a0at\u00a0x = a on\n[a , b]\n[a,\u00a0b].\nD.\nThere is no absolute maximum and there is no absolute minimum on\n[a , b]\n[a,\u00a0b].",
+    "fullText": "Part 1\nDetermine from the graph whether the function has any absolute extreme values on\n[a , b]\n[a, b].\nx\ny\na\nd\nb\n0\nA coordinate system has an unlabeled vertical y-axis and a horizontal x-axis with the following labeled values, listed from left to right: 0, a, d, and b. A curve starts at an open point at x = a and rises from left to right until ending at an open point at x = d. A second curve starts at a closed point at x = d that is above the lowest point of the first curve and below the highest point of the first curve. The second curve falls from left to right until ending at an open point at x = b. The end of the second curve is above the lowest point of the first curve.\nPart 1\nWhere do the absolute extreme values of the function occur on\n[a , b]\n[a, b]?\nA.\nThe absolute maximum occurs at x = d and\nthe absolute minimum occurs at x = a on\n[a , b]\n[a, b].\nB.\nThe absolute maximum occurs at x = d and there is no absolute minimum on\n[a , b]\n[a, b].\nC.\nThere is no absolute maximum and\nthe absolute minimum occurs at x = a on\n[a , b]\n[a, b].\nD.\nThere is no absolute maximum and there is no absolute minimum on\n[a , b]\n[a, b].",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Determine from the graph whether the function has any absolute extreme values on\n[a , b]\n[a,\u00a0b].\nx\ny\na\nd\nb\n0\nA coordinate system has an unlabeled vertical y-axis and a horizontal x-axis with the following labeled values, listed from left to right: 0, a, d, and b. A curve starts at an open point at x = a and rises from left to right until ending at an open point at x = d. A second curve starts at a closed point at x = d that is above the lowest point of the first curve and below the highest point of the first curve. The second curve falls from left to right until ending at an open point at x = b. The end of the second curve is above the lowest point of the first curve."
+        "text": "Determine from the graph whether the function has any absolute extreme values on\n[a , b]\n[a, b].\nx\ny\na\nd\nb\n0\nA coordinate system has an unlabeled vertical y-axis and a horizontal x-axis with the following labeled values, listed from left to right: 0, a, d, and b. A curve starts at an open point at x = a and rises from left to right until ending at an open point at x = d. A second curve starts at a closed point at x = d that is above the lowest point of the first curve and below the highest point of the first curve. The second curve falls from left to right until ending at an open point at x = b. The end of the second curve is above the lowest point of the first curve."
       },
       {
         "label": "Part 1",
-        "text": "Where do the absolute extreme values of the function occur on\n[a , b]\n[a,\u00a0b]?"
+        "text": "Where do the absolute extreme values of the function occur on\n[a , b]\n[a, b]?"
       },
       {
         "label": "A.",
-        "text": "The\u00a0absolute\u00a0maximum\u00a0occurs\u00a0at\u00a0x = d and\nthe\u00a0absolute\u00a0minimum\u00a0occurs\u00a0at\u00a0x = a on\n[a , b]\n[a,\u00a0b]."
+        "text": "The absolute maximum occurs at x = d and\nthe absolute minimum occurs at x = a on\n[a , b]\n[a, b]."
       },
       {
         "label": "B.",
-        "text": "The\u00a0absolute\u00a0maximum\u00a0occurs\u00a0at\u00a0x = d and there is no absolute minimum on\n[a , b]\n[a,\u00a0b]."
+        "text": "The absolute maximum occurs at x = d and there is no absolute minimum on\n[a , b]\n[a, b]."
       },
       {
         "label": "C.",
-        "text": "There is no absolute maximum and\nthe\u00a0absolute\u00a0minimum\u00a0occurs\u00a0at\u00a0x = a on\n[a , b]\n[a,\u00a0b]."
+        "text": "There is no absolute maximum and\nthe absolute minimum occurs at x = a on\n[a , b]\n[a, b]."
       },
       {
         "label": "D.",
-        "text": "There is no absolute maximum and there is no absolute minimum on\n[a , b]\n[a,\u00a0b]."
+        "text": "There is no absolute maximum and there is no absolute minimum on\n[a , b]\n[a, b]."
       }
     ],
     "expr": "A coordinate system has an unlabeled vertical y-axis and a horizontal x-axis with the following labeled values, listed from left to right: 0, a, d, and b. A curve starts at an open point at x = a and rises from left to right until ending at an open point at x = d. A second curve starts at a closed point at x = d that is above the lowest point of the first curve and below the highest point of the first curve. The second curve falls from left to right until ending at an open point at x = b. The end of the second curve is above the lowest point of the first curve."
@@ -1003,11 +1003,11 @@ const PROBLEMS = {
   },
   "4.1.19": {
     "summary": "Sketch the graph of a continuous function f on [",
-    "fullText": "Part 1\nSketch the graph of a continuous function f on [\n(1 , 6)\n6] satisfying the given properties.\nf\u2032(x) = 0 for\nx = 2\u00a0and\u00a03 ; f has an absolute maximum at\nx = 6 ; f has an absolute minimum at\nx = 1 ; and f has a local minimum at\nx = 3.\nPart 1\nChoose the correct graph below.\nA.\n(1 , 6)\nx\ny\nA coordinate system has a horizontal x-axis labeled from 1 to 6 in increments of 1 and a vertical y-axis labeled from 0 to 50 in increments of 5. A smooth curve starts at (1, 42.5) and falls from left to right until reaching (2, 40). Then the curve rises from left to right until reaching (3, 40.5), where the curve starts to fall from left to right until ending at the bottom right corner of the graph. All coordinates are approximate.\nB.\n(1 , 6)\nx\ny\nA coordinate system has a horizontal x-axis labeled from 1 to 6 in increments of 1 and a vertical y-axis labeled from 0 to 50 in increments of 5. A smooth curve starts at the bottom left corner of the graph and rises from left to right until reaching (2, 2.5). Then the curve falls from left to right until reaching (3, 2), where the curve starts to rise from left to right until reaching the right side of the graph at (6, 42.5). All coordinates are approximate.\nC.\n(1 , 6)\n-10\n2\nx\ny\nA coordinate system has a horizontal x-axis labeled from 1 to 6 in increments of 1 and a vertical y-axis labeled from negative 10 to 2 in increments of 2. A line segment extends from (1, 0) to (2, negative 3). A line segment extends from the end of the previous line segment to (3, negative 1). A line segment extends from the end of the previous line segment to (6, negative 13). All coordinates are approximate.\nD.\n(1 , 6)\n-2\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from 1 to 6 in increments of 1 and a vertical y-axis labeled from negative 2 to 10 in increments of 2. A line segment extends from (1, 0) to (2, 3). A line segment extends from the end of the previous line segment to (3, 1). A line segment extends from (3, 2) to (6, 14). All coordinates are approximate.",
+    "fullText": "Part 1\nSketch the graph of a continuous function f on [\n(1 , 6)\n6] satisfying the given properties.\nf′(x) = 0 for\nx = 2 and 3 ; f has an absolute maximum at\nx = 6 ; f has an absolute minimum at\nx = 1 ; and f has a local minimum at\nx = 3.\nPart 1\nChoose the correct graph below.\nA.\n(1 , 6)\nx\ny\nA coordinate system has a horizontal x-axis labeled from 1 to 6 in increments of 1 and a vertical y-axis labeled from 0 to 50 in increments of 5. A smooth curve starts at (1, 42.5) and falls from left to right until reaching (2, 40). Then the curve rises from left to right until reaching (3, 40.5), where the curve starts to fall from left to right until ending at the bottom right corner of the graph. All coordinates are approximate.\nB.\n(1 , 6)\nx\ny\nA coordinate system has a horizontal x-axis labeled from 1 to 6 in increments of 1 and a vertical y-axis labeled from 0 to 50 in increments of 5. A smooth curve starts at the bottom left corner of the graph and rises from left to right until reaching (2, 2.5). Then the curve falls from left to right until reaching (3, 2), where the curve starts to rise from left to right until reaching the right side of the graph at (6, 42.5). All coordinates are approximate.\nC.\n(1 , 6)\n-10\n2\nx\ny\nA coordinate system has a horizontal x-axis labeled from 1 to 6 in increments of 1 and a vertical y-axis labeled from negative 10 to 2 in increments of 2. A line segment extends from (1, 0) to (2, negative 3). A line segment extends from the end of the previous line segment to (3, negative 1). A line segment extends from the end of the previous line segment to (6, negative 13). All coordinates are approximate.\nD.\n(1 , 6)\n-2\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from 1 to 6 in increments of 1 and a vertical y-axis labeled from negative 2 to 10 in increments of 2. A line segment extends from (1, 0) to (2, 3). A line segment extends from the end of the previous line segment to (3, 1). A line segment extends from (3, 2) to (6, 14). All coordinates are approximate.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Sketch the graph of a continuous function f on [\n(1 , 6)\n6] satisfying the given properties.\nf\u2032(x) = 0 for\nx = 2\u00a0and\u00a03 ; f has an absolute maximum at\nx = 6 ; f has an absolute minimum at\nx = 1 ; and f has a local minimum at\nx = 3."
+        "text": "Sketch the graph of a continuous function f on [\n(1 , 6)\n6] satisfying the given properties.\nf′(x) = 0 for\nx = 2 and 3 ; f has an absolute maximum at\nx = 6 ; f has an absolute minimum at\nx = 1 ; and f has a local minimum at\nx = 3."
       },
       {
         "label": "Part 1",
@@ -1030,15 +1030,15 @@ const PROBLEMS = {
         "text": "(1 , 6)\n-2\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from 1 to 6 in increments of 1 and a vertical y-axis labeled from negative 2 to 10 in increments of 2. A line segment extends from (1, 0) to (2, 3). A line segment extends from the end of the previous line segment to (3, 1). A line segment extends from (3, 2) to (6, 14). All coordinates are approximate."
       }
     ],
-    "expr": "x = 2\u00a0and\u00a03 ; f has an absolute maximum at"
+    "expr": "x = 2 and 3 ; f has an absolute maximum at"
   },
   "4.1.21": {
     "summary": "Sketch the graph of a continuous function f on",
-    "fullText": "Part 1\nSketch the graph of a continuous function f on\n[0 , 4]\n[0,4] satisfying the given properties.\nf prime\nf\u2032(\n4\n4) and\nf prime\nf\u2032(\n3\n3) are undefined;\nf\u2032(2) = 0 ; f has a local maximum at\nx = 1 ; f has a local minimum at\nx = 2 ; f has an absolute maximum at\nx = 3 ; and f has an absolute minimum at\nx = 4.\nPart 1\nChoose the correct graph.\nA.\n-2\n6\n-8\n8\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 2 to 6 in increments of 1 and a vertical y-axis labeled from negative 8 to 8 in increments of 1. A series of line segments connect the following points, listed from left to right: (0, negative 3), (1, 6), (2, negative 2), (3, 5), (4, negative 2).\nB.\n-2\n6\n-8\n8\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 2 to 6 in increments of 1 and a vertical y-axis labeled from negative 8 to 8 in increments of 1. A series of line segments connect the following points, listed from left to right: (0, negative 3), (1, 6), (1.5, negative 2), (2.5, negative 2), (3, 5), (4, negative 2).\nC.\n-2\n6\n-8\n8\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 2 to 6 in increments of 1 and a vertical y-axis labeled from negative 8 to 8 in increments of 1. A series of line segments connect the following points, listed from left to right: (0, negative 2), (1, 5), (2, negative 2), (3, 6), (4, negative 3).\nD.\n-2\n6\n-8\n8\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 2 to 6 in increments of 1 and a vertical y-axis labeled from negative 8 to 8 in increments of 1. A series of line segments connect the following points, listed from left to right: (0, negative 2), (1, 5), (1.5, negative 2), (2.5, negative 2), (3, 6), (4, negative 3).",
+    "fullText": "Part 1\nSketch the graph of a continuous function f on\n[0 , 4]\n[0,4] satisfying the given properties.\nf prime\nf′(\n4\n4) and\nf prime\nf′(\n3\n3) are undefined;\nf′(2) = 0 ; f has a local maximum at\nx = 1 ; f has a local minimum at\nx = 2 ; f has an absolute maximum at\nx = 3 ; and f has an absolute minimum at\nx = 4.\nPart 1\nChoose the correct graph.\nA.\n-2\n6\n-8\n8\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 2 to 6 in increments of 1 and a vertical y-axis labeled from negative 8 to 8 in increments of 1. A series of line segments connect the following points, listed from left to right: (0, negative 3), (1, 6), (2, negative 2), (3, 5), (4, negative 2).\nB.\n-2\n6\n-8\n8\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 2 to 6 in increments of 1 and a vertical y-axis labeled from negative 8 to 8 in increments of 1. A series of line segments connect the following points, listed from left to right: (0, negative 3), (1, 6), (1.5, negative 2), (2.5, negative 2), (3, 5), (4, negative 2).\nC.\n-2\n6\n-8\n8\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 2 to 6 in increments of 1 and a vertical y-axis labeled from negative 8 to 8 in increments of 1. A series of line segments connect the following points, listed from left to right: (0, negative 2), (1, 5), (2, negative 2), (3, 6), (4, negative 3).\nD.\n-2\n6\n-8\n8\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 2 to 6 in increments of 1 and a vertical y-axis labeled from negative 8 to 8 in increments of 1. A series of line segments connect the following points, listed from left to right: (0, negative 2), (1, 5), (1.5, negative 2), (2.5, negative 2), (3, 6), (4, negative 3).",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Sketch the graph of a continuous function f on\n[0 , 4]\n[0,4] satisfying the given properties.\nf prime\nf\u2032(\n4\n4) and\nf prime\nf\u2032(\n3\n3) are undefined;\nf\u2032(2) = 0 ; f has a local maximum at\nx = 1 ; f has a local minimum at\nx = 2 ; f has an absolute maximum at\nx = 3 ; and f has an absolute minimum at\nx = 4."
+        "text": "Sketch the graph of a continuous function f on\n[0 , 4]\n[0,4] satisfying the given properties.\nf prime\nf′(\n4\n4) and\nf prime\nf′(\n3\n3) are undefined;\nf′(2) = 0 ; f has a local maximum at\nx = 1 ; f has a local minimum at\nx = 2 ; f has an absolute maximum at\nx = 3 ; and f has an absolute minimum at\nx = 4."
       },
       {
         "label": "Part 1",
@@ -1065,15 +1065,11 @@ const PROBLEMS = {
   },
   "4.1.23": {
     "summary": "Find the critical points of the following function.",
-    "fullText": "Part 1\nFind the critical points of the following function.\nf(x) = 3x\u00b2 + 5x \u2212 4\nPart 1\nSelect the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe critical point(s) occur(s) at x\n(Use a comma to separate answers as needed.)\nB.\nThere are no critical points.",
+    "fullText": "Find the critical points of the following function.\nf(x) = 5x² + 3x + 1\nSelect the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe critical point(s) occur(s) at x\n(Use a comma to separate answers as needed.)\nB.\nThere are no critical points.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Find the critical points of the following function.\nf(x) = 3x\u00b2 + 5x \u2212 4"
-      },
-      {
-        "label": "Part 1",
-        "text": "Select the correct choice below and, if necessary, fill in the answer box to complete your choice."
+        "text": "Find the critical points of the following function.\nf(x) = 5x² + 3x + 1\nSelect the correct choice below and, if necessary, fill in the answer box to complete your choice."
       },
       {
         "label": "A.",
@@ -1084,15 +1080,16 @@ const PROBLEMS = {
         "text": "There are no critical points."
       }
     ],
-    "expr": "f(x) = 3x\u00b2 + 5x \u2212 4"
+    "expr": "f(x) = 5x² + 3x + 1",
+    "prompt": "Find the critical points of the following function."
   },
   "4.1.25": {
     "summary": "Find the critical points of the following function.",
-    "fullText": "Part 1\nFind the critical points of the following function.\nf(x) = \u2212 x\u00b3/3 + 100 x\nPart 1\nSelect the correct choice and, if necessary, fill in the answer box to complete your choice.\nA.\nThe critical point(s) occur(s) at x\n(Simplify your answer. Use a comma to separate answers as needed.)\nB.\nThere are no critical points.",
+    "fullText": "Part 1\nFind the critical points of the following function.\nf(x) = − x³/3 + 100 x\nPart 1\nSelect the correct choice and, if necessary, fill in the answer box to complete your choice.\nA.\nThe critical point(s) occur(s) at x\n(Simplify your answer. Use a comma to separate answers as needed.)\nB.\nThere are no critical points.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Find the critical points of the following function.\nf(x) = \u2212 x\u00b3/3 + 100 x"
+        "text": "Find the critical points of the following function.\nf(x) = − x³/3 + 100 x"
       },
       {
         "label": "Part 1",
@@ -1110,11 +1107,11 @@ const PROBLEMS = {
   },
   "4.1.27": {
     "summary": "Find the critical points of the following function.",
-    "fullText": "Part 1\nFind the critical points of the following function.\nf(x) = 2 x\u00b3 \u2212 11/2 x\u00b2 + 3 x\nPart 1\nSelect the correct choice and, if necessary, fill in the answer box to complete your choice.\nA.\nThe critical point(s) occur(s) at x\n(Simplify your answer. Use a comma to separate answers as needed.)\nB.\nThere are no critical points.",
+    "fullText": "Part 1\nFind the critical points of the following function.\nf(x) = 2 x³ − 11/2 x² + 3 x\nPart 1\nSelect the correct choice and, if necessary, fill in the answer box to complete your choice.\nA.\nThe critical point(s) occur(s) at x\n(Simplify your answer. Use a comma to separate answers as needed.)\nB.\nThere are no critical points.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Find the critical points of the following function.\nf(x) = 2 x\u00b3 \u2212 11/2 x\u00b2 + 3 x"
+        "text": "Find the critical points of the following function.\nf(x) = 2 x³ − 11/2 x² + 3 x"
       },
       {
         "label": "Part 1",
@@ -1132,11 +1129,11 @@ const PROBLEMS = {
   },
   "4.1.31": {
     "summary": "Find the critical points of the following function.",
-    "fullText": "Part 1\nFind the critical points of the following function.\nf(x) f(x) = 9 x/x\u00b2 + 81\nPart 1\nSelect the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe critical point(s) occur(s) at x\n(Use a comma to separate answers as needed.)\nB.\nThere are no critical points.",
+    "fullText": "Part 1\nFind the critical points of the following function.\nf(x) f(x) = 9 x/x² + 81\nPart 1\nSelect the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe critical point(s) occur(s) at x\n(Use a comma to separate answers as needed.)\nB.\nThere are no critical points.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Find the critical points of the following function.\nf(x) f(x) = 9 x/x\u00b2 + 81"
+        "text": "Find the critical points of the following function.\nf(x) f(x) = 9 x/x² + 81"
       },
       {
         "label": "Part 1",
@@ -1154,11 +1151,11 @@ const PROBLEMS = {
   },
   "4.1.35": {
     "summary": "Find the critical points of the following function.",
-    "fullText": "Part 1\nFind the critical points of the following function.\nf(x) =\n1\nx\n\u2212 ln x\nPart 1\nSelect the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe critical point(s) occur(s) at x\n(Use a comma to separate answers as needed.)\nB.\nThere are no critical points.",
+    "fullText": "Part 1\nFind the critical points of the following function.\nf(x) =\n1\nx\n− ln x\nPart 1\nSelect the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe critical point(s) occur(s) at x\n(Use a comma to separate answers as needed.)\nB.\nThere are no critical points.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Find the critical points of the following function.\nf(x) =\n1\nx\n\u2212 ln x"
+        "text": "Find the critical points of the following function.\nf(x) =\n1\nx\n− ln x"
       },
       {
         "label": "Part 1",
@@ -1177,11 +1174,11 @@ const PROBLEMS = {
   },
   "4.1.37": {
     "summary": "Find the critical points of the following function.",
-    "fullText": "Part 1\nFind the critical points of the following function.\nf(x) = x\u00b2 \u221a(x + 23)\nPart 1\nSelect the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe critical point(s) occur(s) at x\n(Use a comma to separate answers as needed.)\nB.\nThere are no critical points.",
+    "fullText": "Part 1\nFind the critical points of the following function.\nf(x) = x² √(x + 23)\nPart 1\nSelect the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe critical point(s) occur(s) at x\n(Use a comma to separate answers as needed.)\nB.\nThere are no critical points.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Find the critical points of the following function.\nf(x) = x\u00b2 \u221a(x + 23)"
+        "text": "Find the critical points of the following function.\nf(x) = x² √(x + 23)"
       },
       {
         "label": "Part 1",
@@ -1198,12 +1195,12 @@ const PROBLEMS = {
     ]
   },
   "4.1.43": {
-    "summary": "Determine the location and value of the absolute extreme values of f on the given interval,\u2026",
-    "fullText": "Part 1\nDetermine the location and value of the absolute extreme values of f on the given interval, if they exist.\nf(x) \u2212 \u2212 x\u00b2 plus 7 on [\u2212 3 , 4]\nPart 1\nWhat is/are the absolute maximum/maxima of f on the given interval? Select the correct choice below and, if necessary, fill in the answer boxes to complete your choice.\nA.\nThe absolute maximum/maxima is/are\nat x\n(Use a comma to separate answers as needed.)\nB.\nThere is no absolute maximum of f on the given interval.\nPart 2\nWhat is/are the absolute minimum/minima of f on the given interval? Select the correct choice below and, if necessary, fill in the answer boxes to complete your choice.\nA.\nThe absolute minimum/minima is/are\nat x\n(Use a comma to separate answers as needed.)\nB.\nThere is no absolute minimum of f on the given interval.",
+    "summary": "Determine the location and value of the absolute extreme values of f on the given interval,…",
+    "fullText": "Part 1\nDetermine the location and value of the absolute extreme values of f on the given interval, if they exist.\nf(x) − − x² plus 7 on [− 3 , 4]\nPart 1\nWhat is/are the absolute maximum/maxima of f on the given interval? Select the correct choice below and, if necessary, fill in the answer boxes to complete your choice.\nA.\nThe absolute maximum/maxima is/are\nat x\n(Use a comma to separate answers as needed.)\nB.\nThere is no absolute maximum of f on the given interval.\nPart 2\nWhat is/are the absolute minimum/minima of f on the given interval? Select the correct choice below and, if necessary, fill in the answer boxes to complete your choice.\nA.\nThe absolute minimum/minima is/are\nat x\n(Use a comma to separate answers as needed.)\nB.\nThere is no absolute minimum of f on the given interval.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Determine the location and value of the absolute extreme values of f on the given interval, if they exist.\nf(x) \u2212 \u2212 x\u00b2 plus 7 on [\u2212 3 , 4]"
+        "text": "Determine the location and value of the absolute extreme values of f on the given interval, if they exist.\nf(x) − − x² plus 7 on [− 3 , 4]"
       },
       {
         "label": "Part 1",
@@ -1232,16 +1229,12 @@ const PROBLEMS = {
     ]
   },
   "4.1.49": {
-    "summary": "Determine the location and value of the absolute extreme values of f on the given interval,\u2026",
-    "fullText": "Part 1\nDetermine the location and value of the absolute extreme values of f on the given interval, if they exist.\nf(x) f(x) = 4 cos\u00b2 x 4cos\u00b2x [0 , \u03c0] [0 , \u03c0]\nPart 1\nSelect the correct choice below and, if necessary, fill in the answer boxes to complete your choice.\n(Type an exact answer, using\npi\n\u03c0 as needed. Use a comma to separate answers as needed.)\nA.\nThe absolute maximum is\nat x\n, but there is no absolute minimum.\nB.\nThe absolute maximum is\nat x\nand the absolute minimum is\nat x\nC.\nThe absolute minimum is\nat x\n, but there is no absolute maximum.\nD.\nThere are no absolute extreme values for\nf(x) f(x) [0 , \u03c0] [0 , \u03c0].",
+    "summary": "Determine the location and value of the absolute extreme values of f on the given interval, if…",
+    "fullText": "Determine the location and value of the absolute extreme values of f on the given interval, if they exist.\nf(x) = 5 cos² x\n5cos²x on\n[0 , π]\n[0,π]\nSelect the correct choice below and, if necessary, fill in the answer boxes to complete your choice.\n(Type an exact answer, using\npi\nπ as needed. Use a comma to separate answers as needed.)\nA.\nThe absolute maximum is\nat x\n, but there is no absolute minimum.\nB.\nThe absolute maximum is\nat x\nand the absolute minimum is\nat x\nC.\nThe absolute minimum is\nat x\n, but there is no absolute maximum.\nD.\nThere are no absolute extreme values for\nf(x) = f(x) [0 , π] [0 , π].",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Determine the location and value of the absolute extreme values of f on the given interval, if they exist.\nf(x) f(x) = 4 cos\u00b2 x 4cos\u00b2x [0 , \u03c0] [0 , \u03c0]"
-      },
-      {
-        "label": "Part 1",
-        "text": "Select the correct choice below and, if necessary, fill in the answer boxes to complete your choice.\n(Type an exact answer, using\npi\n\u03c0 as needed. Use a comma to separate answers as needed.)"
+        "text": "Determine the location and value of the absolute extreme values of f on the given interval, if they exist.\nf(x) = 5 cos² x\n5cos²x on\n[0 , π]\n[0,π]\nSelect the correct choice below and, if necessary, fill in the answer boxes to complete your choice.\n(Type an exact answer, using\npi\nπ as needed. Use a comma to separate answers as needed.)"
       },
       {
         "label": "A.",
@@ -1257,17 +1250,19 @@ const PROBLEMS = {
       },
       {
         "label": "D.",
-        "text": "There are no absolute extreme values for\nf(x) f(x) [0 , \u03c0] [0 , \u03c0]."
+        "text": "There are no absolute extreme values for\nf(x) = f(x) [0 , π] [0 , π]."
       }
-    ]
+    ],
+    "expr": "f(x) = 5 cos² x",
+    "prompt": "Determine the location and value of the absolute extreme values of f on the given interval, if…"
   },
   "4.1.51": {
-    "summary": "Determine the location and value of the absolute extreme values of f on the given interval,\u2026",
-    "fullText": "Part 1\nDetermine the location and value of the absolute extreme values of f on the given interval, if they exist.\nf(x) = cos\u2075x on\n[\u2212 \u03c0/6 , \u03c0/3]\n\u03c0\n6\n,\n\u03c0\n3\nPart 1\nWhat is/are the absolute maximum/maxima of f on the given interval? Select the correct choice below and, if necessary, fill in the answer boxes to complete your choice.\nA.\nThe absolute maximum/maxima is/are\nat x\n(Use a comma to separate answers as needed. Type an exact answer, using\npi\n\u03c0 as needed.)\nB.\nThere is no absolute maximum of f on the given interval.\nPart 2\nWhat is/are the absolute minimum/minima of f on the given interval? Select the correct choice below and, if necessary, fill in the answer boxes to complete your choice.\nA.\nThe absolute minimum/minima is/are\nat x\n(Use a comma to separate answers as needed. Type an exact answer, using\npi\n\u03c0 as needed.)\nB.\nThere is no absolute minimum of f on the given interval.",
+    "summary": "Determine the location and value of the absolute extreme values of f on the given interval,…",
+    "fullText": "Part 1\nDetermine the location and value of the absolute extreme values of f on the given interval, if they exist.\nf(x) = cos⁵x on\n[− π/6 , π/3]\nπ\n6\n,\nπ\n3\nPart 1\nWhat is/are the absolute maximum/maxima of f on the given interval? Select the correct choice below and, if necessary, fill in the answer boxes to complete your choice.\nA.\nThe absolute maximum/maxima is/are\nat x\n(Use a comma to separate answers as needed. Type an exact answer, using\npi\nπ as needed.)\nB.\nThere is no absolute maximum of f on the given interval.\nPart 2\nWhat is/are the absolute minimum/minima of f on the given interval? Select the correct choice below and, if necessary, fill in the answer boxes to complete your choice.\nA.\nThe absolute minimum/minima is/are\nat x\n(Use a comma to separate answers as needed. Type an exact answer, using\npi\nπ as needed.)\nB.\nThere is no absolute minimum of f on the given interval.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Determine the location and value of the absolute extreme values of f on the given interval, if they exist.\nf(x) = cos\u2075x on\n[\u2212 \u03c0/6 , \u03c0/3]\n\u03c0\n6\n,\n\u03c0\n3"
+        "text": "Determine the location and value of the absolute extreme values of f on the given interval, if they exist.\nf(x) = cos⁵x on\n[− π/6 , π/3]\nπ\n6\n,\nπ\n3"
       },
       {
         "label": "Part 1",
@@ -1275,7 +1270,7 @@ const PROBLEMS = {
       },
       {
         "label": "A.",
-        "text": "The absolute maximum/maxima is/are\nat x\n(Use a comma to separate answers as needed. Type an exact answer, using\npi\n\u03c0 as needed.)"
+        "text": "The absolute maximum/maxima is/are\nat x\n(Use a comma to separate answers as needed. Type an exact answer, using\npi\nπ as needed.)"
       },
       {
         "label": "B.",
@@ -1287,22 +1282,22 @@ const PROBLEMS = {
       },
       {
         "label": "A.",
-        "text": "The absolute minimum/minima is/are\nat x\n(Use a comma to separate answers as needed. Type an exact answer, using\npi\n\u03c0 as needed.)"
+        "text": "The absolute minimum/minima is/are\nat x\n(Use a comma to separate answers as needed. Type an exact answer, using\npi\nπ as needed.)"
       },
       {
         "label": "B.",
         "text": "There is no absolute minimum of f on the given interval."
       }
     ],
-    "expr": "f(x) = cos\u2075x on"
+    "expr": "f(x) = cos⁵x on"
   },
   "4.1.57": {
-    "summary": "Determine the location and value of the absolute extreme values of f on the given interval,\u2026",
-    "fullText": "Part 1\nDetermine the location and value of the absolute extreme values of f on the given interval, if they exist.\nf(x) f(x) = \u2212 2 x\u00b3 + 18 x\u00b2 \u2212 30 x \u2212 2x\u00b3 + 18x\u00b2 \u2212 30x on [0 , 6]\nPart 1\nWhat is/are the absolute maximum/maxima of f on the given interval? Select the correct choice below and, if necessary, fill in the answer boxes to complete your choice.\nA.\nThe absolute maximum/maxima is/are\nat x\n(Use a comma to separate answers as needed. Type exact answers, using radicals as needed.)\nB.\nThere is no absolute maximum of f on the given interval.\nPart 2\nWhat is/are the absolute minimum/minima of f on the given interval? Select the correct choice below and, if necessary, fill in the answer boxes to complete your choice.\nA.\nThe absolute minimum/minima is/are\nat x\n(Use a comma to separate answers as needed. Type exact answers, using radicals as needed.)\nB.\nThere is no absolute minimum of f on the given interval.",
+    "summary": "Determine the location and value of the absolute extreme values of f on the given interval,…",
+    "fullText": "Part 1\nDetermine the location and value of the absolute extreme values of f on the given interval, if they exist.\nf(x) f(x) = − 2 x³ + 18 x² − 30 x − 2x³ + 18x² − 30x on [0 , 6]\nPart 1\nWhat is/are the absolute maximum/maxima of f on the given interval? Select the correct choice below and, if necessary, fill in the answer boxes to complete your choice.\nA.\nThe absolute maximum/maxima is/are\nat x\n(Use a comma to separate answers as needed. Type exact answers, using radicals as needed.)\nB.\nThere is no absolute maximum of f on the given interval.\nPart 2\nWhat is/are the absolute minimum/minima of f on the given interval? Select the correct choice below and, if necessary, fill in the answer boxes to complete your choice.\nA.\nThe absolute minimum/minima is/are\nat x\n(Use a comma to separate answers as needed. Type exact answers, using radicals as needed.)\nB.\nThere is no absolute minimum of f on the given interval.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Determine the location and value of the absolute extreme values of f on the given interval, if they exist.\nf(x) f(x) = \u2212 2 x\u00b3 + 18 x\u00b2 \u2212 30 x \u2212 2x\u00b3 + 18x\u00b2 \u2212 30x on [0 , 6]"
+        "text": "Determine the location and value of the absolute extreme values of f on the given interval, if they exist.\nf(x) f(x) = − 2 x³ + 18 x² − 30 x − 2x³ + 18x² − 30x on [0 , 6]"
       },
       {
         "label": "Part 1",
@@ -1331,12 +1326,12 @@ const PROBLEMS = {
     ]
   },
   "4.1.59": {
-    "summary": "Determine the location and value of the absolute extreme values of f on the given interval,\u2026",
-    "fullText": "Part 1\nDetermine the location and value of the absolute extreme values of f on the given interval, if they exist.\nf(x) f(x) = 8 x\u00b3/3 + 7 x\u00b2 \u2212 4 x + 7x\u00b2 \u2212 4x on [\u2212 3 , 1]\nPart 1\nWhat is/are the absolute maximum/maxima of f on the given interval? Select the correct choice below and, if necessary, fill in the answer boxes to complete your choice.\nA.\nThe absolute maximum/maxima is/are\nat x\n(Use a comma to separate answers as needed. Type exact answers, using radicals as needed.)\nB.\nThere is no absolute maximum of f on the given interval.\nPart 2\nWhat is/are the absolute minimum/minima of f on the given interval? Select the correct choice below and, if necessary, fill in the answer boxes to complete your choice.\nA.\nThe absolute minimum/minima is/are\nat x\n(Use a comma to separate answers as needed. Type exact answers, using radicals as needed.)\nB.\nThere is no absolute minimum of f on the given interval.",
+    "summary": "Determine the location and value of the absolute extreme values of f on the given interval,…",
+    "fullText": "Part 1\nDetermine the location and value of the absolute extreme values of f on the given interval, if they exist.\nf(x) f(x) = 8 x³/3 + 7 x² − 4 x + 7x² − 4x on [− 3 , 1]\nPart 1\nWhat is/are the absolute maximum/maxima of f on the given interval? Select the correct choice below and, if necessary, fill in the answer boxes to complete your choice.\nA.\nThe absolute maximum/maxima is/are\nat x\n(Use a comma to separate answers as needed. Type exact answers, using radicals as needed.)\nB.\nThere is no absolute maximum of f on the given interval.\nPart 2\nWhat is/are the absolute minimum/minima of f on the given interval? Select the correct choice below and, if necessary, fill in the answer boxes to complete your choice.\nA.\nThe absolute minimum/minima is/are\nat x\n(Use a comma to separate answers as needed. Type exact answers, using radicals as needed.)\nB.\nThere is no absolute minimum of f on the given interval.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Determine the location and value of the absolute extreme values of f on the given interval, if they exist.\nf(x) f(x) = 8 x\u00b3/3 + 7 x\u00b2 \u2212 4 x + 7x\u00b2 \u2212 4x on [\u2212 3 , 1]"
+        "text": "Determine the location and value of the absolute extreme values of f on the given interval, if they exist.\nf(x) f(x) = 8 x³/3 + 7 x² − 4 x + 7x² − 4x on [− 3 , 1]"
       },
       {
         "label": "Part 1",
@@ -1365,12 +1360,12 @@ const PROBLEMS = {
     ]
   },
   "4.1.65": {
-    "summary": "Determine the location and value of the absolute extreme values of f on the given interval,\u2026",
-    "fullText": "Part 1\nDetermine the location and value of the absolute extreme values of f on the given interval, if they exist.\nf(x) = f(x) = 3 x\u00b3 e Superscript \u2212 x\n3x3e\u2212x;\n[\u2212 1 , 5]\nPart 1\nSelect the correct choice below and, if necessary, fill in the answer boxes to complete your choice.\n(Type exact answers. Use a comma to separate answers as needed.)\nA.\nThe absolute maximum is\nat x\nand the absolute minimum is\nat x\nB.\nThe absolute minimum is\nat x\n, but there is no absolute maximum.\nC.\nThe absolute maximum is\nat x\n, but there is no absolute minimum.\nD.\nThere are no absolute extreme values for\nf(x) f(x) on [\u2212 1 , 5]\n[\u22121,5].",
+    "summary": "Determine the location and value of the absolute extreme values of f on the given interval,…",
+    "fullText": "Part 1\nDetermine the location and value of the absolute extreme values of f on the given interval, if they exist.\nf(x) = f(x) = 3 x³ e Superscript − x\n3x3e−x;\n[− 1 , 5]\nPart 1\nSelect the correct choice below and, if necessary, fill in the answer boxes to complete your choice.\n(Type exact answers. Use a comma to separate answers as needed.)\nA.\nThe absolute maximum is\nat x\nand the absolute minimum is\nat x\nB.\nThe absolute minimum is\nat x\n, but there is no absolute maximum.\nC.\nThe absolute maximum is\nat x\n, but there is no absolute minimum.\nD.\nThere are no absolute extreme values for\nf(x) f(x) on [− 1 , 5]\n[−1,5].",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Determine the location and value of the absolute extreme values of f on the given interval, if they exist.\nf(x) = f(x) = 3 x\u00b3 e Superscript \u2212 x\n3x3e\u2212x;\n[\u2212 1 , 5]"
+        "text": "Determine the location and value of the absolute extreme values of f on the given interval, if they exist.\nf(x) = f(x) = 3 x³ e Superscript − x\n3x3e−x;\n[− 1 , 5]"
       },
       {
         "label": "Part 1",
@@ -1390,21 +1385,21 @@ const PROBLEMS = {
       },
       {
         "label": "D.",
-        "text": "There are no absolute extreme values for\nf(x) f(x) on [\u2212 1 , 5]\n[\u22121,5]."
+        "text": "There are no absolute extreme values for\nf(x) f(x) on [− 1 , 5]\n[−1,5]."
       }
     ]
   },
   "4.1.73": {
     "summary": "A stone is launched vertically upward from a cliff",
-    "fullText": "Part 1\nA stone is launched vertically upward from a cliff\n96\n96 ft above the ground at a speed of\n16 ft divided by s\n16\u00a0ft/s. Its height above the ground t seconds after the launch is given by\ns = \u2212 16t\u00b2 + 16t + 96 for\n0 less than or = t less than or = 3\n0\u2264t\u22643. When does the stone reach its maximum height?\nPart 1\nFind the derivative of s.\ns prime\ns\u2032\nPart 2\nThe stone reaches its maximum height at\ns.\n(Simplify your answer.)",
+    "fullText": "Part 1\nA stone is launched vertically upward from a cliff\n96\n96 ft above the ground at a speed of\n16 ft divided by s\n16 ft/s. Its height above the ground t seconds after the launch is given by\ns = − 16t² + 16t + 96 for\n0 less than or = t less than or = 3\n0≤t≤3. When does the stone reach its maximum height?\nPart 1\nFind the derivative of s.\ns prime\ns′\nPart 2\nThe stone reaches its maximum height at\ns.\n(Simplify your answer.)",
     "parts": [
       {
         "label": "Part 1",
-        "text": "A stone is launched vertically upward from a cliff\n96\n96 ft above the ground at a speed of\n16 ft divided by s\n16\u00a0ft/s. Its height above the ground t seconds after the launch is given by\ns = \u2212 16t\u00b2 + 16t + 96 for\n0 less than or = t less than or = 3\n0\u2264t\u22643. When does the stone reach its maximum height?"
+        "text": "A stone is launched vertically upward from a cliff\n96\n96 ft above the ground at a speed of\n16 ft divided by s\n16 ft/s. Its height above the ground t seconds after the launch is given by\ns = − 16t² + 16t + 96 for\n0 less than or = t less than or = 3\n0≤t≤3. When does the stone reach its maximum height?"
       },
       {
         "label": "Part 1",
-        "text": "Find the derivative of s.\ns prime\ns\u2032"
+        "text": "Find the derivative of s.\ns prime\ns′"
       },
       {
         "label": "Part 2",
@@ -1415,15 +1410,15 @@ const PROBLEMS = {
         "text": "(Simplify your answer.)"
       }
     ],
-    "expr": "s = \u2212 16t\u00b2 + 16t + 96 for"
+    "expr": "s = − 16t² + 16t + 96 for"
   },
   "4.2.3": {
     "summary": "Explain why Rolle's Theorem cannot be applied to the function f(x)",
-    "fullText": "Part 1\nExplain why Rolle's Theorem cannot be applied to the function f(x)\nStartAbsoluteValue x EndAbsoluteValue\nx on the interval [\n\u2212a,a] for any a\ngreater than\n>0.\nPart 1\nChoose the correct answer below.\nA.\nThe function f(x)\nStartAbsoluteValue x EndAbsoluteValue\nx is not differentiable at x\nplus or minus\n\u00b1a.\nB.\nThe function f(x)\nStartAbsoluteValue x EndAbsoluteValue\nx is not continuous at x\n= 0.\nC.\nThe function f(x)\nStartAbsoluteValue x EndAbsoluteValue\nx is not defined at x\n= 0.\nD.\nThe function f(x)\nStartAbsoluteValue x EndAbsoluteValue\nx is not differentiable at x\n= 0.",
+    "fullText": "Part 1\nExplain why Rolle's Theorem cannot be applied to the function f(x)\nStartAbsoluteValue x EndAbsoluteValue\nx on the interval [\n−a,a] for any a\ngreater than\n>0.\nPart 1\nChoose the correct answer below.\nA.\nThe function f(x)\nStartAbsoluteValue x EndAbsoluteValue\nx is not differentiable at x\nplus or minus\n±a.\nB.\nThe function f(x)\nStartAbsoluteValue x EndAbsoluteValue\nx is not continuous at x\n= 0.\nC.\nThe function f(x)\nStartAbsoluteValue x EndAbsoluteValue\nx is not defined at x\n= 0.\nD.\nThe function f(x)\nStartAbsoluteValue x EndAbsoluteValue\nx is not differentiable at x\n= 0.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Explain why Rolle's Theorem cannot be applied to the function f(x)\nStartAbsoluteValue x EndAbsoluteValue\nx on the interval [\n\u2212a,a] for any a\ngreater than\n>0."
+        "text": "Explain why Rolle's Theorem cannot be applied to the function f(x)\nStartAbsoluteValue x EndAbsoluteValue\nx on the interval [\n−a,a] for any a\ngreater than\n>0."
       },
       {
         "label": "Part 1",
@@ -1431,7 +1426,7 @@ const PROBLEMS = {
       },
       {
         "label": "A.",
-        "text": "The function f(x)\nStartAbsoluteValue x EndAbsoluteValue\nx is not differentiable at x\nplus or minus\n\u00b1a."
+        "text": "The function f(x)\nStartAbsoluteValue x EndAbsoluteValue\nx is not differentiable at x\nplus or minus\n±a."
       },
       {
         "label": "B.",
@@ -1448,12 +1443,12 @@ const PROBLEMS = {
     ]
   },
   "4.2.11": {
-    "summary": "Determine whether Rolle's Theorem applies to the given function on the given interval. If \u2026",
-    "fullText": "Part 1\nDetermine whether Rolle's Theorem applies to the given function on the given interval. If so, find the point(s) that are guaranteed to exist by Rolle's Theorem.\nf(x) = x (x \u2212 6) \u00b2\nx(x\u22126)2;  [0,\n6\n6]\nPart 1\nSelect the correct choice and, if necessary, fill in the answer box to complete your choice.\nA.\nRolle's Theorem applies and the point(s) guaranteed to exist is/are c\n(Type exact answer(s). Use a comma to separate answers as needed.)\nB.\nRolle's Theorem does not apply.",
+    "summary": "Determine whether Rolle's Theorem applies to the given function on the given interval. If …",
+    "fullText": "Part 1\nDetermine whether Rolle's Theorem applies to the given function on the given interval. If so, find the point(s) that are guaranteed to exist by Rolle's Theorem.\nf(x) = x (x − 6) ²\nx(x−6)2;  [0,\n6\n6]\nPart 1\nSelect the correct choice and, if necessary, fill in the answer box to complete your choice.\nA.\nRolle's Theorem applies and the point(s) guaranteed to exist is/are c\n(Type exact answer(s). Use a comma to separate answers as needed.)\nB.\nRolle's Theorem does not apply.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Determine whether Rolle's Theorem applies to the given function on the given interval. If so, find the point(s) that are guaranteed to exist by Rolle's Theorem.\nf(x) = x (x \u2212 6) \u00b2\nx(x\u22126)2;  [0,\n6\n6]"
+        "text": "Determine whether Rolle's Theorem applies to the given function on the given interval. If so, find the point(s) that are guaranteed to exist by Rolle's Theorem.\nf(x) = x (x − 6) ²\nx(x−6)2;  [0,\n6\n6]"
       },
       {
         "label": "Part 1",
@@ -1470,12 +1465,12 @@ const PROBLEMS = {
     ]
   },
   "4.2.13": {
-    "summary": "Determine whether Rolle's Theorem applies to the given function on the given interval. If \u2026",
-    "fullText": "Part 1\nDetermine whether Rolle's Theorem applies to the given function on the given interval. If so, find the point(s) that are guaranteed to exist by Rolle's Theorem.\nf(x) sin e 7 x sin\u2077x ; \u03c0 7 , 2\u03c0 7 on [\u03c0/7 , 2 \u03c0/7]\nPart 1\nSelect the correct choice and, if necessary, fill in the answer box to complete your choice.\nA.\nRolle's Theorem applies and the point(s) guaranteed to exist is/are c\n(Type exact answer(s). Use a comma to separate answers as needed.)\nB.\nRolle's Theorem does not apply.",
+    "summary": "Determine whether Rolle's Theorem applies to the given function on the given interval. If …",
+    "fullText": "Part 1\nDetermine whether Rolle's Theorem applies to the given function on the given interval. If so, find the point(s) that are guaranteed to exist by Rolle's Theorem.\nf(x) sin e 7 x sin⁷x ; π 7 , 2π 7 on [π/7 , 2 π/7]\nPart 1\nSelect the correct choice and, if necessary, fill in the answer box to complete your choice.\nA.\nRolle's Theorem applies and the point(s) guaranteed to exist is/are c\n(Type exact answer(s). Use a comma to separate answers as needed.)\nB.\nRolle's Theorem does not apply.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Determine whether Rolle's Theorem applies to the given function on the given interval. If so, find the point(s) that are guaranteed to exist by Rolle's Theorem.\nf(x) sin e 7 x sin\u2077x ; \u03c0 7 , 2\u03c0 7 on [\u03c0/7 , 2 \u03c0/7]"
+        "text": "Determine whether Rolle's Theorem applies to the given function on the given interval. If so, find the point(s) that are guaranteed to exist by Rolle's Theorem.\nf(x) sin e 7 x sin⁷x ; π 7 , 2π 7 on [π/7 , 2 π/7]"
       },
       {
         "label": "Part 1",
@@ -1492,12 +1487,12 @@ const PROBLEMS = {
     ]
   },
   "4.2.15": {
-    "summary": "Determine whether Rolle's theorem applies to the function shown below on the given interval\u2026",
-    "fullText": "Part 1\nDetermine whether Rolle's theorem applies to the function shown below on the given interval. If so, find the point(s) that are guaranteed to exist by Rolle's theorem.\nf(x) = 5 \u2212 x Superscript 2 / 3\n5\u2212x2/3; [\n\u22121,1]\nPart 1\nSelect the correct choice and, if necessary, fill in the answer box to complete your choice.\nA.\nRolle's Theorem applies and the point(s) guaranteed to exist is/are x\n(Type an exact answer, using radicals as needed. Use a comma to separate answers as needed.)\nB.\nRolle's Theorem does not apply.",
+    "summary": "Determine whether Rolle's theorem applies to the function shown below on the given interval…",
+    "fullText": "Part 1\nDetermine whether Rolle's theorem applies to the function shown below on the given interval. If so, find the point(s) that are guaranteed to exist by Rolle's theorem.\nf(x) = 5 − x Superscript 2 / 3\n5−x2/3; [\n−1,1]\nPart 1\nSelect the correct choice and, if necessary, fill in the answer box to complete your choice.\nA.\nRolle's Theorem applies and the point(s) guaranteed to exist is/are x\n(Type an exact answer, using radicals as needed. Use a comma to separate answers as needed.)\nB.\nRolle's Theorem does not apply.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Determine whether Rolle's theorem applies to the function shown below on the given interval. If so, find the point(s) that are guaranteed to exist by Rolle's theorem.\nf(x) = 5 \u2212 x Superscript 2 / 3\n5\u2212x2/3; [\n\u22121,1]"
+        "text": "Determine whether Rolle's theorem applies to the function shown below on the given interval. If so, find the point(s) that are guaranteed to exist by Rolle's theorem.\nf(x) = 5 − x Superscript 2 / 3\n5−x2/3; [\n−1,1]"
       },
       {
         "label": "Part 1",
@@ -1514,12 +1509,12 @@ const PROBLEMS = {
     ]
   },
   "4.2.17": {
-    "summary": "Determine whether Rolle's Theorem applies to the following function on the given interval. \u2026",
-    "fullText": "Part 1\nDetermine whether Rolle's Theorem applies to the following function on the given interval. If so, find the point(s) that are guaranteed to exist by Rolle's Theorem.\ng(x)\nx\u00b3 + 9 x\u00b2 + 15 x \u2212 25\nx3+9x2+15x\u221225; [\nnegative 5\n\u2212 5 ,\n1\n1]\nPart 1\nSelect the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nRolle's Theorem applies and the point(s) guaranteed to exist is/are x\n(Type an exact answer, using radicals as needed. Use a comma to separate answers as needed.)\nB.\nRolle's Theorem does not apply.",
+    "summary": "Determine whether Rolle's Theorem applies to the following function on the given interval. …",
+    "fullText": "Part 1\nDetermine whether Rolle's Theorem applies to the following function on the given interval. If so, find the point(s) that are guaranteed to exist by Rolle's Theorem.\ng(x)\nx³ + 9 x² + 15 x − 25\nx3+9x2+15x−25; [\nnegative 5\n− 5 ,\n1\n1]\nPart 1\nSelect the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nRolle's Theorem applies and the point(s) guaranteed to exist is/are x\n(Type an exact answer, using radicals as needed. Use a comma to separate answers as needed.)\nB.\nRolle's Theorem does not apply.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Determine whether Rolle's Theorem applies to the following function on the given interval. If so, find the point(s) that are guaranteed to exist by Rolle's Theorem.\ng(x)\nx\u00b3 + 9 x\u00b2 + 15 x \u2212 25\nx3+9x2+15x\u221225; [\nnegative 5\n\u2212 5 ,\n1\n1]"
+        "text": "Determine whether Rolle's Theorem applies to the following function on the given interval. If so, find the point(s) that are guaranteed to exist by Rolle's Theorem.\ng(x)\nx³ + 9 x² + 15 x − 25\nx3+9x2+15x−25; [\nnegative 5\n− 5 ,\n1\n1]"
       },
       {
         "label": "Part 1",
@@ -1537,51 +1532,35 @@ const PROBLEMS = {
   },
   "4.2.21": {
     "summary": "a. Determine whether the Mean Value Theorem applies to the function f(x)",
-    "fullText": "Part 1\na. Determine whether the Mean Value Theorem applies to the function f(x)\nnegative 5\n\u2212 5\n+ x\n\u00b2\n2 on the interval [\nnegative 2\n\u2212 2 ,\n1\n1].\nb. If so, find the point(s) that are guaranteed to exist by the Mean Value Theorem.\nPart 1\na. Choose the correct answer below.\nA.\nNo, because the function is differentiable on the interval (\nnegative 2\n\u2212 2 ,\n1\n1), but is not continuous on the interval [\nnegative 2\n\u2212 2 ,\n1\n1].\nB.\nNo, because the function is not continuous on the interval [\nnegative 2\n\u2212 2 ,\n1\n1], and is not differentiable on the interval (\nnegative 2\n\u2212 2 ,\n1\n1).\nC.\nNo, because the function is continuous on the interval [\nnegative 2\n\u2212 2 ,\n1\n1], but is not differentiable on the interval (\nnegative 2\n\u2212 2 ,\n1\n1).\nD.\nYes, because the function is continuous on the interval [\nnegative 2\n\u2212 2 ,\n1\n1] and differentiable on the interval (\nnegative 2\n\u2212 2 ,\n1\n1).\nPart 2\nb. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe point(s) is/are x\n(Simplify your answer. Use a comma to separate answers as needed.)\nB.\nThe Mean Value Theorem does not apply in this case.",
+    "fullText": "a. Determine whether the Mean Value Theorem applies to the function f(x)\n= 6\n− x\n²\n2 on the interval [\nnegative 2\n−2,1].\nb. If so, find the point(s) that are guaranteed to exist by the Mean Value Theorem.\nPart 1 of 2\na. Choose the correct answer below.\nA.\nNo, because the function is not continuous on the interval [\nnegative 2\n−2,1], and is not differentiable on the interval (\nnegative 2\n− 2 , 1).\nB.\nNo, because the function is differentiable on the interval (\nnegative 2\n−2,1), but is not continuous on the interval [\nnegative 2\n−2,1].\nC.\nYes, because the function is continuous on the interval [\nnegative 2\n−2,1] and differentiable on the interval (\nnegative 2\n− 2 , 1).\nD.\nNo, because the function is continuous on the interval [\nnegative 2\n−2,1], but is not differentiable on the interval (\nnegative 2\n− 2 , 1).\nPart 2 of 2\nb. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe point(s) is/are x\n(Simplify your answer. Use a comma to separate answers as needed.)\nB.\nThe Mean Value Theorem does not apply in this case.",
     "parts": [
       {
         "label": "Part 1",
-        "text": ""
+        "text": "a. Determine whether the Mean Value Theorem applies to the function f(x)\n= 6\n− x\n²\n2 on the interval [\nnegative 2\n−2,1].\nb. If so, find the point(s) that are guaranteed to exist by the Mean Value Theorem."
       },
       {
-        "label": "a. Determine whether the Mean Value Theorem applies to the function \u200bf(x)",
-        "text": "=\nnegative 5\n\u2212 5\n+ x\n\u00b2\n2 on the interval [\nnegative 2\n\u2212 2 ,\n1\n1]."
-      },
-      {
-        "label": "b. If\u200b so, find the\u200b point(s) that are guaranteed to exist by the Mean Value Theorem.",
-        "text": ""
-      },
-      {
-        "label": "Part 1",
-        "text": ""
-      },
-      {
-        "label": "a. Choose the correct answer below.",
-        "text": ""
+        "label": "Part 1 of 2",
+        "text": "a. Choose the correct answer below."
       },
       {
         "label": "A.",
-        "text": "No, because the function is differentiable on the interval (\nnegative 2\n\u2212 2 ,\n1\n1), but is not continuous on the interval [\nnegative 2\n\u2212 2 ,\n1\n1]."
+        "text": "No, because the function is not continuous on the interval [\nnegative 2\n−2,1], and is not differentiable on the interval (\nnegative 2\n− 2 , 1)."
       },
       {
         "label": "B.",
-        "text": "No, because the function is not continuous on the interval [\nnegative 2\n\u2212 2 ,\n1\n1], and is not differentiable on the interval (\nnegative 2\n\u2212 2 ,\n1\n1)."
+        "text": "No, because the function is differentiable on the interval (\nnegative 2\n−2,1), but is not continuous on the interval [\nnegative 2\n−2,1]."
       },
       {
         "label": "C.",
-        "text": "No, because the function is continuous on the interval [\nnegative 2\n\u2212 2 ,\n1\n1], but is not differentiable on the interval (\nnegative 2\n\u2212 2 ,\n1\n1)."
+        "text": "Yes, because the function is continuous on the interval [\nnegative 2\n−2,1] and differentiable on the interval (\nnegative 2\n− 2 , 1)."
       },
       {
         "label": "D.",
-        "text": "Yes, because the function is continuous on the interval [\nnegative 2\n\u2212 2 ,\n1\n1] and differentiable on the interval (\nnegative 2\n\u2212 2 ,\n1\n1)."
+        "text": "No, because the function is continuous on the interval [\nnegative 2\n−2,1], but is not differentiable on the interval (\nnegative 2\n− 2 , 1)."
       },
       {
-        "label": "Part 2",
-        "text": ""
-      },
-      {
-        "label": "b. Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.",
-        "text": ""
+        "label": "Part 2 of 2",
+        "text": "b. Select the correct choice below and, if necessary, fill in the answer box to complete your choice."
       },
       {
         "label": "A.",
@@ -1591,7 +1570,8 @@ const PROBLEMS = {
         "label": "B.",
         "text": "The Mean Value Theorem does not apply in this case."
       }
-    ]
+    ],
+    "prompt": "a. Determine whether the Mean Value Theorem applies to the function f(x)"
   },
   "4.2.25": {
     "summary": "a. Determine whether the Mean Value Theorem applies to the function",
@@ -1606,7 +1586,7 @@ const PROBLEMS = {
         "text": "f(x) = ex on the given interval\n[0 , ln 20]\n[0,ln20]."
       },
       {
-        "label": "b. If\u200b so, find the\u200b point(s) that are guaranteed to exist by the Mean Value Theorem.",
+        "label": "b. If​ so, find the​ point(s) that are guaranteed to exist by the Mean Value Theorem.",
         "text": ""
       },
       {
@@ -1638,7 +1618,7 @@ const PROBLEMS = {
         "text": ""
       },
       {
-        "label": "b. Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.",
+        "label": "b. Select the correct choice below​ and, if​ necessary, fill in the answer box to complete your choice.",
         "text": ""
       },
       {
@@ -1665,7 +1645,7 @@ const PROBLEMS = {
         "text": "f(x) = ln18x on the given interval\n[1 , e]\n[1,e]."
       },
       {
-        "label": "b. If\u200b so, find or approximate the\u200b point(s) that are guaranteed to exist by the Mean Value Theorem.",
+        "label": "b. If​ so, find or approximate the​ point(s) that are guaranteed to exist by the Mean Value Theorem.",
         "text": ""
       },
       {
@@ -1681,7 +1661,7 @@ const PROBLEMS = {
         "text": ""
       },
       {
-        "label": "b. Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.",
+        "label": "b. Select the correct choice below​ and, if​ necessary, fill in the answer box to complete your choice.",
         "text": ""
       },
       {
@@ -1697,18 +1677,18 @@ const PROBLEMS = {
   },
   "4.2.30": {
     "summary": "a. Determine whether the Mean Value Theorem applies to the function f(x)",
-    "fullText": "Part 1\na. Determine whether the Mean Value Theorem applies to the function f(x)\nx + 1/x\non the interval [\nnegative 5\n\u2212 5 ,\nnegative 3\n\u22123].\nb. If so, find or approximate the point(s) that are guaranteed to exist by the Mean Value Theorem.\nPart 1\na. Choose the correct answer below.\nA.\nYes, because the function is continuous on the interval [\nnegative 5\n\u2212 5 ,\nnegative 3\n\u22123] and differentiable on the interval (\nnegative 5\n\u2212 5 ,\nnegative 3\n\u2212 3).\nB.\nNo, because the function is differentiable on the interval (\nnegative 5\n\u2212 5 ,\nnegative 3\n\u22123), but is not continuous on the interval [\nnegative 5\n\u2212 5 ,\nnegative 3\n\u22123].\nC.\nNo, because the function is not continuous on the interval [\nnegative 5\n\u2212 5 ,\nnegative 3\n\u22123], and is not differentiable on the interval (\nnegative 5\n\u2212 5 ,\nnegative 3\n\u2212 3).\nD.\nNo, because the function is continuous on the interval [\nnegative 5\n\u2212 5 ,\nnegative 3\n\u22123], but is not differentiable on the interval (\nnegative 5\n\u2212 5 ,\nnegative 3\n\u2212 3).\nPart 2\nb. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe point(s) is/are x\n(Type an exact answer, using radicals as needed. Use a comma to separate answers as needed.)\nB.\nThe Mean Value Theorem does not apply in this case.",
+    "fullText": "Part 1\na. Determine whether the Mean Value Theorem applies to the function f(x)\nx + 1/x\non the interval [\nnegative 5\n− 5 ,\nnegative 3\n−3].\nb. If so, find or approximate the point(s) that are guaranteed to exist by the Mean Value Theorem.\nPart 1\na. Choose the correct answer below.\nA.\nYes, because the function is continuous on the interval [\nnegative 5\n− 5 ,\nnegative 3\n−3] and differentiable on the interval (\nnegative 5\n− 5 ,\nnegative 3\n− 3).\nB.\nNo, because the function is differentiable on the interval (\nnegative 5\n− 5 ,\nnegative 3\n−3), but is not continuous on the interval [\nnegative 5\n− 5 ,\nnegative 3\n−3].\nC.\nNo, because the function is not continuous on the interval [\nnegative 5\n− 5 ,\nnegative 3\n−3], and is not differentiable on the interval (\nnegative 5\n− 5 ,\nnegative 3\n− 3).\nD.\nNo, because the function is continuous on the interval [\nnegative 5\n− 5 ,\nnegative 3\n−3], but is not differentiable on the interval (\nnegative 5\n− 5 ,\nnegative 3\n− 3).\nPart 2\nb. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe point(s) is/are x\n(Type an exact answer, using radicals as needed. Use a comma to separate answers as needed.)\nB.\nThe Mean Value Theorem does not apply in this case.",
     "parts": [
       {
         "label": "Part 1",
         "text": ""
       },
       {
-        "label": "a. Determine whether the Mean Value Theorem applies to the function \u200bf(x)",
-        "text": "=\nx + 1/x\non the interval [\nnegative 5\n\u2212 5 ,\nnegative 3\n\u22123]."
+        "label": "a. Determine whether the Mean Value Theorem applies to the function ​f(x)",
+        "text": "=\nx + 1/x\non the interval [\nnegative 5\n− 5 ,\nnegative 3\n−3]."
       },
       {
-        "label": "b. If\u200b so, find or approximate the\u200b point(s) that are guaranteed to exist by the Mean Value Theorem.",
+        "label": "b. If​ so, find or approximate the​ point(s) that are guaranteed to exist by the Mean Value Theorem.",
         "text": ""
       },
       {
@@ -1721,26 +1701,26 @@ const PROBLEMS = {
       },
       {
         "label": "A.",
-        "text": "Yes, because the function is continuous on the interval [\nnegative 5\n\u2212 5 ,\nnegative 3\n\u22123] and differentiable on the interval (\nnegative 5\n\u2212 5 ,\nnegative 3\n\u2212 3)."
+        "text": "Yes, because the function is continuous on the interval [\nnegative 5\n− 5 ,\nnegative 3\n−3] and differentiable on the interval (\nnegative 5\n− 5 ,\nnegative 3\n− 3)."
       },
       {
         "label": "B.",
-        "text": "No, because the function is differentiable on the interval (\nnegative 5\n\u2212 5 ,\nnegative 3\n\u22123), but is not continuous on the interval [\nnegative 5\n\u2212 5 ,\nnegative 3\n\u22123]."
+        "text": "No, because the function is differentiable on the interval (\nnegative 5\n− 5 ,\nnegative 3\n−3), but is not continuous on the interval [\nnegative 5\n− 5 ,\nnegative 3\n−3]."
       },
       {
         "label": "C.",
-        "text": "No, because the function is not continuous on the interval [\nnegative 5\n\u2212 5 ,\nnegative 3\n\u22123], and is not differentiable on the interval (\nnegative 5\n\u2212 5 ,\nnegative 3\n\u2212 3)."
+        "text": "No, because the function is not continuous on the interval [\nnegative 5\n− 5 ,\nnegative 3\n−3], and is not differentiable on the interval (\nnegative 5\n− 5 ,\nnegative 3\n− 3)."
       },
       {
         "label": "D.",
-        "text": "No, because the function is continuous on the interval [\nnegative 5\n\u2212 5 ,\nnegative 3\n\u22123], but is not differentiable on the interval (\nnegative 5\n\u2212 5 ,\nnegative 3\n\u2212 3)."
+        "text": "No, because the function is continuous on the interval [\nnegative 5\n− 5 ,\nnegative 3\n−3], but is not differentiable on the interval (\nnegative 5\n− 5 ,\nnegative 3\n− 3)."
       },
       {
         "label": "Part 2",
         "text": ""
       },
       {
-        "label": "b. Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.",
+        "label": "b. Select the correct choice below​ and, if​ necessary, fill in the answer box to complete your choice.",
         "text": ""
       },
       {
@@ -1766,7 +1746,7 @@ const PROBLEMS = {
         "text": "f(x) = 5x\n(1 , 7)\non the interval [\n128\n128,\n128\n128]."
       },
       {
-        "label": "b. If\u200b so, find or approximate the\u200b point(s) that are guaranteed to exist by the Mean Value Theorem.",
+        "label": "b. If​ so, find or approximate the​ point(s) that are guaranteed to exist by the Mean Value Theorem.",
         "text": ""
       },
       {
@@ -1798,7 +1778,7 @@ const PROBLEMS = {
         "text": ""
       },
       {
-        "label": "b. Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.",
+        "label": "b. Select the correct choice below​ and, if​ necessary, fill in the answer box to complete your choice.",
         "text": ""
       },
       {
@@ -1814,11 +1794,11 @@ const PROBLEMS = {
   },
   "4.3.21": {
     "summary": "Find the intervals on which f is increasing and the intervals on which it is decreasing.",
-    "fullText": "Part 1\nFind the intervals on which f is increasing and the intervals on which it is decreasing.\nf(x) = \u2212 (x \u2212 1)2\nPart 1\nSelect the correct choice below and, if necessary, fill in the answer box(es) to complete your choice.\nA.\nThe function is decreasing on the open interval(s)\n. The function is never increasing.\n(Simplify your answer. Use a comma to separate answers as needed. Type your answer in interval notation.)\nB.\nThe function is increasing on the open interval(s)\nand decreasing on the open interval(s)\n(Simplify your answers. Use a comma to separate answers as needed. Type your answers in interval notation.)\nC.\nThe function is increasing on the open interval(s)\n. The function is never decreasing.\n(Simplify your answer. Use a comma to separate answers as needed. Type your answer in interval notation.)\nD.\nThe function is never increasing or decreasing.",
+    "fullText": "Part 1\nFind the intervals on which f is increasing and the intervals on which it is decreasing.\nf(x) = − (x − 1)2\nPart 1\nSelect the correct choice below and, if necessary, fill in the answer box(es) to complete your choice.\nA.\nThe function is decreasing on the open interval(s)\n. The function is never increasing.\n(Simplify your answer. Use a comma to separate answers as needed. Type your answer in interval notation.)\nB.\nThe function is increasing on the open interval(s)\nand decreasing on the open interval(s)\n(Simplify your answers. Use a comma to separate answers as needed. Type your answers in interval notation.)\nC.\nThe function is increasing on the open interval(s)\n. The function is never decreasing.\n(Simplify your answer. Use a comma to separate answers as needed. Type your answer in interval notation.)\nD.\nThe function is never increasing or decreasing.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Find the intervals on which f is increasing and the intervals on which it is decreasing.\nf(x) = \u2212 (x \u2212 1)2"
+        "text": "Find the intervals on which f is increasing and the intervals on which it is decreasing.\nf(x) = − (x − 1)2"
       },
       {
         "label": "Part 1",
@@ -1841,15 +1821,15 @@ const PROBLEMS = {
         "text": "The function is never increasing or decreasing."
       }
     ],
-    "expr": "f(x) = \u2212 (x \u2212 1)2"
+    "expr": "f(x) = − (x − 1)2"
   },
   "4.3.22": {
     "summary": "Find the intervals on which f is increasing and the intervals on which it is decreasing.",
-    "fullText": "Part 1\nFind the intervals on which f is increasing and the intervals on which it is decreasing.\nf(x) \u2212 x\u00b3 x\u00b3 \u2212 9 9x\nPart 1\nSelect the correct choice and, if necessary, fill in the answer box(es) to complete your choice.\nA.\nThe function is increasing on the open interval(s)\nand decreasing on the open interval(s)\n(Simplify your answers. Type your answers in interval notation. Use a comma to separate answers as needed.)\nB.\nThe function is increasing on the open interval(s)\n. The function is never decreasing.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)\nC.\nThe function is decreasing on the open interval(s)\n. The function is never increasing.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)\nD.\nThe function is never increasing nor decreasing.",
+    "fullText": "Part 1\nFind the intervals on which f is increasing and the intervals on which it is decreasing.\nf(x) − x³ x³ − 9 9x\nPart 1\nSelect the correct choice and, if necessary, fill in the answer box(es) to complete your choice.\nA.\nThe function is increasing on the open interval(s)\nand decreasing on the open interval(s)\n(Simplify your answers. Type your answers in interval notation. Use a comma to separate answers as needed.)\nB.\nThe function is increasing on the open interval(s)\n. The function is never decreasing.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)\nC.\nThe function is decreasing on the open interval(s)\n. The function is never increasing.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)\nD.\nThe function is never increasing nor decreasing.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Find the intervals on which f is increasing and the intervals on which it is decreasing.\nf(x) \u2212 x\u00b3 x\u00b3 \u2212 9 9x"
+        "text": "Find the intervals on which f is increasing and the intervals on which it is decreasing.\nf(x) − x³ x³ − 9 9x"
       },
       {
         "label": "Part 1",
@@ -1875,11 +1855,11 @@ const PROBLEMS = {
   },
   "4.3.34": {
     "summary": "Find the intervals on which f is increasing and the intervals on which it is decreasing.",
-    "fullText": "Part 1\nFind the intervals on which f is increasing and the intervals on which it is decreasing.\nf(x) = cos\u00b2 x\ncos2x on [\npi\n\u03c0,\npi\n\u03c0]\nPart 1\nSelect the correct choice and, if necessary, fill in the answer box(es) within your choice.\nA.\nThe function is increasing on the open interval(s)\nand decreasing on the open interval(s)\n(Simplify your answers. Type your answers in interval notation. Type exact answers, using\npi\n\u03c0 as needed. Use a comma to separate answers as needed.)\nB.\nThe function is decreasing on the open interval(s)\n. The function is never increasing.\n(Simplify your answer. Type your answer in interval notation. Type exact answers, using\npi\n\u03c0 as needed. Use a comma to separate answers as needed.)\nC.\nThe function is increasing on the open interval(s)\n. The function is never decreasing.\n(Simplify your answer. Type your answer in interval notation. Type exact answers, using\npi\n\u03c0 as needed. Use a comma to separate answers as needed.)\nD.\nThe function is never increasing or decreasing.",
+    "fullText": "Part 1\nFind the intervals on which f is increasing and the intervals on which it is decreasing.\nf(x) = cos² x\ncos2x on [\npi\nπ,\npi\nπ]\nPart 1\nSelect the correct choice and, if necessary, fill in the answer box(es) within your choice.\nA.\nThe function is increasing on the open interval(s)\nand decreasing on the open interval(s)\n(Simplify your answers. Type your answers in interval notation. Type exact answers, using\npi\nπ as needed. Use a comma to separate answers as needed.)\nB.\nThe function is decreasing on the open interval(s)\n. The function is never increasing.\n(Simplify your answer. Type your answer in interval notation. Type exact answers, using\npi\nπ as needed. Use a comma to separate answers as needed.)\nC.\nThe function is increasing on the open interval(s)\n. The function is never decreasing.\n(Simplify your answer. Type your answer in interval notation. Type exact answers, using\npi\nπ as needed. Use a comma to separate answers as needed.)\nD.\nThe function is never increasing or decreasing.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Find the intervals on which f is increasing and the intervals on which it is decreasing.\nf(x) = cos\u00b2 x\ncos2x on [\npi\n\u03c0,\npi\n\u03c0]"
+        "text": "Find the intervals on which f is increasing and the intervals on which it is decreasing.\nf(x) = cos² x\ncos2x on [\npi\nπ,\npi\nπ]"
       },
       {
         "label": "Part 1",
@@ -1887,15 +1867,15 @@ const PROBLEMS = {
       },
       {
         "label": "A.",
-        "text": "The function is increasing on the open interval(s)\nand decreasing on the open interval(s)\n(Simplify your answers. Type your answers in interval notation. Type exact answers, using\npi\n\u03c0 as needed. Use a comma to separate answers as needed.)"
+        "text": "The function is increasing on the open interval(s)\nand decreasing on the open interval(s)\n(Simplify your answers. Type your answers in interval notation. Type exact answers, using\npi\nπ as needed. Use a comma to separate answers as needed.)"
       },
       {
         "label": "B.",
-        "text": "The function is decreasing on the open interval(s)\n. The function is never increasing.\n(Simplify your answer. Type your answer in interval notation. Type exact answers, using\npi\n\u03c0 as needed. Use a comma to separate answers as needed.)"
+        "text": "The function is decreasing on the open interval(s)\n. The function is never increasing.\n(Simplify your answer. Type your answer in interval notation. Type exact answers, using\npi\nπ as needed. Use a comma to separate answers as needed.)"
       },
       {
         "label": "C.",
-        "text": "The function is increasing on the open interval(s)\n. The function is never decreasing.\n(Simplify your answer. Type your answer in interval notation. Type exact answers, using\npi\n\u03c0 as needed. Use a comma to separate answers as needed.)"
+        "text": "The function is increasing on the open interval(s)\n. The function is never decreasing.\n(Simplify your answer. Type your answer in interval notation. Type exact answers, using\npi\nπ as needed. Use a comma to separate answers as needed.)"
       },
       {
         "label": "D.",
@@ -1905,11 +1885,11 @@ const PROBLEMS = {
   },
   "4.3.40": {
     "summary": "Find the intervals on which f is increasing and decreasing.",
-    "fullText": "Part 1\nFind the intervals on which f is increasing and decreasing.\nf(x) = 2 x\u00b2 \u2212 4 ln x\nPart 1\nSelect the correct choice below and, if necessary, fill in the answer box(es) within your choice.\nA.\nThe function is increasing on the open interval(s)\nand decreasing on the open interval(s)\n(Simplify your answers. Type your answers in interval notation. Use a comma to separate answers as needed.)\nB.\nThe function is increasing on the open interval(s)\n. The function is never decreasing.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)\nC.\nThe function is decreasing on the open interval(s)\n. The function is never increasing.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)\nD.\nThe function is never increasing or decreasing.",
+    "fullText": "Part 1\nFind the intervals on which f is increasing and decreasing.\nf(x) = 2 x² − 4 ln x\nPart 1\nSelect the correct choice below and, if necessary, fill in the answer box(es) within your choice.\nA.\nThe function is increasing on the open interval(s)\nand decreasing on the open interval(s)\n(Simplify your answers. Type your answers in interval notation. Use a comma to separate answers as needed.)\nB.\nThe function is increasing on the open interval(s)\n. The function is never decreasing.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)\nC.\nThe function is decreasing on the open interval(s)\n. The function is never increasing.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)\nD.\nThe function is never increasing or decreasing.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Find the intervals on which f is increasing and decreasing.\nf(x) = 2 x\u00b2 \u2212 4 ln x"
+        "text": "Find the intervals on which f is increasing and decreasing.\nf(x) = 2 x² − 4 ln x"
       },
       {
         "label": "Part 1",
@@ -1935,11 +1915,11 @@ const PROBLEMS = {
   },
   "4.3.46": {
     "summary": "Perform a first derivative test on the function",
-    "fullText": "Part 1\nPerform a first derivative test on the function\nf(x) = 3x\u00b2 \u2212 5x + 2 ;\n[\u2212 3 , 3]\n[\u22123,3].\nBold a. font size increased by 1\na.\nLocate the critical points of the given function.\nBold b. font size increased by 1\nb.\nUse the first derivative test to locate the local maximum and minimum values.\nBold c. font size increased by 1\nc.\nIdentify the absolute maximum and minimum values of the function on the given interval (when they exist).\nPart 1\na. Locate the critical points of the given function. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe critical point(s) is/are at x\n(Simplify your answer. Use a comma to separate answers as needed.)\nB.\nThe function does not have a critical point.\nPart 2\nb. Locate the minimum value. Select the correct choice below and, if necessary, fill in the answer box within your choice.\nA.\nThere is a local minimum at x\n(Simplify your answer.)\nB.\nThere is no local minimum.\nPart 3\nLocate the maximum value. Select the correct choice below and, if necessary, fill in the answer box within your choice.\nA.\nThere is a local maximum at x\n(Simplify your answer.)\nB.\nThere is no local maximum.\nPart 4\nc. Identify the absolute minimum value of the function. Select the correct choice below and, if necessary, fill in the answer boxes to complete your choice.\nA.\nThe absolute minimum value is\n(Simplify your answer.)\nB.\nThere is no absolute minimum.\nPart 5\nIdentify the absolute maximum value of the function. Select the correct choice below and, if necessary, fill in the answer box within your choice.\nA.\nThe absolute maximum value is\n(Simplify your answer.)\nB.\nThere is no absolute maximum.",
+    "fullText": "Part 1\nPerform a first derivative test on the function\nf(x) = 3x² − 5x + 2 ;\n[− 3 , 3]\n[−3,3].\nBold a. font size increased by 1\na.\nLocate the critical points of the given function.\nBold b. font size increased by 1\nb.\nUse the first derivative test to locate the local maximum and minimum values.\nBold c. font size increased by 1\nc.\nIdentify the absolute maximum and minimum values of the function on the given interval (when they exist).\nPart 1\na. Locate the critical points of the given function. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe critical point(s) is/are at x\n(Simplify your answer. Use a comma to separate answers as needed.)\nB.\nThe function does not have a critical point.\nPart 2\nb. Locate the minimum value. Select the correct choice below and, if necessary, fill in the answer box within your choice.\nA.\nThere is a local minimum at x\n(Simplify your answer.)\nB.\nThere is no local minimum.\nPart 3\nLocate the maximum value. Select the correct choice below and, if necessary, fill in the answer box within your choice.\nA.\nThere is a local maximum at x\n(Simplify your answer.)\nB.\nThere is no local maximum.\nPart 4\nc. Identify the absolute minimum value of the function. Select the correct choice below and, if necessary, fill in the answer boxes to complete your choice.\nA.\nThe absolute minimum value is\n(Simplify your answer.)\nB.\nThere is no absolute minimum.\nPart 5\nIdentify the absolute maximum value of the function. Select the correct choice below and, if necessary, fill in the answer box within your choice.\nA.\nThe absolute maximum value is\n(Simplify your answer.)\nB.\nThere is no absolute maximum.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Perform a first derivative test on the function\nf(x) = 3x\u00b2 \u2212 5x + 2 ;\n[\u2212 3 , 3]\n[\u22123,3].\nBold a. font size increased by 1"
+        "text": "Perform a first derivative test on the function\nf(x) = 3x² − 5x + 2 ;\n[− 3 , 3]\n[−3,3].\nBold a. font size increased by 1"
       },
       {
         "label": "a.",
@@ -1958,7 +1938,7 @@ const PROBLEMS = {
         "text": ""
       },
       {
-        "label": "a. Locate the critical points of the given function. Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.",
+        "label": "a. Locate the critical points of the given function. Select the correct choice below​ and, if​ necessary, fill in the answer box to complete your choice.",
         "text": ""
       },
       {
@@ -1974,7 +1954,7 @@ const PROBLEMS = {
         "text": ""
       },
       {
-        "label": "b. Locate the minimum value. Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box within your choice.",
+        "label": "b. Locate the minimum value. Select the correct choice below​ and, if​ necessary, fill in the answer box within your choice.",
         "text": ""
       },
       {
@@ -2002,7 +1982,7 @@ const PROBLEMS = {
         "text": ""
       },
       {
-        "label": "c. Identify the absolute minimum value of the function. Select the correct choice below\u200b and, if\u200b necessary, fill in the answer boxes to complete your choice.",
+        "label": "c. Identify the absolute minimum value of the function. Select the correct choice below​ and, if​ necessary, fill in the answer boxes to complete your choice.",
         "text": ""
       },
       {
@@ -2026,15 +2006,15 @@ const PROBLEMS = {
         "text": "There is no absolute maximum."
       }
     ],
-    "expr": "f(x) = 3x\u00b2 \u2212 5x + 2 ;"
+    "expr": "f(x) = 3x² − 5x + 2 ;"
   },
   "4.3.47": {
     "summary": "Perform a first derivative test on the function f(x)",
-    "fullText": "Part 1\nPerform a first derivative test on the function f(x)\n= x\n\u221a(9 \u2212 x\u00b2)\n9\u2212x2; [\n3\n3,\n3\n3].\nBold a. font size increased by 1\na.\nLocate the critical points of the given function.\nBold b. nbsp\nb.\nUse the First Derivative Test to locate the local maximum and minimum values.\nBold c. nbsp\nc.\nIdentify the absolute maximum and minimum values of the function on the given interval (when they exist).\nPart 1\na. Locate the critical points of the given function. Select the correct choice below and, if necessary, fill in the answer box within your choice.\nA.\nThe critical point(s) is/are at x\n(Type an exact answer, using radicals as needed. Use a comma to separate answers as needed.)\nB.\nThere are no critical points.\nPart 2\nb. Locate the local maximum value. Select the correct choice below and, if necessary, fill in the answer box within your choice.\nA.\nThere is a local maximum at x\n(Type an exact answer, using radicals as needed.)\nB.\nThere is no local maximum.\nPart 3\nLocate the minimum value. Select the correct choice below and, if necessary, fill in the answer box within your choice.\nA.\nThere is a local minimum at x\n(Type an exact answer, using radicals as needed.)\nB.\nThere is no local minimum.\nPart 4\nc. Identify the absolute maximum value of the function. Select the correct choice below and, if necessary, fill in the answer box within your choice.\nA.\nThe absolute maximum value is\n(Type an exact answer, using radicals as needed.)\nB.\nThere is no absolute maximum.\nPart 5\nIdentify the absolute minimum value of the function. Select the correct choice below and, if necessary, fill in the answer box within your choice.\nA.\nThe absolute minimum value is\n(Type an exact answer, using radicals as needed.)\nB.\nThere is no absolute minimum.",
+    "fullText": "Part 1\nPerform a first derivative test on the function f(x)\n= x\n√(9 − x²)\n9−x2; [\n3\n3,\n3\n3].\nBold a. font size increased by 1\na.\nLocate the critical points of the given function.\nBold b. nbsp\nb.\nUse the First Derivative Test to locate the local maximum and minimum values.\nBold c. nbsp\nc.\nIdentify the absolute maximum and minimum values of the function on the given interval (when they exist).\nPart 1\na. Locate the critical points of the given function. Select the correct choice below and, if necessary, fill in the answer box within your choice.\nA.\nThe critical point(s) is/are at x\n(Type an exact answer, using radicals as needed. Use a comma to separate answers as needed.)\nB.\nThere are no critical points.\nPart 2\nb. Locate the local maximum value. Select the correct choice below and, if necessary, fill in the answer box within your choice.\nA.\nThere is a local maximum at x\n(Type an exact answer, using radicals as needed.)\nB.\nThere is no local maximum.\nPart 3\nLocate the minimum value. Select the correct choice below and, if necessary, fill in the answer box within your choice.\nA.\nThere is a local minimum at x\n(Type an exact answer, using radicals as needed.)\nB.\nThere is no local minimum.\nPart 4\nc. Identify the absolute maximum value of the function. Select the correct choice below and, if necessary, fill in the answer box within your choice.\nA.\nThe absolute maximum value is\n(Type an exact answer, using radicals as needed.)\nB.\nThere is no absolute maximum.\nPart 5\nIdentify the absolute minimum value of the function. Select the correct choice below and, if necessary, fill in the answer box within your choice.\nA.\nThe absolute minimum value is\n(Type an exact answer, using radicals as needed.)\nB.\nThere is no absolute minimum.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Perform a first derivative test on the function f(x)\n= x\n\u221a(9 \u2212 x\u00b2)\n9\u2212x2; [\n3\n3,\n3\n3].\nBold a. font size increased by 1"
+        "text": "Perform a first derivative test on the function f(x)\n= x\n√(9 − x²)\n9−x2; [\n3\n3,\n3\n3].\nBold a. font size increased by 1"
       },
       {
         "label": "a.",
@@ -2053,7 +2033,7 @@ const PROBLEMS = {
         "text": ""
       },
       {
-        "label": "a. Locate the critical points of the given function. Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box within your choice.",
+        "label": "a. Locate the critical points of the given function. Select the correct choice below​ and, if​ necessary, fill in the answer box within your choice.",
         "text": ""
       },
       {
@@ -2069,7 +2049,7 @@ const PROBLEMS = {
         "text": ""
       },
       {
-        "label": "b. Locate the local maximum value. Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box within your choice.",
+        "label": "b. Locate the local maximum value. Select the correct choice below​ and, if​ necessary, fill in the answer box within your choice.",
         "text": ""
       },
       {
@@ -2097,7 +2077,7 @@ const PROBLEMS = {
         "text": ""
       },
       {
-        "label": "c. Identify the absolute maximum value of the function. Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box within your choice.",
+        "label": "c. Identify the absolute maximum value of the function. Select the correct choice below​ and, if​ necessary, fill in the answer box within your choice.",
         "text": ""
       },
       {
@@ -2124,11 +2104,11 @@ const PROBLEMS = {
   },
   "4.3.48": {
     "summary": "Perform a first derivative test on the function f(x)",
-    "fullText": "Part 1\nPerform a first derivative test on the function f(x)\n2 x\u00b3 + 3 x\u00b2 \u2212 120 x + 8\n2x3+3x2\u2212120x+8; [\n(5 , 7)\n7].\nBold a. font size increased by 1\na.\nLocate the critical points of the given function.\nBold b. nbsp\nb.\nUse the First Derivative Test to locate the local maximum and minimum values.\nBold c. nbsp\nc.\nIdentify the absolute maximum and minimum values of the function on the given interval (when they exist).\nPart 1\na. Locate the critical points of the given function. Select the correct choice below and, if necessary, fill in the answer box within your choice.\nA.\nThe critical point(s) is/are at x\n(Type an integer or a simplified fraction. Use a comma to separate answers as needed.)\nB.\nThere are no critical points.\nPart 2\nb. Locate the local maximum value. Select the correct choice below and, if necessary, fill in the answer box within your choice.\nA.\nThere is a local maximum at x\n(Type an integer or a simplified fraction.)\nB.\nThere is no local maximum.\nPart 3\nLocate the local minimum value. Select the correct choice below and, if necessary, fill in the answer box within your choice.\nA.\nThere is a local minimum at x\n(Type an integer or a simplified fraction.)\nB.\nThere is no local minimum.\nPart 4\nc. Identify the absolute maximum value of the function. Select the correct choice below and, if necessary, fill in the answer box within your choice.\nA.\nThe absolute maximum value is\n(Type an integer or a simplified fraction.)\nB.\nThere is no absolute maximum.\nPart 5\nIdentify the absolute minimum value of the function. Select the correct choice below and, if necessary, fill in the answer box within your choice.\nA.\nThe absolute minimum value is\n(Type an integer or a simplified fraction.)\nB.\nThere is no absolute minimum.",
+    "fullText": "Part 1\nPerform a first derivative test on the function f(x)\n2 x³ + 3 x² − 120 x + 8\n2x3+3x2−120x+8; [\n(5 , 7)\n7].\nBold a. font size increased by 1\na.\nLocate the critical points of the given function.\nBold b. nbsp\nb.\nUse the First Derivative Test to locate the local maximum and minimum values.\nBold c. nbsp\nc.\nIdentify the absolute maximum and minimum values of the function on the given interval (when they exist).\nPart 1\na. Locate the critical points of the given function. Select the correct choice below and, if necessary, fill in the answer box within your choice.\nA.\nThe critical point(s) is/are at x\n(Type an integer or a simplified fraction. Use a comma to separate answers as needed.)\nB.\nThere are no critical points.\nPart 2\nb. Locate the local maximum value. Select the correct choice below and, if necessary, fill in the answer box within your choice.\nA.\nThere is a local maximum at x\n(Type an integer or a simplified fraction.)\nB.\nThere is no local maximum.\nPart 3\nLocate the local minimum value. Select the correct choice below and, if necessary, fill in the answer box within your choice.\nA.\nThere is a local minimum at x\n(Type an integer or a simplified fraction.)\nB.\nThere is no local minimum.\nPart 4\nc. Identify the absolute maximum value of the function. Select the correct choice below and, if necessary, fill in the answer box within your choice.\nA.\nThe absolute maximum value is\n(Type an integer or a simplified fraction.)\nB.\nThere is no absolute maximum.\nPart 5\nIdentify the absolute minimum value of the function. Select the correct choice below and, if necessary, fill in the answer box within your choice.\nA.\nThe absolute minimum value is\n(Type an integer or a simplified fraction.)\nB.\nThere is no absolute minimum.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Perform a first derivative test on the function f(x)\n2 x\u00b3 + 3 x\u00b2 \u2212 120 x + 8\n2x3+3x2\u2212120x+8; [\n(5 , 7)\n7].\nBold a. font size increased by 1"
+        "text": "Perform a first derivative test on the function f(x)\n2 x³ + 3 x² − 120 x + 8\n2x3+3x2−120x+8; [\n(5 , 7)\n7].\nBold a. font size increased by 1"
       },
       {
         "label": "a.",
@@ -2147,7 +2127,7 @@ const PROBLEMS = {
         "text": ""
       },
       {
-        "label": "a. Locate the critical points of the given function. Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box within your choice.",
+        "label": "a. Locate the critical points of the given function. Select the correct choice below​ and, if​ necessary, fill in the answer box within your choice.",
         "text": ""
       },
       {
@@ -2163,7 +2143,7 @@ const PROBLEMS = {
         "text": ""
       },
       {
-        "label": "b. Locate the local maximum value. Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box within your choice.",
+        "label": "b. Locate the local maximum value. Select the correct choice below​ and, if​ necessary, fill in the answer box within your choice.",
         "text": ""
       },
       {
@@ -2191,7 +2171,7 @@ const PROBLEMS = {
         "text": ""
       },
       {
-        "label": "c. Identify the absolute maximum value of the function. Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box within your choice.",
+        "label": "c. Identify the absolute maximum value of the function. Select the correct choice below​ and, if​ necessary, fill in the answer box within your choice.",
         "text": ""
       },
       {
@@ -2218,11 +2198,11 @@ const PROBLEMS = {
   },
   "4.3.59": {
     "summary": "Sketch a graph of the function f that is continuous on (",
-    "fullText": "Part 1\nSketch a graph of the function f that is continuous on (\ninfinity\n\u221e,\ninfinity\n\u221e) and has the following properties.\nf prime\nf\u2032(x)\ngreater than\n>0,\nf double prime\nf\u2032\u2032(x)\nless than\n<0\nPart 1\nChoose the correct graph below.\nA.\n-5\n5\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 5 to 5 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 2. A smooth curve that is concave upward starts at (negative 5, 2) and rises from left to right until ending at (2.1, 10). All coordinates are approximate.\nB.\n-5\n5\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 5 to 5 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 2. A smooth curve that is concave upward starts at (negative 2.1, 10) and falls from left to right until ending at (5, 2). All coordinates are approximate.\nC.\n-5\n5\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 5 to 5 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 2. A smooth curve that is concave downward starts at (negative 5, 2) and falls from left to right until ending at (2.5, negative 10). All coordinates are approximate.\nD.\n-5\n5\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 5 to 5 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 2. A smooth curve that is concave downward starts at (negative 2.5, negative 10) and rises from left to right until ending at (5, 2). All coordinates are approximate.",
+    "fullText": "Part 1\nSketch a graph of the function f that is continuous on (\ninfinity\n∞,\ninfinity\n∞) and has the following properties.\nf prime\nf′(x)\ngreater than\n>0,\nf double prime\nf′′(x)\nless than\n<0\nPart 1\nChoose the correct graph below.\nA.\n-5\n5\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 5 to 5 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 2. A smooth curve that is concave upward starts at (negative 5, 2) and rises from left to right until ending at (2.1, 10). All coordinates are approximate.\nB.\n-5\n5\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 5 to 5 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 2. A smooth curve that is concave upward starts at (negative 2.1, 10) and falls from left to right until ending at (5, 2). All coordinates are approximate.\nC.\n-5\n5\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 5 to 5 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 2. A smooth curve that is concave downward starts at (negative 5, 2) and falls from left to right until ending at (2.5, negative 10). All coordinates are approximate.\nD.\n-5\n5\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 5 to 5 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 2. A smooth curve that is concave downward starts at (negative 2.5, negative 10) and rises from left to right until ending at (5, 2). All coordinates are approximate.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Sketch a graph of the function f that is continuous on (\ninfinity\n\u221e,\ninfinity\n\u221e) and has the following properties.\nf prime\nf\u2032(x)\ngreater than\n>0,\nf double prime\nf\u2032\u2032(x)\nless than\n<0"
+        "text": "Sketch a graph of the function f that is continuous on (\ninfinity\n∞,\ninfinity\n∞) and has the following properties.\nf prime\nf′(x)\ngreater than\n>0,\nf double prime\nf′′(x)\nless than\n<0"
       },
       {
         "label": "Part 1",
@@ -2247,12 +2227,12 @@ const PROBLEMS = {
     ]
   },
   "4.3.63": {
-    "summary": "Determine the intervals on which the following function is concave up or concave down. Ident\u2026",
-    "fullText": "Part 1\nDetermine the intervals on which the following function is concave up or concave down. Identify any inflection points.\nf(x) = 2 x\u2074 \u2212 4 x\u00b3 + 9\n2x\u2074 \u2212 4x\u00b3 + 9\nPart 1\nDetermine the intervals on which the given function is concave up or concave down. Select the correct choice and, if necessary, fill in the answer box(es) to complete your choice.\nA.\nThe function is concave up on\nand the function is never concave down.\n(Simplify your answer. Type your answer in interval notation. Use integers or fractions for any numbers in the expression. Use a comma to separate answers as needed.)\nB.\nThe function is concave up on\nand concave down on\n(Simplify your answers. Type your answers in interval notation. Use integers or fractions for any numbers in the expression. Use a comma to separate answers as needed.)\nC.\nThe function is concave down on\nand the function is never concave up.\n(Simplify your answer. Type your answer in interval notation. Use integers or fractions for any numbers in the expression. Use a comma to separate answers as needed.)\nD.\nThe function is never concave up nor concave down.\nPart 2\nLocate any inflection points of f. Select the correct choice and, if necessary, fill in the answer box to complete your choice.\nA.\nAn inflection point occurs at x\n(Type an integer or a simplified fraction. Use a comma to separate answers as needed.)\nB.\nThere are no inflection points for f.",
+    "summary": "Determine the intervals on which the following function is concave up or concave down. Ident…",
+    "fullText": "Part 1\nDetermine the intervals on which the following function is concave up or concave down. Identify any inflection points.\nf(x) = 2 x⁴ − 4 x³ + 9\n2x⁴ − 4x³ + 9\nPart 1\nDetermine the intervals on which the given function is concave up or concave down. Select the correct choice and, if necessary, fill in the answer box(es) to complete your choice.\nA.\nThe function is concave up on\nand the function is never concave down.\n(Simplify your answer. Type your answer in interval notation. Use integers or fractions for any numbers in the expression. Use a comma to separate answers as needed.)\nB.\nThe function is concave up on\nand concave down on\n(Simplify your answers. Type your answers in interval notation. Use integers or fractions for any numbers in the expression. Use a comma to separate answers as needed.)\nC.\nThe function is concave down on\nand the function is never concave up.\n(Simplify your answer. Type your answer in interval notation. Use integers or fractions for any numbers in the expression. Use a comma to separate answers as needed.)\nD.\nThe function is never concave up nor concave down.\nPart 2\nLocate any inflection points of f. Select the correct choice and, if necessary, fill in the answer box to complete your choice.\nA.\nAn inflection point occurs at x\n(Type an integer or a simplified fraction. Use a comma to separate answers as needed.)\nB.\nThere are no inflection points for f.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Determine the intervals on which the following function is concave up or concave down. Identify any inflection points.\nf(x) = 2 x\u2074 \u2212 4 x\u00b3 + 9\n2x\u2074 \u2212 4x\u00b3 + 9"
+        "text": "Determine the intervals on which the following function is concave up or concave down. Identify any inflection points.\nf(x) = 2 x⁴ − 4 x³ + 9\n2x⁴ − 4x³ + 9"
       },
       {
         "label": "Part 1",
@@ -2289,35 +2269,35 @@ const PROBLEMS = {
     ]
   },
   "4.3.65": {
-    "summary": "Determine the intervals on which the following function is concave up or concave down. Ident\u2026",
-    "fullText": "Part 1\nDetermine the intervals on which the following function is concave up or concave down. Identify any inflection points.\nf(x) f(x) = 5 x\u2074 \u2212 30 x\u00b3 \u2212 15 5x\u2074 \u2212 30x\u00b3 \u2212 15\nPart 1\nDetermine the intervals on which the following functions are concave up or concave down. Select the correct choice and, if necessary, fill in the answer box(es) to complete your choice.\nA.\nThe function is concave up on\nand concave down on\n(Simplify your answers. Type your answers in interval notation. Use a comma to separate answers as needed.)\nB.\nThe function is concave down on\nand the function is never concave up.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)\nC.\nThe function is concave up on\nand the function is never concave down.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)\nD.\nThe function is never concave up nor concave down.\nPart 2\nLocate any inflection points of f. Select the correct choice and, if necessary, fill in the answer box to complete your choice.\nA.\nAn inflection point occurs at x\n(Use a comma to separate answers as needed.)\nB.\nThere are no inflection points for f.",
+    "summary": "Determine the intervals on which the following function is concave up or concave down. Identif…",
+    "fullText": "Determine the intervals on which the following function is concave up or concave down. Identify any inflection points.\nf(x) = − 5 x⁴ − 60 x³ + 10\n− 5x⁴ − 60x³ + 10\nPart 1 of 2\nDetermine the intervals on which the following functions are concave up or concave down. Select the correct choice and, if necessary, fill in the answer box(es) to complete your choice.\nA.\nThe function is concave down on\nand concave up on\n(Simplify your answers. Type your answers in interval notation. Use a comma to separate answers as needed.)\nB.\nThe function is concave up on\nand the function is never concave down.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)\nC.\nThe function is concave down on\nand the function is never concave up.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)\nD.\nThe function is never concave up nor concave down.\nPart 2 of 2\nLocate any inflection points of f. Select the correct choice and, if necessary, fill in the answer box to complete your choice.\nA.\nAn inflection point occurs at x\n(Use a comma to separate answers as needed.)\nB.\nThere are no inflection points for f.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Determine the intervals on which the following function is concave up or concave down. Identify any inflection points.\nf(x) f(x) = 5 x\u2074 \u2212 30 x\u00b3 \u2212 15 5x\u2074 \u2212 30x\u00b3 \u2212 15"
+        "text": "Determine the intervals on which the following function is concave up or concave down. Identify any inflection points.\nf(x) = − 5 x⁴ − 60 x³ + 10\n− 5x⁴ − 60x³ + 10"
       },
       {
-        "label": "Part 1",
+        "label": "Part 1 of 2",
         "text": "Determine the intervals on which the following functions are concave up or concave down. Select the correct choice and, if necessary, fill in the answer box(es) to complete your choice."
       },
       {
         "label": "A.",
-        "text": "The function is concave up on\nand concave down on\n(Simplify your answers. Type your answers in interval notation. Use a comma to separate answers as needed.)"
+        "text": "The function is concave down on\nand concave up on\n(Simplify your answers. Type your answers in interval notation. Use a comma to separate answers as needed.)"
       },
       {
         "label": "B.",
-        "text": "The function is concave down on\nand the function is never concave up.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)"
+        "text": "The function is concave up on\nand the function is never concave down.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)"
       },
       {
         "label": "C.",
-        "text": "The function is concave up on\nand the function is never concave down.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)"
+        "text": "The function is concave down on\nand the function is never concave up.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)"
       },
       {
         "label": "D.",
         "text": "The function is never concave up nor concave down."
       },
       {
-        "label": "Part 2",
+        "label": "Part 2 of 2",
         "text": "Locate any inflection points of f. Select the correct choice and, if necessary, fill in the answer box to complete your choice."
       },
       {
@@ -2328,15 +2308,17 @@ const PROBLEMS = {
         "label": "B.",
         "text": "There are no inflection points for f."
       }
-    ]
+    ],
+    "expr": "f(x) = − 5 x⁴ − 60 x³ + 10",
+    "prompt": "Determine the intervals on which the following function is concave up or concave down. Identif…"
   },
   "4.3.67": {
-    "summary": "Determine the intervals on which the following function is concave up or concave down. Ident\u2026",
-    "fullText": "Part 1\nDetermine the intervals on which the following function is concave up or concave down. Identify any inflection points.\nf(x) f(x) = \u2212 e ^x (x + 1) \u2212 ex(x + 1)\nPart 1\nDetermine the intervals on which the following functions are concave up or concave down. Select the correct choice and, if necessary, fill in the answer box(es) to complete your choice.\nA.\nThe function is concave up on\nand concave down on\n(Simplify your answers. Type your answers in interval notation. Use a comma to separate answers as needed.)\nB.\nThe function is concave up on\nand the function is never concave down.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)\nC.\nThe function is concave down on\nand the function is never concave up.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)\nD.\nThe function is never concave up nor concave down.\nPart 2\nLocate any inflection points of f. Select the correct choice and, if necessary, fill in the answer box to complete your choice.\nA.\nAn inflection point occurs at x\n(Use a comma to separate answers as needed.)\nB.\nThere are no inflection points for f.",
+    "summary": "Determine the intervals on which the following function is concave up or concave down. Ident…",
+    "fullText": "Part 1\nDetermine the intervals on which the following function is concave up or concave down. Identify any inflection points.\nf(x) f(x) = − e ^x (x + 1) − ex(x + 1)\nPart 1\nDetermine the intervals on which the following functions are concave up or concave down. Select the correct choice and, if necessary, fill in the answer box(es) to complete your choice.\nA.\nThe function is concave up on\nand concave down on\n(Simplify your answers. Type your answers in interval notation. Use a comma to separate answers as needed.)\nB.\nThe function is concave up on\nand the function is never concave down.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)\nC.\nThe function is concave down on\nand the function is never concave up.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)\nD.\nThe function is never concave up nor concave down.\nPart 2\nLocate any inflection points of f. Select the correct choice and, if necessary, fill in the answer box to complete your choice.\nA.\nAn inflection point occurs at x\n(Use a comma to separate answers as needed.)\nB.\nThere are no inflection points for f.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Determine the intervals on which the following function is concave up or concave down. Identify any inflection points.\nf(x) f(x) = \u2212 e ^x (x + 1) \u2212 ex(x + 1)"
+        "text": "Determine the intervals on which the following function is concave up or concave down. Identify any inflection points.\nf(x) f(x) = − e ^x (x + 1) − ex(x + 1)"
       },
       {
         "label": "Part 1",
@@ -2373,12 +2355,12 @@ const PROBLEMS = {
     ]
   },
   "4.3.71": {
-    "summary": "Determine the intervals on which the following function is concave up or concave down. Ident\u2026",
-    "fullText": "Part 1\nDetermine the intervals on which the following function is concave up or concave down. Identify any inflection points.\nf(x) = e Superscript \u2212 x\u00b2 / 8\nPart 1\nDetermine the intervals on which the function is concave up or concave down. Select the correct choice below and, if necessary, fill in the answer box(es) within your choice.\nA.\nThe function is concave up on\nand concave down on\n(Simplify your answers. Type your answers in interval notation. Use a comma to separate answers as needed.)\nB.\nThe function is concave up on\n. The function is never concave down.\n(Simplify your answer. Type your answer in interval notation.)\nC.\nThe function is concave down on\n. The function is never concave up.\n(Simplify your answer. Type your answer in interval notation.)\nD.\nThe function is never concave up nor concave down.\nPart 2\nLocate any inflection points of f. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThere are inflection points at x\n(Use a comma to separate answers as needed.)\nB.\nThere are no inflection points.",
+    "summary": "Determine the intervals on which the following function is concave up or concave down. Ident…",
+    "fullText": "Part 1\nDetermine the intervals on which the following function is concave up or concave down. Identify any inflection points.\nf(x) = e Superscript − x² / 8\nPart 1\nDetermine the intervals on which the function is concave up or concave down. Select the correct choice below and, if necessary, fill in the answer box(es) within your choice.\nA.\nThe function is concave up on\nand concave down on\n(Simplify your answers. Type your answers in interval notation. Use a comma to separate answers as needed.)\nB.\nThe function is concave up on\n. The function is never concave down.\n(Simplify your answer. Type your answer in interval notation.)\nC.\nThe function is concave down on\n. The function is never concave up.\n(Simplify your answer. Type your answer in interval notation.)\nD.\nThe function is never concave up nor concave down.\nPart 2\nLocate any inflection points of f. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThere are inflection points at x\n(Use a comma to separate answers as needed.)\nB.\nThere are no inflection points.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Determine the intervals on which the following function is concave up or concave down. Identify any inflection points.\nf(x) = e Superscript \u2212 x\u00b2 / 8"
+        "text": "Determine the intervals on which the following function is concave up or concave down. Identify any inflection points.\nf(x) = e Superscript − x² / 8"
       },
       {
         "label": "Part 1",
@@ -2415,12 +2397,12 @@ const PROBLEMS = {
     ]
   },
   "4.3.77": {
-    "summary": "Locate the critical points of the following function. Then use the Second Derivative Test to\u2026",
-    "fullText": "Part 1\nLocate the critical points of the following function. Then use the Second Derivative Test to determine whether they correspond to local maxima, local minima, or neither.\nf(x) f(x) = \u2212 x\u00b3 \u2212 9 x\u00b2\nPart 1\nWhat is(are) the critical point(s) of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe critical point(s) is(are) x\n(Use a comma to separate answers as needed. Type an integer or a simplified fraction.)\nB.\nThere are no critical points for f.\nPart 2\nWhat is/are the local maximum/maxima of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe local maximum/maxima of f is/are at x\n(Use a comma to separate answers as needed. Type an integer or a simplified fraction.)\nB.\nThere is no local maximum of f.\nPart 3\nWhat is/are the local minimum/minima of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe local minimum/minima of f is/are at x\n(Use a comma to separate answers as needed. Type an integer or a simplified fraction.)\nB.\nThere is no local minimum of f.",
+    "summary": "Locate the critical points of the following function. Then use the Second Derivative Test to…",
+    "fullText": "Part 1\nLocate the critical points of the following function. Then use the Second Derivative Test to determine whether they correspond to local maxima, local minima, or neither.\nf(x) f(x) = − x³ − 9 x²\nPart 1\nWhat is(are) the critical point(s) of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe critical point(s) is(are) x\n(Use a comma to separate answers as needed. Type an integer or a simplified fraction.)\nB.\nThere are no critical points for f.\nPart 2\nWhat is/are the local maximum/maxima of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe local maximum/maxima of f is/are at x\n(Use a comma to separate answers as needed. Type an integer or a simplified fraction.)\nB.\nThere is no local maximum of f.\nPart 3\nWhat is/are the local minimum/minima of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe local minimum/minima of f is/are at x\n(Use a comma to separate answers as needed. Type an integer or a simplified fraction.)\nB.\nThere is no local minimum of f.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Locate the critical points of the following function. Then use the Second Derivative Test to determine whether they correspond to local maxima, local minima, or neither.\nf(x) f(x) = \u2212 x\u00b3 \u2212 9 x\u00b2"
+        "text": "Locate the critical points of the following function. Then use the Second Derivative Test to determine whether they correspond to local maxima, local minima, or neither.\nf(x) f(x) = − x³ − 9 x²"
       },
       {
         "label": "Part 1",
@@ -2461,12 +2443,12 @@ const PROBLEMS = {
     ]
   },
   "4.3.81": {
-    "summary": "Locate the critical points of the following function. Then use the Second Derivative Test to\u2026",
-    "fullText": "Part 1\nLocate the critical points of the following function. Then use the Second Derivative Test to determine whether they correspond to local maxima, local minima, or neither.\nf(x) f(x) = e ^x (x \u2212 5) ex(x \u2212 5)\nPart 1\nWhat is(are) the critical point(s) of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe critical point(s) is(are) x\n. (Use a comma to separate answers as needed.)\nB.\nThere are no critical points for f.\nPart 2\nWhat is/are the local minimum/minima of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe local minimum/minima of f is/are at x\n(Use a comma to separate answers as needed.)\nB.\nThere is no local minimum of f.\nPart 3\nWhat is/are the local maximum/maxima of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe local maximum/maxima of f is/are at x\n(Use a comma to separate answers as needed.)\nB.\nThere is no local maximum of f.",
+    "summary": "Locate the critical points of the following function. Then use the Second Derivative Test to…",
+    "fullText": "Part 1\nLocate the critical points of the following function. Then use the Second Derivative Test to determine whether they correspond to local maxima, local minima, or neither.\nf(x) f(x) = e ^x (x − 5) ex(x − 5)\nPart 1\nWhat is(are) the critical point(s) of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe critical point(s) is(are) x\n. (Use a comma to separate answers as needed.)\nB.\nThere are no critical points for f.\nPart 2\nWhat is/are the local minimum/minima of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe local minimum/minima of f is/are at x\n(Use a comma to separate answers as needed.)\nB.\nThere is no local minimum of f.\nPart 3\nWhat is/are the local maximum/maxima of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe local maximum/maxima of f is/are at x\n(Use a comma to separate answers as needed.)\nB.\nThere is no local maximum of f.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Locate the critical points of the following function. Then use the Second Derivative Test to determine whether they correspond to local maxima, local minima, or neither.\nf(x) f(x) = e ^x (x \u2212 5) ex(x \u2212 5)"
+        "text": "Locate the critical points of the following function. Then use the Second Derivative Test to determine whether they correspond to local maxima, local minima, or neither.\nf(x) f(x) = e ^x (x − 5) ex(x − 5)"
       },
       {
         "label": "Part 1",
@@ -2507,12 +2489,12 @@ const PROBLEMS = {
     ]
   },
   "4.3.83": {
-    "summary": "Locate the critical points of the following function. Then use the Second Derivative Test to\u2026",
-    "fullText": "Part 1\nLocate the critical points of the following function. Then use the Second Derivative Test to determine whether they correspond to local maxima, local minima, or neither.\nf(x) f(x) = 3 x\u00b3 + 18 x\u00b2 + 2 3x\u00b3 + 18x\u00b2 + 2\nPart 1\nWhat is(are) the critical point(s) of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe critical point(s) is(are) x\n(Use a comma to separate answers as needed. Type an integer or a simplified fraction.)\nB.\nThere are no critical points for f.\nPart 2\nWhat is/are the local minimum/minima of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe local minimum/minima of f is/are at x\n(Use a comma to separate answers as needed. Type an integer or a simplified fraction.)\nB.\nThere is no local minimum of f.\nPart 3\nWhat is/are the local maximum/maxima of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe local maximum/maxima of f is/are at x\n(Use a comma to separate answers as needed. Type an integer or a simplified fraction.)\nB.\nThere is no local maximum of f.",
+    "summary": "Locate the critical points of the following function. Then use the Second Derivative Test to…",
+    "fullText": "Part 1\nLocate the critical points of the following function. Then use the Second Derivative Test to determine whether they correspond to local maxima, local minima, or neither.\nf(x) f(x) = 3 x³ + 18 x² + 2 3x³ + 18x² + 2\nPart 1\nWhat is(are) the critical point(s) of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe critical point(s) is(are) x\n(Use a comma to separate answers as needed. Type an integer or a simplified fraction.)\nB.\nThere are no critical points for f.\nPart 2\nWhat is/are the local minimum/minima of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe local minimum/minima of f is/are at x\n(Use a comma to separate answers as needed. Type an integer or a simplified fraction.)\nB.\nThere is no local minimum of f.\nPart 3\nWhat is/are the local maximum/maxima of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe local maximum/maxima of f is/are at x\n(Use a comma to separate answers as needed. Type an integer or a simplified fraction.)\nB.\nThere is no local maximum of f.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Locate the critical points of the following function. Then use the Second Derivative Test to determine whether they correspond to local maxima, local minima, or neither.\nf(x) f(x) = 3 x\u00b3 + 18 x\u00b2 + 2 3x\u00b3 + 18x\u00b2 + 2"
+        "text": "Locate the critical points of the following function. Then use the Second Derivative Test to determine whether they correspond to local maxima, local minima, or neither.\nf(x) f(x) = 3 x³ + 18 x² + 2 3x³ + 18x² + 2"
       },
       {
         "label": "Part 1",
@@ -2554,11 +2536,11 @@ const PROBLEMS = {
   },
   "4.4.15": {
     "summary": "Use the graphing guidelines to make a complete graph of f.",
-    "fullText": "Part 1\nUse the graphing guidelines to make a complete graph of f.\nf(x) = x\u00b2 \u2212 14x\nPart 1\nChoose the correct graph below.\nA.\n-7\n21\n-10\n50\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 7 to 21 in increments of 1 and a vertical y-axis from negative 10 to 50 in increments of 5. From left to right, a curve rises, passing through the origin, to a maximum at (7, 49), then falls, passing through the point (14, 0). All coordinates are approximate.\nB.\n-7\n21\n-50\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 7 to 21 in increments of 1 and a vertical y-axis from negative 50 to 10 in increments of 5. From left to right, a curve falls, passing through the origin, to a minimum at (7, negative 49), then rises, passing through the point (14, 0). All coordinates are approximate.\nC.\n-7\n14\n-20\n4\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 7 to 14 in increments of 1 and a vertical y-axis from negative 20 to 4 in increments of 2. From left to right, a curve falls, passing through the origin, to a minimum at (3.5, negative 12.25), then rises, passing through the point (7, 0). All coordinates are approximate.\nD.\n-7\n14\n-4\n20\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 7 to 14 in increments of 1 and a vertical y-axis from negative 20 to 4 in increments of 2. From left to right, a curve rises, passing through the origin, to a maximum at (3.5, 12.25), then falls, passing through the point (7, 0). All coordinates are approximate.",
+    "fullText": "Part 1\nUse the graphing guidelines to make a complete graph of f.\nf(x) = x² − 14x\nPart 1\nChoose the correct graph below.\nA.\n-7\n21\n-10\n50\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 7 to 21 in increments of 1 and a vertical y-axis from negative 10 to 50 in increments of 5. From left to right, a curve rises, passing through the origin, to a maximum at (7, 49), then falls, passing through the point (14, 0). All coordinates are approximate.\nB.\n-7\n21\n-50\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 7 to 21 in increments of 1 and a vertical y-axis from negative 50 to 10 in increments of 5. From left to right, a curve falls, passing through the origin, to a minimum at (7, negative 49), then rises, passing through the point (14, 0). All coordinates are approximate.\nC.\n-7\n14\n-20\n4\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 7 to 14 in increments of 1 and a vertical y-axis from negative 20 to 4 in increments of 2. From left to right, a curve falls, passing through the origin, to a minimum at (3.5, negative 12.25), then rises, passing through the point (7, 0). All coordinates are approximate.\nD.\n-7\n14\n-4\n20\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 7 to 14 in increments of 1 and a vertical y-axis from negative 20 to 4 in increments of 2. From left to right, a curve rises, passing through the origin, to a maximum at (3.5, 12.25), then falls, passing through the point (7, 0). All coordinates are approximate.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Use the graphing guidelines to make a complete graph of f.\nf(x) = x\u00b2 \u2212 14x"
+        "text": "Use the graphing guidelines to make a complete graph of f.\nf(x) = x² − 14x"
       },
       {
         "label": "Part 1",
@@ -2581,15 +2563,15 @@ const PROBLEMS = {
         "text": "-7\n14\n-4\n20\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 7 to 14 in increments of 1 and a vertical y-axis from negative 20 to 4 in increments of 2. From left to right, a curve rises, passing through the origin, to a maximum at (3.5, 12.25), then falls, passing through the point (7, 0). All coordinates are approximate."
       }
     ],
-    "expr": "f(x) = x\u00b2 \u2212 14x"
+    "expr": "f(x) = x² − 14x"
   },
   "4.4.17": {
     "summary": "Use the graphing guidelines to make a complete graph of f.",
-    "fullText": "Part 1\nUse the graphing guidelines to make a complete graph of f.\nf(x) = x\u00b3 \u2212 4x\u00b2 + 4x\nPart 1\nChoose the correct graph below.\nA.\n-5\n15\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 5 to 15 in increments of 1 and a vertical y-axis from negative 10 to 10 in increments of 1. From left to right, a curve rises, passing through the origin, to a maximum at (0.7, 1.2), falls, passing through the point (1.3, 0.6), to a minimum at (2, 0), and rises. All coordinates are approximate.\nB.\n-5\n15\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 5 to 15 increments of 1 and a vertical y-axis from negative 10 to 10 in increments of 1. From left to right, a curve rises to a maximum at (0, 4), falls, passing through the point (1.3, negative 0.7), to a minimum at (2.7, negative 5.5), and rises. All coordinates are approximate.\nC.\n-5\n15\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 5 to 15 in increments of 1 and a vertical y-axis from negative 10 to 10 in increments of 1. From left to right, a curve falls, passing through the origin, to a minimum at (0.7, negative 1.2), rises, passing through the point (1.3, negative 0.6), to a maximum at (2, 0), and falls. All coordinates are approximate.\nD.\n-15\n5\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 15 to 5 in increments of 1 and a vertical y-axis from negative 10 to 10 in increments of 1. From left to right, a curve falls to a minimum at (negative 2, 0), rises, passing through the point (negative 1.3, 0.6), to a maximum at (negative 0.7, 1.2), and falls passing through the origin. All coordinates are approximate.",
+    "fullText": "Part 1\nUse the graphing guidelines to make a complete graph of f.\nf(x) = x³ − 4x² + 4x\nPart 1\nChoose the correct graph below.\nA.\n-5\n15\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 5 to 15 in increments of 1 and a vertical y-axis from negative 10 to 10 in increments of 1. From left to right, a curve rises, passing through the origin, to a maximum at (0.7, 1.2), falls, passing through the point (1.3, 0.6), to a minimum at (2, 0), and rises. All coordinates are approximate.\nB.\n-5\n15\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 5 to 15 increments of 1 and a vertical y-axis from negative 10 to 10 in increments of 1. From left to right, a curve rises to a maximum at (0, 4), falls, passing through the point (1.3, negative 0.7), to a minimum at (2.7, negative 5.5), and rises. All coordinates are approximate.\nC.\n-5\n15\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 5 to 15 in increments of 1 and a vertical y-axis from negative 10 to 10 in increments of 1. From left to right, a curve falls, passing through the origin, to a minimum at (0.7, negative 1.2), rises, passing through the point (1.3, negative 0.6), to a maximum at (2, 0), and falls. All coordinates are approximate.\nD.\n-15\n5\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 15 to 5 in increments of 1 and a vertical y-axis from negative 10 to 10 in increments of 1. From left to right, a curve falls to a minimum at (negative 2, 0), rises, passing through the point (negative 1.3, 0.6), to a maximum at (negative 0.7, 1.2), and falls passing through the origin. All coordinates are approximate.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Use the graphing guidelines to make a complete graph of f.\nf(x) = x\u00b3 \u2212 4x\u00b2 + 4x"
+        "text": "Use the graphing guidelines to make a complete graph of f.\nf(x) = x³ − 4x² + 4x"
       },
       {
         "label": "Part 1",
@@ -2612,15 +2594,15 @@ const PROBLEMS = {
         "text": "-15\n5\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 15 to 5 in increments of 1 and a vertical y-axis from negative 10 to 10 in increments of 1. From left to right, a curve falls to a minimum at (negative 2, 0), rises, passing through the point (negative 1.3, 0.6), to a maximum at (negative 0.7, 1.2), and falls passing through the origin. All coordinates are approximate."
       }
     ],
-    "expr": "f(x) = x\u00b3 \u2212 4x\u00b2 + 4x"
+    "expr": "f(x) = x³ − 4x² + 4x"
   },
   "4.4.29": {
     "summary": "Use the graphing guidelines to make a complete graph of f.",
-    "fullText": "Part 1\nUse the graphing guidelines to make a complete graph of f.\nf(x) f(x) = 4 x/x\u00b2 \u2212 25\nPart 1\nChoose the correct graph below.\nA.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 10 to 10 in increments of 2. From left to right, a curve falls at an increasing rate below the x-axis, to a minimum at (negative 1.1, negative 1.8), rises, passing through the origin, to a maximum at (1.1, 1.8), then falls at a decreasing rate, approaching the x-axis from above. All coordinates are approximate.\nB.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 10 to 10 in increments of 2. A graph has three branches and asymptotes x = negative 5 and x = 5. The first branch is above the x-axis and to the left of x = negative 5, approaching both. The second branch rises from left to right between the asymptotes, passing through (0, 0). The third branch is below the x-axis and to the right of x = 5, approaching both. All coordinates are approximate.\nC.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 10 to 10 in increments of 2. From left to right, a curve rises at an increasing rate above the x-axis, to a maximum at (negative 1.1, 1.8), falls, passing through the origin, to a minimum at (1.1, negative 1.8), then rises at a decreasing rate, approaching the x-axis from below. All coordinates are approximate.\nD.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 10 to 10 in increments of 2. A graph has three branches and asymptotes x = negative 5 and x = 5. The first branch is below the x-axis and to the left of x = negative 5, approaching both. The second branch falls from left to right between the asymptotes, passing through (0, 0). The third branch is above the x-axis and to the right of x = 5, approaching both. All coordinates are approximate.",
+    "fullText": "Part 1\nUse the graphing guidelines to make a complete graph of f.\nf(x) f(x) = 4 x/x² − 25\nPart 1\nChoose the correct graph below.\nA.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 10 to 10 in increments of 2. From left to right, a curve falls at an increasing rate below the x-axis, to a minimum at (negative 1.1, negative 1.8), rises, passing through the origin, to a maximum at (1.1, 1.8), then falls at a decreasing rate, approaching the x-axis from above. All coordinates are approximate.\nB.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 10 to 10 in increments of 2. A graph has three branches and asymptotes x = negative 5 and x = 5. The first branch is above the x-axis and to the left of x = negative 5, approaching both. The second branch rises from left to right between the asymptotes, passing through (0, 0). The third branch is below the x-axis and to the right of x = 5, approaching both. All coordinates are approximate.\nC.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 10 to 10 in increments of 2. From left to right, a curve rises at an increasing rate above the x-axis, to a maximum at (negative 1.1, 1.8), falls, passing through the origin, to a minimum at (1.1, negative 1.8), then rises at a decreasing rate, approaching the x-axis from below. All coordinates are approximate.\nD.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 10 to 10 in increments of 2. A graph has three branches and asymptotes x = negative 5 and x = 5. The first branch is below the x-axis and to the left of x = negative 5, approaching both. The second branch falls from left to right between the asymptotes, passing through (0, 0). The third branch is above the x-axis and to the right of x = 5, approaching both. All coordinates are approximate.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Use the graphing guidelines to make a complete graph of f.\nf(x) f(x) = 4 x/x\u00b2 \u2212 25"
+        "text": "Use the graphing guidelines to make a complete graph of f.\nf(x) f(x) = 4 x/x² − 25"
       },
       {
         "label": "Part 1",
@@ -2647,11 +2629,11 @@ const PROBLEMS = {
   },
   "4.4.31": {
     "summary": "Use the graphing guidelines to make a complete graph of f.",
-    "fullText": "Part 1\nUse the graphing guidelines to make a complete graph of f.\nf(x) f(x) = x\u00b2/x + 6\nPart 1\nChoose the correct graph below.\nA.\n-12\n12\n-25\n25\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 12 to 12 in increments of 2 and a vertical y-axis labeled from negative 25 to 25 in increments of 5. A line passes through the points (negative 12, negative 8) and (12, 16). There is an open point on the line at (negative 6, negative 2). All coordinates are approximate.\nB.\n-12\n12\n-25\n25\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 12 to 12 in increments of 2 and a vertical y-axis labeled from negative 25 to 25 in increments of 5. A line passes through the points (negative 12, 8) and (12, negative 16). There is an open point on the line at (negative 6, 2). All coordinates are approximate.\nC.\n-20\n20\n-60\n60\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 20 to 20 in increments of 4 and a vertical y-axis labeled from negative 60 to 60 in increments of 12. A curve starts at (negative 20, 28.6), falls from left to right until reaching (negative 12, 24), and then rises from left to right until reaching the top of the graph at x = negative 6. A second curve starts at the bottom of the graph at x = negative 6, rises from left to right until reaching (0, 0), and then falls from left to right until reaching the edge graph at (20, negative 15.4). All coordinates are approximate.\nD.\n-20\n20\n-60\n60\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 20 to 20 in increments of 4 and a vertical y-axis labeled from negative 60 to 60 in increments of 12. A curve starts at (negative 20, negative 28.6), rises from left to right until reaching (negative 12, negative 24), and then falls from left to right until reaching the bottom of the graph at x = negative 6. A second curve starts at the top of the graph at x = negative 6, falls from left to right until reaching (0, 0), and then rises from left to right until reaching the edge of the graph at (20, 15.4). All coordinates are approximate.",
+    "fullText": "Part 1\nUse the graphing guidelines to make a complete graph of f.\nf(x) f(x) = x²/x + 6\nPart 1\nChoose the correct graph below.\nA.\n-12\n12\n-25\n25\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 12 to 12 in increments of 2 and a vertical y-axis labeled from negative 25 to 25 in increments of 5. A line passes through the points (negative 12, negative 8) and (12, 16). There is an open point on the line at (negative 6, negative 2). All coordinates are approximate.\nB.\n-12\n12\n-25\n25\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 12 to 12 in increments of 2 and a vertical y-axis labeled from negative 25 to 25 in increments of 5. A line passes through the points (negative 12, 8) and (12, negative 16). There is an open point on the line at (negative 6, 2). All coordinates are approximate.\nC.\n-20\n20\n-60\n60\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 20 to 20 in increments of 4 and a vertical y-axis labeled from negative 60 to 60 in increments of 12. A curve starts at (negative 20, 28.6), falls from left to right until reaching (negative 12, 24), and then rises from left to right until reaching the top of the graph at x = negative 6. A second curve starts at the bottom of the graph at x = negative 6, rises from left to right until reaching (0, 0), and then falls from left to right until reaching the edge graph at (20, negative 15.4). All coordinates are approximate.\nD.\n-20\n20\n-60\n60\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 20 to 20 in increments of 4 and a vertical y-axis labeled from negative 60 to 60 in increments of 12. A curve starts at (negative 20, negative 28.6), rises from left to right until reaching (negative 12, negative 24), and then falls from left to right until reaching the bottom of the graph at x = negative 6. A second curve starts at the top of the graph at x = negative 6, falls from left to right until reaching (0, 0), and then rises from left to right until reaching the edge of the graph at (20, 15.4). All coordinates are approximate.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Use the graphing guidelines to make a complete graph of f.\nf(x) f(x) = x\u00b2/x + 6"
+        "text": "Use the graphing guidelines to make a complete graph of f.\nf(x) f(x) = x²/x + 6"
       },
       {
         "label": "Part 1",
@@ -2678,11 +2660,11 @@ const PROBLEMS = {
   },
   "4.4.33": {
     "summary": "Use the guidelines to make a complete graph of f.",
-    "fullText": "Part 1\nUse the guidelines to make a complete graph of f.\nf(x) =\nx\u00b2 + 14\n2x + 1\nPart 1\nChoose the correct graph below.\nA.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 10 to 10 in increments of 2. A graph has two branches, a vertical asymptote at x = negative 0.5 and an asymptote that falls from left to right, passing through the points (negative 5, 2.8) and (5, negative 2.3). The first branch is below the asymptote that falls from left to right and to the left of x = negative 0.5, approaching both. The second branch is above the asymptote that falls from left to right and to the right of x = negative 0.5, approaching both. All coordinates are approximate.\nB.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 10 to 10 in increments of 2. A graph has two branches, a vertical asymptote at x = negative 0.5 and an asymptote that rises from left to right, passing through the points (negative 5, negative 2.8) and (5, 2.3). The first branch is below the asymptote that rises from left to right and to the left of x = negative 0.5, approaching both. The second branch is above the asymptote that rises from left to right and to the right of x = negative 0.5, approaching both. All coordinates are approximate.\nC.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 10 to 10 in increments of 2. A graph has two branches, a vertical asymptote at x = negative 0.5 and an asymptote that rises from left to right, passing through the points (negative 5, negative 2.8) and (5, 2.3). The first branch is above the asymptote that rises from left to right and to the left of x = negative 0.5, approaching both. The second branch is below the asymptote that rises from left to right and to the right of x = negative 0.5, approaching both. All coordinates are approximate.\nD.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 10 to 10 in increments of 2. A graph has two branches, a vertical asymptote at x = negative 0.5 and an asymptote that falls from left to right, passing through the points (negative 5, 2.8) and (5, negative 2.3). The first branch is above the asymptote that falls from left to right and to the left of x = negative 0.5, approaching both. The second branch is below the asymptote that falls from left to right and to the right of x = negative 0.5, approaching both. All coordinates are approximate.",
+    "fullText": "Part 1\nUse the guidelines to make a complete graph of f.\nf(x) =\nx² + 14\n2x + 1\nPart 1\nChoose the correct graph below.\nA.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 10 to 10 in increments of 2. A graph has two branches, a vertical asymptote at x = negative 0.5 and an asymptote that falls from left to right, passing through the points (negative 5, 2.8) and (5, negative 2.3). The first branch is below the asymptote that falls from left to right and to the left of x = negative 0.5, approaching both. The second branch is above the asymptote that falls from left to right and to the right of x = negative 0.5, approaching both. All coordinates are approximate.\nB.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 10 to 10 in increments of 2. A graph has two branches, a vertical asymptote at x = negative 0.5 and an asymptote that rises from left to right, passing through the points (negative 5, negative 2.8) and (5, 2.3). The first branch is below the asymptote that rises from left to right and to the left of x = negative 0.5, approaching both. The second branch is above the asymptote that rises from left to right and to the right of x = negative 0.5, approaching both. All coordinates are approximate.\nC.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 10 to 10 in increments of 2. A graph has two branches, a vertical asymptote at x = negative 0.5 and an asymptote that rises from left to right, passing through the points (negative 5, negative 2.8) and (5, 2.3). The first branch is above the asymptote that rises from left to right and to the left of x = negative 0.5, approaching both. The second branch is below the asymptote that rises from left to right and to the right of x = negative 0.5, approaching both. All coordinates are approximate.\nD.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 10 to 10 in increments of 2. A graph has two branches, a vertical asymptote at x = negative 0.5 and an asymptote that falls from left to right, passing through the points (negative 5, 2.8) and (5, negative 2.3). The first branch is above the asymptote that falls from left to right and to the left of x = negative 0.5, approaching both. The second branch is below the asymptote that falls from left to right and to the right of x = negative 0.5, approaching both. All coordinates are approximate.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Use the guidelines to make a complete graph of f.\nf(x) =\nx\u00b2 + 14\n2x + 1"
+        "text": "Use the guidelines to make a complete graph of f.\nf(x) =\nx² + 14\n2x + 1"
       },
       {
         "label": "Part 1",
@@ -2739,12 +2721,12 @@ const PROBLEMS = {
     "expr": "f(x) = x"
   },
   "4.4.49-T": {
-    "summary": "Make a complete graph of the following function. A graphing utility is useful in locating i\u2026",
-    "fullText": "Part 1\nMake a complete graph of the following function. A graphing utility is useful in locating intercepts, local extreme values, and inflection points.\nf(x) =\n(1 , 3)\nx\u00b3 + 2x\u00b2 + 3x + 1\nPart 1\nChoose the correct graph below.\nA.\n-4\n9\n-10\n20\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 4 to 9 in increments of 1 and a vertical y-axis labeled from negative 10 to 20 in increments of 5. From left to right, a curve falls at a decreasing rate to a minimum at (0, negative 1), rises to a maximum at (4, 9.7), and falls at an increasing rate. The curve crosses the x-axis at negative 0.7, 0.8, and 5.9. All coordinates are approximate.\nB.\n-8\n4\n-30\n20\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 8 to 4 in increments of 2 and a vertical y-axis labeled from negative 30 to 20 in increments of 5. From left to right, a curve falls at a decreasing rate to a minimum at (negative 3, negative 1), rises to a maximum at (negative 1, 0.3), and falls at an increasing rate. The curve crosses the x-axis at negative 3.9, negative 1.7 and minus 0.5. All coordinates are approximate.\nC.\n-8\n4\n-20\n30\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 8 to 4 in increments of 2 and a vertical y-axis labeled from negative 20 to 30 in increments of 5. From left to right, a curve rises at a decreasing rate to a maximum at (negative 3, 1), falls to a minimum at (negative 1, negative 0.3), and rises at an increasing rate. The curve crosses the x-axis at negative 3.9, negative 1.7 and minus 0.5. All coordinates are approximate.\nD.\n-4\n9\n-20\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 4 to 9 in increments of 1 and a vertical y-axis labeled from negative 20 to 10 in increments of 5. From left to right, a curve rises at a decreasing rate to a maximum at (0, 1), falls to a minimum at (4, negative 9.7), and rises at an increasing rate. The curve crosses the x-axis at negative 0.7, 0.8, and 5.9. All coordinates are approximate.",
+    "summary": "Make a complete graph of the following function. A graphing utility is useful in locating i…",
+    "fullText": "Part 1\nMake a complete graph of the following function. A graphing utility is useful in locating intercepts, local extreme values, and inflection points.\nf(x) =\n(1 , 3)\nx³ + 2x² + 3x + 1\nPart 1\nChoose the correct graph below.\nA.\n-4\n9\n-10\n20\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 4 to 9 in increments of 1 and a vertical y-axis labeled from negative 10 to 20 in increments of 5. From left to right, a curve falls at a decreasing rate to a minimum at (0, negative 1), rises to a maximum at (4, 9.7), and falls at an increasing rate. The curve crosses the x-axis at negative 0.7, 0.8, and 5.9. All coordinates are approximate.\nB.\n-8\n4\n-30\n20\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 8 to 4 in increments of 2 and a vertical y-axis labeled from negative 30 to 20 in increments of 5. From left to right, a curve falls at a decreasing rate to a minimum at (negative 3, negative 1), rises to a maximum at (negative 1, 0.3), and falls at an increasing rate. The curve crosses the x-axis at negative 3.9, negative 1.7 and minus 0.5. All coordinates are approximate.\nC.\n-8\n4\n-20\n30\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 8 to 4 in increments of 2 and a vertical y-axis labeled from negative 20 to 30 in increments of 5. From left to right, a curve rises at a decreasing rate to a maximum at (negative 3, 1), falls to a minimum at (negative 1, negative 0.3), and rises at an increasing rate. The curve crosses the x-axis at negative 3.9, negative 1.7 and minus 0.5. All coordinates are approximate.\nD.\n-4\n9\n-20\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 4 to 9 in increments of 1 and a vertical y-axis labeled from negative 20 to 10 in increments of 5. From left to right, a curve rises at a decreasing rate to a maximum at (0, 1), falls to a minimum at (4, negative 9.7), and rises at an increasing rate. The curve crosses the x-axis at negative 0.7, 0.8, and 5.9. All coordinates are approximate.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Make a complete graph of the following function. A graphing utility is useful in locating intercepts, local extreme values, and inflection points.\nf(x) =\n(1 , 3)\nx\u00b3 + 2x\u00b2 + 3x + 1"
+        "text": "Make a complete graph of the following function. A graphing utility is useful in locating intercepts, local extreme values, and inflection points.\nf(x) =\n(1 , 3)\nx³ + 2x² + 3x + 1"
       },
       {
         "label": "Part 1",
@@ -2770,12 +2752,12 @@ const PROBLEMS = {
     "expr": "f(x) ="
   },
   "4.4.53-T": {
-    "summary": "Make a complete graph of the following function. A graphing utility is useful in locating i\u2026",
-    "fullText": "Part 1\nMake a complete graph of the following function. A graphing utility is useful in locating intercepts, local extreme values, and inflection points.\nf(x) =\n5x \u2212 4\nx\u00b2 \u2212 1\nPart 1\nChoose the correct graph below.\nA.\n-6\n6\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 6 to 6 in increments of 2 and a vertical y-axis labeled from negative 10 to 10 in increments of 2. A curve has three branches and two vertical asymptotes at x = negative 1 and x = 1. One branch is to the left of x = negative 1 and above the x-axis, approaching both. The second branch is between the asymptotes and rises from left to right at a decreasing rate to the point (0, negative 4), then rises at an increasing rate approaching x = 1. The third branch is to the right of x = 1 and below the x axis, approaching both. The second branch of the curve crosses the x-axis at approximately 0.8.\nB.\n-6\n6\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from \u2212 6 to 6 in increments of 2 and a vertical y-axis labeled from \u2212 10 to 10 in increments of 2. A curve has three branches and two vertical asymptotes at x = \u2212 1 and x = 1. One branch rises at a decreasing rate to a maximum and falls at an increasing rate , approaching the asymptote at x = \u2212 1. The second branch is between the asymptotes and rises from left to right at a decreasing rate to the point (0 , 4) , then rises at an increasing rate approaching x = 1. The third branch is to the right of x = 1 and below the x-axis , approaching both. The second branch of the curve crosses the x-axis at approximately \u2212 0.8.\nC.\n-6\n6\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from \u2212 6 to 6 in increments of 2 and a vertical y-axis labeled from \u2212 10 to 10 in increments of 2. A curve has three branches and two vertical asymptotes at x = \u2212 1 and x = 1. One branch is to the left of x = \u2212 1 and below the x axis , approaching both. The second branch is between the asymptotes and falls from left to right at a decreasing rate to the point (0 , \u2212 4) , then falls at an increasing rate approaching x = 1. The third branch is to the right of x = 1 and above the x-axis , approaching both. The second branch of the curve crosses the x-axis at approximately \u2212 0.8.\nD.\n-6\n6\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 6 to 6 in increments of 2 and a vertical y-axis labeled from negative 10 to 10 in increments of 2. A curve has three branches and two vertical asymptotes at x = negative 1 and x = 1. One branch is to the left of x = negative 1 and below the x-axis, approaching both. The second branch is between the asymptotes and falls from left to right at a decreasing rate to the point (0, 4), then falls at an increasing rate approaching x = 1. The third branch is to the right of x = 1 and above the x axis, approaching both. The second branch of the curve crosses the x-axis at approximately 0.8.",
+    "summary": "Make a complete graph of the following function. A graphing utility is useful in locating i…",
+    "fullText": "Part 1\nMake a complete graph of the following function. A graphing utility is useful in locating intercepts, local extreme values, and inflection points.\nf(x) =\n5x − 4\nx² − 1\nPart 1\nChoose the correct graph below.\nA.\n-6\n6\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 6 to 6 in increments of 2 and a vertical y-axis labeled from negative 10 to 10 in increments of 2. A curve has three branches and two vertical asymptotes at x = negative 1 and x = 1. One branch is to the left of x = negative 1 and above the x-axis, approaching both. The second branch is between the asymptotes and rises from left to right at a decreasing rate to the point (0, negative 4), then rises at an increasing rate approaching x = 1. The third branch is to the right of x = 1 and below the x axis, approaching both. The second branch of the curve crosses the x-axis at approximately 0.8.\nB.\n-6\n6\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from − 6 to 6 in increments of 2 and a vertical y-axis labeled from − 10 to 10 in increments of 2. A curve has three branches and two vertical asymptotes at x = − 1 and x = 1. One branch rises at a decreasing rate to a maximum and falls at an increasing rate , approaching the asymptote at x = − 1. The second branch is between the asymptotes and rises from left to right at a decreasing rate to the point (0 , 4) , then rises at an increasing rate approaching x = 1. The third branch is to the right of x = 1 and below the x-axis , approaching both. The second branch of the curve crosses the x-axis at approximately − 0.8.\nC.\n-6\n6\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from − 6 to 6 in increments of 2 and a vertical y-axis labeled from − 10 to 10 in increments of 2. A curve has three branches and two vertical asymptotes at x = − 1 and x = 1. One branch is to the left of x = − 1 and below the x axis , approaching both. The second branch is between the asymptotes and falls from left to right at a decreasing rate to the point (0 , − 4) , then falls at an increasing rate approaching x = 1. The third branch is to the right of x = 1 and above the x-axis , approaching both. The second branch of the curve crosses the x-axis at approximately − 0.8.\nD.\n-6\n6\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 6 to 6 in increments of 2 and a vertical y-axis labeled from negative 10 to 10 in increments of 2. A curve has three branches and two vertical asymptotes at x = negative 1 and x = 1. One branch is to the left of x = negative 1 and below the x-axis, approaching both. The second branch is between the asymptotes and falls from left to right at a decreasing rate to the point (0, 4), then falls at an increasing rate approaching x = 1. The third branch is to the right of x = 1 and above the x axis, approaching both. The second branch of the curve crosses the x-axis at approximately 0.8.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Make a complete graph of the following function. A graphing utility is useful in locating intercepts, local extreme values, and inflection points.\nf(x) =\n5x \u2212 4\nx\u00b2 \u2212 1"
+        "text": "Make a complete graph of the following function. A graphing utility is useful in locating intercepts, local extreme values, and inflection points.\nf(x) =\n5x − 4\nx² − 1"
       },
       {
         "label": "Part 1",
@@ -2787,11 +2769,11 @@ const PROBLEMS = {
       },
       {
         "label": "B.",
-        "text": "-6\n6\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from \u2212 6 to 6 in increments of 2 and a vertical y-axis labeled from \u2212 10 to 10 in increments of 2. A curve has three branches and two vertical asymptotes at x = \u2212 1 and x = 1. One branch rises at a decreasing rate to a maximum and falls at an increasing rate , approaching the asymptote at x = \u2212 1. The second branch is between the asymptotes and rises from left to right at a decreasing rate to the point (0 , 4) , then rises at an increasing rate approaching x = 1. The third branch is to the right of x = 1 and below the x-axis , approaching both. The second branch of the curve crosses the x-axis at approximately \u2212 0.8."
+        "text": "-6\n6\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from − 6 to 6 in increments of 2 and a vertical y-axis labeled from − 10 to 10 in increments of 2. A curve has three branches and two vertical asymptotes at x = − 1 and x = 1. One branch rises at a decreasing rate to a maximum and falls at an increasing rate , approaching the asymptote at x = − 1. The second branch is between the asymptotes and rises from left to right at a decreasing rate to the point (0 , 4) , then rises at an increasing rate approaching x = 1. The third branch is to the right of x = 1 and below the x-axis , approaching both. The second branch of the curve crosses the x-axis at approximately − 0.8."
       },
       {
         "label": "C.",
-        "text": "-6\n6\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from \u2212 6 to 6 in increments of 2 and a vertical y-axis labeled from \u2212 10 to 10 in increments of 2. A curve has three branches and two vertical asymptotes at x = \u2212 1 and x = 1. One branch is to the left of x = \u2212 1 and below the x axis , approaching both. The second branch is between the asymptotes and falls from left to right at a decreasing rate to the point (0 , \u2212 4) , then falls at an increasing rate approaching x = 1. The third branch is to the right of x = 1 and above the x-axis , approaching both. The second branch of the curve crosses the x-axis at approximately \u2212 0.8."
+        "text": "-6\n6\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from − 6 to 6 in increments of 2 and a vertical y-axis labeled from − 10 to 10 in increments of 2. A curve has three branches and two vertical asymptotes at x = − 1 and x = 1. One branch is to the left of x = − 1 and below the x axis , approaching both. The second branch is between the asymptotes and falls from left to right at a decreasing rate to the point (0 , − 4) , then falls at an increasing rate approaching x = 1. The third branch is to the right of x = 1 and above the x-axis , approaching both. The second branch of the curve crosses the x-axis at approximately − 0.8."
       },
       {
         "label": "D.",
@@ -2801,16 +2783,16 @@ const PROBLEMS = {
     "expr": "f(x) ="
   },
   "4.7.106": {
-    "summary": "Make a complete graph of the following function. If an interval is not specified, graph the\u2026",
-    "fullText": "Part 1\nMake a complete graph of the following function. If an interval is not specified, graph the function on its domain. Use a graphing utility to check your work.\nf(x) f(x) = 5 x\u00b2 Bold ln (3 x) 5x\u00b2ln(3x)\nPart 1\nWhat is the correct graph of\nf(x) f(x) = 5 x\u00b2 Bold ln (3 x) 5x\u00b2ln(3x)? A. -4 4 -4 4 x y A coordinate system has a horizontal x-axis labeled from negative 4 to 4 in increments of 1 and a vertical y-axis labeled from negative 4 to 4 in increments of 1. From left to right , a curve starts at the origin , falls at a decreasing rate to a minimum at (0.2 , negative 0.1) and rises , crossing the x-axis at (0.3 , 0). B. -4 4 -4 4 x y A coordinate system has a horizontal x-axis labeled from negative 4 to 4 in increments of 1 and a vertical y-axis labeled from negative 4 to 4 in increments of 1. A parabola that opens upward has vertex (0.2 , 0) and passes through the points (0 , 0) and (0.3 , 0). C. -4 4 -4 4 x y A coordinate system has a horizontal x-axis labeled from negative 4 to 4 in increments of 1 and a vertical y-axis labeled from negative 4 to 4 in increments of 1. A parabola that opens downward has vertex (0.2 , 0) and passes through the points (0 , 0) and (0.3 , 0). D. -4 4 -4 4 x y A coordinate system has a horizontal x-axis labeled from negative 4 to 4 in increments of 1 and a vertical y-axis labeled from negative 4 to 4 in increments of 1. From left to right , a curve starts at the origin , rises at a decreasing rate to a maximum at (0.2 , 0.1) and falls , crossing the x-axis at (0.3 , 0).",
+    "summary": "Make a complete graph of the following function. If an interval is not specified, graph the…",
+    "fullText": "Part 1\nMake a complete graph of the following function. If an interval is not specified, graph the function on its domain. Use a graphing utility to check your work.\nf(x) f(x) = 5 x² Bold ln (3 x) 5x²ln(3x)\nPart 1\nWhat is the correct graph of\nf(x) f(x) = 5 x² Bold ln (3 x) 5x²ln(3x)? A. -4 4 -4 4 x y A coordinate system has a horizontal x-axis labeled from negative 4 to 4 in increments of 1 and a vertical y-axis labeled from negative 4 to 4 in increments of 1. From left to right , a curve starts at the origin , falls at a decreasing rate to a minimum at (0.2 , negative 0.1) and rises , crossing the x-axis at (0.3 , 0). B. -4 4 -4 4 x y A coordinate system has a horizontal x-axis labeled from negative 4 to 4 in increments of 1 and a vertical y-axis labeled from negative 4 to 4 in increments of 1. A parabola that opens upward has vertex (0.2 , 0) and passes through the points (0 , 0) and (0.3 , 0). C. -4 4 -4 4 x y A coordinate system has a horizontal x-axis labeled from negative 4 to 4 in increments of 1 and a vertical y-axis labeled from negative 4 to 4 in increments of 1. A parabola that opens downward has vertex (0.2 , 0) and passes through the points (0 , 0) and (0.3 , 0). D. -4 4 -4 4 x y A coordinate system has a horizontal x-axis labeled from negative 4 to 4 in increments of 1 and a vertical y-axis labeled from negative 4 to 4 in increments of 1. From left to right , a curve starts at the origin , rises at a decreasing rate to a maximum at (0.2 , 0.1) and falls , crossing the x-axis at (0.3 , 0).",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Make a complete graph of the following function. If an interval is not specified, graph the function on its domain. Use a graphing utility to check your work.\nf(x) f(x) = 5 x\u00b2 Bold ln (3 x) 5x\u00b2ln(3x)"
+        "text": "Make a complete graph of the following function. If an interval is not specified, graph the function on its domain. Use a graphing utility to check your work.\nf(x) f(x) = 5 x² Bold ln (3 x) 5x²ln(3x)"
       },
       {
         "label": "Part 1",
-        "text": "What is the correct graph of\nf(x) f(x) = 5 x\u00b2 Bold ln (3 x) 5x\u00b2ln(3x)?"
+        "text": "What is the correct graph of\nf(x) f(x) = 5 x² Bold ln (3 x) 5x²ln(3x)?"
       },
       {
         "label": "A.",
@@ -2832,11 +2814,11 @@ const PROBLEMS = {
   },
   "4.4.43": {
     "summary": "Use the graphing guidelines to make a complete graph of f.",
-    "fullText": "Part 1\nUse the graphing guidelines to make a complete graph of f.\nf(x) = 4e \u2212 xsinx on\n[\u2212 \u03c0 , \u03c0]\n[\u2212\u03c0,\u00a0\u03c0]\nPart 1\nChoose the correct graph.\nA.\n-32\n32\nx\ny\nnegative pi\n\u2212 \u03c0\npi\n\u03c0\nA coordinate system has a horizontal x-axis labeled from \u2212 \u03c0 to \u03c0 in increments of \u03c0/4 and a vertical y-axis labeled from \u2212 32 to 32 in increments of 8. From left to right , a curve starts at (\u2212 \u03c0 , 0) , rises to a maximum at (\u2212 \u03c0/4 , 1.3) , falls to a minimum at (3 \u03c0/4 , \u2212 29.8) , and rises to the point (\u03c0 , 0). All coordinates are approximate.\nB.\n-32\n32\nx\ny\nnegative pi\n\u2212 \u03c0\npi\n\u03c0\nA coordinate system has a horizontal x-axis labeled from \u2212 \u03c0 to \u03c0 in increments of \u03c0/4 and a vertical y-axis labeled from \u2212 32 to 32 in increments of 8. From left to right , a curve starts at (\u2212 \u03c0 , 0) , rises to a maximum at (\u2212 3 \u03c0/4 , 29.8) , falls to a minimum at (\u03c0/4 , \u2212 1.3) , and rises to the point (\u03c0 , 0). All coordinates are approximate.\nC.\n-32\n32\nx\ny\nnegative pi\n\u2212 \u03c0\npi\n\u03c0\nA coordinate system has a horizontal x-axis labeled from \u2212 \u03c0 to \u03c0 in increments of \u03c0/4 and a vertical y-axis labeled from \u2212 32 to 32 in increments of 8. From left to right , a curve starts at (\u2212 \u03c0 , 0) , falls to a minimum at (\u2212 \u03c0/4 , \u2212 1.3) , rises to a maximum at (3 \u03c0/4 , 29.8) , and falls to the point (\u03c0 , 0). All coordinates are approximate.\nD.\n-32\n32\nx\ny\nnegative pi\n\u2212 \u03c0\npi\n\u03c0\nA coordinate system has a horizontal x-axis labeled from \u2212 \u03c0 to \u03c0 in increments of \u03c0/4 and a vertical y-axis labeled from \u2212 32 to 32 in increments of 8. From left to right , a curve starts at (\u2212 \u03c0 , 0) , falls to a minimum at (\u2212 3 \u03c0/4 , \u2212 29.8) , rises to a maximum at (\u03c0/4 , 1.3) , and falls to the point (\u03c0 , 0). All coordinates are approximate.",
+    "fullText": "Part 1\nUse the graphing guidelines to make a complete graph of f.\nf(x) = 4e − xsinx on\n[− π , π]\n[−π, π]\nPart 1\nChoose the correct graph.\nA.\n-32\n32\nx\ny\nnegative pi\n− π\npi\nπ\nA coordinate system has a horizontal x-axis labeled from − π to π in increments of π/4 and a vertical y-axis labeled from − 32 to 32 in increments of 8. From left to right , a curve starts at (− π , 0) , rises to a maximum at (− π/4 , 1.3) , falls to a minimum at (3 π/4 , − 29.8) , and rises to the point (π , 0). All coordinates are approximate.\nB.\n-32\n32\nx\ny\nnegative pi\n− π\npi\nπ\nA coordinate system has a horizontal x-axis labeled from − π to π in increments of π/4 and a vertical y-axis labeled from − 32 to 32 in increments of 8. From left to right , a curve starts at (− π , 0) , rises to a maximum at (− 3 π/4 , 29.8) , falls to a minimum at (π/4 , − 1.3) , and rises to the point (π , 0). All coordinates are approximate.\nC.\n-32\n32\nx\ny\nnegative pi\n− π\npi\nπ\nA coordinate system has a horizontal x-axis labeled from − π to π in increments of π/4 and a vertical y-axis labeled from − 32 to 32 in increments of 8. From left to right , a curve starts at (− π , 0) , falls to a minimum at (− π/4 , − 1.3) , rises to a maximum at (3 π/4 , 29.8) , and falls to the point (π , 0). All coordinates are approximate.\nD.\n-32\n32\nx\ny\nnegative pi\n− π\npi\nπ\nA coordinate system has a horizontal x-axis labeled from − π to π in increments of π/4 and a vertical y-axis labeled from − 32 to 32 in increments of 8. From left to right , a curve starts at (− π , 0) , falls to a minimum at (− 3 π/4 , − 29.8) , rises to a maximum at (π/4 , 1.3) , and falls to the point (π , 0). All coordinates are approximate.",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Use the graphing guidelines to make a complete graph of f.\nf(x) = 4e \u2212 xsinx on\n[\u2212 \u03c0 , \u03c0]\n[\u2212\u03c0,\u00a0\u03c0]"
+        "text": "Use the graphing guidelines to make a complete graph of f.\nf(x) = 4e − xsinx on\n[− π , π]\n[−π, π]"
       },
       {
         "label": "Part 1",
@@ -2844,26 +2826,26 @@ const PROBLEMS = {
       },
       {
         "label": "A.",
-        "text": "-32\n32\nx\ny\nnegative pi\n\u2212 \u03c0\npi\n\u03c0\nA coordinate system has a horizontal x-axis labeled from \u2212 \u03c0 to \u03c0 in increments of \u03c0/4 and a vertical y-axis labeled from \u2212 32 to 32 in increments of 8. From left to right , a curve starts at (\u2212 \u03c0 , 0) , rises to a maximum at (\u2212 \u03c0/4 , 1.3) , falls to a minimum at (3 \u03c0/4 , \u2212 29.8) , and rises to the point (\u03c0 , 0). All coordinates are approximate."
+        "text": "-32\n32\nx\ny\nnegative pi\n− π\npi\nπ\nA coordinate system has a horizontal x-axis labeled from − π to π in increments of π/4 and a vertical y-axis labeled from − 32 to 32 in increments of 8. From left to right , a curve starts at (− π , 0) , rises to a maximum at (− π/4 , 1.3) , falls to a minimum at (3 π/4 , − 29.8) , and rises to the point (π , 0). All coordinates are approximate."
       },
       {
         "label": "B.",
-        "text": "-32\n32\nx\ny\nnegative pi\n\u2212 \u03c0\npi\n\u03c0\nA coordinate system has a horizontal x-axis labeled from \u2212 \u03c0 to \u03c0 in increments of \u03c0/4 and a vertical y-axis labeled from \u2212 32 to 32 in increments of 8. From left to right , a curve starts at (\u2212 \u03c0 , 0) , rises to a maximum at (\u2212 3 \u03c0/4 , 29.8) , falls to a minimum at (\u03c0/4 , \u2212 1.3) , and rises to the point (\u03c0 , 0). All coordinates are approximate."
+        "text": "-32\n32\nx\ny\nnegative pi\n− π\npi\nπ\nA coordinate system has a horizontal x-axis labeled from − π to π in increments of π/4 and a vertical y-axis labeled from − 32 to 32 in increments of 8. From left to right , a curve starts at (− π , 0) , rises to a maximum at (− 3 π/4 , 29.8) , falls to a minimum at (π/4 , − 1.3) , and rises to the point (π , 0). All coordinates are approximate."
       },
       {
         "label": "C.",
-        "text": "-32\n32\nx\ny\nnegative pi\n\u2212 \u03c0\npi\n\u03c0\nA coordinate system has a horizontal x-axis labeled from \u2212 \u03c0 to \u03c0 in increments of \u03c0/4 and a vertical y-axis labeled from \u2212 32 to 32 in increments of 8. From left to right , a curve starts at (\u2212 \u03c0 , 0) , falls to a minimum at (\u2212 \u03c0/4 , \u2212 1.3) , rises to a maximum at (3 \u03c0/4 , 29.8) , and falls to the point (\u03c0 , 0). All coordinates are approximate."
+        "text": "-32\n32\nx\ny\nnegative pi\n− π\npi\nπ\nA coordinate system has a horizontal x-axis labeled from − π to π in increments of π/4 and a vertical y-axis labeled from − 32 to 32 in increments of 8. From left to right , a curve starts at (− π , 0) , falls to a minimum at (− π/4 , − 1.3) , rises to a maximum at (3 π/4 , 29.8) , and falls to the point (π , 0). All coordinates are approximate."
       },
       {
         "label": "D.",
-        "text": "-32\n32\nx\ny\nnegative pi\n\u2212 \u03c0\npi\n\u03c0\nA coordinate system has a horizontal x-axis labeled from \u2212 \u03c0 to \u03c0 in increments of \u03c0/4 and a vertical y-axis labeled from \u2212 32 to 32 in increments of 8. From left to right , a curve starts at (\u2212 \u03c0 , 0) , falls to a minimum at (\u2212 3 \u03c0/4 , \u2212 29.8) , rises to a maximum at (\u03c0/4 , 1.3) , and falls to the point (\u03c0 , 0). All coordinates are approximate."
+        "text": "-32\n32\nx\ny\nnegative pi\n− π\npi\nπ\nA coordinate system has a horizontal x-axis labeled from − π to π in increments of π/4 and a vertical y-axis labeled from − 32 to 32 in increments of 8. From left to right , a curve starts at (− π , 0) , falls to a minimum at (− 3 π/4 , − 29.8) , rises to a maximum at (π/4 , 1.3) , and falls to the point (π , 0). All coordinates are approximate."
       }
     ],
-    "expr": "f(x) = 4e \u2212 xsinx on"
+    "expr": "f(x) = 4e − xsinx on"
   },
   "4.4.99": {
     "summary": "Sketch the graph of a twice-differentiable function y",
-    "fullText": "*11.\nPart 1\nSketch the graph of a twice-differentiable function y\n= f(x) with the properties given in the table.\nx\ny\nDerivatives\nx\nless than\n<\n3\ny prime\ny\u2032\ngreater than\n>0,\ny double prime\ny\u2032\u2032\nless than\n<0\n(3 , 7)\ny prime\ny\u2032\n= 0 ,\ny double prime\ny\u2032\u2032\nless than\n<0\n3\nless than\n<x\nless than\n<\n6\ny prime\ny\u2032\nless than\n<0,\ny double prime\ny\u2032\u2032\nless than\n<0\n(6 , 4)\ny prime\ny\u2032\nless than\n<0,\ny double prime\ny\u2032\u2032\n= 0\n6\nless than\n<x\nless than\n<\n9\ny prime\ny\u2032\nless than\n<0,\ny double prime\ny\u2032\u2032\ngreater than\n>0\n(9 , 1)\ny prime\ny\u2032\n= 0 ,\ny double prime\ny\u2032\u2032\ngreater than\n>0\nx\ngreater than\n>\n9\ny prime\ny\u2032\ngreater than\n>0,\ny double prime\ny\u2032\u2032\ngreater than\n>0\nPart 1\nChoose the correct graph below.\nA.\n(3 , 9)\nnegative 3\n\u2212 3\nnegative 6\n\u2212 6\nnegative 9\n\u2212 9\n(6 , 4)\nx\ny\nB.\n(3 , 9)\nnegative 3\n\u2212 3\nnegative 6\n\u2212 6\nnegative 9\n\u2212 9\n(6 , 4)\nx\ny\nC.\n(3 , 9)\nnegative 3\n\u2212 3\nnegative 6\n\u2212 6\nnegative 9\n\u2212 9\n(6 , 1)\nx\ny",
+    "fullText": "*11.\nPart 1\nSketch the graph of a twice-differentiable function y\n= f(x) with the properties given in the table.\nx\ny\nDerivatives\nx\nless than\n<\n3\ny prime\ny′\ngreater than\n>0,\ny double prime\ny′′\nless than\n<0\n(3 , 7)\ny prime\ny′\n= 0 ,\ny double prime\ny′′\nless than\n<0\n3\nless than\n<x\nless than\n<\n6\ny prime\ny′\nless than\n<0,\ny double prime\ny′′\nless than\n<0\n(6 , 4)\ny prime\ny′\nless than\n<0,\ny double prime\ny′′\n= 0\n6\nless than\n<x\nless than\n<\n9\ny prime\ny′\nless than\n<0,\ny double prime\ny′′\ngreater than\n>0\n(9 , 1)\ny prime\ny′\n= 0 ,\ny double prime\ny′′\ngreater than\n>0\nx\ngreater than\n>\n9\ny prime\ny′\ngreater than\n>0,\ny double prime\ny′′\ngreater than\n>0\nPart 1\nChoose the correct graph below.\nA.\n(3 , 9)\nnegative 3\n− 3\nnegative 6\n− 6\nnegative 9\n− 9\n(6 , 4)\nx\ny\nB.\n(3 , 9)\nnegative 3\n− 3\nnegative 6\n− 6\nnegative 9\n− 9\n(6 , 4)\nx\ny\nC.\n(3 , 9)\nnegative 3\n− 3\nnegative 6\n− 6\nnegative 9\n− 9\n(6 , 1)\nx\ny",
     "parts": [
       {
         "label": "Problem",
@@ -2871,7 +2853,7 @@ const PROBLEMS = {
       },
       {
         "label": "Part 1",
-        "text": "Sketch the graph of a twice-differentiable function y\n= f(x) with the properties given in the table.\nx\ny\nDerivatives\nx\nless than\n<\n3\ny prime\ny\u2032\ngreater than\n>0,\ny double prime\ny\u2032\u2032\nless than\n<0\n(3 , 7)\ny prime\ny\u2032\n= 0 ,\ny double prime\ny\u2032\u2032\nless than\n<0\n3\nless than\n<x\nless than\n<\n6\ny prime\ny\u2032\nless than\n<0,\ny double prime\ny\u2032\u2032\nless than\n<0\n(6 , 4)\ny prime\ny\u2032\nless than\n<0,\ny double prime\ny\u2032\u2032\n= 0\n6\nless than\n<x\nless than\n<\n9\ny prime\ny\u2032\nless than\n<0,\ny double prime\ny\u2032\u2032\ngreater than\n>0\n(9 , 1)\ny prime\ny\u2032\n= 0 ,\ny double prime\ny\u2032\u2032\ngreater than\n>0\nx\ngreater than\n>\n9\ny prime\ny\u2032\ngreater than\n>0,\ny double prime\ny\u2032\u2032\ngreater than\n>0"
+        "text": "Sketch the graph of a twice-differentiable function y\n= f(x) with the properties given in the table.\nx\ny\nDerivatives\nx\nless than\n<\n3\ny prime\ny′\ngreater than\n>0,\ny double prime\ny′′\nless than\n<0\n(3 , 7)\ny prime\ny′\n= 0 ,\ny double prime\ny′′\nless than\n<0\n3\nless than\n<x\nless than\n<\n6\ny prime\ny′\nless than\n<0,\ny double prime\ny′′\nless than\n<0\n(6 , 4)\ny prime\ny′\nless than\n<0,\ny double prime\ny′′\n= 0\n6\nless than\n<x\nless than\n<\n9\ny prime\ny′\nless than\n<0,\ny double prime\ny′′\ngreater than\n>0\n(9 , 1)\ny prime\ny′\n= 0 ,\ny double prime\ny′′\ngreater than\n>0\nx\ngreater than\n>\n9\ny prime\ny′\ngreater than\n>0,\ny double prime\ny′′\ngreater than\n>0"
       },
       {
         "label": "Part 1",
@@ -2879,22 +2861,22 @@ const PROBLEMS = {
       },
       {
         "label": "A.",
-        "text": "(3 , 9)\nnegative 3\n\u2212 3\nnegative 6\n\u2212 6\nnegative 9\n\u2212 9\n(6 , 4)\nx\ny"
+        "text": "(3 , 9)\nnegative 3\n− 3\nnegative 6\n− 6\nnegative 9\n− 9\n(6 , 4)\nx\ny"
       },
       {
         "label": "B.",
-        "text": "(3 , 9)\nnegative 3\n\u2212 3\nnegative 6\n\u2212 6\nnegative 9\n\u2212 9\n(6 , 4)\nx\ny"
+        "text": "(3 , 9)\nnegative 3\n− 3\nnegative 6\n− 6\nnegative 9\n− 9\n(6 , 4)\nx\ny"
       },
       {
         "label": "C.",
-        "text": "(3 , 9)\nnegative 3\n\u2212 3\nnegative 6\n\u2212 6\nnegative 9\n\u2212 9\n(6 , 1)\nx\ny"
+        "text": "(3 , 9)\nnegative 3\n− 3\nnegative 6\n− 6\nnegative 9\n− 9\n(6 , 1)\nx\ny"
       }
     ],
     "expr": "= f(x) with the properties given in the table."
   },
   "4.4.100": {
     "summary": "Sketch the graph of a twice-differentiable function y",
-    "fullText": "*12.\nPart 1\nSketch the graph of a twice-differentiable function y\nf(x) f(x) that passes through the points ((8 , 0) , ((4 , 1) 0) and whose first two derivatives have the following sign patterns. y prime y\u2032: (8 , 0) y double prime y\u2032\u2032: 4\nPart 1\nSketch the graph. Choose the correct answer below.\nA.\n-12\n12\n-5\n5\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 12 to 12 in increments of 4 and a vertical y-axis labeled from negative 5 to 5 in increments of 1. Disconnected line segments connect the pairs of points (negative 12, 0) and (negative 8, 0), (negative 8, 1) and (negative 4, 1), (negative 4, 4) and (4, 4), (4, 1) and (8, 1), and (8, 0) and (12, 0).\nB.\n-12\n12\n-5\n5\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 12 to 12 in increments of 4 and a vertical y-axis labeled from negative 5 to 5 in increments of 1. The points (negative 12, negative 1), (negative 8, 0), (negative 4, 1), (0, 4), (4, 1), (8, 0), and (12, negative 1) are connected with a series of straight line segments.\nC.\n-12\n12\n-5\n5\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 12 to 12 in increments of 4 and a vertical y-axis labeled from negative 5 to 5 in increments of 1. A curve that is concave upward starts at the left edge of the graph at (negative 12, 1) and decreases at a decreasing rate until it reaches a local minimum at (negative 8, 0). The graph then increases at an increasing rate until it reaches (0, 4), where the graph has a corner. Then, the graph decreases at an decreasing rate until it reaches a local minimum at (8, 0). Finally, the graph increases at an increasing rate until it reaches the right edge of the graph at (12, 1).\nD.\n-12\n12\n-5\n5\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 12 to 12 in increments of 4 and a vertical y-axis labeled from negative 5 to 5 in increments of 1. A curve that is concave upward starts at the left edge of the graph at (negative 12, 1) and decreases at a decreasing rate until it reaches a local minimum at (negative 8, 0). The graph then increases at an increasing rate until it reach an inflection point at (negative 4, 1), after which it increases at a decreasing rate until it reaches a local maximum at (0, 4). Then, the graph decreases at an increasing rate until it reaches an inflection point at (4, 1), and then decreases at a decreasing rate until it reaches a local minimum at (8, 0). Finally, the graph increases at an increasing rate until it reaches the right edge of the graph at (12, 1).",
+    "fullText": "*12.\nPart 1\nSketch the graph of a twice-differentiable function y\nf(x) f(x) that passes through the points ((8 , 0) , ((4 , 1) 0) and whose first two derivatives have the following sign patterns. y prime y′: (8 , 0) y double prime y′′: 4\nPart 1\nSketch the graph. Choose the correct answer below.\nA.\n-12\n12\n-5\n5\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 12 to 12 in increments of 4 and a vertical y-axis labeled from negative 5 to 5 in increments of 1. Disconnected line segments connect the pairs of points (negative 12, 0) and (negative 8, 0), (negative 8, 1) and (negative 4, 1), (negative 4, 4) and (4, 4), (4, 1) and (8, 1), and (8, 0) and (12, 0).\nB.\n-12\n12\n-5\n5\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 12 to 12 in increments of 4 and a vertical y-axis labeled from negative 5 to 5 in increments of 1. The points (negative 12, negative 1), (negative 8, 0), (negative 4, 1), (0, 4), (4, 1), (8, 0), and (12, negative 1) are connected with a series of straight line segments.\nC.\n-12\n12\n-5\n5\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 12 to 12 in increments of 4 and a vertical y-axis labeled from negative 5 to 5 in increments of 1. A curve that is concave upward starts at the left edge of the graph at (negative 12, 1) and decreases at a decreasing rate until it reaches a local minimum at (negative 8, 0). The graph then increases at an increasing rate until it reaches (0, 4), where the graph has a corner. Then, the graph decreases at an decreasing rate until it reaches a local minimum at (8, 0). Finally, the graph increases at an increasing rate until it reaches the right edge of the graph at (12, 1).\nD.\n-12\n12\n-5\n5\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 12 to 12 in increments of 4 and a vertical y-axis labeled from negative 5 to 5 in increments of 1. A curve that is concave upward starts at the left edge of the graph at (negative 12, 1) and decreases at a decreasing rate until it reaches a local minimum at (negative 8, 0). The graph then increases at an increasing rate until it reach an inflection point at (negative 4, 1), after which it increases at a decreasing rate until it reaches a local maximum at (0, 4). Then, the graph decreases at an increasing rate until it reaches an inflection point at (4, 1), and then decreases at a decreasing rate until it reaches a local minimum at (8, 0). Finally, the graph increases at an increasing rate until it reaches the right edge of the graph at (12, 1).",
     "parts": [
       {
         "label": "Problem",
@@ -2902,7 +2884,7 @@ const PROBLEMS = {
       },
       {
         "label": "Part 1",
-        "text": "Sketch the graph of a twice-differentiable function y\nf(x) f(x) that passes through the points ((8 , 0) , ((4 , 1) 0) and whose first two derivatives have the following sign patterns. y prime y\u2032: (8 , 0) y double prime y\u2032\u2032: 4"
+        "text": "Sketch the graph of a twice-differentiable function y\nf(x) f(x) that passes through the points ((8 , 0) , ((4 , 1) 0) and whose first two derivatives have the following sign patterns. y prime y′: (8 , 0) y double prime y′′: 4"
       },
       {
         "label": "Part 1",
@@ -2958,7 +2940,7 @@ const PROBLEMS = {
   },
   "24.6.1": {
     "summary": "Sketch the indicated curve. Use a graphing calculator to check the graph.",
-    "fullText": "*14.\nPart 1\nSketch the indicated curve. Use a graphing calculator to check the graph.\ny = 2x + 14x\nPart 1\nWhat are the x-intercepts, if any? Select the correct choice below and fill in any answer boxes within your choice.\nA.\nThe x-intercept(s) is(are)\n(Simplify your answer. Type an ordered pair. Use integers or fractions for any numbers in the expression. Use a comma to separate answers as needed.)\nB.\nThere is no x-intercept.\nPart 2\nWhat are the y-intercepts, if any? Select the correct choice below and fill in any answer boxes within your choice.\nA.\nThe y-intercept(s) is(are)\n(Simplify your answer. Type an ordered pair. Use integers or fractions for any numbers in the expression. Use a comma to separate answers as needed.)\nB.\nThere is no y-intercept.\nPart 3\nIs the graph of\ny = 2x + 14x\nsymmetric to the x-axis, the y-axis, or the origin?\nThe function has (1)\nPart 4\nWhat happens to the function as x becomes very large, x\nright arrow\n\u2192\ninfinity\n\u221e, and as x becomes very small, x\nright arrow\n\u2192\ninfinity\n\u221e? Select the correct choice below and fill in any answer boxes within your choice.\nA.\nAs x\nright arrow\n\u2192\ninfinity\n\u221e,\ny = 2x + 14x\nright arrow\n\u2192\n, and as x\nright arrow\n\u2192\ninfinity\n\u221e,\ny = 2x + 14x\nright arrow\n\u2192\nB.\nThere is no solution.\nPart 5\nIdentify the vertical asymptote(s), if any. Select the correct choice below and fill in any answer boxes within your choice.\nA.\nx\n(Use a comma to separate answers as needed.)\nB.\nThere is no vertical asymptote.\nPart 6\nWhat is the first derivative of y?\ny font size decreased by 8 prime\ny\u00a0\u2032\nPart 7\nWhat is the second derivative of y?\ny font size decreased by 8 double prime\ny\u00a0\u2032\u2032\nPart 8\nWhat is the domain of the function?\nThe domain of the function is (2)\nPart 9\nWhat is the range of the function?\nThe range of the function is (3)\nPart 10\nChoose the correct graph below.\nA.\n-10\n10\n-60\n60\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 60 to 60 in increments of 10. A graph has two branches, an imaginary asymptote that rises from left to right and passes through the origin, and an imaginary asymptote that falls from left to right and passes through the origin. The first branch is below the rising asymptote and to the left of the y-axis, approaching both. The second branch is below the falling asymptote and to the right of the y-axis, approaching both\nB.\n-10\n10\n-60\n60\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 60 to 60 in increments of 10. A graph has two branches, an imaginary asymptote that falls from left to right and passes through the origin, and an imaginary asymptote that rises from left to right and passes through the origin. The first branch is above the falling asymptote and to the left of the y-axis, approaching both. The second branch is above the rising asymptote and to the right of the y-axis, approaching both\nC.\n-10\n10\n-60\n60\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 60 to 60 in increments of 10. A graph has two branches and an imaginary asymptote that falls from left to right and passes through the origin. The first branch is above the asymptote and to the left of the y-axis, approaching both. The second branch is below the asymptote and to the right of the y-axis, approaching both.\nD.\n-10\n10\n-60\n60\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 60 to 60 in increments of 10. A graph has two branches and an imaginary asymptote that rises from left to right and passes through the origin. The first branch is below the asymptote and to the left of the y-axis, approaching both. The second branch is above the asymptote and to the right of the y-axis, approaching both.\n(1)\nsymmetry around the y-axis\nsymmetry around the x-axis\nno symmetry\nsymmetry around the origin\n(2)\n(\u2212 infinity , 0)\n(\u2212\u221e,0)\n(0 , infinity)\n(0,\u221e)\n(\u2212 infinity , \u2212 4 \u221a(7)) union (4 \u221a(7) , infinity)\n\u2212\u221e,\u22124\n7\u00a0\u222a\u00a04\n7,\u221e\n(\u2212 infinity , infinity)\n(\u2212\u221e,\u221e)\n(\u2212 infinity , 0) union (0 , infinity)\n(\u2212\u221e,0)\u222a(0,\u221e)\n(3)\n(\u2212 infinity , 0) union (0 , infinity)\n(\u2212\u221e,0)\u222a(0,\u221e)\n(\u2212 infinity , infinity)\n(\u2212\u221e,\u221e)\n(0 , infinity)\n(0,\u221e)\n(\u2212 infinity , 0)\n(\u2212\u221e,0)\n(\u2212 infinity , \u2212 4 \u221a(7)) union (4 \u221a(7) , infinity)\n\u2212\u221e,\u22124\n7\u00a0\u222a\u00a04\n7,\u221e",
+    "fullText": "*14.\nPart 1\nSketch the indicated curve. Use a graphing calculator to check the graph.\ny = 2x + 14x\nPart 1\nWhat are the x-intercepts, if any? Select the correct choice below and fill in any answer boxes within your choice.\nA.\nThe x-intercept(s) is(are)\n(Simplify your answer. Type an ordered pair. Use integers or fractions for any numbers in the expression. Use a comma to separate answers as needed.)\nB.\nThere is no x-intercept.\nPart 2\nWhat are the y-intercepts, if any? Select the correct choice below and fill in any answer boxes within your choice.\nA.\nThe y-intercept(s) is(are)\n(Simplify your answer. Type an ordered pair. Use integers or fractions for any numbers in the expression. Use a comma to separate answers as needed.)\nB.\nThere is no y-intercept.\nPart 3\nIs the graph of\ny = 2x + 14x\nsymmetric to the x-axis, the y-axis, or the origin?\nThe function has (1)\nPart 4\nWhat happens to the function as x becomes very large, x\nright arrow\n→\ninfinity\n∞, and as x becomes very small, x\nright arrow\n→\ninfinity\n∞? Select the correct choice below and fill in any answer boxes within your choice.\nA.\nAs x\nright arrow\n→\ninfinity\n∞,\ny = 2x + 14x\nright arrow\n→\n, and as x\nright arrow\n→\ninfinity\n∞,\ny = 2x + 14x\nright arrow\n→\nB.\nThere is no solution.\nPart 5\nIdentify the vertical asymptote(s), if any. Select the correct choice below and fill in any answer boxes within your choice.\nA.\nx\n(Use a comma to separate answers as needed.)\nB.\nThere is no vertical asymptote.\nPart 6\nWhat is the first derivative of y?\ny font size decreased by 8 prime\ny ′\nPart 7\nWhat is the second derivative of y?\ny font size decreased by 8 double prime\ny ′′\nPart 8\nWhat is the domain of the function?\nThe domain of the function is (2)\nPart 9\nWhat is the range of the function?\nThe range of the function is (3)\nPart 10\nChoose the correct graph below.\nA.\n-10\n10\n-60\n60\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 60 to 60 in increments of 10. A graph has two branches, an imaginary asymptote that rises from left to right and passes through the origin, and an imaginary asymptote that falls from left to right and passes through the origin. The first branch is below the rising asymptote and to the left of the y-axis, approaching both. The second branch is below the falling asymptote and to the right of the y-axis, approaching both\nB.\n-10\n10\n-60\n60\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 60 to 60 in increments of 10. A graph has two branches, an imaginary asymptote that falls from left to right and passes through the origin, and an imaginary asymptote that rises from left to right and passes through the origin. The first branch is above the falling asymptote and to the left of the y-axis, approaching both. The second branch is above the rising asymptote and to the right of the y-axis, approaching both\nC.\n-10\n10\n-60\n60\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 60 to 60 in increments of 10. A graph has two branches and an imaginary asymptote that falls from left to right and passes through the origin. The first branch is above the asymptote and to the left of the y-axis, approaching both. The second branch is below the asymptote and to the right of the y-axis, approaching both.\nD.\n-10\n10\n-60\n60\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 60 to 60 in increments of 10. A graph has two branches and an imaginary asymptote that rises from left to right and passes through the origin. The first branch is below the asymptote and to the left of the y-axis, approaching both. The second branch is above the asymptote and to the right of the y-axis, approaching both.\n(1)\nsymmetry around the y-axis\nsymmetry around the x-axis\nno symmetry\nsymmetry around the origin\n(2)\n(− infinity , 0)\n(−∞,0)\n(0 , infinity)\n(0,∞)\n(− infinity , − 4 √(7)) union (4 √(7) , infinity)\n−∞,−4\n7 ∪ 4\n7,∞\n(− infinity , infinity)\n(−∞,∞)\n(− infinity , 0) union (0 , infinity)\n(−∞,0)∪(0,∞)\n(3)\n(− infinity , 0) union (0 , infinity)\n(−∞,0)∪(0,∞)\n(− infinity , infinity)\n(−∞,∞)\n(0 , infinity)\n(0,∞)\n(− infinity , 0)\n(−∞,0)\n(− infinity , − 4 √(7)) union (4 √(7) , infinity)\n−∞,−4\n7 ∪ 4\n7,∞",
     "parts": [
       {
         "label": "Problem",
@@ -2998,11 +2980,11 @@ const PROBLEMS = {
       },
       {
         "label": "Part 4",
-        "text": "What happens to the function as x becomes very large, x\nright arrow\n\u2192\ninfinity\n\u221e, and as x becomes very small, x\nright arrow\n\u2192\ninfinity\n\u221e? Select the correct choice below and fill in any answer boxes within your choice."
+        "text": "What happens to the function as x becomes very large, x\nright arrow\n→\ninfinity\n∞, and as x becomes very small, x\nright arrow\n→\ninfinity\n∞? Select the correct choice below and fill in any answer boxes within your choice."
       },
       {
         "label": "A.",
-        "text": "As x\nright arrow\n\u2192\ninfinity\n\u221e,\ny = 2x + 14x\nright arrow\n\u2192\n, and as x\nright arrow\n\u2192\ninfinity\n\u221e,\ny = 2x + 14x\nright arrow\n\u2192"
+        "text": "As x\nright arrow\n→\ninfinity\n∞,\ny = 2x + 14x\nright arrow\n→\n, and as x\nright arrow\n→\ninfinity\n∞,\ny = 2x + 14x\nright arrow\n→"
       },
       {
         "label": "B.",
@@ -3022,11 +3004,11 @@ const PROBLEMS = {
       },
       {
         "label": "Part 6",
-        "text": "What is the first derivative of y?\ny font size decreased by 8 prime\ny\u00a0\u2032"
+        "text": "What is the first derivative of y?\ny font size decreased by 8 prime\ny ′"
       },
       {
         "label": "Part 7",
-        "text": "What is the second derivative of y?\ny font size decreased by 8 double prime\ny\u00a0\u2032\u2032"
+        "text": "What is the second derivative of y?\ny font size decreased by 8 double prime\ny ′′"
       },
       {
         "label": "Part 8",
@@ -3054,14 +3036,14 @@ const PROBLEMS = {
       },
       {
         "label": "D.",
-        "text": "-10\n10\n-60\n60\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 60 to 60 in increments of 10. A graph has two branches and an imaginary asymptote that rises from left to right and passes through the origin. The first branch is below the asymptote and to the left of the y-axis, approaching both. The second branch is above the asymptote and to the right of the y-axis, approaching both.\n(1)\nsymmetry around the y-axis\nsymmetry around the x-axis\nno symmetry\nsymmetry around the origin\n(2)\n(\u2212 infinity , 0)\n(\u2212\u221e,0)\n(0 , infinity)\n(0,\u221e)\n(\u2212 infinity , \u2212 4 \u221a(7)) union (4 \u221a(7) , infinity)\n\u2212\u221e,\u22124\n7\u00a0\u222a\u00a04\n7,\u221e\n(\u2212 infinity , infinity)\n(\u2212\u221e,\u221e)\n(\u2212 infinity , 0) union (0 , infinity)\n(\u2212\u221e,0)\u222a(0,\u221e)\n(3)\n(\u2212 infinity , 0) union (0 , infinity)\n(\u2212\u221e,0)\u222a(0,\u221e)\n(\u2212 infinity , infinity)\n(\u2212\u221e,\u221e)\n(0 , infinity)\n(0,\u221e)\n(\u2212 infinity , 0)\n(\u2212\u221e,0)\n(\u2212 infinity , \u2212 4 \u221a(7)) union (4 \u221a(7) , infinity)\n\u2212\u221e,\u22124\n7\u00a0\u222a\u00a04\n7,\u221e"
+        "text": "-10\n10\n-60\n60\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 60 to 60 in increments of 10. A graph has two branches and an imaginary asymptote that rises from left to right and passes through the origin. The first branch is below the asymptote and to the left of the y-axis, approaching both. The second branch is above the asymptote and to the right of the y-axis, approaching both.\n(1)\nsymmetry around the y-axis\nsymmetry around the x-axis\nno symmetry\nsymmetry around the origin\n(2)\n(− infinity , 0)\n(−∞,0)\n(0 , infinity)\n(0,∞)\n(− infinity , − 4 √(7)) union (4 √(7) , infinity)\n−∞,−4\n7 ∪ 4\n7,∞\n(− infinity , infinity)\n(−∞,∞)\n(− infinity , 0) union (0 , infinity)\n(−∞,0)∪(0,∞)\n(3)\n(− infinity , 0) union (0 , infinity)\n(−∞,0)∪(0,∞)\n(− infinity , infinity)\n(−∞,∞)\n(0 , infinity)\n(0,∞)\n(− infinity , 0)\n(−∞,0)\n(− infinity , − 4 √(7)) union (4 √(7) , infinity)\n−∞,−4\n7 ∪ 4\n7,∞"
       }
     ],
     "expr": "y = 2x +"
   },
   "24.6.3": {
     "summary": "Sketch the indicated curve. Use a graphing calculator to check the graph.",
-    "fullText": "*15.\nPart 1\nSketch the indicated curve. Use a graphing calculator to check the graph.\ny\n5/x + 6\nPart 1\nWhat are the x-intercepts, if any? Select the correct choice below and fill in any answer boxes within your choice.\nA.\n(Simplify your answer. Type an ordered pair. Use integers or fractions for any numbers in the expression. Use a comma to separate answers as needed.)\nB.\nThere is no x-intercept.\nPart 2\nWhat are the y-intercepts, if any? Select the correct choice below and fill in any answer boxes within your choice.\nA.\n(Simplify your answer. Type an ordered pair. Use integers or fractions for any numbers in the expression. Use a comma to separate answers as needed.)\nB.\nThere is no y-intercept.\nPart 3\nIs the graph of y\n5/x + 6\nsymmetric to the x-axis, the y-axis, or the origin?\nA.\nYes , the graph is symmetric to the y-axis.\nB.\nYes, the graph is symmetric to the origin.\nC.\nYes , the graph is symmetric to the x-axis.\nD.\nNo, there are no symmetries to the graph.\nPart 4\nWhat happens to the function as x becomes very large, x\nright arrow\n\u2192\ninfinity\n\u221e, and as x becomes very small, x\nright arrow\n\u2192\ninfinity\n\u221e? Select the correct choice below and fill in any answer boxes within your choice.\nA.\nAs x\nright arrow\n\u2192\ninfinity\n\u221e, y\n5/x + 6\nright arrow\n\u2192\n, and as x\nright arrow\n\u2192\ninfinity\n\u221e, y\n5/x + 6\nright arrow\n\u2192\nB.\nThere is no solution.\nPart 5\nIdentify the vertical asymptote(s), if any. Select the correct choice below and fill in any answer boxes within your choice.\nA.\nx\n(Use a comma to separate answers as needed.)\nB.\nThere is no vertical asymptote.\nPart 6\nWhat is the first derivative of y?\ny font size decreased by 8 prime\ny\u00a0\u2032\nPart 7\nWhat is the second derivative of y?\ny font size decreased by 8 double prime\ny\u00a0\u2032\u2032\nPart 8\nWhat is the domain of the function?\nA.\nAll real numbers\nB.\nStartSet x vertical line x greater than minus 6 EndSet\n{x\u00a0\u00a0\u00a0x>\u22126}\nC.\nStartSet x vertical line x not = 0 EndSet\n{x\u00a0\u00a0\u00a0x\u22600}\nD.\nStartSet x vertical line x not = \u2212 6 EndSet\n{x\u00a0\u00a0\u00a0x\u2260\u22126}\nPart 9\nWhat is the range of the function?\nA.\nAll real numbers\nB.\nStartSet y vertical line y greater than minus 6 EndSet\n{y\u00a0\u00a0\u00a0y>\u22126}\nC.\nStartSet y vertical line y not = 0 EndSet\n{y\u00a0\u00a0\u00a0y\u22600}\nD.\nStartSet y vertical line y not = \u2212 6 EndSet\n{y\u00a0\u00a0\u00a0y\u2260\u22126}\nPart 10\nChoose the correct graph below.\nA.\n-16\n16\n-5\n5\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 16 to 16 in increments of 2 and a vertical y-axis labeled from negative 5 to 5 in increments of 1. A graph has two branches and asymptotes x = negative 6 and y = 0. The first branch is above the x-axis and to the left of the vertical asymptote, approaching both. The second branch is below the x-axis and to the right of the vertical asymptote, approaching both.\nB.\n-16\n16\n-5\n5\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 16 to 16 in increments of 2 and a vertical y-axis labeled from negative 5 to 5 in increments of 1. A graph has two branches and asymptotes x = 6 and y = 0. The first branch is below the x-axis and to the left of the vertical asymptote, approaching both. The second branch is above the x-axis and to the right of the vertical asymptote, approaching both.\nC.\n-16\n16\n-5\n5\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 16 to 16 in increments of 2 and a vertical y-axis labeled from negative 5 to 5 in increments of 1. A graph has two branches and asymptotes x = negative 6 and y = 0. The first branch is below the x-axis and to the left of the vertical asymptote, approaching both. The second branch is above the x-axis and to the right of the vertical asymptote, approaching both.\nD.\n-16\n16\n-5\n5\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 16 to 16 in increments of 2 and a vertical y-axis labeled from negative 5 to 5 in increments of 1. A graph has two branches and asymptotes x = 6 and y = 0. The first branch is above the x-axis and to the left of the vertical asymptote, approaching both. The second branch is below the x-axis and to the right of the vertical asymptote, approaching both.",
+    "fullText": "*15.\nPart 1\nSketch the indicated curve. Use a graphing calculator to check the graph.\ny\n5/x + 6\nPart 1\nWhat are the x-intercepts, if any? Select the correct choice below and fill in any answer boxes within your choice.\nA.\n(Simplify your answer. Type an ordered pair. Use integers or fractions for any numbers in the expression. Use a comma to separate answers as needed.)\nB.\nThere is no x-intercept.\nPart 2\nWhat are the y-intercepts, if any? Select the correct choice below and fill in any answer boxes within your choice.\nA.\n(Simplify your answer. Type an ordered pair. Use integers or fractions for any numbers in the expression. Use a comma to separate answers as needed.)\nB.\nThere is no y-intercept.\nPart 3\nIs the graph of y\n5/x + 6\nsymmetric to the x-axis, the y-axis, or the origin?\nA.\nYes , the graph is symmetric to the y-axis.\nB.\nYes, the graph is symmetric to the origin.\nC.\nYes , the graph is symmetric to the x-axis.\nD.\nNo, there are no symmetries to the graph.\nPart 4\nWhat happens to the function as x becomes very large, x\nright arrow\n→\ninfinity\n∞, and as x becomes very small, x\nright arrow\n→\ninfinity\n∞? Select the correct choice below and fill in any answer boxes within your choice.\nA.\nAs x\nright arrow\n→\ninfinity\n∞, y\n5/x + 6\nright arrow\n→\n, and as x\nright arrow\n→\ninfinity\n∞, y\n5/x + 6\nright arrow\n→\nB.\nThere is no solution.\nPart 5\nIdentify the vertical asymptote(s), if any. Select the correct choice below and fill in any answer boxes within your choice.\nA.\nx\n(Use a comma to separate answers as needed.)\nB.\nThere is no vertical asymptote.\nPart 6\nWhat is the first derivative of y?\ny font size decreased by 8 prime\ny ′\nPart 7\nWhat is the second derivative of y?\ny font size decreased by 8 double prime\ny ′′\nPart 8\nWhat is the domain of the function?\nA.\nAll real numbers\nB.\nStartSet x vertical line x greater than minus 6 EndSet\n{x   x>−6}\nC.\nStartSet x vertical line x not = 0 EndSet\n{x   x≠0}\nD.\nStartSet x vertical line x not = − 6 EndSet\n{x   x≠−6}\nPart 9\nWhat is the range of the function?\nA.\nAll real numbers\nB.\nStartSet y vertical line y greater than minus 6 EndSet\n{y   y>−6}\nC.\nStartSet y vertical line y not = 0 EndSet\n{y   y≠0}\nD.\nStartSet y vertical line y not = − 6 EndSet\n{y   y≠−6}\nPart 10\nChoose the correct graph below.\nA.\n-16\n16\n-5\n5\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 16 to 16 in increments of 2 and a vertical y-axis labeled from negative 5 to 5 in increments of 1. A graph has two branches and asymptotes x = negative 6 and y = 0. The first branch is above the x-axis and to the left of the vertical asymptote, approaching both. The second branch is below the x-axis and to the right of the vertical asymptote, approaching both.\nB.\n-16\n16\n-5\n5\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 16 to 16 in increments of 2 and a vertical y-axis labeled from negative 5 to 5 in increments of 1. A graph has two branches and asymptotes x = 6 and y = 0. The first branch is below the x-axis and to the left of the vertical asymptote, approaching both. The second branch is above the x-axis and to the right of the vertical asymptote, approaching both.\nC.\n-16\n16\n-5\n5\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 16 to 16 in increments of 2 and a vertical y-axis labeled from negative 5 to 5 in increments of 1. A graph has two branches and asymptotes x = negative 6 and y = 0. The first branch is below the x-axis and to the left of the vertical asymptote, approaching both. The second branch is above the x-axis and to the right of the vertical asymptote, approaching both.\nD.\n-16\n16\n-5\n5\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 16 to 16 in increments of 2 and a vertical y-axis labeled from negative 5 to 5 in increments of 1. A graph has two branches and asymptotes x = 6 and y = 0. The first branch is above the x-axis and to the left of the vertical asymptote, approaching both. The second branch is below the x-axis and to the right of the vertical asymptote, approaching both.",
     "parts": [
       {
         "label": "Problem",
@@ -3117,11 +3099,11 @@ const PROBLEMS = {
       },
       {
         "label": "Part 4",
-        "text": "What happens to the function as x becomes very large, x\nright arrow\n\u2192\ninfinity\n\u221e, and as x becomes very small, x\nright arrow\n\u2192\ninfinity\n\u221e? Select the correct choice below and fill in any answer boxes within your choice."
+        "text": "What happens to the function as x becomes very large, x\nright arrow\n→\ninfinity\n∞, and as x becomes very small, x\nright arrow\n→\ninfinity\n∞? Select the correct choice below and fill in any answer boxes within your choice."
       },
       {
         "label": "A.",
-        "text": "As x\nright arrow\n\u2192\ninfinity\n\u221e, y\n5/x + 6\nright arrow\n\u2192\n, and as x\nright arrow\n\u2192\ninfinity\n\u221e, y\n5/x + 6\nright arrow\n\u2192"
+        "text": "As x\nright arrow\n→\ninfinity\n∞, y\n5/x + 6\nright arrow\n→\n, and as x\nright arrow\n→\ninfinity\n∞, y\n5/x + 6\nright arrow\n→"
       },
       {
         "label": "B.",
@@ -3141,11 +3123,11 @@ const PROBLEMS = {
       },
       {
         "label": "Part 6",
-        "text": "What is the first derivative of y?\ny font size decreased by 8 prime\ny\u00a0\u2032"
+        "text": "What is the first derivative of y?\ny font size decreased by 8 prime\ny ′"
       },
       {
         "label": "Part 7",
-        "text": "What is the second derivative of y?\ny font size decreased by 8 double prime\ny\u00a0\u2032\u2032"
+        "text": "What is the second derivative of y?\ny font size decreased by 8 double prime\ny ′′"
       },
       {
         "label": "Part 8",
@@ -3157,15 +3139,15 @@ const PROBLEMS = {
       },
       {
         "label": "B.",
-        "text": "StartSet x vertical line x greater than minus 6 EndSet\n{x\u00a0\u00a0\u00a0x>\u22126}"
+        "text": "StartSet x vertical line x greater than minus 6 EndSet\n{x   x>−6}"
       },
       {
         "label": "C.",
-        "text": "StartSet x vertical line x not = 0 EndSet\n{x\u00a0\u00a0\u00a0x\u22600}"
+        "text": "StartSet x vertical line x not = 0 EndSet\n{x   x≠0}"
       },
       {
         "label": "D.",
-        "text": "StartSet x vertical line x not = \u2212 6 EndSet\n{x\u00a0\u00a0\u00a0x\u2260\u22126}"
+        "text": "StartSet x vertical line x not = − 6 EndSet\n{x   x≠−6}"
       },
       {
         "label": "Part 9",
@@ -3177,15 +3159,15 @@ const PROBLEMS = {
       },
       {
         "label": "B.",
-        "text": "StartSet y vertical line y greater than minus 6 EndSet\n{y\u00a0\u00a0\u00a0y>\u22126}"
+        "text": "StartSet y vertical line y greater than minus 6 EndSet\n{y   y>−6}"
       },
       {
         "label": "C.",
-        "text": "StartSet y vertical line y not = 0 EndSet\n{y\u00a0\u00a0\u00a0y\u22600}"
+        "text": "StartSet y vertical line y not = 0 EndSet\n{y   y≠0}"
       },
       {
         "label": "D.",
-        "text": "StartSet y vertical line y not = \u2212 6 EndSet\n{y\u00a0\u00a0\u00a0y\u2260\u22126}"
+        "text": "StartSet y vertical line y not = − 6 EndSet\n{y   y≠−6}"
       },
       {
         "label": "Part 10",
@@ -3212,7 +3194,7 @@ const PROBLEMS = {
   },
   "24.6.7": {
     "summary": "Sketch the indicated curve. Use a graphing calculator to check the graph.",
-    "fullText": "*16.\nPart 1\nSketch the indicated curve. Use a graphing calculator to check the graph.\ny = \u2212 8x \u2212\n24\nx\nPart 1\nWhat are the x-intercepts, if any? Select the correct choice below and fill in any answer boxes within your choice.\nA.\nThe x-intercept(s) is(are)\n(Simplify your answer. Type an ordered pair. Use integers or fractions for any numbers in the expression. Use a comma to separate answers as needed.)\nB.\nThere is no x-intercept.\nPart 2\nWhat are the y-intercepts, if any? Select the correct choice below and fill in any answer boxes within your choice.\nA.\nThe y-intercept(s) is(are)\n(Simplify your answer. Type an ordered pair. Use integers or fractions for any numbers in the expression. Use a comma to separate answers as needed.)\nB.\nThere is no y-intercept.\nPart 3\nIs the graph of\ny = \u2212 8x \u2212\n24\nx\nsymmetric to the x-axis, the y-axis, or the origin?\nThe function has (1)\nPart 4\nWhat happens to the function as x becomes very large, x\nright arrow\n\u2192\ninfinity\n\u221e, and as x becomes very small, x\nright arrow\n\u2192\ninfinity\n\u221e? Select the correct choice below and fill in any answer boxes within your choice.\nA.\nAs x\nright arrow\n\u2192\ninfinity\n\u221e,\ny = \u2212 8x \u2212\n24\nx\nright arrow\n\u2192\n, and as x\nright arrow\n\u2192\ninfinity\n\u221e,\ny = \u2212 8x \u2212\n24\nx\nright arrow\n\u2192\nB.\nThere is no solution.\nPart 5\nIdentify the vertical asymptote(s), if any. Select the correct choice below and fill in any answer boxes within your choice.\nA.\nx\n(Use a comma to separate answers as needed.)\nB.\nThere is no vertical asymptote.\nPart 6\nWhat is the first derivative of y?\ny font size decreased by 8 prime\ny\u00a0\u2032\nPart 7\nWhat is the second derivative of y?\ny font size decreased by 8 double prime\ny\u00a0\u2032\u2032\nPart 8\nWhat is the domain of the function?\nThe domain of the function is (2)\nPart 9\nWhat is the range of the function?\nThe range of the function is (3)\nPart 10\nChoose the correct graph below.\nA.\n-10\n10\n-80\n80\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 80 to 80 in increments of 10. A graph has two branches, an imaginary asymptote that rises from left to right and passes through the origin, and an imaginary asymptote that falls from left to right and passes through the origin. The first branch is below the rising asymptote and to the left of the y-axis, approaching both. The second branch is below the falling asymptote and to the right of the y-axis, approaching both\nB.\n-10\n10\n-80\n80\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 80 to 80 in increments of 10. A graph has two branches and an imaginary asymptote that rises from left to right and passes through the origin. The first branch is below the asymptote and to the left of the y-axis, approaching both. The second branch is above the asymptote and to the right of the y-axis, approaching both.\nC.\n-10\n10\n-80\n80\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 80 to 80 in increments of 10. A graph has two branches and an imaginary asymptote that falls from left to right and passes through the origin. The first branch is above the asymptote and to the left of the y-axis, approaching both. The second branch is below the asymptote and to the right of the y-axis, approaching both.\nD.\n-10\n10\n-80\n80\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 80 to 80 in increments of 10. A graph has two branches, an imaginary asymptote that falls from left to right and passes through the origin, and an imaginary asymptote that rises from left to right and passes through the origin. The first branch is above the falling asymptote and to the left of the y-axis, approaching both. The second branch is above the rising asymptote and to the right of the y-axis, approaching both\n(1)\nsymmetry around the origin\nsymmetry around the y-axis\nsymmetry around the x-axis\nno symmetry\n(2)\n(\u2212 infinity , \u2212 16 \u221a(3)) union (16 \u221a(3) , infinity)\n\u2212\u221e,\u221216\n3\u00a0\u222a\u00a016\n3,\u221e\n(\u2212 infinity , infinity)\n(\u2212\u221e,\u221e)\n(0 , infinity)\n(0,\u221e)\n(\u2212 infinity , 0)\n(\u2212\u221e,0)\n(\u2212 infinity , 0) union (0 , infinity)\n(\u2212\u221e,0)\u222a(0,\u221e)\n(3)\n(0 , infinity)\n(0,\u221e)\n(\u2212 infinity , 0)\n(\u2212\u221e,0)\n(\u2212 infinity , 0) union (0 , infinity)\n(\u2212\u221e,0)\u222a(0,\u221e)\n(\u2212 infinity , \u2212 16 \u221a(3)) union (16 \u221a(3) , infinity)\n\u2212\u221e,\u221216\n3\u00a0\u222a\u00a016\n3,\u221e\n(\u2212 infinity , infinity)\n(\u2212\u221e,\u221e)",
+    "fullText": "*16.\nPart 1\nSketch the indicated curve. Use a graphing calculator to check the graph.\ny = − 8x −\n24\nx\nPart 1\nWhat are the x-intercepts, if any? Select the correct choice below and fill in any answer boxes within your choice.\nA.\nThe x-intercept(s) is(are)\n(Simplify your answer. Type an ordered pair. Use integers or fractions for any numbers in the expression. Use a comma to separate answers as needed.)\nB.\nThere is no x-intercept.\nPart 2\nWhat are the y-intercepts, if any? Select the correct choice below and fill in any answer boxes within your choice.\nA.\nThe y-intercept(s) is(are)\n(Simplify your answer. Type an ordered pair. Use integers or fractions for any numbers in the expression. Use a comma to separate answers as needed.)\nB.\nThere is no y-intercept.\nPart 3\nIs the graph of\ny = − 8x −\n24\nx\nsymmetric to the x-axis, the y-axis, or the origin?\nThe function has (1)\nPart 4\nWhat happens to the function as x becomes very large, x\nright arrow\n→\ninfinity\n∞, and as x becomes very small, x\nright arrow\n→\ninfinity\n∞? Select the correct choice below and fill in any answer boxes within your choice.\nA.\nAs x\nright arrow\n→\ninfinity\n∞,\ny = − 8x −\n24\nx\nright arrow\n→\n, and as x\nright arrow\n→\ninfinity\n∞,\ny = − 8x −\n24\nx\nright arrow\n→\nB.\nThere is no solution.\nPart 5\nIdentify the vertical asymptote(s), if any. Select the correct choice below and fill in any answer boxes within your choice.\nA.\nx\n(Use a comma to separate answers as needed.)\nB.\nThere is no vertical asymptote.\nPart 6\nWhat is the first derivative of y?\ny font size decreased by 8 prime\ny ′\nPart 7\nWhat is the second derivative of y?\ny font size decreased by 8 double prime\ny ′′\nPart 8\nWhat is the domain of the function?\nThe domain of the function is (2)\nPart 9\nWhat is the range of the function?\nThe range of the function is (3)\nPart 10\nChoose the correct graph below.\nA.\n-10\n10\n-80\n80\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 80 to 80 in increments of 10. A graph has two branches, an imaginary asymptote that rises from left to right and passes through the origin, and an imaginary asymptote that falls from left to right and passes through the origin. The first branch is below the rising asymptote and to the left of the y-axis, approaching both. The second branch is below the falling asymptote and to the right of the y-axis, approaching both\nB.\n-10\n10\n-80\n80\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 80 to 80 in increments of 10. A graph has two branches and an imaginary asymptote that rises from left to right and passes through the origin. The first branch is below the asymptote and to the left of the y-axis, approaching both. The second branch is above the asymptote and to the right of the y-axis, approaching both.\nC.\n-10\n10\n-80\n80\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 80 to 80 in increments of 10. A graph has two branches and an imaginary asymptote that falls from left to right and passes through the origin. The first branch is above the asymptote and to the left of the y-axis, approaching both. The second branch is below the asymptote and to the right of the y-axis, approaching both.\nD.\n-10\n10\n-80\n80\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 80 to 80 in increments of 10. A graph has two branches, an imaginary asymptote that falls from left to right and passes through the origin, and an imaginary asymptote that rises from left to right and passes through the origin. The first branch is above the falling asymptote and to the left of the y-axis, approaching both. The second branch is above the rising asymptote and to the right of the y-axis, approaching both\n(1)\nsymmetry around the origin\nsymmetry around the y-axis\nsymmetry around the x-axis\nno symmetry\n(2)\n(− infinity , − 16 √(3)) union (16 √(3) , infinity)\n−∞,−16\n3 ∪ 16\n3,∞\n(− infinity , infinity)\n(−∞,∞)\n(0 , infinity)\n(0,∞)\n(− infinity , 0)\n(−∞,0)\n(− infinity , 0) union (0 , infinity)\n(−∞,0)∪(0,∞)\n(3)\n(0 , infinity)\n(0,∞)\n(− infinity , 0)\n(−∞,0)\n(− infinity , 0) union (0 , infinity)\n(−∞,0)∪(0,∞)\n(− infinity , − 16 √(3)) union (16 √(3) , infinity)\n−∞,−16\n3 ∪ 16\n3,∞\n(− infinity , infinity)\n(−∞,∞)",
     "parts": [
       {
         "label": "Problem",
@@ -3220,7 +3202,7 @@ const PROBLEMS = {
       },
       {
         "label": "Part 1",
-        "text": "Sketch the indicated curve. Use a graphing calculator to check the graph.\ny = \u2212 8x \u2212\n24\nx"
+        "text": "Sketch the indicated curve. Use a graphing calculator to check the graph.\ny = − 8x −\n24\nx"
       },
       {
         "label": "Part 1",
@@ -3248,15 +3230,15 @@ const PROBLEMS = {
       },
       {
         "label": "Part 3",
-        "text": "Is the graph of\ny = \u2212 8x \u2212\n24\nx\nsymmetric to the x-axis, the y-axis, or the origin?\nThe function has (1)"
+        "text": "Is the graph of\ny = − 8x −\n24\nx\nsymmetric to the x-axis, the y-axis, or the origin?\nThe function has (1)"
       },
       {
         "label": "Part 4",
-        "text": "What happens to the function as x becomes very large, x\nright arrow\n\u2192\ninfinity\n\u221e, and as x becomes very small, x\nright arrow\n\u2192\ninfinity\n\u221e? Select the correct choice below and fill in any answer boxes within your choice."
+        "text": "What happens to the function as x becomes very large, x\nright arrow\n→\ninfinity\n∞, and as x becomes very small, x\nright arrow\n→\ninfinity\n∞? Select the correct choice below and fill in any answer boxes within your choice."
       },
       {
         "label": "A.",
-        "text": "As x\nright arrow\n\u2192\ninfinity\n\u221e,\ny = \u2212 8x \u2212\n24\nx\nright arrow\n\u2192\n, and as x\nright arrow\n\u2192\ninfinity\n\u221e,\ny = \u2212 8x \u2212\n24\nx\nright arrow\n\u2192"
+        "text": "As x\nright arrow\n→\ninfinity\n∞,\ny = − 8x −\n24\nx\nright arrow\n→\n, and as x\nright arrow\n→\ninfinity\n∞,\ny = − 8x −\n24\nx\nright arrow\n→"
       },
       {
         "label": "B.",
@@ -3276,11 +3258,11 @@ const PROBLEMS = {
       },
       {
         "label": "Part 6",
-        "text": "What is the first derivative of y?\ny font size decreased by 8 prime\ny\u00a0\u2032"
+        "text": "What is the first derivative of y?\ny font size decreased by 8 prime\ny ′"
       },
       {
         "label": "Part 7",
-        "text": "What is the second derivative of y?\ny font size decreased by 8 double prime\ny\u00a0\u2032\u2032"
+        "text": "What is the second derivative of y?\ny font size decreased by 8 double prime\ny ′′"
       },
       {
         "label": "Part 8",
@@ -3308,14 +3290,14 @@ const PROBLEMS = {
       },
       {
         "label": "D.",
-        "text": "-10\n10\n-80\n80\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 80 to 80 in increments of 10. A graph has two branches, an imaginary asymptote that falls from left to right and passes through the origin, and an imaginary asymptote that rises from left to right and passes through the origin. The first branch is above the falling asymptote and to the left of the y-axis, approaching both. The second branch is above the rising asymptote and to the right of the y-axis, approaching both\n(1)\nsymmetry around the origin\nsymmetry around the y-axis\nsymmetry around the x-axis\nno symmetry\n(2)\n(\u2212 infinity , \u2212 16 \u221a(3)) union (16 \u221a(3) , infinity)\n\u2212\u221e,\u221216\n3\u00a0\u222a\u00a016\n3,\u221e\n(\u2212 infinity , infinity)\n(\u2212\u221e,\u221e)\n(0 , infinity)\n(0,\u221e)\n(\u2212 infinity , 0)\n(\u2212\u221e,0)\n(\u2212 infinity , 0) union (0 , infinity)\n(\u2212\u221e,0)\u222a(0,\u221e)\n(3)\n(0 , infinity)\n(0,\u221e)\n(\u2212 infinity , 0)\n(\u2212\u221e,0)\n(\u2212 infinity , 0) union (0 , infinity)\n(\u2212\u221e,0)\u222a(0,\u221e)\n(\u2212 infinity , \u2212 16 \u221a(3)) union (16 \u221a(3) , infinity)\n\u2212\u221e,\u221216\n3\u00a0\u222a\u00a016\n3,\u221e\n(\u2212 infinity , infinity)\n(\u2212\u221e,\u221e)"
+        "text": "-10\n10\n-80\n80\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 80 to 80 in increments of 10. A graph has two branches, an imaginary asymptote that falls from left to right and passes through the origin, and an imaginary asymptote that rises from left to right and passes through the origin. The first branch is above the falling asymptote and to the left of the y-axis, approaching both. The second branch is above the rising asymptote and to the right of the y-axis, approaching both\n(1)\nsymmetry around the origin\nsymmetry around the y-axis\nsymmetry around the x-axis\nno symmetry\n(2)\n(− infinity , − 16 √(3)) union (16 √(3) , infinity)\n−∞,−16\n3 ∪ 16\n3,∞\n(− infinity , infinity)\n(−∞,∞)\n(0 , infinity)\n(0,∞)\n(− infinity , 0)\n(−∞,0)\n(− infinity , 0) union (0 , infinity)\n(−∞,0)∪(0,∞)\n(3)\n(0 , infinity)\n(0,∞)\n(− infinity , 0)\n(−∞,0)\n(− infinity , 0) union (0 , infinity)\n(−∞,0)∪(0,∞)\n(− infinity , − 16 √(3)) union (16 √(3) , infinity)\n−∞,−16\n3 ∪ 16\n3,∞\n(− infinity , infinity)\n(−∞,∞)"
       }
     ],
-    "expr": "y = \u2212 8x \u2212"
+    "expr": "y = − 8x −"
   },
   "24.6.9": {
     "summary": "Sketch the indicated curve. Use a graphing calculator to check the graph.",
-    "fullText": "*17.\nPart 1\nSketch the indicated curve. Use a graphing calculator to check the graph.\ny\nx\u00b2/x + 5\nPart 1\nChoose the correct graph below.\nA.\n-40\n40\n-40\n40\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 40 to 40 in increments of 10 and a vertical y-axis labeled from negative 40 to 40 in increments of 10. A graph has two branches, an asymptote x= 5, and an imaginary asymptote that rises from left to right. The first branch is below the rising asymptote and to the left of x= 5, approaching both. The second branch is above the rising asymptote and to the right of x= 5, approaching both.\nB.\n-40\n40\n-40\n40\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 40 to 40 in increments of 10 and a vertical y-axis labeled from negative 40 to 40 in increments of 10. A graph has two branches, an asymptote x= negative 5, and an imaginary asymptote that rises from left to right. The first branch is below the rising asymptote and to the left of x= negative 5, approaching both. The second branch is above the rising asymptote and to the right of x= negative 5, approaching both.\nC.\n-40\n40\n-40\n40\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 40 to 40 in increments of 10 and a vertical y-axis labeled from negative 40 to 40 in increments of 10. A graph has two branches, an asymptote x= negative 5, and an imaginary asymptote that falls from left to right. The first branch is above the falling asymptote and to the left of x= negative 5, approaching both. The second branch is below the falling asymptote and to the right of x= negative 5, approaching both.\nD.\n-40\n40\n-40\n40\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 40 to 40 in increments of 10 and a vertical y-axis labeled from negative 40 to 40 in increments of 10. A graph has two branches, an asymptote x= 5, and an imaginary asymptote that falls from left to right. The first branch is above the falling asymptote and to the left of x= 5, approaching both. The second branch is below the falling asymptote and to the right of x= 5, approaching both.",
+    "fullText": "*17.\nPart 1\nSketch the indicated curve. Use a graphing calculator to check the graph.\ny\nx²/x + 5\nPart 1\nChoose the correct graph below.\nA.\n-40\n40\n-40\n40\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 40 to 40 in increments of 10 and a vertical y-axis labeled from negative 40 to 40 in increments of 10. A graph has two branches, an asymptote x= 5, and an imaginary asymptote that rises from left to right. The first branch is below the rising asymptote and to the left of x= 5, approaching both. The second branch is above the rising asymptote and to the right of x= 5, approaching both.\nB.\n-40\n40\n-40\n40\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 40 to 40 in increments of 10 and a vertical y-axis labeled from negative 40 to 40 in increments of 10. A graph has two branches, an asymptote x= negative 5, and an imaginary asymptote that rises from left to right. The first branch is below the rising asymptote and to the left of x= negative 5, approaching both. The second branch is above the rising asymptote and to the right of x= negative 5, approaching both.\nC.\n-40\n40\n-40\n40\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 40 to 40 in increments of 10 and a vertical y-axis labeled from negative 40 to 40 in increments of 10. A graph has two branches, an asymptote x= negative 5, and an imaginary asymptote that falls from left to right. The first branch is above the falling asymptote and to the left of x= negative 5, approaching both. The second branch is below the falling asymptote and to the right of x= negative 5, approaching both.\nD.\n-40\n40\n-40\n40\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 40 to 40 in increments of 10 and a vertical y-axis labeled from negative 40 to 40 in increments of 10. A graph has two branches, an asymptote x= 5, and an imaginary asymptote that falls from left to right. The first branch is above the falling asymptote and to the left of x= 5, approaching both. The second branch is below the falling asymptote and to the right of x= 5, approaching both.",
     "parts": [
       {
         "label": "Problem",
@@ -3323,7 +3305,7 @@ const PROBLEMS = {
       },
       {
         "label": "Part 1",
-        "text": "Sketch the indicated curve. Use a graphing calculator to check the graph.\ny\nx\u00b2/x + 5"
+        "text": "Sketch the indicated curve. Use a graphing calculator to check the graph.\ny\nx²/x + 5"
       },
       {
         "label": "Part 1",
@@ -3350,7 +3332,7 @@ const PROBLEMS = {
   },
   "24.6.15": {
     "summary": "Sketch the indicated curve. Use a graphing calculator to check the graph.",
-    "fullText": "*18.\nPart 1\nSketch the indicated curve. Use a graphing calculator to check the graph.\ny = x\n8 \u2212 x\u00b2\nPart 1\nWhat are the x-intercepts, if any? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe x-intercept(s) is/are\n(Type an ordered pair. Type exact answers for each coordinate, using radicals as needed. Use a comma to separate answers as needed.)\nB.\nThere is no x-intercept.\nPart 2\nWhat are the y-intercepts, if any? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe y-intercept(s) is/are\n(Type an ordered pair. Type exact answers for each coordinate, using radicals as needed. Use a comma to separate answers as needed.)\nB.\nThere is no y-intercept.\nPart 3\nIs the graph of\ny = x\n8\u2212x2 symmetric to the x-axis, the y-axis, or the origin?\nA.\nYes , the graph is symmetric to the x-axis.\nB.\nYes , the graph is symmetric to the y-axis.\nC.\nYes, the graph is symmetric to the origin.\nD.\nNo, there are no symmetries to the graph.\nPart 4\nWhat happens to the function as x becomes very large in the positive direction, x\nright arrow\n\u2192\ninfinity\n\u221e, and as x becomes very large in the negative direction, x\nright arrow\n\u2192\ninfinity\n\u221e? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nAs x\nright arrow\n\u2192\ninfinity\n\u221e,\ny = x\n8 \u2212 x\u00b2\nright arrow\n\u2192\n, and as x\nright arrow\n\u2192\ninfinity\n\u221e,\ny = x\n8 \u2212 x\u00b2\nright arrow\n\u2192\nB.\nAs x\nright arrow\n\u2192\ninfinity\n\u221e,\ny = x\n8 \u2212 x\u00b2\nright arrow\n\u2192\n, and x cannot become very large in the negative direction because the domain is bounded in the negative direction.\nC.\nAs x\nright arrow\n\u2192\ninfinity\n\u221e,\ny = x\n8 \u2212 x\u00b2\nright arrow\n\u2192\n, and x cannot become very large in the positive direction because the domain is bounded in the positive direction.\nD.\nThe values of x cannot become large in either direction because the domain is bounded on both sides.\nPart 5\nIdentify the vertical asymptote(s), if any. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nx\n(Use a comma to separate answers as needed.)\nB.\nThere is no vertical asymptote.\nPart 6\nWhat is the first derivative of y?\ny font size decreased by 8 prime\ny\u00a0\u2032\nnbsp (nothing)/(\u221a(nothing))\nPart 7\nWhat is the second derivative of y?\ny font size decreased by 8 double prime\ny\u00a0\u2032\u2032\nPart 8\nWhat is the domain of the function?\nA.\n\u2212 2 \u221a(2) less than or = x less than or = 2 \u221a(2)\n\u2212 2\n2\u2264x\u22642\n2\nB.\nnegative 8 less than x less than 8\n\u22128<x<8\nC.\nnegative 4 less than x less than 4\n\u22124<x<4\nD.\nx greater than 2 \u221a(2) or x less than \u2212 2 \u221a(2)\nx>2\n2\u00a0or\u00a0x<\u22122\n2\nPart 9\nWhat is the range of the function?\nA.\nnegative 8 less than y less than 8\n\u22128<y<8\nB.\n\u2212 2 \u221a(2) less than or = y less than or = 2 \u221a(2)\n\u2212 2\n2\u2264y\u22642\n2\nC.\n\u2212 4 less than or = y less than or = 4\n\u22124\u2264y\u22644\nD.\ny greater than 2 \u221a(2) or y less than \u2212 2 \u221a(2)\ny>2\n2\u00a0or\u00a0y<\u22122\n2\nPart 10\nChoose the correct graph below.\nA.\n-4\n4\n-5\n5\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 4 to 4 in increments of 1.0 and a vertical y-axis labeled from negative 5 to 5 in increments of 1.0. From left to right, a curve rises from the point (negative 2, 0) to a maximum in quadrant 2, falls passing through the origin to a minimum in quadrant 4, and rises to the point (2, 0). All coordinates are approximate.\nB.\n-4\n4\n-5\n5\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 4 to 4 in increments of 1.0 and a vertical y-axis labeled from negative 5 to 5 in increments of 1.0. From left to right, a curve falls from the point (negative 2.8, 0) to a minimum in quadrant 3, rises passing through the origin to a maximum in quadrant 1, and falls to the point (2.8, 0). All coordinates are approximate.\nC.\n-4\n4\n-5\n5\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 4 to 4 in increments of 1.0 and a vertical y-axis labeled from negative 5 to 5 in increments of 1.0. From left to right, a curve rises from the point (negative 2.8, 0) to a maximum in quadrant 2, falls passing through the origin to a minimum in quadrant 4, and rises to the point (2.8, 0). All coordinates are approximate.\nD.\n-4\n4\n-5\n5\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 4 to 4 in increments of 1.0 and a vertical y-axis labeled from negative 5 to 5 in increments of 1.0. From left to right, a curve falls from the point (negative 2, 0) to a minimum in quadrant 3, rises passing through the origin to a maximum in quadrant 1, and falls to the point (2, 0). All coordinates are approximate.",
+    "fullText": "*18.\nPart 1\nSketch the indicated curve. Use a graphing calculator to check the graph.\ny = x\n8 − x²\nPart 1\nWhat are the x-intercepts, if any? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe x-intercept(s) is/are\n(Type an ordered pair. Type exact answers for each coordinate, using radicals as needed. Use a comma to separate answers as needed.)\nB.\nThere is no x-intercept.\nPart 2\nWhat are the y-intercepts, if any? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe y-intercept(s) is/are\n(Type an ordered pair. Type exact answers for each coordinate, using radicals as needed. Use a comma to separate answers as needed.)\nB.\nThere is no y-intercept.\nPart 3\nIs the graph of\ny = x\n8−x2 symmetric to the x-axis, the y-axis, or the origin?\nA.\nYes , the graph is symmetric to the x-axis.\nB.\nYes , the graph is symmetric to the y-axis.\nC.\nYes, the graph is symmetric to the origin.\nD.\nNo, there are no symmetries to the graph.\nPart 4\nWhat happens to the function as x becomes very large in the positive direction, x\nright arrow\n→\ninfinity\n∞, and as x becomes very large in the negative direction, x\nright arrow\n→\ninfinity\n∞? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nAs x\nright arrow\n→\ninfinity\n∞,\ny = x\n8 − x²\nright arrow\n→\n, and as x\nright arrow\n→\ninfinity\n∞,\ny = x\n8 − x²\nright arrow\n→\nB.\nAs x\nright arrow\n→\ninfinity\n∞,\ny = x\n8 − x²\nright arrow\n→\n, and x cannot become very large in the negative direction because the domain is bounded in the negative direction.\nC.\nAs x\nright arrow\n→\ninfinity\n∞,\ny = x\n8 − x²\nright arrow\n→\n, and x cannot become very large in the positive direction because the domain is bounded in the positive direction.\nD.\nThe values of x cannot become large in either direction because the domain is bounded on both sides.\nPart 5\nIdentify the vertical asymptote(s), if any. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nx\n(Use a comma to separate answers as needed.)\nB.\nThere is no vertical asymptote.\nPart 6\nWhat is the first derivative of y?\ny font size decreased by 8 prime\ny ′\nnbsp (nothing)/(√(nothing))\nPart 7\nWhat is the second derivative of y?\ny font size decreased by 8 double prime\ny ′′\nPart 8\nWhat is the domain of the function?\nA.\n− 2 √(2) less than or = x less than or = 2 √(2)\n− 2\n2≤x≤2\n2\nB.\nnegative 8 less than x less than 8\n−8<x<8\nC.\nnegative 4 less than x less than 4\n−4<x<4\nD.\nx greater than 2 √(2) or x less than − 2 √(2)\nx>2\n2 or x<−2\n2\nPart 9\nWhat is the range of the function?\nA.\nnegative 8 less than y less than 8\n−8<y<8\nB.\n− 2 √(2) less than or = y less than or = 2 √(2)\n− 2\n2≤y≤2\n2\nC.\n− 4 less than or = y less than or = 4\n−4≤y≤4\nD.\ny greater than 2 √(2) or y less than − 2 √(2)\ny>2\n2 or y<−2\n2\nPart 10\nChoose the correct graph below.\nA.\n-4\n4\n-5\n5\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 4 to 4 in increments of 1.0 and a vertical y-axis labeled from negative 5 to 5 in increments of 1.0. From left to right, a curve rises from the point (negative 2, 0) to a maximum in quadrant 2, falls passing through the origin to a minimum in quadrant 4, and rises to the point (2, 0). All coordinates are approximate.\nB.\n-4\n4\n-5\n5\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 4 to 4 in increments of 1.0 and a vertical y-axis labeled from negative 5 to 5 in increments of 1.0. From left to right, a curve falls from the point (negative 2.8, 0) to a minimum in quadrant 3, rises passing through the origin to a maximum in quadrant 1, and falls to the point (2.8, 0). All coordinates are approximate.\nC.\n-4\n4\n-5\n5\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 4 to 4 in increments of 1.0 and a vertical y-axis labeled from negative 5 to 5 in increments of 1.0. From left to right, a curve rises from the point (negative 2.8, 0) to a maximum in quadrant 2, falls passing through the origin to a minimum in quadrant 4, and rises to the point (2.8, 0). All coordinates are approximate.\nD.\n-4\n4\n-5\n5\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 4 to 4 in increments of 1.0 and a vertical y-axis labeled from negative 5 to 5 in increments of 1.0. From left to right, a curve falls from the point (negative 2, 0) to a minimum in quadrant 3, rises passing through the origin to a maximum in quadrant 1, and falls to the point (2, 0). All coordinates are approximate.",
     "parts": [
       {
         "label": "Problem",
@@ -3358,7 +3340,7 @@ const PROBLEMS = {
       },
       {
         "label": "Part 1",
-        "text": "Sketch the indicated curve. Use a graphing calculator to check the graph.\ny = x\n8 \u2212 x\u00b2"
+        "text": "Sketch the indicated curve. Use a graphing calculator to check the graph.\ny = x\n8 − x²"
       },
       {
         "label": "Part 1",
@@ -3386,7 +3368,7 @@ const PROBLEMS = {
       },
       {
         "label": "Part 3",
-        "text": "Is the graph of\ny = x\n8\u2212x2 symmetric to the x-axis, the y-axis, or the origin?"
+        "text": "Is the graph of\ny = x\n8−x2 symmetric to the x-axis, the y-axis, or the origin?"
       },
       {
         "label": "A.",
@@ -3406,19 +3388,19 @@ const PROBLEMS = {
       },
       {
         "label": "Part 4",
-        "text": "What happens to the function as x becomes very large in the positive direction, x\nright arrow\n\u2192\ninfinity\n\u221e, and as x becomes very large in the negative direction, x\nright arrow\n\u2192\ninfinity\n\u221e? Select the correct choice below and, if necessary, fill in the answer box to complete your choice."
+        "text": "What happens to the function as x becomes very large in the positive direction, x\nright arrow\n→\ninfinity\n∞, and as x becomes very large in the negative direction, x\nright arrow\n→\ninfinity\n∞? Select the correct choice below and, if necessary, fill in the answer box to complete your choice."
       },
       {
         "label": "A.",
-        "text": "As x\nright arrow\n\u2192\ninfinity\n\u221e,\ny = x\n8 \u2212 x\u00b2\nright arrow\n\u2192\n, and as x\nright arrow\n\u2192\ninfinity\n\u221e,\ny = x\n8 \u2212 x\u00b2\nright arrow\n\u2192"
+        "text": "As x\nright arrow\n→\ninfinity\n∞,\ny = x\n8 − x²\nright arrow\n→\n, and as x\nright arrow\n→\ninfinity\n∞,\ny = x\n8 − x²\nright arrow\n→"
       },
       {
         "label": "B.",
-        "text": "As x\nright arrow\n\u2192\ninfinity\n\u221e,\ny = x\n8 \u2212 x\u00b2\nright arrow\n\u2192\n, and x cannot become very large in the negative direction because the domain is bounded in the negative direction."
+        "text": "As x\nright arrow\n→\ninfinity\n∞,\ny = x\n8 − x²\nright arrow\n→\n, and x cannot become very large in the negative direction because the domain is bounded in the negative direction."
       },
       {
         "label": "C.",
-        "text": "As x\nright arrow\n\u2192\ninfinity\n\u221e,\ny = x\n8 \u2212 x\u00b2\nright arrow\n\u2192\n, and x cannot become very large in the positive direction because the domain is bounded in the positive direction."
+        "text": "As x\nright arrow\n→\ninfinity\n∞,\ny = x\n8 − x²\nright arrow\n→\n, and x cannot become very large in the positive direction because the domain is bounded in the positive direction."
       },
       {
         "label": "D.",
@@ -3438,11 +3420,11 @@ const PROBLEMS = {
       },
       {
         "label": "Part 6",
-        "text": "What is the first derivative of y?\ny font size decreased by 8 prime\ny\u00a0\u2032\nnbsp (nothing)/(\u221a(nothing))"
+        "text": "What is the first derivative of y?\ny font size decreased by 8 prime\ny ′\nnbsp (nothing)/(√(nothing))"
       },
       {
         "label": "Part 7",
-        "text": "What is the second derivative of y?\ny font size decreased by 8 double prime\ny\u00a0\u2032\u2032"
+        "text": "What is the second derivative of y?\ny font size decreased by 8 double prime\ny ′′"
       },
       {
         "label": "Part 8",
@@ -3450,19 +3432,19 @@ const PROBLEMS = {
       },
       {
         "label": "A.",
-        "text": "\u2212 2 \u221a(2) less than or = x less than or = 2 \u221a(2)\n\u2212 2\n2\u2264x\u22642\n2"
+        "text": "− 2 √(2) less than or = x less than or = 2 √(2)\n− 2\n2≤x≤2\n2"
       },
       {
         "label": "B.",
-        "text": "negative 8 less than x less than 8\n\u22128<x<8"
+        "text": "negative 8 less than x less than 8\n−8<x<8"
       },
       {
         "label": "C.",
-        "text": "negative 4 less than x less than 4\n\u22124<x<4"
+        "text": "negative 4 less than x less than 4\n−4<x<4"
       },
       {
         "label": "D.",
-        "text": "x greater than 2 \u221a(2) or x less than \u2212 2 \u221a(2)\nx>2\n2\u00a0or\u00a0x<\u22122\n2"
+        "text": "x greater than 2 √(2) or x less than − 2 √(2)\nx>2\n2 or x<−2\n2"
       },
       {
         "label": "Part 9",
@@ -3470,19 +3452,19 @@ const PROBLEMS = {
       },
       {
         "label": "A.",
-        "text": "negative 8 less than y less than 8\n\u22128<y<8"
+        "text": "negative 8 less than y less than 8\n−8<y<8"
       },
       {
         "label": "B.",
-        "text": "\u2212 2 \u221a(2) less than or = y less than or = 2 \u221a(2)\n\u2212 2\n2\u2264y\u22642\n2"
+        "text": "− 2 √(2) less than or = y less than or = 2 √(2)\n− 2\n2≤y≤2\n2"
       },
       {
         "label": "C.",
-        "text": "\u2212 4 less than or = y less than or = 4\n\u22124\u2264y\u22644"
+        "text": "− 4 less than or = y less than or = 4\n−4≤y≤4"
       },
       {
         "label": "D.",
-        "text": "y greater than 2 \u221a(2) or y less than \u2212 2 \u221a(2)\ny>2\n2\u00a0or\u00a0y<\u22122\n2"
+        "text": "y greater than 2 √(2) or y less than − 2 √(2)\ny>2\n2 or y<−2\n2"
       },
       {
         "label": "Part 10",
@@ -3509,7 +3491,7 @@ const PROBLEMS = {
   },
   "24.6.17": {
     "summary": "Sketch the indicated curve. Use a graphing calculator to check the graph.",
-    "fullText": "*19.\nPart 1\nSketch the indicated curve. Use a graphing calculator to check the graph.\ny =\n2x\nx\u00b2 \u2212 36\nPart 1\nWhat are the x-intercepts, if any? Select the correct choice below and fill in any answer boxes within your choice.\nA.\n(Simplify your answer. Type an ordered pair. Use integers or fractions for any numbers in the expression. Use a comma to separate answers as needed.)\nB.\nThere is no x-intercept.\nPart 2\nWhat are the y-intercepts, if any? Select the correct choice below and fill in any answer boxes within your choice.\nA.\n(Simplify your answer. Type an ordered pair. Use integers or fractions for any numbers in the expression. Use a comma to separate answers as needed.)\nB.\nThere is no y-intercept.\nPart 3\nIs the graph of\ny =\n2x\nx\u00b2 \u2212 36\nsymmetric to the x-axis, the y-axis, or the origin?\nA.\nYes, the graph is symmetric to the origin.\nB.\nYes , the graph is symmetric to the x-axis.\nC.\nNo, there are no symmetries to the graph.\nD.\nYes , the graph is symmetric to the y-axis.\nPart 4\nWhat happens to the function as x becomes very large, x\nright arrow\n\u2192\ninfinity\n\u221e, and as x becomes very small, x\nright arrow\n\u2192\ninfinity\n\u221e? Select the correct choice below and fill in any answer boxes within your choice.\nA.\nAs x\nright arrow\n\u2192\ninfinity\n\u221e,\ny =\n2x\nx\u00b2 \u2212 36\nright arrow\n\u2192\n, and as x\nright arrow\n\u2192\ninfinity\n\u221e,\ny =\n2x\nx\u00b2 \u2212 36\nright arrow\n\u2192\nB.\nThere is no solution.\nPart 5\nIdentify the vertical asymptote(s), if any. Select the correct choice below and fill in any answer boxes within your choice.\nA.\nx\n(Use a comma to separate answers as needed.)\nB.\nThere is no vertical asymptote.\nPart 6\nWhat is the first derivative of y?\nA.\ny font size decreased by 8 prime = (2 (x\u00b2 + 36))/((x\u00b2 \u2212 36) \u00b2)\ny\u00a0\u2032 =\n2x\u00b2 + 36\nx\u00b2 \u2212 362\nB.\ny font size decreased by 8 prime = \u2212 (6 (x\u00b2 + 12))/((x\u00b2 \u2212 36) \u00b2)\ny\u00a0\u2032 = \u2212\n6x\u00b2 + 12\nx\u00b2 \u2212 362\nC.\ny font size decreased by 8 prime = (6 (x\u00b2 + 12))/((x\u00b2 \u2212 36) \u00b2)\ny\u00a0\u2032 =\n6x\u00b2 + 12\nx\u00b2 \u2212 362\nD.\ny font size decreased by 8 prime = \u2212 (2 (x\u00b2 + 36))/((x\u00b2 \u2212 36) \u00b2)\ny\u00a0\u2032 = \u2212\n2x\u00b2 + 36\nx\u00b2 \u2212 362\nPart 7\nWhat is the second derivative of y?\ny font size decreased by 8 double prime\ny\u00a0\u2032\u2032\nPart 8\nWhat is the domain of the function?\nA.\nAll real numbers\nB.\nStartSet x vertical line x not = 0 EndSet\n{x\u00a0x\u22600}\nC.\nStartSet x vertical line x not = + or \u2212 6 EndSet\n{x\u00a0x\u2260\u00b16}\nD.\nStartSet x vertical line x not = 2 EndSet\n{x\u00a0x\u22602}\nPart 9\nWhat is the range of the function?\nA.\nAll real numbers\nB.\nStartSet y vertical line y not = + or \u2212 6 EndSet\n{y\u00a0y\u2260\u00b16}\nC.\nStartSet y vertical line y not = 2 EndSet\n{y\u00a0y\u22602}\nD.\nStartSet y vertical line y not = 0 EndSet\n{y\u00a0y\u22600}\nPart 10\nChoose the correct graph below.\nA.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 10 to 10 in increments of 2. A curve falls from left to right between the asymptotes x = negative 6 and x = 6, passing through (0, 0).\nB.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 10 to 10 in increments of 2. A graph has three branches and asymptotes x = negative 6 and x = 6. The first branch is below the x-axis and to the left of x = negative 6, approaching both. The second branch falls from left to right between the asymptotes, passing through (0, 0). The third branch is above the x-axis and to the right of x = 6, approaching both.\nC.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 10 to 10 in increments of 2. A graph has two branches and asymptotes x = negative 6 and x = 6. The first branch is above the x-axis and to the left of x = negative 6, approaching both. The second branch is below the x-axis and to the right of x = 6, approaching both.\nD.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 10 to 10 in increments of 2. A graph has three branches and asymptotes x = negative 6 and x = 6. The first branch is above the x-axis and to the left of x = negative 6, approaching both. The second branch rises from left to right between the asymptotes, passing through (0, 0). The third branch is below the x-axis and to the right of x = 6, approaching both.",
+    "fullText": "*19.\nPart 1\nSketch the indicated curve. Use a graphing calculator to check the graph.\ny =\n2x\nx² − 36\nPart 1\nWhat are the x-intercepts, if any? Select the correct choice below and fill in any answer boxes within your choice.\nA.\n(Simplify your answer. Type an ordered pair. Use integers or fractions for any numbers in the expression. Use a comma to separate answers as needed.)\nB.\nThere is no x-intercept.\nPart 2\nWhat are the y-intercepts, if any? Select the correct choice below and fill in any answer boxes within your choice.\nA.\n(Simplify your answer. Type an ordered pair. Use integers or fractions for any numbers in the expression. Use a comma to separate answers as needed.)\nB.\nThere is no y-intercept.\nPart 3\nIs the graph of\ny =\n2x\nx² − 36\nsymmetric to the x-axis, the y-axis, or the origin?\nA.\nYes, the graph is symmetric to the origin.\nB.\nYes , the graph is symmetric to the x-axis.\nC.\nNo, there are no symmetries to the graph.\nD.\nYes , the graph is symmetric to the y-axis.\nPart 4\nWhat happens to the function as x becomes very large, x\nright arrow\n→\ninfinity\n∞, and as x becomes very small, x\nright arrow\n→\ninfinity\n∞? Select the correct choice below and fill in any answer boxes within your choice.\nA.\nAs x\nright arrow\n→\ninfinity\n∞,\ny =\n2x\nx² − 36\nright arrow\n→\n, and as x\nright arrow\n→\ninfinity\n∞,\ny =\n2x\nx² − 36\nright arrow\n→\nB.\nThere is no solution.\nPart 5\nIdentify the vertical asymptote(s), if any. Select the correct choice below and fill in any answer boxes within your choice.\nA.\nx\n(Use a comma to separate answers as needed.)\nB.\nThere is no vertical asymptote.\nPart 6\nWhat is the first derivative of y?\nA.\ny font size decreased by 8 prime = (2 (x² + 36))/((x² − 36) ²)\ny ′ =\n2x² + 36\nx² − 362\nB.\ny font size decreased by 8 prime = − (6 (x² + 12))/((x² − 36) ²)\ny ′ = −\n6x² + 12\nx² − 362\nC.\ny font size decreased by 8 prime = (6 (x² + 12))/((x² − 36) ²)\ny ′ =\n6x² + 12\nx² − 362\nD.\ny font size decreased by 8 prime = − (2 (x² + 36))/((x² − 36) ²)\ny ′ = −\n2x² + 36\nx² − 362\nPart 7\nWhat is the second derivative of y?\ny font size decreased by 8 double prime\ny ′′\nPart 8\nWhat is the domain of the function?\nA.\nAll real numbers\nB.\nStartSet x vertical line x not = 0 EndSet\n{x x≠0}\nC.\nStartSet x vertical line x not = + or − 6 EndSet\n{x x≠±6}\nD.\nStartSet x vertical line x not = 2 EndSet\n{x x≠2}\nPart 9\nWhat is the range of the function?\nA.\nAll real numbers\nB.\nStartSet y vertical line y not = + or − 6 EndSet\n{y y≠±6}\nC.\nStartSet y vertical line y not = 2 EndSet\n{y y≠2}\nD.\nStartSet y vertical line y not = 0 EndSet\n{y y≠0}\nPart 10\nChoose the correct graph below.\nA.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 10 to 10 in increments of 2. A curve falls from left to right between the asymptotes x = negative 6 and x = 6, passing through (0, 0).\nB.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 10 to 10 in increments of 2. A graph has three branches and asymptotes x = negative 6 and x = 6. The first branch is below the x-axis and to the left of x = negative 6, approaching both. The second branch falls from left to right between the asymptotes, passing through (0, 0). The third branch is above the x-axis and to the right of x = 6, approaching both.\nC.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 10 to 10 in increments of 2. A graph has two branches and asymptotes x = negative 6 and x = 6. The first branch is above the x-axis and to the left of x = negative 6, approaching both. The second branch is below the x-axis and to the right of x = 6, approaching both.\nD.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 10 to 10 in increments of 2. A graph has three branches and asymptotes x = negative 6 and x = 6. The first branch is above the x-axis and to the left of x = negative 6, approaching both. The second branch rises from left to right between the asymptotes, passing through (0, 0). The third branch is below the x-axis and to the right of x = 6, approaching both.",
     "parts": [
       {
         "label": "Problem",
@@ -3517,7 +3499,7 @@ const PROBLEMS = {
       },
       {
         "label": "Part 1",
-        "text": "Sketch the indicated curve. Use a graphing calculator to check the graph.\ny =\n2x\nx\u00b2 \u2212 36"
+        "text": "Sketch the indicated curve. Use a graphing calculator to check the graph.\ny =\n2x\nx² − 36"
       },
       {
         "label": "Part 1",
@@ -3545,7 +3527,7 @@ const PROBLEMS = {
       },
       {
         "label": "Part 3",
-        "text": "Is the graph of\ny =\n2x\nx\u00b2 \u2212 36\nsymmetric to the x-axis, the y-axis, or the origin?"
+        "text": "Is the graph of\ny =\n2x\nx² − 36\nsymmetric to the x-axis, the y-axis, or the origin?"
       },
       {
         "label": "A.",
@@ -3565,11 +3547,11 @@ const PROBLEMS = {
       },
       {
         "label": "Part 4",
-        "text": "What happens to the function as x becomes very large, x\nright arrow\n\u2192\ninfinity\n\u221e, and as x becomes very small, x\nright arrow\n\u2192\ninfinity\n\u221e? Select the correct choice below and fill in any answer boxes within your choice."
+        "text": "What happens to the function as x becomes very large, x\nright arrow\n→\ninfinity\n∞, and as x becomes very small, x\nright arrow\n→\ninfinity\n∞? Select the correct choice below and fill in any answer boxes within your choice."
       },
       {
         "label": "A.",
-        "text": "As x\nright arrow\n\u2192\ninfinity\n\u221e,\ny =\n2x\nx\u00b2 \u2212 36\nright arrow\n\u2192\n, and as x\nright arrow\n\u2192\ninfinity\n\u221e,\ny =\n2x\nx\u00b2 \u2212 36\nright arrow\n\u2192"
+        "text": "As x\nright arrow\n→\ninfinity\n∞,\ny =\n2x\nx² − 36\nright arrow\n→\n, and as x\nright arrow\n→\ninfinity\n∞,\ny =\n2x\nx² − 36\nright arrow\n→"
       },
       {
         "label": "B.",
@@ -3593,23 +3575,23 @@ const PROBLEMS = {
       },
       {
         "label": "A.",
-        "text": "y font size decreased by 8 prime = (2 (x\u00b2 + 36))/((x\u00b2 \u2212 36) \u00b2)\ny\u00a0\u2032 =\n2x\u00b2 + 36\nx\u00b2 \u2212 362"
+        "text": "y font size decreased by 8 prime = (2 (x² + 36))/((x² − 36) ²)\ny ′ =\n2x² + 36\nx² − 362"
       },
       {
         "label": "B.",
-        "text": "y font size decreased by 8 prime = \u2212 (6 (x\u00b2 + 12))/((x\u00b2 \u2212 36) \u00b2)\ny\u00a0\u2032 = \u2212\n6x\u00b2 + 12\nx\u00b2 \u2212 362"
+        "text": "y font size decreased by 8 prime = − (6 (x² + 12))/((x² − 36) ²)\ny ′ = −\n6x² + 12\nx² − 362"
       },
       {
         "label": "C.",
-        "text": "y font size decreased by 8 prime = (6 (x\u00b2 + 12))/((x\u00b2 \u2212 36) \u00b2)\ny\u00a0\u2032 =\n6x\u00b2 + 12\nx\u00b2 \u2212 362"
+        "text": "y font size decreased by 8 prime = (6 (x² + 12))/((x² − 36) ²)\ny ′ =\n6x² + 12\nx² − 362"
       },
       {
         "label": "D.",
-        "text": "y font size decreased by 8 prime = \u2212 (2 (x\u00b2 + 36))/((x\u00b2 \u2212 36) \u00b2)\ny\u00a0\u2032 = \u2212\n2x\u00b2 + 36\nx\u00b2 \u2212 362"
+        "text": "y font size decreased by 8 prime = − (2 (x² + 36))/((x² − 36) ²)\ny ′ = −\n2x² + 36\nx² − 362"
       },
       {
         "label": "Part 7",
-        "text": "What is the second derivative of y?\ny font size decreased by 8 double prime\ny\u00a0\u2032\u2032"
+        "text": "What is the second derivative of y?\ny font size decreased by 8 double prime\ny ′′"
       },
       {
         "label": "Part 8",
@@ -3621,15 +3603,15 @@ const PROBLEMS = {
       },
       {
         "label": "B.",
-        "text": "StartSet x vertical line x not = 0 EndSet\n{x\u00a0x\u22600}"
+        "text": "StartSet x vertical line x not = 0 EndSet\n{x x≠0}"
       },
       {
         "label": "C.",
-        "text": "StartSet x vertical line x not = + or \u2212 6 EndSet\n{x\u00a0x\u2260\u00b16}"
+        "text": "StartSet x vertical line x not = + or − 6 EndSet\n{x x≠±6}"
       },
       {
         "label": "D.",
-        "text": "StartSet x vertical line x not = 2 EndSet\n{x\u00a0x\u22602}"
+        "text": "StartSet x vertical line x not = 2 EndSet\n{x x≠2}"
       },
       {
         "label": "Part 9",
@@ -3641,15 +3623,15 @@ const PROBLEMS = {
       },
       {
         "label": "B.",
-        "text": "StartSet y vertical line y not = + or \u2212 6 EndSet\n{y\u00a0y\u2260\u00b16}"
+        "text": "StartSet y vertical line y not = + or − 6 EndSet\n{y y≠±6}"
       },
       {
         "label": "C.",
-        "text": "StartSet y vertical line y not = 2 EndSet\n{y\u00a0y\u22602}"
+        "text": "StartSet y vertical line y not = 2 EndSet\n{y y≠2}"
       },
       {
         "label": "D.",
-        "text": "StartSet y vertical line y not = 0 EndSet\n{y\u00a0y\u22600}"
+        "text": "StartSet y vertical line y not = 0 EndSet\n{y y≠0}"
       },
       {
         "label": "Part 10",
@@ -3676,7 +3658,7 @@ const PROBLEMS = {
   },
   "5.4.2": {
     "summary": "Complete parts (a) through (j) below for the function",
-    "fullText": "*20.\nPart 1\nComplete parts (a) through (j) below for the function\nf(x) f(x) = \u2212 8 x\u00b3 \u2212 24 x\u00b2 + 360 x \u2212 11 \u2212 8x\u00b3 \u2212 24x\u00b2 + 360x \u2212 11.\nPart 1\n(a) Find the domain.\nThe domain is\n(Type your answer in interval notation.)\nPart 2\n(b) Find the first derivative.\nf prime (x)\nf\u2032(x)\nPart 3\n(c) Find all critical points. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe critical point(s) is/are\n(Type an ordered pair. Use a comma to separate answers as needed.)\nB.\nThere are no critical points.\nPart 4\n(d) Find the open intervals where f is increasing or decreasing.\nFind the open intervals where f is increasing. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe function is increasing on\n(Type your answer in interval notation. Use a comma to separate answers as needed.)\nB.\nThe function is not increasing on any interval.\nPart 5\nFind the open intervals where f is decreasing. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe function is decreasing on\n(Type your answer in interval notation. Use a comma to separate answers as needed.)\nB.\nThe function is not decreasing on any interval.\nPart 6\n(e) Identify each critical point as a relative maximum, relative minimum, or neither.\nIdentify which critical points are relative maxima. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThere is a relative maximum at\n(Type an ordered pair. Use a comma to separate answers as needed.)\nB.\nThere are no critical points that are relative maxima.\nPart 7\nIdentify which critical points are relative minima. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThere is a relative minimum at\n(Type an ordered pair. Use a comma to separate answers as needed.)\nB.\nThere are no critical points that are relative minima.\nPart 8\nIdentify which critical points are neither relative maxima nor relative minima. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThere is neither a relative maximum nor a relative minimum at\n(Type an ordered pair. Use a comma to separate answers as needed.)\nB.\nThere are no critical points that are neither relative maxima nor relative minima.\nPart 9\n(f) Find the second derivative.\nf double prime (x)\nf\u2032\u2032(x)\nPart 10\n(g) Find all inflection points. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThere is an inflection point at\n(Type an ordered pair. Use a comma to separate answers as needed.)\nB.\nThere are no inflection points.\nPart 11\n(h) Find all the open intervals where f is concave upward or concave downward.\nFind all the open intervals where f is concave upward. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe function is concave upward on\n(Type your answer in interval notation. Use a comma to separate answers as needed.)\nB.\nThe function is not concave upward on any intervals.\nPart 12\nFind all the open intervals where f is concave downward. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe function is concave downward on\n(Type your answer in interval notation. Use a comma to separate answers as needed.)\nB.\nThe function is not concave downward on any intervals.\nPart 13\n(i) List all asymptotes.\nIdentify any vertical asymptotes. Select the correct choice below and, if necessary, fill in the answer box(es) to complete your choice.\nA.\nThere is a single vertical asymptote\n(Type an equation.)\nB.\nThere are two vertical asymptotes. The leftmost asymptote is\nand the rightmost asymptote is\n(Type equations.)\nC.\nThe function does not have any vertical asymptotes.\nPart 14\nIdentify any horizontal or oblique asymptote. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThere is a horizontal asymptote\n(Type an equation.)\nB.\nThere is an oblique asymptote\n(Type an equation.)\nC.\nThe function does not have a horizontal or oblique asymptote.\nPart 15\n(j) Sketch the graph of the function. Choose the correct answer below.\nA.\n-15\n15\n-1600\n800\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 15 to 15 in increments of 3 and a vertical y-axis labeled from negative 1600 to 800 in increments of 100. From left to right, a curve falls at a decreasing rate to the point (negative 5, negative 1400), rises at an increasing rate to the point (negative 1, negative 400) and then at a decreasing rate passing through the point (0, negative 11) to the point (3, 650), and then falls at an increasing rate. All coordinates are approximate.\nB.\n-15\n15\n-800\n1600\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 15 to 15 in increments of 3 and a vertical y-axis labeled from negative 800 to 1600 in increments of 100. From left to right, a curve rises at a decreasing rate to the point (negative 5, 1400), falls at an increasing rate to the point (negative 1, 400) and then at a decreasing rate passing through the point (0, 0) to the point (3, negative 650), and then rises at an increasing rate. All coordinates are approximate.\nC.\n-30\n30\n-800\n1600\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 30 to 30 in increments of 6 and a vertical y-axis labeled from negative 800 to 1600 in increments of 100. From left to right, a curve rises at a decreasing rate to the point (negative 9, 800), falls at an increasing rate to the point (negative 3, 350) and then at a decreasing rate passing through the point (0, 10) to the point (3, negative 110), and then rises at an increasing rate. All coordinates are approximate.\nD.\n-30\n30\n-1600\n800\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 30 to 30 in increments of 6 and a vertical y-axis labeled from negative 1600 to 800 in increments of 100. From left to right, a curve falls at a decreasing rate to the point (negative 9, negative 800), rises at an increasing rate to the point (negative 3, negative 350) and then at a decreasing rate passing through the point (0, negative 10) to the point (3, 110), and then falls at an increasing rate. All coordinates are approximate.",
+    "fullText": "*20.\nPart 1\nComplete parts (a) through (j) below for the function\nf(x) f(x) = − 8 x³ − 24 x² + 360 x − 11 − 8x³ − 24x² + 360x − 11.\nPart 1\n(a) Find the domain.\nThe domain is\n(Type your answer in interval notation.)\nPart 2\n(b) Find the first derivative.\nf prime (x)\nf′(x)\nPart 3\n(c) Find all critical points. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe critical point(s) is/are\n(Type an ordered pair. Use a comma to separate answers as needed.)\nB.\nThere are no critical points.\nPart 4\n(d) Find the open intervals where f is increasing or decreasing.\nFind the open intervals where f is increasing. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe function is increasing on\n(Type your answer in interval notation. Use a comma to separate answers as needed.)\nB.\nThe function is not increasing on any interval.\nPart 5\nFind the open intervals where f is decreasing. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe function is decreasing on\n(Type your answer in interval notation. Use a comma to separate answers as needed.)\nB.\nThe function is not decreasing on any interval.\nPart 6\n(e) Identify each critical point as a relative maximum, relative minimum, or neither.\nIdentify which critical points are relative maxima. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThere is a relative maximum at\n(Type an ordered pair. Use a comma to separate answers as needed.)\nB.\nThere are no critical points that are relative maxima.\nPart 7\nIdentify which critical points are relative minima. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThere is a relative minimum at\n(Type an ordered pair. Use a comma to separate answers as needed.)\nB.\nThere are no critical points that are relative minima.\nPart 8\nIdentify which critical points are neither relative maxima nor relative minima. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThere is neither a relative maximum nor a relative minimum at\n(Type an ordered pair. Use a comma to separate answers as needed.)\nB.\nThere are no critical points that are neither relative maxima nor relative minima.\nPart 9\n(f) Find the second derivative.\nf double prime (x)\nf′′(x)\nPart 10\n(g) Find all inflection points. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThere is an inflection point at\n(Type an ordered pair. Use a comma to separate answers as needed.)\nB.\nThere are no inflection points.\nPart 11\n(h) Find all the open intervals where f is concave upward or concave downward.\nFind all the open intervals where f is concave upward. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe function is concave upward on\n(Type your answer in interval notation. Use a comma to separate answers as needed.)\nB.\nThe function is not concave upward on any intervals.\nPart 12\nFind all the open intervals where f is concave downward. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe function is concave downward on\n(Type your answer in interval notation. Use a comma to separate answers as needed.)\nB.\nThe function is not concave downward on any intervals.\nPart 13\n(i) List all asymptotes.\nIdentify any vertical asymptotes. Select the correct choice below and, if necessary, fill in the answer box(es) to complete your choice.\nA.\nThere is a single vertical asymptote\n(Type an equation.)\nB.\nThere are two vertical asymptotes. The leftmost asymptote is\nand the rightmost asymptote is\n(Type equations.)\nC.\nThe function does not have any vertical asymptotes.\nPart 14\nIdentify any horizontal or oblique asymptote. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThere is a horizontal asymptote\n(Type an equation.)\nB.\nThere is an oblique asymptote\n(Type an equation.)\nC.\nThe function does not have a horizontal or oblique asymptote.\nPart 15\n(j) Sketch the graph of the function. Choose the correct answer below.\nA.\n-15\n15\n-1600\n800\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 15 to 15 in increments of 3 and a vertical y-axis labeled from negative 1600 to 800 in increments of 100. From left to right, a curve falls at a decreasing rate to the point (negative 5, negative 1400), rises at an increasing rate to the point (negative 1, negative 400) and then at a decreasing rate passing through the point (0, negative 11) to the point (3, 650), and then falls at an increasing rate. All coordinates are approximate.\nB.\n-15\n15\n-800\n1600\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 15 to 15 in increments of 3 and a vertical y-axis labeled from negative 800 to 1600 in increments of 100. From left to right, a curve rises at a decreasing rate to the point (negative 5, 1400), falls at an increasing rate to the point (negative 1, 400) and then at a decreasing rate passing through the point (0, 0) to the point (3, negative 650), and then rises at an increasing rate. All coordinates are approximate.\nC.\n-30\n30\n-800\n1600\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 30 to 30 in increments of 6 and a vertical y-axis labeled from negative 800 to 1600 in increments of 100. From left to right, a curve rises at a decreasing rate to the point (negative 9, 800), falls at an increasing rate to the point (negative 3, 350) and then at a decreasing rate passing through the point (0, 10) to the point (3, negative 110), and then rises at an increasing rate. All coordinates are approximate.\nD.\n-30\n30\n-1600\n800\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 30 to 30 in increments of 6 and a vertical y-axis labeled from negative 1600 to 800 in increments of 100. From left to right, a curve falls at a decreasing rate to the point (negative 9, negative 800), rises at an increasing rate to the point (negative 3, negative 350) and then at a decreasing rate passing through the point (0, negative 10) to the point (3, 110), and then falls at an increasing rate. All coordinates are approximate.",
     "parts": [
       {
         "label": "Problem",
@@ -3684,7 +3666,7 @@ const PROBLEMS = {
       },
       {
         "label": "Part 1",
-        "text": "Complete parts (a) through (j) below for the function\nf(x) f(x) = \u2212 8 x\u00b3 \u2212 24 x\u00b2 + 360 x \u2212 11 \u2212 8x\u00b3 \u2212 24x\u00b2 + 360x \u2212 11."
+        "text": "Complete parts (a) through (j) below for the function\nf(x) f(x) = − 8 x³ − 24 x² + 360 x − 11 − 8x³ − 24x² + 360x − 11."
       },
       {
         "label": "Part 1",
@@ -3692,7 +3674,7 @@ const PROBLEMS = {
       },
       {
         "label": "Part 2",
-        "text": "(b) Find the first derivative.\nf prime (x)\nf\u2032(x)"
+        "text": "(b) Find the first derivative.\nf prime (x)\nf′(x)"
       },
       {
         "label": "Part 3",
@@ -3768,7 +3750,7 @@ const PROBLEMS = {
       },
       {
         "label": "Part 9",
-        "text": "(f) Find the second derivative.\nf double prime (x)\nf\u2032\u2032(x)"
+        "text": "(f) Find the second derivative.\nf double prime (x)\nf′′(x)"
       },
       {
         "label": "Part 10",
@@ -3861,8 +3843,8 @@ const PROBLEMS = {
     ]
   },
   "5.4.3-Setup & Solve": {
-    "summary": "Graph the function, considering the domain, critical points, symmetry, relative extrema,\u2026",
-    "fullText": "*21.\nPart 1\nGraph the function, considering the domain, critical points, symmetry, relative extrema, regions where the function is increasing or decreasing, inflection points, regions where the function is concave upward or concave downward, intercepts where possible, and asymptotes where applicable.\nf(x) = \u2212 6x\u00b3 \u2212 18x\u00b2 + 270x \u2212 13\nPart 1\nFind the first and second derivatives of f(x).\nf\nprime\n\u2032(x)\nf\ndouble prime\n\u2032\u2032(x)\nPart 2\nChoose the correct graph below.\nA.\n-15\n15\n-1200\n600\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 15 to 15 and a vertical y-axis labeled from negative 1200 to 600. From left to right, a curve falls at a decreasing rate to the point (negative 5, negative 1050), rises at an increasing rate to the point (negative 1, negative 300) and then at a decreasing rate passing through the point (0, negative 13) to the point (3, 450), and then falls at an increasing rate.\nB.\n-30\n30\n-600\n1200\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 30 to 30 and a vertical y-axis labeled from negative 600 to 1200. From left to right, a curve rises at a decreasing rate to the point (negative 9, 600), falls at an increasing rate to the point (negative 3, 250) and then at a decreasing rate passing through the point (0, 0) to the point (3, negative 100), and then rises at an increasing rate. All coordinates are approximate.\nC.\n-15\n15\n-600\n1200\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 15 to 15 and a vertical y-axis labeled from negative 600 to 1200. From left to right, a curve rises at a decreasing rate to the point (negative 5, 1050), falls at an increasing rate to the point (negative 1, 300) and then at a decreasing rate passing through the point (0, 0) to the point (3, negative 450), and then rises at an increasing rate.\nD.\n-30\n30\n-1200\n600\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 30 to 30 and a vertical y-axis labeled from negative 1200 to 600. From left to right, a curve falls at a decreasing rate to the point (negative 9, negative 600), rises at an increasing rate to the point (negative 3, negative 250) and then at a decreasing rate passing through the point (0, 0) to the point (3, 100), and then falls at an increasing rate. All coordinates are approximate.",
+    "summary": "Graph the function, considering the domain, critical points, symmetry, relative extrema,…",
+    "fullText": "*21.\nPart 1\nGraph the function, considering the domain, critical points, symmetry, relative extrema, regions where the function is increasing or decreasing, inflection points, regions where the function is concave upward or concave downward, intercepts where possible, and asymptotes where applicable.\nf(x) = − 6x³ − 18x² + 270x − 13\nPart 1\nFind the first and second derivatives of f(x).\nf\nprime\n′(x)\nf\ndouble prime\n′′(x)\nPart 2\nChoose the correct graph below.\nA.\n-15\n15\n-1200\n600\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 15 to 15 and a vertical y-axis labeled from negative 1200 to 600. From left to right, a curve falls at a decreasing rate to the point (negative 5, negative 1050), rises at an increasing rate to the point (negative 1, negative 300) and then at a decreasing rate passing through the point (0, negative 13) to the point (3, 450), and then falls at an increasing rate.\nB.\n-30\n30\n-600\n1200\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 30 to 30 and a vertical y-axis labeled from negative 600 to 1200. From left to right, a curve rises at a decreasing rate to the point (negative 9, 600), falls at an increasing rate to the point (negative 3, 250) and then at a decreasing rate passing through the point (0, 0) to the point (3, negative 100), and then rises at an increasing rate. All coordinates are approximate.\nC.\n-15\n15\n-600\n1200\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 15 to 15 and a vertical y-axis labeled from negative 600 to 1200. From left to right, a curve rises at a decreasing rate to the point (negative 5, 1050), falls at an increasing rate to the point (negative 1, 300) and then at a decreasing rate passing through the point (0, 0) to the point (3, negative 450), and then rises at an increasing rate.\nD.\n-30\n30\n-1200\n600\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 30 to 30 and a vertical y-axis labeled from negative 1200 to 600. From left to right, a curve falls at a decreasing rate to the point (negative 9, negative 600), rises at an increasing rate to the point (negative 3, negative 250) and then at a decreasing rate passing through the point (0, 0) to the point (3, 100), and then falls at an increasing rate. All coordinates are approximate.",
     "parts": [
       {
         "label": "Problem",
@@ -3870,11 +3852,11 @@ const PROBLEMS = {
       },
       {
         "label": "Part 1",
-        "text": "Graph the function, considering the domain, critical points, symmetry, relative extrema, regions where the function is increasing or decreasing, inflection points, regions where the function is concave upward or concave downward, intercepts where possible, and asymptotes where applicable.\nf(x) = \u2212 6x\u00b3 \u2212 18x\u00b2 + 270x \u2212 13"
+        "text": "Graph the function, considering the domain, critical points, symmetry, relative extrema, regions where the function is increasing or decreasing, inflection points, regions where the function is concave upward or concave downward, intercepts where possible, and asymptotes where applicable.\nf(x) = − 6x³ − 18x² + 270x − 13"
       },
       {
         "label": "Part 1",
-        "text": "Find the first and second derivatives of f(x).\nf\nprime\n\u2032(x)\nf\ndouble prime\n\u2032\u2032(x)"
+        "text": "Find the first and second derivatives of f(x).\nf\nprime\n′(x)\nf\ndouble prime\n′′(x)"
       },
       {
         "label": "Part 2",
@@ -3897,11 +3879,11 @@ const PROBLEMS = {
         "text": "-30\n30\n-1200\n600\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 30 to 30 and a vertical y-axis labeled from negative 1200 to 600. From left to right, a curve falls at a decreasing rate to the point (negative 9, negative 600), rises at an increasing rate to the point (negative 3, negative 250) and then at a decreasing rate passing through the point (0, 0) to the point (3, 100), and then falls at an increasing rate. All coordinates are approximate."
       }
     ],
-    "expr": "f(x) = \u2212 6x\u00b3 \u2212 18x\u00b2 + 270x \u2212 13"
+    "expr": "f(x) = − 6x³ − 18x² + 270x − 13"
   },
   "5.4.4-Setup & Solve": {
-    "summary": "Graph the function, considering the domain, critical points, symmetry, regions where the \u2026",
-    "fullText": "*22.\nPart 1\nGraph the function, considering the domain, critical points, symmetry, regions where the function is increasing or decreasing, inflection points, regions where the function is concave upward or concave downward, intercepts where possible, and asymptotes where applicable.\nf(x) = \u2212 3x\u00b3 + 3x\u00b2 \u2212 x \u2212 1\nPart 1\nWhat are the first and second derivatives of the function?\nf prime (x)\nf\u2032(x)\nf double prime (x)\nf\u2032\u2032(x)\nPart 2\nChoose the correct graph below.\nA.\n-2\n2\n-8\n4\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 2 to 2 in increments of 1 and a vertical y-axis labeled from negative 8 to 4 in increments of 2. From left to right, a curve falls at a decreasing rate passing through the point (negative 0.7, 1.9), is horizontal when passing through the point (0.3, negative 1.1), and falls at an increasing rate, passing through the point (1.1, negative 2.6). All coordinates are approximate.\nB.\n-2\n2\n-4\n8\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 2 to 2 in increments of 1 and a vertical y-axis labeled from negative 4 to 8 in increments of 2. From left to right, a curve falls at a decreasing rate passing through the point (negative 1.3, 3.1), is horizontal when passing through the point (negative 0.3, 0.1), and falls at an increasing rate, passing through the point (0.7, negative 2.9). All coordinates are approximate.\nC.\n-2\n2\n-4\n8\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 2 to 2 in increments of 1 and a vertical y-axis labeled from negative 4 to 8 in increments of 2. From left to right, a curve rises at a decreasing rate passing through the point (negative 1.3, negative 2.1), is horizontal when passing through the point (negative 0.3, 0.9), and rises at an increasing rate, passing through the point (0.7, 3.9). All coordinates are approximate.\nD.\n-2\n2\n-8\n4\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 2 to 2 in increments of 1 and a vertical y-axis labeled from negative 8 to 4 in increments of 2. From left to right, a curve falls at a decreasing rate passing through the point (negative 0.7, negative 0.3), is horizontal when passing through the point (0.3, negative 1), and falls at an increasing rate, passing through the point (1.1, negative 1.4). All coordinates are approximate.",
+    "summary": "Graph the function, considering the domain, critical points, symmetry, regions where the …",
+    "fullText": "*22.\nPart 1\nGraph the function, considering the domain, critical points, symmetry, regions where the function is increasing or decreasing, inflection points, regions where the function is concave upward or concave downward, intercepts where possible, and asymptotes where applicable.\nf(x) = − 3x³ + 3x² − x − 1\nPart 1\nWhat are the first and second derivatives of the function?\nf prime (x)\nf′(x)\nf double prime (x)\nf′′(x)\nPart 2\nChoose the correct graph below.\nA.\n-2\n2\n-8\n4\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 2 to 2 in increments of 1 and a vertical y-axis labeled from negative 8 to 4 in increments of 2. From left to right, a curve falls at a decreasing rate passing through the point (negative 0.7, 1.9), is horizontal when passing through the point (0.3, negative 1.1), and falls at an increasing rate, passing through the point (1.1, negative 2.6). All coordinates are approximate.\nB.\n-2\n2\n-4\n8\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 2 to 2 in increments of 1 and a vertical y-axis labeled from negative 4 to 8 in increments of 2. From left to right, a curve falls at a decreasing rate passing through the point (negative 1.3, 3.1), is horizontal when passing through the point (negative 0.3, 0.1), and falls at an increasing rate, passing through the point (0.7, negative 2.9). All coordinates are approximate.\nC.\n-2\n2\n-4\n8\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 2 to 2 in increments of 1 and a vertical y-axis labeled from negative 4 to 8 in increments of 2. From left to right, a curve rises at a decreasing rate passing through the point (negative 1.3, negative 2.1), is horizontal when passing through the point (negative 0.3, 0.9), and rises at an increasing rate, passing through the point (0.7, 3.9). All coordinates are approximate.\nD.\n-2\n2\n-8\n4\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 2 to 2 in increments of 1 and a vertical y-axis labeled from negative 8 to 4 in increments of 2. From left to right, a curve falls at a decreasing rate passing through the point (negative 0.7, negative 0.3), is horizontal when passing through the point (0.3, negative 1), and falls at an increasing rate, passing through the point (1.1, negative 1.4). All coordinates are approximate.",
     "parts": [
       {
         "label": "Problem",
@@ -3909,11 +3891,11 @@ const PROBLEMS = {
       },
       {
         "label": "Part 1",
-        "text": "Graph the function, considering the domain, critical points, symmetry, regions where the function is increasing or decreasing, inflection points, regions where the function is concave upward or concave downward, intercepts where possible, and asymptotes where applicable.\nf(x) = \u2212 3x\u00b3 + 3x\u00b2 \u2212 x \u2212 1"
+        "text": "Graph the function, considering the domain, critical points, symmetry, regions where the function is increasing or decreasing, inflection points, regions where the function is concave upward or concave downward, intercepts where possible, and asymptotes where applicable.\nf(x) = − 3x³ + 3x² − x − 1"
       },
       {
         "label": "Part 1",
-        "text": "What are the first and second derivatives of the function?\nf prime (x)\nf\u2032(x)\nf double prime (x)\nf\u2032\u2032(x)"
+        "text": "What are the first and second derivatives of the function?\nf prime (x)\nf′(x)\nf double prime (x)\nf′′(x)"
       },
       {
         "label": "Part 2",
@@ -3936,11 +3918,11 @@ const PROBLEMS = {
         "text": "-2\n2\n-8\n4\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 2 to 2 in increments of 1 and a vertical y-axis labeled from negative 8 to 4 in increments of 2. From left to right, a curve falls at a decreasing rate passing through the point (negative 0.7, negative 0.3), is horizontal when passing through the point (0.3, negative 1), and falls at an increasing rate, passing through the point (1.1, negative 1.4). All coordinates are approximate."
       }
     ],
-    "expr": "f(x) = \u2212 3x\u00b3 + 3x\u00b2 \u2212 x \u2212 1"
+    "expr": "f(x) = − 3x³ + 3x² − x − 1"
   },
   "5.4.5-Setup & Solve": {
-    "summary": "Graph the function, considering the domain, critical points, symmetry, regions where the \u2026",
-    "fullText": "*23.\nPart 1\nGraph the function, considering the domain, critical points, symmetry, regions where the function is increasing or decreasing, inflection points, regions where the function is concave upward or concave downward, intercepts where possible, and asymptotes where applicable.\nf(x) f(x) = x\u2074 \u2212 24 x\u00b2 + 119 x\u2074 \u2212 24x\u00b2 + 119\nPart 1\nWhat are the first and second derivatives of the function?\nf font size decreased by 8 prime (x)\nf\u00a0\u2032(x)\nf font size decreased by 8 double prime (x)\nf\u00a0\u2032\u2032(x)\nPart 2\nChoose the correct graph below.\nA.\n-10\n10\n-168\n112\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 168 to 112 in increments of 28. From left to right, a curve falls at a decreasing rate passing through the point (negative 5.1, negative 63) to the point (negative 4.5, negative 88), rises at an increasing rate to the point (negative 3, negative 24) and then at a decreasing rate to the point (negative 1, 56), falls at an increasing rate to the point (1, negative 24) and then at a decreasing rate to the point (2.5, negative 88), and rises at an increasing rate passing through the point (3.1, negative 63). All coordinates are approximate.\nB.\n-10\n10\n-140\n140\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 140 to 140 in increments of 28. From left to right, a curve falls at a decreasing rate passing through the point (negative 4.1, 0) to the point (negative 3.5, negative 25), rises at an increasing rate to the point (negative 2, 39) and then at a decreasing rate to the point (0, 119), falls at an increasing rate to the point (2, 39) and then at a decreasing rate to the point (3.5, negative 25), and rises at an increasing rate passing through the point (4.1, 0). All coordinates are approximate.\nC.\n-10\n10\n-140\n140\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 140 to 140 in increments of 28. From left to right, a curve rises at a decreasing rate passing through the point (negative 4.1, 0) to the point (negative 3.5, 25), falls at an increasing rate to the point (negative 2, negative 39) and then at a decreasing rate to the point (0, negative 119), rises at an increasing rate to the point (2, negative 39) and then at a decreasing rate to the point (3.5, 25), and falls at an increasing rate passing through the point (4.1, 0). All coordinates are approximate.\nD.\n-10\n10\n-112\n168\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 112 to 168 in increments of 28. From left to right, a curve rises at a decreasing rate passing through the point (negative 5.1, 63) to the point (negative 4.5, 88), falls at an increasing rate to the point (negative 3, 24) and then at a decreasing rate to the point (negative 1, negative 56), rises at an increasing rate to the point (1, 24) and then at a decreasing rate to the point (2.5, 88), and falls at an increasing rate passing through the point (3.1, 63). All coordinates are approximate.",
+    "summary": "Graph the function, considering the domain, critical points, symmetry, regions where the …",
+    "fullText": "*23.\nPart 1\nGraph the function, considering the domain, critical points, symmetry, regions where the function is increasing or decreasing, inflection points, regions where the function is concave upward or concave downward, intercepts where possible, and asymptotes where applicable.\nf(x) f(x) = x⁴ − 24 x² + 119 x⁴ − 24x² + 119\nPart 1\nWhat are the first and second derivatives of the function?\nf font size decreased by 8 prime (x)\nf ′(x)\nf font size decreased by 8 double prime (x)\nf ′′(x)\nPart 2\nChoose the correct graph below.\nA.\n-10\n10\n-168\n112\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 168 to 112 in increments of 28. From left to right, a curve falls at a decreasing rate passing through the point (negative 5.1, negative 63) to the point (negative 4.5, negative 88), rises at an increasing rate to the point (negative 3, negative 24) and then at a decreasing rate to the point (negative 1, 56), falls at an increasing rate to the point (1, negative 24) and then at a decreasing rate to the point (2.5, negative 88), and rises at an increasing rate passing through the point (3.1, negative 63). All coordinates are approximate.\nB.\n-10\n10\n-140\n140\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 140 to 140 in increments of 28. From left to right, a curve falls at a decreasing rate passing through the point (negative 4.1, 0) to the point (negative 3.5, negative 25), rises at an increasing rate to the point (negative 2, 39) and then at a decreasing rate to the point (0, 119), falls at an increasing rate to the point (2, 39) and then at a decreasing rate to the point (3.5, negative 25), and rises at an increasing rate passing through the point (4.1, 0). All coordinates are approximate.\nC.\n-10\n10\n-140\n140\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 140 to 140 in increments of 28. From left to right, a curve rises at a decreasing rate passing through the point (negative 4.1, 0) to the point (negative 3.5, 25), falls at an increasing rate to the point (negative 2, negative 39) and then at a decreasing rate to the point (0, negative 119), rises at an increasing rate to the point (2, negative 39) and then at a decreasing rate to the point (3.5, 25), and falls at an increasing rate passing through the point (4.1, 0). All coordinates are approximate.\nD.\n-10\n10\n-112\n168\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 112 to 168 in increments of 28. From left to right, a curve rises at a decreasing rate passing through the point (negative 5.1, 63) to the point (negative 4.5, 88), falls at an increasing rate to the point (negative 3, 24) and then at a decreasing rate to the point (negative 1, negative 56), rises at an increasing rate to the point (1, 24) and then at a decreasing rate to the point (2.5, 88), and falls at an increasing rate passing through the point (3.1, 63). All coordinates are approximate.",
     "parts": [
       {
         "label": "Problem",
@@ -3948,11 +3930,11 @@ const PROBLEMS = {
       },
       {
         "label": "Part 1",
-        "text": "Graph the function, considering the domain, critical points, symmetry, regions where the function is increasing or decreasing, inflection points, regions where the function is concave upward or concave downward, intercepts where possible, and asymptotes where applicable.\nf(x) f(x) = x\u2074 \u2212 24 x\u00b2 + 119 x\u2074 \u2212 24x\u00b2 + 119"
+        "text": "Graph the function, considering the domain, critical points, symmetry, regions where the function is increasing or decreasing, inflection points, regions where the function is concave upward or concave downward, intercepts where possible, and asymptotes where applicable.\nf(x) f(x) = x⁴ − 24 x² + 119 x⁴ − 24x² + 119"
       },
       {
         "label": "Part 1",
-        "text": "What are the first and second derivatives of the function?\nf font size decreased by 8 prime (x)\nf\u00a0\u2032(x)\nf font size decreased by 8 double prime (x)\nf\u00a0\u2032\u2032(x)"
+        "text": "What are the first and second derivatives of the function?\nf font size decreased by 8 prime (x)\nf ′(x)\nf font size decreased by 8 double prime (x)\nf ′′(x)"
       },
       {
         "label": "Part 2",
@@ -3977,8 +3959,8 @@ const PROBLEMS = {
     ]
   },
   "5.4.8-Setup & Solve": {
-    "summary": "Graph the function, considering the domain, critical points, symmetry, relative extrema,\u2026",
-    "fullText": "*24.\nPart 1\nGraph the function, considering the domain, critical points, symmetry, relative extrema, regions where the function is increasing or decreasing, inflection points, regions where the function is concave upward or concave downward, intercepts where possible, and asymptotes where applicable.\nf(x) =\n\u2212 x + 8/x + 5\nPart 1\nFind the first and second derivatives of f(x).\nf\nprime\n\u2032(x)\nf\nprime\n\u2032\nprime\n\u2032(x)\nPart 2\nChoose the correct graph below.\nA.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 1. A graph has two branches. The first branch is below the x-axis and to the left of x = negative 5, approaching both. The second branch is below the x-axis and to the right of x = negative 5, approaching both. All values are approximate.\nB.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 1. A graph has two branches. The first branch is above y = negative 1 and to the left of x = 5, approaching both. The second branch is below y = negative 1 and to the right of x = 5, approaching both. All values are approximate.\nC.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 1. A graph has two branches. The first branch is below the x-axis and to the left of x = negative 5, approaching both. The second branch is above the x-axis and to the right of x = negative 5, approaching both. All values are approximate.\nD.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 1. A graph has two branches. The first branch is below y = negative 1 and to the left of x = negative 5, approaching both. The second branch is above y = negative 1 and to the right of x = negative 5, approaching both. All values are approximate.",
+    "summary": "Graph the function, considering the domain, critical points, symmetry, relative extrema,…",
+    "fullText": "*24.\nPart 1\nGraph the function, considering the domain, critical points, symmetry, relative extrema, regions where the function is increasing or decreasing, inflection points, regions where the function is concave upward or concave downward, intercepts where possible, and asymptotes where applicable.\nf(x) =\n− x + 8/x + 5\nPart 1\nFind the first and second derivatives of f(x).\nf\nprime\n′(x)\nf\nprime\n′\nprime\n′(x)\nPart 2\nChoose the correct graph below.\nA.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 1. A graph has two branches. The first branch is below the x-axis and to the left of x = negative 5, approaching both. The second branch is below the x-axis and to the right of x = negative 5, approaching both. All values are approximate.\nB.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 1. A graph has two branches. The first branch is above y = negative 1 and to the left of x = 5, approaching both. The second branch is below y = negative 1 and to the right of x = 5, approaching both. All values are approximate.\nC.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 1. A graph has two branches. The first branch is below the x-axis and to the left of x = negative 5, approaching both. The second branch is above the x-axis and to the right of x = negative 5, approaching both. All values are approximate.\nD.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 1. A graph has two branches. The first branch is below y = negative 1 and to the left of x = negative 5, approaching both. The second branch is above y = negative 1 and to the right of x = negative 5, approaching both. All values are approximate.",
     "parts": [
       {
         "label": "Problem",
@@ -3986,11 +3968,11 @@ const PROBLEMS = {
       },
       {
         "label": "Part 1",
-        "text": "Graph the function, considering the domain, critical points, symmetry, relative extrema, regions where the function is increasing or decreasing, inflection points, regions where the function is concave upward or concave downward, intercepts where possible, and asymptotes where applicable.\nf(x) =\n\u2212 x + 8/x + 5"
+        "text": "Graph the function, considering the domain, critical points, symmetry, relative extrema, regions where the function is increasing or decreasing, inflection points, regions where the function is concave upward or concave downward, intercepts where possible, and asymptotes where applicable.\nf(x) =\n− x + 8/x + 5"
       },
       {
         "label": "Part 1",
-        "text": "Find the first and second derivatives of f(x).\nf\nprime\n\u2032(x)\nf\nprime\n\u2032\nprime\n\u2032(x)"
+        "text": "Find the first and second derivatives of f(x).\nf\nprime\n′(x)\nf\nprime\n′\nprime\n′(x)"
       },
       {
         "label": "Part 2",
@@ -4016,8 +3998,8 @@ const PROBLEMS = {
     "expr": "f(x) ="
   },
   "5.4.10": {
-    "summary": "Find the domain, intercepts, symmetry, asymptotes, critical points, intervals where the f\u2026",
-    "fullText": "*25.\nPart 1\nFind the domain, intercepts, symmetry, asymptotes, critical points, intervals where the function is increasing or decreasing, and inflection points for the function. Graph the function. Complete parts (a) through (i).\nf(x) f(x) = 1/x\u00b2 + 4 x \u2212 21\nPart 1\n(a) Find the domain.\nThe domain is\n(Type your answer in interval notation.)\nPart 2\n(b) Find the intercepts.\nIdentify the x-intercepts. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe x-intercepts is/are\n(Type an ordered pair. Use a comma to separate answers as needed.)\nB.\nThere are no x-intercepts.\nPart 3\nIdentify the y-intercepts. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe y-intercept is\n(Type an ordered pair.)\nB.\nThere are no y-intercepts.\nPart 4\n(c) Determine the symmetry of the function.\nThe function has (1)\nPart 5\n(d) List all asymptotes.\nIdentify any vertical asymptotes. Select the correct choice below and, if necessary, fill in the answer box(es) to complete your choice.\nA.\nThere is one vertical asymptote at\n(Type an equation.)\nB.\nThere are two vertical asymptotes. The leftmost asymptote is at\nand the rightmost asymptote is at\n(Type equations.)\nC.\nThe function does not have any vertical asymptotes.\nPart 6\nIdentify any horizontal or oblique asymptote. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThere is a horizontal asymptote at\n(Type an equation.)\nB.\nThere is an oblique asymptote at\n(Type an equation.)\nC.\nThe function does not have a horizontal or oblique asymptote.\nPart 7\n(e) Find all critical points. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe critical point(s) is/are\n(Type an ordered pair. Use a comma to separate answers as needed.)\nB.\nThere are no critical points.\nPart 8\n(f) Find the open intervals where f is increasing or decreasing.\nFind the open intervals where f is increasing. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe function is increasing on\n(Type your answer in interval notation. Use a comma to separate answers as needed.)\nB.\nThe function is not increasing on any interval.\nPart 9\nFind the open intervals where f is decreasing. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe function is decreasing on\n(Type your answer in interval notation. Use a comma to separate answers as needed.)\nB.\nThe function is not decreasing on any interval.\nPart 10\n(g) Find all inflection points. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThere is an inflection point at\n(Type an ordered pair. Use a comma to separate answers as needed.)\nB.\nThere are no inflection points.\nPart 11\n(h) Find all the open intervals where f is concave upward or concave downward.\nFind all the open intervals where f is concave upward. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe function is concave upward on\n(Type your answer in interval notation. Use a comma to separate answers as needed.)\nB.\nThe function is not concave upward on any interval.\nPart 12\nFind all the open intervals where f is concave downward. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe function is concave downward on\n(Type your answer in interval notation. Use a comma to separate answers as needed.)\nB.\nThe function is not concave downward on any interval.\nPart 13\n(i) Sketch the graph of the function. Choose the correct graph below.\nA.\n-12\n8\n-0.7\n0.7\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 12 to 8 in increments of 1 and a vertical y-axis labeled from negative 0.7 to 0.7 in increments of 0.1. A curve that is concave downward starts on the left side of the graph at (negative 12, negative 0.15), falls from left to right, and then reaches the bottom of the graph to the left of x = negative 7. A curve starts at the top of the graph to the right of x = negative 7, falls from left to right and is concave upward until reaching an inflection point at (negative 2, 0.1), and then is concave downward and continues to fall from left to right until reaching the bottom of the graph to the left of x = 3. A curve that is concave upward enters the top of the graph to the right of x = 3, falls from left to right, and then reaches the right side of the graph at (8, 0.1). All coordinates are approximate.\nB.\n-12\n8\n-0.7\n0.7\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 12 to 8 in increments of 1 and a vertical y-axis labeled from negative 0.7 to 0.7 in increments of 0.1. A curve that is concave upward starts on the left side of the graph at (negative 12, 0), rises from left to right, and then reaches the top of the graph to the left of x = negative 7. A curve that is concave downward starts at the bottom of the graph to the right of x = negative 7, rises from left to right until reaching (negative 2, negative 0.05), and then falls from left to right until reaching the bottom of the graph to the left of x = 3. A curve that is concave upward enters the top of the graph to the right of x = 3, falls from left to right, and then reaches the right side of the graph at (8, 0). All coordinates are approximate.\nC.\n-12\n8\n-0.7\n0.7\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 12 to 8 in increments of 1 and a vertical y-axis labeled from negative 0.7 to 0.7 in increments of 0.1. A curve that is concave downward starts on the left side of the graph at (negative 12, 0), falls from left to right, and then reaches the bottom of the graph to the left of x = negative 7. A curve that is concave upward starts at the top of the graph to the right of x = negative 7, falls from left to right until reaching (negative 2, 0.05), and then rises from left to right until reaching the top of the graph to the left of x = 3. A curve that is concave downward enters the bottom of the graph to the right of x = 3, rises from left to right, and then reaches the right side of the graph at (8, 0). All coordinates are approximate.\nD.\n-12\n8\n-0.7\n0.7\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 12 to 8 in increments of 1 and a vertical y-axis labeled from negative 0.7 to 0.7 in increments of 0.1. A curve that is concave upward starts on the left side of the graph at (negative 12, 0.15), rises from left to right, and then reaches the top of the graph to the left of x = negative 7. A curve starts at the bottom of the graph to the right of x = negative 7, rises from left to right and is concave downward until reaching (negative 2, negative 0.1), and then is concave upward and continues to rise from left to right until reaching the top of the graph to the left of x = 3. A curve that is concave downward enters the bottom of the graph to the right of x = 3, rises from left to right, and then reaches the right side of the graph at (8, negative 0.1). All coordinates are approximate.\n(1)\nodd symmetry.\neven symmetry.\nneither even nor odd symmetry.",
+    "summary": "Find the domain, intercepts, symmetry, asymptotes, critical points, intervals where the f…",
+    "fullText": "*25.\nPart 1\nFind the domain, intercepts, symmetry, asymptotes, critical points, intervals where the function is increasing or decreasing, and inflection points for the function. Graph the function. Complete parts (a) through (i).\nf(x) f(x) = 1/x² + 4 x − 21\nPart 1\n(a) Find the domain.\nThe domain is\n(Type your answer in interval notation.)\nPart 2\n(b) Find the intercepts.\nIdentify the x-intercepts. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe x-intercepts is/are\n(Type an ordered pair. Use a comma to separate answers as needed.)\nB.\nThere are no x-intercepts.\nPart 3\nIdentify the y-intercepts. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe y-intercept is\n(Type an ordered pair.)\nB.\nThere are no y-intercepts.\nPart 4\n(c) Determine the symmetry of the function.\nThe function has (1)\nPart 5\n(d) List all asymptotes.\nIdentify any vertical asymptotes. Select the correct choice below and, if necessary, fill in the answer box(es) to complete your choice.\nA.\nThere is one vertical asymptote at\n(Type an equation.)\nB.\nThere are two vertical asymptotes. The leftmost asymptote is at\nand the rightmost asymptote is at\n(Type equations.)\nC.\nThe function does not have any vertical asymptotes.\nPart 6\nIdentify any horizontal or oblique asymptote. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThere is a horizontal asymptote at\n(Type an equation.)\nB.\nThere is an oblique asymptote at\n(Type an equation.)\nC.\nThe function does not have a horizontal or oblique asymptote.\nPart 7\n(e) Find all critical points. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe critical point(s) is/are\n(Type an ordered pair. Use a comma to separate answers as needed.)\nB.\nThere are no critical points.\nPart 8\n(f) Find the open intervals where f is increasing or decreasing.\nFind the open intervals where f is increasing. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe function is increasing on\n(Type your answer in interval notation. Use a comma to separate answers as needed.)\nB.\nThe function is not increasing on any interval.\nPart 9\nFind the open intervals where f is decreasing. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe function is decreasing on\n(Type your answer in interval notation. Use a comma to separate answers as needed.)\nB.\nThe function is not decreasing on any interval.\nPart 10\n(g) Find all inflection points. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThere is an inflection point at\n(Type an ordered pair. Use a comma to separate answers as needed.)\nB.\nThere are no inflection points.\nPart 11\n(h) Find all the open intervals where f is concave upward or concave downward.\nFind all the open intervals where f is concave upward. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe function is concave upward on\n(Type your answer in interval notation. Use a comma to separate answers as needed.)\nB.\nThe function is not concave upward on any interval.\nPart 12\nFind all the open intervals where f is concave downward. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe function is concave downward on\n(Type your answer in interval notation. Use a comma to separate answers as needed.)\nB.\nThe function is not concave downward on any interval.\nPart 13\n(i) Sketch the graph of the function. Choose the correct graph below.\nA.\n-12\n8\n-0.7\n0.7\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 12 to 8 in increments of 1 and a vertical y-axis labeled from negative 0.7 to 0.7 in increments of 0.1. A curve that is concave downward starts on the left side of the graph at (negative 12, negative 0.15), falls from left to right, and then reaches the bottom of the graph to the left of x = negative 7. A curve starts at the top of the graph to the right of x = negative 7, falls from left to right and is concave upward until reaching an inflection point at (negative 2, 0.1), and then is concave downward and continues to fall from left to right until reaching the bottom of the graph to the left of x = 3. A curve that is concave upward enters the top of the graph to the right of x = 3, falls from left to right, and then reaches the right side of the graph at (8, 0.1). All coordinates are approximate.\nB.\n-12\n8\n-0.7\n0.7\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 12 to 8 in increments of 1 and a vertical y-axis labeled from negative 0.7 to 0.7 in increments of 0.1. A curve that is concave upward starts on the left side of the graph at (negative 12, 0), rises from left to right, and then reaches the top of the graph to the left of x = negative 7. A curve that is concave downward starts at the bottom of the graph to the right of x = negative 7, rises from left to right until reaching (negative 2, negative 0.05), and then falls from left to right until reaching the bottom of the graph to the left of x = 3. A curve that is concave upward enters the top of the graph to the right of x = 3, falls from left to right, and then reaches the right side of the graph at (8, 0). All coordinates are approximate.\nC.\n-12\n8\n-0.7\n0.7\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 12 to 8 in increments of 1 and a vertical y-axis labeled from negative 0.7 to 0.7 in increments of 0.1. A curve that is concave downward starts on the left side of the graph at (negative 12, 0), falls from left to right, and then reaches the bottom of the graph to the left of x = negative 7. A curve that is concave upward starts at the top of the graph to the right of x = negative 7, falls from left to right until reaching (negative 2, 0.05), and then rises from left to right until reaching the top of the graph to the left of x = 3. A curve that is concave downward enters the bottom of the graph to the right of x = 3, rises from left to right, and then reaches the right side of the graph at (8, 0). All coordinates are approximate.\nD.\n-12\n8\n-0.7\n0.7\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 12 to 8 in increments of 1 and a vertical y-axis labeled from negative 0.7 to 0.7 in increments of 0.1. A curve that is concave upward starts on the left side of the graph at (negative 12, 0.15), rises from left to right, and then reaches the top of the graph to the left of x = negative 7. A curve starts at the bottom of the graph to the right of x = negative 7, rises from left to right and is concave downward until reaching (negative 2, negative 0.1), and then is concave upward and continues to rise from left to right until reaching the top of the graph to the left of x = 3. A curve that is concave downward enters the bottom of the graph to the right of x = 3, rises from left to right, and then reaches the right side of the graph at (8, negative 0.1). All coordinates are approximate.\n(1)\nodd symmetry.\neven symmetry.\nneither even nor odd symmetry.",
     "parts": [
       {
         "label": "Problem",
@@ -4025,7 +4007,7 @@ const PROBLEMS = {
       },
       {
         "label": "Part 1",
-        "text": "Find the domain, intercepts, symmetry, asymptotes, critical points, intervals where the function is increasing or decreasing, and inflection points for the function. Graph the function. Complete parts (a) through (i).\nf(x) f(x) = 1/x\u00b2 + 4 x \u2212 21"
+        "text": "Find the domain, intercepts, symmetry, asymptotes, critical points, intervals where the function is increasing or decreasing, and inflection points for the function. Graph the function. Complete parts (a) through (i).\nf(x) f(x) = 1/x² + 4 x − 21"
       },
       {
         "label": "Part 1",
@@ -4188,7 +4170,7 @@ const PROBLEMS = {
   },
   "5.4.19": {
     "summary": "Sketch the graph of a single function that has all of the properties listed.",
-    "fullText": "*26.\nPart 1\nSketch the graph of a single function that has all of the properties listed.\na. Continuous and differentiable everywhere except at x\nnegative 3\n\u2212 3 , where it has a vertical asymptote\nb.\nf prime (x)\nf\u2032(x)\ngreater than\n>0 everywhere it is defined\nc. A horizontal asymptote at y\nnegative 1\n\u2212 1\nd.\nf double prime (x)\nf\u2032\u2032(x)\ngreater than\n>0 on\n(\u2212 infinity , \u2212 3)\n(\u2212\u221e,\u22123) and\n(\u2212 1 , 1)\ne.\nf double prime (x)\nf\u2032\u2032(x)\nless than\n<0 on\n(\u2212 3 , \u2212 1)\n(\u2212 3 , \u2212 1) and\n(1 , infinity)\n(1,\u221e)\nPart 1\nChoose the correct graph below.\nA.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 1. A horizontal asymptote crosses the y-axis at negative 1. A vertical asymptote crosses the x-axis at negative 3. A graph has two branches. The first branch is a curve that rises from left to right at an increasing rate. The curve is above the horizontal asymptote and to the left of the vertical asymptote, approaching both. The second branch is a curve that rises from left to right at a decreasing rate to the point (negative 1, negative 5), at an increasing rate to the point (1, negative 3), and then at a decreasing rate. The curve is below the horizontal asymptote and to the right of the vertical asymptote, approaching both.\nB.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 1. A horizontal asymptote crosses the y-axis at negative 1. A vertical asymptote crosses the x-axis at negative 3. A graph has two branches. The first branch is a curve that rises from left to right at an increasing rate. The curve is above the horizontal asymptote and to the left of the vertical asymptote, approaching both. The second branch is a curve that falls from left to right at a decreasing rate to the point (negative 1, 3), at an increasing rate to the point (1, 1), and then at a decreasing rate. The curve is above the horizontal asymptote and to the right of the vertical asymptote, approaching both.\nC.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 1. A horizontal asymptote crosses the y-axis at negative 3. A vertical asymptote crosses the x-axis at negative 1. A graph has two branches. The first branch is a curve that falls from left to right at an increasing rate. The curve is below the horizontal asymptote and to the left of the vertical asymptote, approaching both. The second branch is a curve that falls from left to right at a decreasing rate to the point (2, 1), at an increasing rate to the point (4, negative 1), and then at a decreasing rate. The curve is above the horizontal asymptote and to the right of the vertical asymptote, approaching both.\nD.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 1. A horizontal asymptote crosses the y-axis at negative 1. A vertical asymptote crosses the x-axis at negative 3. A graph has two branches. The first branch is a curve that falls from left to right at an increasing rate. The curve is below the horizontal asymptote and to the left of the vertical asymptote, approaching both. The second branch is a curve that falls from left to right at a decreasing rate to the point (negative 1, 3), at an increasing rate to the point (1, 1), and then at a decreasing rate. The curve is above the horizontal asymptote and to the right of the vertical asymptote, approaching both.",
+    "fullText": "*26.\nPart 1\nSketch the graph of a single function that has all of the properties listed.\na. Continuous and differentiable everywhere except at x\nnegative 3\n− 3 , where it has a vertical asymptote\nb.\nf prime (x)\nf′(x)\ngreater than\n>0 everywhere it is defined\nc. A horizontal asymptote at y\nnegative 1\n− 1\nd.\nf double prime (x)\nf′′(x)\ngreater than\n>0 on\n(− infinity , − 3)\n(−∞,−3) and\n(− 1 , 1)\ne.\nf double prime (x)\nf′′(x)\nless than\n<0 on\n(− 3 , − 1)\n(− 3 , − 1) and\n(1 , infinity)\n(1,∞)\nPart 1\nChoose the correct graph below.\nA.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 1. A horizontal asymptote crosses the y-axis at negative 1. A vertical asymptote crosses the x-axis at negative 3. A graph has two branches. The first branch is a curve that rises from left to right at an increasing rate. The curve is above the horizontal asymptote and to the left of the vertical asymptote, approaching both. The second branch is a curve that rises from left to right at a decreasing rate to the point (negative 1, negative 5), at an increasing rate to the point (1, negative 3), and then at a decreasing rate. The curve is below the horizontal asymptote and to the right of the vertical asymptote, approaching both.\nB.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 1. A horizontal asymptote crosses the y-axis at negative 1. A vertical asymptote crosses the x-axis at negative 3. A graph has two branches. The first branch is a curve that rises from left to right at an increasing rate. The curve is above the horizontal asymptote and to the left of the vertical asymptote, approaching both. The second branch is a curve that falls from left to right at a decreasing rate to the point (negative 1, 3), at an increasing rate to the point (1, 1), and then at a decreasing rate. The curve is above the horizontal asymptote and to the right of the vertical asymptote, approaching both.\nC.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 1. A horizontal asymptote crosses the y-axis at negative 3. A vertical asymptote crosses the x-axis at negative 1. A graph has two branches. The first branch is a curve that falls from left to right at an increasing rate. The curve is below the horizontal asymptote and to the left of the vertical asymptote, approaching both. The second branch is a curve that falls from left to right at a decreasing rate to the point (2, 1), at an increasing rate to the point (4, negative 1), and then at a decreasing rate. The curve is above the horizontal asymptote and to the right of the vertical asymptote, approaching both.\nD.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 1. A horizontal asymptote crosses the y-axis at negative 1. A vertical asymptote crosses the x-axis at negative 3. A graph has two branches. The first branch is a curve that falls from left to right at an increasing rate. The curve is below the horizontal asymptote and to the left of the vertical asymptote, approaching both. The second branch is a curve that falls from left to right at a decreasing rate to the point (negative 1, 3), at an increasing rate to the point (1, 1), and then at a decreasing rate. The curve is above the horizontal asymptote and to the right of the vertical asymptote, approaching both.",
     "parts": [
       {
         "label": "Problem",
@@ -4200,23 +4182,23 @@ const PROBLEMS = {
       },
       {
         "label": "a. Continuous and differentiable everywhere except at x",
-        "text": "=\nnegative 3\n\u2212 3 , where it has a vertical asymptote"
+        "text": "=\nnegative 3\n− 3 , where it has a vertical asymptote"
       },
       {
         "label": "b.",
-        "text": "f prime (x)\nf\u2032(x)\ngreater than\n>0 everywhere it is defined"
+        "text": "f prime (x)\nf′(x)\ngreater than\n>0 everywhere it is defined"
       },
       {
         "label": "c. A horizontal asymptote at y",
-        "text": "=\nnegative 1\n\u2212 1"
+        "text": "=\nnegative 1\n− 1"
       },
       {
         "label": "d.",
-        "text": "f double prime (x)\nf\u2032\u2032(x)\ngreater than\n>0 on\n(\u2212 infinity , \u2212 3)\n(\u2212\u221e,\u22123) and\n(\u2212 1 , 1)"
+        "text": "f double prime (x)\nf′′(x)\ngreater than\n>0 on\n(− infinity , − 3)\n(−∞,−3) and\n(− 1 , 1)"
       },
       {
         "label": "e.",
-        "text": "f double prime (x)\nf\u2032\u2032(x)\nless than\n<0 on\n(\u2212 3 , \u2212 1)\n(\u2212 3 , \u2212 1) and\n(1 , infinity)\n(1,\u221e)"
+        "text": "f double prime (x)\nf′′(x)\nless than\n<0 on\n(− 3 , − 1)\n(− 3 , − 1) and\n(1 , infinity)\n(1,∞)"
       },
       {
         "label": "Part 1",
@@ -4242,7 +4224,7 @@ const PROBLEMS = {
   },
   "5.4.20": {
     "summary": "Sketch the graph of a single function that has all of the properties listed.",
-    "fullText": "*27.\nPart 1\nSketch the graph of a single function that has all of the properties listed.\na. Continuous and differentiable for all real numbers\nb.\nf prime (x)\nf\u2032(x)\ngreater than\n>0 on\n(\u2212 infinity , \u2212 4)\n(\u2212\u221e,\u22124) and\n(0 , 4)\nc.\nf prime (x)\nf\u2032(x)\nless than\n<0 on\n(\u2212 4 , 0)\n(\u2212 4 , 0) and\n(4 , infinity)\n(4,\u221e)\nd.\nf double prime (x)\nf\u2032\u2032(x)\nless than\n<0 on\n(\u2212 infinity , \u2212 1)\n(\u2212\u221e,\u22121) and\n(2 , infinity)\n(2,\u221e)\ne.\nf double prime (x)\nf\u2032\u2032(x)\ngreater than\n>0 on\n(\u2212 1 , 2)\nf.\nf prime\nf\u2032(\nnegative 4\n\u2212 4)\nf prime\nf\u2032(\n4\n4)\n= 0\ng.\nf double prime\nf\u2032\u2032(x)\n= 0 at (\nnegative 1\n\u2212 1 ,\n(3 , 2)and(2 , 4)\nPart 1\nChoose the correct graph below.\nA.\n-10\n10\n-2\n14\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 2 to 14 in increments of 2. From left to right, a curve falls at a decreasing rate to the point (negative 4, 6), rises at an increasing rate to the point (negative 2, 10) and then at a decreasing rate to the point (0, 14), falls at an increasing rate to the point (1, 11) and then at a decreasing rate to the point (4, 2), and rises at an increasing rate.\nB.\n-10\n10\n-2\n14\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 2 to 14 in increments of 2. From left to right, a curve falls at a decreasing rate to the point (negative 4, 2), rises at an increasing rate to the point (negative 1, 11) and then at a decreasing rate to the point (0, 14), falls at an increasing rate to the point (2, 10) and then at a decreasing rate to the point (4, 6), and rises at an increasing rate.\nC.\n-10\n10\n-2\n14\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 2 to 14 in increments of 2. From left to right, a curve rises at a decreasing rate to the point (negative 4, 12), falls at an increasing rate to the point (negative 1, 3) and then at a decreasing rate to the point (0, 0), rises at an increasing rate to the point (2, 4) and then at a decreasing rate to the point (4, 8), and falls at an increasing rate.\nD.\n-10\n10\n-2\n14\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 2 to 14 in increments of 2. From left to right, a curve rises at a decreasing rate to the point (negative 4, 8), falls at an increasing rate to the point (negative 2, 4) and then at a decreasing rate to the point (0, 0), rises at an increasing rate to the point (1, 3) and then at a decreasing rate to the point (4, 12), and falls at an increasing rate.",
+    "fullText": "*27.\nPart 1\nSketch the graph of a single function that has all of the properties listed.\na. Continuous and differentiable for all real numbers\nb.\nf prime (x)\nf′(x)\ngreater than\n>0 on\n(− infinity , − 4)\n(−∞,−4) and\n(0 , 4)\nc.\nf prime (x)\nf′(x)\nless than\n<0 on\n(− 4 , 0)\n(− 4 , 0) and\n(4 , infinity)\n(4,∞)\nd.\nf double prime (x)\nf′′(x)\nless than\n<0 on\n(− infinity , − 1)\n(−∞,−1) and\n(2 , infinity)\n(2,∞)\ne.\nf double prime (x)\nf′′(x)\ngreater than\n>0 on\n(− 1 , 2)\nf.\nf prime\nf′(\nnegative 4\n− 4)\nf prime\nf′(\n4\n4)\n= 0\ng.\nf double prime\nf′′(x)\n= 0 at (\nnegative 1\n− 1 ,\n(3 , 2)and(2 , 4)\nPart 1\nChoose the correct graph below.\nA.\n-10\n10\n-2\n14\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 2 to 14 in increments of 2. From left to right, a curve falls at a decreasing rate to the point (negative 4, 6), rises at an increasing rate to the point (negative 2, 10) and then at a decreasing rate to the point (0, 14), falls at an increasing rate to the point (1, 11) and then at a decreasing rate to the point (4, 2), and rises at an increasing rate.\nB.\n-10\n10\n-2\n14\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 2 to 14 in increments of 2. From left to right, a curve falls at a decreasing rate to the point (negative 4, 2), rises at an increasing rate to the point (negative 1, 11) and then at a decreasing rate to the point (0, 14), falls at an increasing rate to the point (2, 10) and then at a decreasing rate to the point (4, 6), and rises at an increasing rate.\nC.\n-10\n10\n-2\n14\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 2 to 14 in increments of 2. From left to right, a curve rises at a decreasing rate to the point (negative 4, 12), falls at an increasing rate to the point (negative 1, 3) and then at a decreasing rate to the point (0, 0), rises at an increasing rate to the point (2, 4) and then at a decreasing rate to the point (4, 8), and falls at an increasing rate.\nD.\n-10\n10\n-2\n14\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 2 and a vertical y-axis labeled from negative 2 to 14 in increments of 2. From left to right, a curve rises at a decreasing rate to the point (negative 4, 8), falls at an increasing rate to the point (negative 2, 4) and then at a decreasing rate to the point (0, 0), rises at an increasing rate to the point (1, 3) and then at a decreasing rate to the point (4, 12), and falls at an increasing rate.",
     "parts": [
       {
         "label": "Problem",
@@ -4258,27 +4240,27 @@ const PROBLEMS = {
       },
       {
         "label": "b.",
-        "text": "f prime (x)\nf\u2032(x)\ngreater than\n>0 on\n(\u2212 infinity , \u2212 4)\n(\u2212\u221e,\u22124) and\n(0 , 4)"
+        "text": "f prime (x)\nf′(x)\ngreater than\n>0 on\n(− infinity , − 4)\n(−∞,−4) and\n(0 , 4)"
       },
       {
         "label": "c.",
-        "text": "f prime (x)\nf\u2032(x)\nless than\n<0 on\n(\u2212 4 , 0)\n(\u2212 4 , 0) and\n(4 , infinity)\n(4,\u221e)"
+        "text": "f prime (x)\nf′(x)\nless than\n<0 on\n(− 4 , 0)\n(− 4 , 0) and\n(4 , infinity)\n(4,∞)"
       },
       {
         "label": "d.",
-        "text": "f double prime (x)\nf\u2032\u2032(x)\nless than\n<0 on\n(\u2212 infinity , \u2212 1)\n(\u2212\u221e,\u22121) and\n(2 , infinity)\n(2,\u221e)"
+        "text": "f double prime (x)\nf′′(x)\nless than\n<0 on\n(− infinity , − 1)\n(−∞,−1) and\n(2 , infinity)\n(2,∞)"
       },
       {
         "label": "e.",
-        "text": "f double prime (x)\nf\u2032\u2032(x)\ngreater than\n>0 on\n(\u2212 1 , 2)"
+        "text": "f double prime (x)\nf′′(x)\ngreater than\n>0 on\n(− 1 , 2)"
       },
       {
         "label": "f.",
-        "text": "f prime\nf\u2032(\nnegative 4\n\u2212 4)\nf prime\nf\u2032(\n4\n4)\n= 0"
+        "text": "f prime\nf′(\nnegative 4\n− 4)\nf prime\nf′(\n4\n4)\n= 0"
       },
       {
         "label": "g.",
-        "text": "f double prime\nf\u2032\u2032(x)\n= 0 at (\nnegative 1\n\u2212 1 ,\n(3 , 2)and(2 , 4)"
+        "text": "f double prime\nf′′(x)\n= 0 at (\nnegative 1\n− 1 ,\n(3 , 2)and(2 , 4)"
       },
       {
         "label": "Part 1",
@@ -4304,7 +4286,7 @@ const PROBLEMS = {
   },
   "5.4.21": {
     "summary": "Sketch the graph of a single function that has all of the properties listed.",
-    "fullText": "*28.\nPart 1\nSketch the graph of a single function that has all of the properties listed.\n(a) Continuous for all real numbers\n(b) Differentiable everywhere except at x =\n2\n(c) f(\n1\n1)\n4\n(d)\nf prime\nf\u2032(\n1\n1)\n= 0 and\nf prime\nf\u2032(\n3\n3) = 0\n(e)\nf prime\nf\u2032(x)\ngreater than\n>0 on\n(\u2212 infinity , 1) , (1 , 2) , and (3 , infinity)\n(\u2212\u221e,1),\u00a0(1,2),\u00a0and\u00a0(3,\u221e)\n(f)\nf prime\nf\u2032(x)\nless than\n<0 on\n(2 , 3)\n(g)\nModifyingBelow lim With x right arrow 2 Superscript \u2212\nlim\nx\u21922\u2212\nf prime\nf\u2032(x)\ninfinity\n\u221e and\nModifyingBelow lim With x right arrow 2 Superscript +\nlim\nx\u21922+\nf prime\nf\u2032(x)\nnegative infinity\n\u2212\u221e\n(h)\nf double prime\nf\u2032\u2032(x)\ngreater than\n>0 on\n(1 , 2) and (2 , 4)\n(1 , 2)\u00a0and\u00a0(2 , 4)\n(i)\nf double prime\nf\u2032\u2032(x)\nless than\n<0 on\n(\u2212 infinity , 1) and (4 , infinity)\n(\u2212\u221e,1)\u00a0and\u00a0(4,\u221e)\nPart 1\nChoose the graph below that could be a graph of the function.\nA.\n(0 , 5)\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 0 to 5 in increments of 1 and a vertical y-axis labeled from 0 to 7 in increments of 1. From left to right, a curve increases at a decreasing rate from the point (0, 3) to the point (1, 4), increases at an increasing rate to (2, 5), decreases at a decreasing rate to (3, 4), increases at an increasing rate to (4, 5), and increases at a decreasing rate to (5, 6).\nB.\n(0 , 5)\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 0 to 5 in increments of 1 and a vertical y-axis labeled from 0 to 6 in increments of 1. From left to right, a curve decreases at a decreasing rate from the point (0, 5) to the point (1, 4), decreases at an increasing rate to (2, 3), increases at a decreasing rate to (3, 4), decreases at an increasing rate to (4, 3), and decreases at a decreasing rate to (5, 2).\nC.\n(0 , 5)\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 0 to 5 in increments of 1 and a vertical y-axis labeled from 0 to 6 in increments of 1. From left to right, a curve decreases at a decreasing rate from the point (0, 5) to the point (1, 4), increases at an increasing rate to (2, 5), decreases at a decreasing rate to (3, 4), decreases at an increasing rate to (4, 3), and decreases at a decreasing rate to (5, 2).\nD.\n(0 , 5)\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 0 to 5 in increments of 1 and a vertical y-axis labeled from 0 to 7 in increments of 1. From left to right, a curve increases at a decreasing rate from the point (0, 3) to the point (1, 4), decreases at an increasing rate to (2, 3), increases at a decreasing rate to (3, 4), increases at an increasing rate to (4, 5), and increases at a decreasing rate to (5, 6).",
+    "fullText": "*28.\nPart 1\nSketch the graph of a single function that has all of the properties listed.\n(a) Continuous for all real numbers\n(b) Differentiable everywhere except at x =\n2\n(c) f(\n1\n1)\n4\n(d)\nf prime\nf′(\n1\n1)\n= 0 and\nf prime\nf′(\n3\n3) = 0\n(e)\nf prime\nf′(x)\ngreater than\n>0 on\n(− infinity , 1) , (1 , 2) , and (3 , infinity)\n(−∞,1), (1,2), and (3,∞)\n(f)\nf prime\nf′(x)\nless than\n<0 on\n(2 , 3)\n(g)\nModifyingBelow lim With x right arrow 2 Superscript −\nlim\nx→2−\nf prime\nf′(x)\ninfinity\n∞ and\nModifyingBelow lim With x right arrow 2 Superscript +\nlim\nx→2+\nf prime\nf′(x)\nnegative infinity\n−∞\n(h)\nf double prime\nf′′(x)\ngreater than\n>0 on\n(1 , 2) and (2 , 4)\n(1 , 2) and (2 , 4)\n(i)\nf double prime\nf′′(x)\nless than\n<0 on\n(− infinity , 1) and (4 , infinity)\n(−∞,1) and (4,∞)\nPart 1\nChoose the graph below that could be a graph of the function.\nA.\n(0 , 5)\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 0 to 5 in increments of 1 and a vertical y-axis labeled from 0 to 7 in increments of 1. From left to right, a curve increases at a decreasing rate from the point (0, 3) to the point (1, 4), increases at an increasing rate to (2, 5), decreases at a decreasing rate to (3, 4), increases at an increasing rate to (4, 5), and increases at a decreasing rate to (5, 6).\nB.\n(0 , 5)\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 0 to 5 in increments of 1 and a vertical y-axis labeled from 0 to 6 in increments of 1. From left to right, a curve decreases at a decreasing rate from the point (0, 5) to the point (1, 4), decreases at an increasing rate to (2, 3), increases at a decreasing rate to (3, 4), decreases at an increasing rate to (4, 3), and decreases at a decreasing rate to (5, 2).\nC.\n(0 , 5)\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 0 to 5 in increments of 1 and a vertical y-axis labeled from 0 to 6 in increments of 1. From left to right, a curve decreases at a decreasing rate from the point (0, 5) to the point (1, 4), increases at an increasing rate to (2, 5), decreases at a decreasing rate to (3, 4), decreases at an increasing rate to (4, 3), and decreases at a decreasing rate to (5, 2).\nD.\n(0 , 5)\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 0 to 5 in increments of 1 and a vertical y-axis labeled from 0 to 7 in increments of 1. From left to right, a curve increases at a decreasing rate from the point (0, 3) to the point (1, 4), decreases at an increasing rate to (2, 3), increases at a decreasing rate to (3, 4), increases at an increasing rate to (4, 5), and increases at a decreasing rate to (5, 6).",
     "parts": [
       {
         "label": "Problem",
@@ -4312,7 +4294,7 @@ const PROBLEMS = {
       },
       {
         "label": "Part 1",
-        "text": "Sketch the graph of a single function that has all of the properties listed.\n(a) Continuous for all real numbers\n(b) Differentiable everywhere except at x =\n2\n(c) f(\n1\n1)\n4\n(d)\nf prime\nf\u2032(\n1\n1)\n= 0 and\nf prime\nf\u2032(\n3\n3) = 0\n(e)\nf prime\nf\u2032(x)\ngreater than\n>0 on\n(\u2212 infinity , 1) , (1 , 2) , and (3 , infinity)\n(\u2212\u221e,1),\u00a0(1,2),\u00a0and\u00a0(3,\u221e)\n(f)\nf prime\nf\u2032(x)\nless than\n<0 on\n(2 , 3)\n(g)\nModifyingBelow lim With x right arrow 2 Superscript \u2212\nlim\nx\u21922\u2212\nf prime\nf\u2032(x)\ninfinity\n\u221e and\nModifyingBelow lim With x right arrow 2 Superscript +\nlim\nx\u21922+\nf prime\nf\u2032(x)\nnegative infinity\n\u2212\u221e\n(h)\nf double prime\nf\u2032\u2032(x)\ngreater than\n>0 on\n(1 , 2) and (2 , 4)\n(1 , 2)\u00a0and\u00a0(2 , 4)\n(i)\nf double prime\nf\u2032\u2032(x)\nless than\n<0 on\n(\u2212 infinity , 1) and (4 , infinity)\n(\u2212\u221e,1)\u00a0and\u00a0(4,\u221e)"
+        "text": "Sketch the graph of a single function that has all of the properties listed.\n(a) Continuous for all real numbers\n(b) Differentiable everywhere except at x =\n2\n(c) f(\n1\n1)\n4\n(d)\nf prime\nf′(\n1\n1)\n= 0 and\nf prime\nf′(\n3\n3) = 0\n(e)\nf prime\nf′(x)\ngreater than\n>0 on\n(− infinity , 1) , (1 , 2) , and (3 , infinity)\n(−∞,1), (1,2), and (3,∞)\n(f)\nf prime\nf′(x)\nless than\n<0 on\n(2 , 3)\n(g)\nModifyingBelow lim With x right arrow 2 Superscript −\nlim\nx→2−\nf prime\nf′(x)\ninfinity\n∞ and\nModifyingBelow lim With x right arrow 2 Superscript +\nlim\nx→2+\nf prime\nf′(x)\nnegative infinity\n−∞\n(h)\nf double prime\nf′′(x)\ngreater than\n>0 on\n(1 , 2) and (2 , 4)\n(1 , 2) and (2 , 4)\n(i)\nf double prime\nf′′(x)\nless than\n<0 on\n(− infinity , 1) and (4 , infinity)\n(−∞,1) and (4,∞)"
       },
       {
         "label": "Part 1",
@@ -4338,7 +4320,7 @@ const PROBLEMS = {
   },
   "4.5.16": {
     "summary": "a. A rectangular pen is built with one side against a barn. If",
-    "fullText": "Part 1\na. A rectangular pen is built with one side against a barn. If\n(100 , 225)\n225 m\n\u00b2\n2. What are the dimensions of each pen that minimize the amount of fence that must be used?\nBarn\n225\nPart 1\na. To maximize the area of the pen, the sides perpendicular to the barn should be\nm long and the side parallel to the barn should be\nm long.\n(Type exact answers, using radicals as needed.)\nPart 2\nb. To minimize the amount of fence that must be used, each of the sides perpendicular to the barn should be\nm long and each of the sides parallel to the barn should be\nm long.\n(Type exact answers, using radicals as needed.)",
+    "fullText": "Part 1\na. A rectangular pen is built with one side against a barn. If\n(100 , 225)\n225 m\n²\n2. What are the dimensions of each pen that minimize the amount of fence that must be used?\nBarn\n225\nPart 1\na. To maximize the area of the pen, the sides perpendicular to the barn should be\nm long and the side parallel to the barn should be\nm long.\n(Type exact answers, using radicals as needed.)\nPart 2\nb. To minimize the amount of fence that must be used, each of the sides perpendicular to the barn should be\nm long and each of the sides parallel to the barn should be\nm long.\n(Type exact answers, using radicals as needed.)",
     "parts": [
       {
         "label": "Part 1",
@@ -4349,15 +4331,15 @@ const PROBLEMS = {
         "text": "100\n100 m of fencing are used for the other three sides of the pen, what dimensions maximize the area of the pen?"
       },
       {
-        "label": "b. A rancher plans to make four identical and adjacent rectangular pens against a\u200b barn, each with an area of",
-        "text": "225\n225 m\n\u00b2\n2. What are the dimensions of each pen that minimize the amount of fence that must be used?\nBarn\n225"
+        "label": "b. A rancher plans to make four identical and adjacent rectangular pens against a​ barn, each with an area of",
+        "text": "225\n225 m\n²\n2. What are the dimensions of each pen that minimize the amount of fence that must be used?\nBarn\n225"
       },
       {
         "label": "Part 1",
         "text": ""
       },
       {
-        "label": "a. To maximize the area of the\u200b pen, the sides perpendicular to the barn should be",
+        "label": "a. To maximize the area of the​ pen, the sides perpendicular to the barn should be",
         "text": "m long and the side parallel to the barn should be\nm long.\n(Type exact answers, using radicals as needed.)"
       },
       {
@@ -4365,14 +4347,14 @@ const PROBLEMS = {
         "text": ""
       },
       {
-        "label": "b. To minimize the amount of fence that must be\u200b used, each of the sides perpendicular to the barn should be",
+        "label": "b. To minimize the amount of fence that must be​ used, each of the sides perpendicular to the barn should be",
         "text": "m long and each of the sides parallel to the barn should be\nm long.\n(Type exact answers, using radicals as needed.)"
       }
     ]
   },
   "4.5.20": {
-    "summary": "Suppose an airline policy states that all baggage must be box-shaped with a sum of length,\u2026",
-    "fullText": "Part 1\nSuppose an airline policy states that all baggage must be box-shaped with a sum of length, width, and height not exceeding\n60\n60 in. What are the dimensions and volume of a square-based box with the greatest volume under these conditions?\nPart 1\nThe length of the square-end edge is\nin.\nThe box height is\nin.\n(Simplify your answers.)\nPart 2\nThe greatest volume of the box is\nin\n\u00b3\n(Simplify your answer.)",
+    "summary": "Suppose an airline policy states that all baggage must be box-shaped with a sum of length,…",
+    "fullText": "Part 1\nSuppose an airline policy states that all baggage must be box-shaped with a sum of length, width, and height not exceeding\n60\n60 in. What are the dimensions and volume of a square-based box with the greatest volume under these conditions?\nPart 1\nThe length of the square-end edge is\nin.\nThe box height is\nin.\n(Simplify your answers.)\nPart 2\nThe greatest volume of the box is\nin\n³\n(Simplify your answer.)",
     "parts": [
       {
         "label": "Part 1",
@@ -4384,17 +4366,17 @@ const PROBLEMS = {
       },
       {
         "label": "Part 2",
-        "text": "The greatest volume of the box is\nin\n\u00b3\n(Simplify your answer.)"
+        "text": "The greatest volume of the box is\nin\n³\n(Simplify your answer.)"
       }
     ]
   },
   "4.5.21": {
-    "summary": "A square-based , box-shaped ship\u03c0ng crate is designed to have a volume of",
-    "fullText": "Part 1\nA square-based , box-shaped ship\u03c0ng crate is designed to have a volume of\n150\n150 ft\n\u00b3\n3. The material used to make the base costs\neight fifths\n(8 , 5)as the material in the sides , and the material used to make the top costs\nfour fifths\n(4 , 5)\nas much (per square foot) as the material in the sides. What are the dimensions of the crate that minimize the cost of materials?\nPart 1\nThe length of one side of the crate's base is\nft. The height of the crate is\nft.\n(Simplify your answers.)",
+    "summary": "A square-based , box-shaped shipπng crate is designed to have a volume of",
+    "fullText": "Part 1\nA square-based , box-shaped shipπng crate is designed to have a volume of\n150\n150 ft\n³\n3. The material used to make the base costs\neight fifths\n(8 , 5)as the material in the sides , and the material used to make the top costs\nfour fifths\n(4 , 5)\nas much (per square foot) as the material in the sides. What are the dimensions of the crate that minimize the cost of materials?\nPart 1\nThe length of one side of the crate's base is\nft. The height of the crate is\nft.\n(Simplify your answers.)",
     "parts": [
       {
         "label": "Part 1",
-        "text": "A square-based , box-shaped ship\u03c0ng crate is designed to have a volume of\n150\n150 ft\n\u00b3\n3. The material used to make the base costs\neight fifths\n(8 , 5)as the material in the sides , and the material used to make the top costs\nfour fifths\n(4 , 5)\nas much (per square foot) as the material in the sides. What are the dimensions of the crate that minimize the cost of materials?"
+        "text": "A square-based , box-shaped shipπng crate is designed to have a volume of\n150\n150 ft\n³\n3. The material used to make the base costs\neight fifths\n(8 , 5)as the material in the sides , and the material used to make the top costs\nfour fifths\n(4 , 5)\nas much (per square foot) as the material in the sides. What are the dimensions of the crate that minimize the cost of materials?"
       },
       {
         "label": "Part 1",
@@ -4403,12 +4385,12 @@ const PROBLEMS = {
     ]
   },
   "4.8.12": {
-    "summary": "Write the formula for Newton's method and use the given initial approximation to compute th\u2026",
-    "fullText": "Part 1\nWrite the formula for Newton's method and use the given initial approximation to compute the approximations\nx\u00b9\nx\u00b9 and\nx\u00b2\nx\u00b2.\nf(x) = x\u00b3 + 15 ,\nx\u2070 = \u2212 15\nPart 1\nWrite the formula for Newton's method for the given function. Choose the correct answer below.\nA.\nxn + 1 = xn \u2212\nx\u00b3n + 15\n3x\u00b2n\nB.\nxn + 1 = xn +\nx\u00b3n + 15\n3x\u00b2n\nC.\nxn + 1 = xn \u2212\n3x\u00b2n\nx\u00b3n + 15\nD.\nxn + 1 = xn \u2212 x\u00b3n + 15\nPart 2\nUse the given initial approximation to compute the approximations\nx\u00b9\nx\u00b9 and\nx\u00b2\nx\u00b2.\nx\u00b9\n(Do not round until the final answer. Then round to six decimal places as needed.)\nPart 3\nx\u00b2\n(Do not round until the final answer. Then round to six decimal places as needed.)",
+    "summary": "Write the formula for Newton's method and use the given initial approximation to compute th…",
+    "fullText": "Part 1\nWrite the formula for Newton's method and use the given initial approximation to compute the approximations\nx¹\nx¹ and\nx²\nx².\nf(x) = x³ + 15 ,\nx⁰ = − 15\nPart 1\nWrite the formula for Newton's method for the given function. Choose the correct answer below.\nA.\nxn + 1 = xn −\nx³n + 15\n3x²n\nB.\nxn + 1 = xn +\nx³n + 15\n3x²n\nC.\nxn + 1 = xn −\n3x²n\nx³n + 15\nD.\nxn + 1 = xn − x³n + 15\nPart 2\nUse the given initial approximation to compute the approximations\nx¹\nx¹ and\nx²\nx².\nx¹\n(Do not round until the final answer. Then round to six decimal places as needed.)\nPart 3\nx²\n(Do not round until the final answer. Then round to six decimal places as needed.)",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Write the formula for Newton's method and use the given initial approximation to compute the approximations\nx\u00b9\nx\u00b9 and\nx\u00b2\nx\u00b2.\nf(x) = x\u00b3 + 15 ,\nx\u2070 = \u2212 15"
+        "text": "Write the formula for Newton's method and use the given initial approximation to compute the approximations\nx¹\nx¹ and\nx²\nx².\nf(x) = x³ + 15 ,\nx⁰ = − 15"
       },
       {
         "label": "Part 1",
@@ -4416,30 +4398,30 @@ const PROBLEMS = {
       },
       {
         "label": "A.",
-        "text": "xn + 1 = xn \u2212\nx\u00b3n + 15\n3x\u00b2n"
+        "text": "xn + 1 = xn −\nx³n + 15\n3x²n"
       },
       {
         "label": "B.",
-        "text": "xn + 1 = xn +\nx\u00b3n + 15\n3x\u00b2n"
+        "text": "xn + 1 = xn +\nx³n + 15\n3x²n"
       },
       {
         "label": "C.",
-        "text": "xn + 1 = xn \u2212\n3x\u00b2n\nx\u00b3n + 15"
+        "text": "xn + 1 = xn −\n3x²n\nx³n + 15"
       },
       {
         "label": "D.",
-        "text": "xn + 1 = xn \u2212 x\u00b3n + 15"
+        "text": "xn + 1 = xn − x³n + 15"
       },
       {
         "label": "Part 2",
-        "text": "Use the given initial approximation to compute the approximations\nx\u00b9\nx\u00b9 and\nx\u00b2\nx\u00b2.\nx\u00b9\n(Do not round until the final answer. Then round to six decimal places as needed.)"
+        "text": "Use the given initial approximation to compute the approximations\nx¹\nx¹ and\nx²\nx².\nx¹\n(Do not round until the final answer. Then round to six decimal places as needed.)"
       },
       {
         "label": "Part 3",
-        "text": "x\u00b2\n(Do not round until the final answer. Then round to six decimal places as needed.)"
+        "text": "x²\n(Do not round until the final answer. Then round to six decimal places as needed.)"
       }
     ],
-    "expr": "f(x) = x\u00b3 + 15 ,"
+    "expr": "f(x) = x³ + 15 ,"
   },
   "4.8.13": {
     "summary": "A box with an open top is constructed from a rectangular piece of cardboard with dimensions",
@@ -4460,8 +4442,8 @@ const PROBLEMS = {
     ]
   },
   "4.6.19-BE": {
-    "summary": "A company manufactures and sells x cellphones per week. The weekly price-demand and cost eq\u2026",
-    "fullText": "*6.\nPart 1\nA company manufactures and sells x cellphones per week. The weekly price-demand and cost equations are given below.\np = 600 \u2212 0.5x and\nUpper C (x) = 25 , 000 + 135 x\nC(x) = 25 , 000 + 135x\nPart 1\n(A) What price should the company charge for the phones, and how many phones should be produced to maximize the weekly revenue? What is the maximum weekly revenue?\nThe company should produce\nphones each week at a price of $\n(Round to the nearest cent as needed.)\nPart 2\nThe maximum weekly revenue is $\n. (Round to the nearest cent as needed.)\nPart 3\n(B) What price should the company charge for the phones, and how many phones should be produced to maximize the weekly profit? What is the maximum weekly profit?\nThe company should produce\nphones each week at a price of $\n(Round to the nearest cent as needed.)\nPart 4\nThe maximum weekly profit is $\n. (Round to the nearest cent as needed.)",
+    "summary": "A company manufactures and sells x cellphones per week. The weekly price-demand and cost eq…",
+    "fullText": "*6.\nPart 1\nA company manufactures and sells x cellphones per week. The weekly price-demand and cost equations are given below.\np = 600 − 0.5x and\nUpper C (x) = 25 , 000 + 135 x\nC(x) = 25 , 000 + 135x\nPart 1\n(A) What price should the company charge for the phones, and how many phones should be produced to maximize the weekly revenue? What is the maximum weekly revenue?\nThe company should produce\nphones each week at a price of $\n(Round to the nearest cent as needed.)\nPart 2\nThe maximum weekly revenue is $\n. (Round to the nearest cent as needed.)\nPart 3\n(B) What price should the company charge for the phones, and how many phones should be produced to maximize the weekly profit? What is the maximum weekly profit?\nThe company should produce\nphones each week at a price of $\n(Round to the nearest cent as needed.)\nPart 4\nThe maximum weekly profit is $\n. (Round to the nearest cent as needed.)",
     "parts": [
       {
         "label": "Problem",
@@ -4469,7 +4451,7 @@ const PROBLEMS = {
       },
       {
         "label": "Part 1",
-        "text": "A company manufactures and sells x cellphones per week. The weekly price-demand and cost equations are given below.\np = 600 \u2212 0.5x and\nUpper C (x) = 25 , 000 + 135 x\nC(x) = 25 , 000 + 135x"
+        "text": "A company manufactures and sells x cellphones per week. The weekly price-demand and cost equations are given below.\np = 600 − 0.5x and\nUpper C (x) = 25 , 000 + 135 x\nC(x) = 25 , 000 + 135x"
       },
       {
         "label": "Part 1",
@@ -4488,11 +4470,11 @@ const PROBLEMS = {
         "text": "The maximum weekly profit is $\n. (Round to the nearest cent as needed.)"
       }
     ],
-    "expr": "p = 600 \u2212 0.5x and"
+    "expr": "p = 600 − 0.5x and"
   },
   "4.6.21-BE": {
-    "summary": "A company manufactures and sells x television sets per month. The monthly cost and price-de\u2026",
-    "fullText": "*7.\nPart 1\nA company manufactures and sells x television sets per month. The monthly cost and price-demand equations are C(x)\n72 , 000 plus 60 x\n72 , 000 + 60x and\np(x) = 300 \u2212\nx\n(30 , 0)\nless than or =\n\u2264x\nless than or =\n\u2264\n9000\n(A) Find the maximum revenue.\n(B) Find the maximum profit, the production level that will realize the maximum profit, and the price the company should charge for each television set.\n(C) If the government decides to tax the company $\n5\n5 for each set it produces, how many sets should the company manufacture each month to maximize its profit? What is the maximum profit? What should the company charge for each set?\nPart 1\n(A) The maximum revenue is $\n(Type an integer or a decimal.)\nPart 2\n(B) The maximum profit is $\nwhen\nsets are manufactured and sold for $\neach.\n(Type integers or decimals.)\nPart 3\n(C) When each set is taxed at $\n5\n5, the maximum profit is $\nwhen\nsets are manufactured and sold for $\neach.\n(Type integers or decimals.)",
+    "summary": "A company manufactures and sells x television sets per month. The monthly cost and price-de…",
+    "fullText": "*7.\nPart 1\nA company manufactures and sells x television sets per month. The monthly cost and price-demand equations are C(x)\n72 , 000 plus 60 x\n72 , 000 + 60x and\np(x) = 300 −\nx\n(30 , 0)\nless than or =\n≤x\nless than or =\n≤\n9000\n(A) Find the maximum revenue.\n(B) Find the maximum profit, the production level that will realize the maximum profit, and the price the company should charge for each television set.\n(C) If the government decides to tax the company $\n5\n5 for each set it produces, how many sets should the company manufacture each month to maximize its profit? What is the maximum profit? What should the company charge for each set?\nPart 1\n(A) The maximum revenue is $\n(Type an integer or a decimal.)\nPart 2\n(B) The maximum profit is $\nwhen\nsets are manufactured and sold for $\neach.\n(Type integers or decimals.)\nPart 3\n(C) When each set is taxed at $\n5\n5, the maximum profit is $\nwhen\nsets are manufactured and sold for $\neach.\n(Type integers or decimals.)",
     "parts": [
       {
         "label": "Problem",
@@ -4500,7 +4482,7 @@ const PROBLEMS = {
       },
       {
         "label": "Part 1",
-        "text": "A company manufactures and sells x television sets per month. The monthly cost and price-demand equations are C(x)\n72 , 000 plus 60 x\n72 , 000 + 60x and\np(x) = 300 \u2212\nx\n(30 , 0)\nless than or =\n\u2264x\nless than or =\n\u2264\n9000\n(A) Find the maximum revenue.\n(B) Find the maximum profit, the production level that will realize the maximum profit, and the price the company should charge for each television set.\n(C) If the government decides to tax the company $\n5\n5 for each set it produces, how many sets should the company manufacture each month to maximize its profit? What is the maximum profit? What should the company charge for each set?"
+        "text": "A company manufactures and sells x television sets per month. The monthly cost and price-demand equations are C(x)\n72 , 000 plus 60 x\n72 , 000 + 60x and\np(x) = 300 −\nx\n(30 , 0)\nless than or =\n≤x\nless than or =\n≤\n9000\n(A) Find the maximum revenue.\n(B) Find the maximum profit, the production level that will realize the maximum profit, and the price the company should charge for each television set.\n(C) If the government decides to tax the company $\n5\n5 for each set it produces, how many sets should the company manufacture each month to maximize its profit? What is the maximum profit? What should the company charge for each set?"
       },
       {
         "label": "Part 1",
@@ -4515,7 +4497,7 @@ const PROBLEMS = {
         "text": "(C) When each set is taxed at $\n5\n5, the maximum profit is $\nwhen\nsets are manufactured and sold for $\neach.\n(Type integers or decimals.)"
       }
     ],
-    "expr": "p(x) = 300 \u2212"
+    "expr": "p(x) = 300 −"
   },
   "4.6.25-BE": {
     "summary": "480 sandwiches per day at a price of",
@@ -4594,8 +4576,8 @@ const PROBLEMS = {
     ]
   },
   "4.6.39-BE": {
-    "summary": "625 , 000 co\u03c0es of certain books each year. It costs the company",
-    "fullText": "*12.\nPart 1\nA publishing company sells\n625 , 000\n625 , 000 co\u03c0es of certain books each year. It costs the company\n$ 1\n$1 to store each book for a year. Each time it must print additional copies, it costs the company\n$ 500\n$500 to set up the presses. How many books should the company produce during each printing in order to minimize its total storage and setup costs?\nPart 1\nThe company should produce\nbooks each printing in order to minimize costs.",
+    "summary": "625 , 000 coπes of certain books each year. It costs the company",
+    "fullText": "*12.\nPart 1\nA publishing company sells\n625 , 000\n625 , 000 coπes of certain books each year. It costs the company\n$ 1\n$1 to store each book for a year. Each time it must print additional copies, it costs the company\n$ 500\n$500 to set up the presses. How many books should the company produce during each printing in order to minimize its total storage and setup costs?\nPart 1\nThe company should produce\nbooks each printing in order to minimize costs.",
     "parts": [
       {
         "label": "Problem",
@@ -4603,7 +4585,7 @@ const PROBLEMS = {
       },
       {
         "label": "Part 1",
-        "text": "A publishing company sells\n625 , 000\n625 , 000 co\u03c0es of certain books each year. It costs the company\n$ 1\n$1 to store each book for a year. Each time it must print additional copies, it costs the company\n$ 500\n$500 to set up the presses. How many books should the company produce during each printing in order to minimize its total storage and setup costs?"
+        "text": "A publishing company sells\n625 , 000\n625 , 000 coπes of certain books each year. It costs the company\n$ 1\n$1 to store each book for a year. Each time it must print additional copies, it costs the company\n$ 500\n$500 to set up the presses. How many books should the company produce during each printing in order to minimize its total storage and setup costs?"
       },
       {
         "label": "Part 1",
@@ -4613,7 +4595,7 @@ const PROBLEMS = {
   },
   "4.6.41-BE": {
     "summary": "The cost per hour for fuel to run a train is",
-    "fullText": "*13.\nPart 1\nThe cost per hour for fuel to run a train is\nv\u00b2/30\ndollars, where v is the speed of the train in miles per hour. (Note that the cost goes up as the square of the speed.) Other costs, including labor, are $\n420\n420 per hour. How fast should the train travel on a\n360\n360-mile trip to minimize the total cost for the trip?\nPart 1\nWrite the total cost C as a function of the speed v.\nC(v)\n(Use integers or fractions for any numbers in the expression.)\nPart 2\nThe train should travel at\n(1)\nto minimize the total cost for the trip.\n(Type an integer or decimal rounded to two decimal places as needed.)\n(1)\nhours\nmiles per hour\nhours per mile\nmiles",
+    "fullText": "*13.\nPart 1\nThe cost per hour for fuel to run a train is\nv²/30\ndollars, where v is the speed of the train in miles per hour. (Note that the cost goes up as the square of the speed.) Other costs, including labor, are $\n420\n420 per hour. How fast should the train travel on a\n360\n360-mile trip to minimize the total cost for the trip?\nPart 1\nWrite the total cost C as a function of the speed v.\nC(v)\n(Use integers or fractions for any numbers in the expression.)\nPart 2\nThe train should travel at\n(1)\nto minimize the total cost for the trip.\n(Type an integer or decimal rounded to two decimal places as needed.)\n(1)\nhours\nmiles per hour\nhours per mile\nmiles",
     "parts": [
       {
         "label": "Problem",
@@ -4621,7 +4603,7 @@ const PROBLEMS = {
       },
       {
         "label": "Part 1",
-        "text": "The cost per hour for fuel to run a train is\nv\u00b2/30\ndollars, where v is the speed of the train in miles per hour. (Note that the cost goes up as the square of the speed.) Other costs, including labor, are $\n420\n420 per hour. How fast should the train travel on a\n360\n360-mile trip to minimize the total cost for the trip?"
+        "text": "The cost per hour for fuel to run a train is\nv²/30\ndollars, where v is the speed of the train in miles per hour. (Note that the cost goes up as the square of the speed.) Other costs, including labor, are $\n420\n420 per hour. How fast should the train travel on a\n360\n360-mile trip to minimize the total cost for the trip?"
       },
       {
         "label": "Part 1",
@@ -4635,22 +4617,22 @@ const PROBLEMS = {
   },
   "4.6.7": {
     "summary": "Use linear approximation to estimate",
-    "fullText": "Part 1\nUse linear approximation to estimate\nf (4.9)\nf(4.9) given that\nf(5) = 2 and\nf prime (5) = 6\nf\u2032(5) = 6.\nPart 1\nf (4.9)\nf(4.9)\nalmost =\n\u2248\n(Simplify your answer.)",
+    "fullText": "Part 1\nUse linear approximation to estimate\nf (4.9)\nf(4.9) given that\nf(5) = 2 and\nf prime (5) = 6\nf′(5) = 6.\nPart 1\nf (4.9)\nf(4.9)\nalmost =\n≈\n(Simplify your answer.)",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Use linear approximation to estimate\nf (4.9)\nf(4.9) given that\nf(5) = 2 and\nf prime (5) = 6\nf\u2032(5) = 6."
+        "text": "Use linear approximation to estimate\nf (4.9)\nf(4.9) given that\nf(5) = 2 and\nf prime (5) = 6\nf′(5) = 6."
       },
       {
         "label": "Part 1",
-        "text": "f (4.9)\nf(4.9)\nalmost =\n\u2248\n(Simplify your answer.)"
+        "text": "f (4.9)\nf(4.9)\nalmost =\n≈\n(Simplify your answer.)"
       }
     ],
     "expr": "f(5) = 2 and"
   },
   "4.6.25": {
-    "summary": "a. Write the equation of the line that represents the linear approximation to the following \u2026",
-    "fullText": "Part 1\na. Write the equation of the line that represents the linear approximation to the following function at the given point a.\nb. Use the linear approximation to estimate the given quantity.\nc. Compute the percent error in the approximation,\n100 \u00b7 StartAbsoluteValue approximation \u2212 exact EndAbsoluteValue/StartAbsoluteValue exact EndAbsoluteValue\n100\u2022\napproximation \u2212 exact\nexact\n, where the exact value is given by a calculator.\nf(x) = 9 \u2212 3x\u00b2 at\na = 2 ; f(\n2.1\n2.1)\nPart 1\na. L(x)\nPart 2\nb. Using the linear approximation, f(\n2.1\n2.1)\nalmost =\n\u2248\n(Type an integer or a decimal.)\nPart 3\nc. The percent error in the approximation is\n%.\n(Round to three decimal places as needed.)",
+    "summary": "a. Write the equation of the line that represents the linear approximation to the following …",
+    "fullText": "Part 1\na. Write the equation of the line that represents the linear approximation to the following function at the given point a.\nb. Use the linear approximation to estimate the given quantity.\nc. Compute the percent error in the approximation,\n100 · StartAbsoluteValue approximation − exact EndAbsoluteValue/StartAbsoluteValue exact EndAbsoluteValue\n100•\napproximation − exact\nexact\n, where the exact value is given by a calculator.\nf(x) = 9 − 3x² at\na = 2 ; f(\n2.1\n2.1)\nPart 1\na. L(x)\nPart 2\nb. Using the linear approximation, f(\n2.1\n2.1)\nalmost =\n≈\n(Type an integer or a decimal.)\nPart 3\nc. The percent error in the approximation is\n%.\n(Round to three decimal places as needed.)",
     "parts": [
       {
         "label": "Part 1",
@@ -4665,8 +4647,8 @@ const PROBLEMS = {
         "text": ""
       },
       {
-        "label": "c. Compute the percent error in the\u200b approximation,",
-        "text": "100 \u00b7 StartAbsoluteValue approximation \u2212 exact EndAbsoluteValue/StartAbsoluteValue exact EndAbsoluteValue\n100\u2022\napproximation \u2212 exact\nexact\n, where the exact value is given by a calculator.\nf(x) = 9 \u2212 3x\u00b2 at\na = 2 ; f(\n2.1\n2.1)"
+        "label": "c. Compute the percent error in the​ approximation,",
+        "text": "100 · StartAbsoluteValue approximation − exact EndAbsoluteValue/StartAbsoluteValue exact EndAbsoluteValue\n100•\napproximation − exact\nexact\n, where the exact value is given by a calculator.\nf(x) = 9 − 3x² at\na = 2 ; f(\n2.1\n2.1)"
       },
       {
         "label": "Part 1",
@@ -4677,8 +4659,8 @@ const PROBLEMS = {
         "text": ""
       },
       {
-        "label": "b. Using the linear\u200b approximation, \u200bf(",
-        "text": "2.1\n2.1)\nalmost =\n\u2248\n(Type an integer or a decimal.)"
+        "label": "b. Using the linear​ approximation, ​f(",
+        "text": "2.1\n2.1)\nalmost =\n≈\n(Type an integer or a decimal.)"
       },
       {
         "label": "Part 3",
@@ -4689,11 +4671,11 @@ const PROBLEMS = {
         "text": "%.\n(Round to three decimal places as needed.)"
       }
     ],
-    "expr": "f(x) = 9 \u2212 3x\u00b2 at"
+    "expr": "f(x) = 9 − 3x² at"
   },
   "4.6.28": {
-    "summary": "a. Write the equation of the line that represents the linear approximation to the following \u2026",
-    "fullText": "Part 1\na. Write the equation of the line that represents the linear approximation to the following function at the given point a.\nb. Use the linear approximation to estimate the given quantity.\nc. Compute the percent error in the approximation,\n100 \u00b7 StartAbsoluteValue approximation \u2212 exact EndAbsoluteValue/StartAbsoluteValue exact EndAbsoluteValue\n100\u2022\napproximation \u2212 exact\nexact\n, where the exact value is given by a calculator.\nf(x) = x/x + 1\n; a\n= 1 ; f(\n0.9\n0.9)\nPart 1\na. L(x)\n(Use integers or fractions for any numbers in the expression.)\nPart 2\nb. Using the linear approximation, f(\n0.9\n0.9)\nalmost =\n\u2248\n(Round to three decimal places as needed.)\nPart 3\nc. The percent error in the approximation is\n%.\n(Round to three decimal places as needed.)",
+    "summary": "a. Write the equation of the line that represents the linear approximation to the following …",
+    "fullText": "Part 1\na. Write the equation of the line that represents the linear approximation to the following function at the given point a.\nb. Use the linear approximation to estimate the given quantity.\nc. Compute the percent error in the approximation,\n100 · StartAbsoluteValue approximation − exact EndAbsoluteValue/StartAbsoluteValue exact EndAbsoluteValue\n100•\napproximation − exact\nexact\n, where the exact value is given by a calculator.\nf(x) = x/x + 1\n; a\n= 1 ; f(\n0.9\n0.9)\nPart 1\na. L(x)\n(Use integers or fractions for any numbers in the expression.)\nPart 2\nb. Using the linear approximation, f(\n0.9\n0.9)\nalmost =\n≈\n(Round to three decimal places as needed.)\nPart 3\nc. The percent error in the approximation is\n%.\n(Round to three decimal places as needed.)",
     "parts": [
       {
         "label": "Part 1",
@@ -4708,8 +4690,8 @@ const PROBLEMS = {
         "text": ""
       },
       {
-        "label": "c. Compute the percent error in the\u200b approximation,",
-        "text": "100 \u00b7 StartAbsoluteValue approximation \u2212 exact EndAbsoluteValue/StartAbsoluteValue exact EndAbsoluteValue\n100\u2022\napproximation \u2212 exact\nexact\n, where the exact value is given by a calculator.\nf(x) = x/x + 1\n; a\n= 1 ; f(\n0.9\n0.9)"
+        "label": "c. Compute the percent error in the​ approximation,",
+        "text": "100 · StartAbsoluteValue approximation − exact EndAbsoluteValue/StartAbsoluteValue exact EndAbsoluteValue\n100•\napproximation − exact\nexact\n, where the exact value is given by a calculator.\nf(x) = x/x + 1\n; a\n= 1 ; f(\n0.9\n0.9)"
       },
       {
         "label": "Part 1",
@@ -4720,8 +4702,8 @@ const PROBLEMS = {
         "text": ""
       },
       {
-        "label": "b. Using the linear\u200b approximation, \u200bf(",
-        "text": "0.9\n0.9)\nalmost =\n\u2248\n(Round to three decimal places as needed.)"
+        "label": "b. Using the linear​ approximation, ​f(",
+        "text": "0.9\n0.9)\nalmost =\n≈\n(Round to three decimal places as needed.)"
       },
       {
         "label": "Part 3",
@@ -4735,78 +4717,59 @@ const PROBLEMS = {
     "expr": "= 1 ; f("
   },
   "4.6.30": {
-    "summary": "a. Write the equation of the line that represents the linear approximation to the following \u2026",
-    "fullText": "Part 1\na. Write the equation of the line that represents the linear approximation to the following function at the given point a.\nb. Use the linear approximation to estimate the given quantity.\nc. Compute the percent error in the approximation,\n100 \u00b7 StartAbsoluteValue approximation \u2212 exact EndAbsoluteValue/StartAbsoluteValue exact EndAbsoluteValue\n100\u2022\napproximation \u2212 exact\nexact\n, where the exact value is given by a calculator.\nf(x) = ex at a\n= 0 ; f(\n0.03\n0.03)\nPart 1\na. L(x)\nPart 2\nb. Using the linear approximation, f(\n0.03\n0.03)\nalmost =\n\u2248\n(Type an integer or a decimal.)\nPart 3\nc. The percent error in the approximation is\n%.\n(Round to four decimal places as needed.)",
+    "summary": "a. Write the equation of the line that represents the linear approximation to the following fu…",
+    "fullText": "a. Write the equation of the line that represents the linear approximation to the following function at the given point a.\nb. Use the linear approximation to estimate the given quantity.\nc. Compute the percent error in the approximation,\n100 · (StartAbsoluteValue approximation − exact EndAbsoluteValue)/(StartAbsoluteValue exact EndAbsoluteValue)\n100•\napproximation − exact\nexact\n, where the exact value is given by a calculator.\nf(x) = 3ex at a\n= 0 ; f(0.02)\nPart 1 of 3\na. L(x)\nPart 2 of 3\nb. Using the linear approximation , f(0.02)\nalmost =\n≈\n(Type an integer or a decimal.)\nPart 3 of 3\nc. The percent error in the approximation is\n%.\n(Round to four decimal places as needed.)",
     "parts": [
       {
         "label": "Part 1",
-        "text": ""
+        "text": "a. Write the equation of the line that represents the linear approximation to the following function at the given point a.\nb. Use the linear approximation to estimate the given quantity.\nc. Compute the percent error in the approximation,\n100 · (StartAbsoluteValue approximation − exact EndAbsoluteValue)/(StartAbsoluteValue exact EndAbsoluteValue)\n100•\napproximation − exact\nexact\n, where the exact value is given by a calculator.\nf(x) = 3ex at a\n= 0 ; f(0.02)"
       },
       {
-        "label": "a. Write the equation of the line that represents the linear approximation to the following function at the given point a.",
-        "text": ""
-      },
-      {
-        "label": "b. Use the linear approximation to estimate the given quantity.",
-        "text": ""
-      },
-      {
-        "label": "c. Compute the percent error in the\u200b approximation,",
-        "text": "100 \u00b7 StartAbsoluteValue approximation \u2212 exact EndAbsoluteValue/StartAbsoluteValue exact EndAbsoluteValue\n100\u2022\napproximation \u2212 exact\nexact\n, where the exact value is given by a calculator.\nf(x) = ex at a\n= 0 ; f(\n0.03\n0.03)"
-      },
-      {
-        "label": "Part 1",
+        "label": "Part 1 of 3",
         "text": "a. L(x)"
       },
       {
-        "label": "Part 2",
-        "text": ""
+        "label": "Part 2 of 3",
+        "text": "b. Using the linear approximation , f(0.02)\nalmost =\n≈\n(Type an integer or a decimal.)"
       },
       {
-        "label": "b. Using the linear\u200b approximation, \u200bf(",
-        "text": "0.03\n0.03)\nalmost =\n\u2248\n(Type an integer or a decimal.)"
-      },
-      {
-        "label": "Part 3",
-        "text": ""
-      },
-      {
-        "label": "c. The percent error in the approximation is",
-        "text": "%.\n(Round to four decimal places as needed.)"
+        "label": "Part 3 of 3",
+        "text": "c. The percent error in the approximation is\n%.\n(Round to four decimal places as needed.)"
       }
     ],
-    "expr": "f(x) = ex at a"
+    "expr": "f(x) = 3ex at a",
+    "prompt": "a. Write the equation of the line that represents the linear approximation to the following fu…"
   },
   "4.6.39": {
-    "summary": "Use a linear approximation to estimate the following quantity. Choose a value of a that prod\u2026",
-    "fullText": "Part 1\nUse a linear approximation to estimate the following quantity. Choose a value of a that produces a small error and does not require the use of a calculator.\n\u221a(102)\n102\nPart 1\nThe linear approximation of\n\u221a(102)\n102 is\n(Type an exact answer.)",
+    "summary": "Use a linear approximation to estimate the following quantity. Choose a value of a that prod…",
+    "fullText": "Part 1\nUse a linear approximation to estimate the following quantity. Choose a value of a that produces a small error and does not require the use of a calculator.\n√(102)\n102\nPart 1\nThe linear approximation of\n√(102)\n102 is\n(Type an exact answer.)",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Use a linear approximation to estimate the following quantity. Choose a value of a that produces a small error and does not require the use of a calculator.\n\u221a(102)\n102"
+        "text": "Use a linear approximation to estimate the following quantity. Choose a value of a that produces a small error and does not require the use of a calculator.\n√(102)\n102"
       },
       {
         "label": "Part 1",
-        "text": "The linear approximation of\n\u221a(102)\n102 is\n(Type an exact answer.)"
+        "text": "The linear approximation of\n√(102)\n102 is\n(Type an exact answer.)"
       }
     ]
   },
   "4.6.40": {
-    "summary": "Use a linear approximation to estimate the following quantity. Choose a value of a that prod\u2026",
-    "fullText": "Part 1\nUse a linear approximation to estimate the following quantity. Choose a value of a that produces a small error and does not require the use of a calculator.\nRootIndex 3 \u221a(23)\n(3 , 23)\nPart 1\nThe linear approximation of\nRootIndex 3 \u221a(23)\n3\n23 is\n(Type an exact answer.)",
+    "summary": "Use a linear approximation to estimate the following quantity. Choose a value of a that prod…",
+    "fullText": "Part 1\nUse a linear approximation to estimate the following quantity. Choose a value of a that produces a small error and does not require the use of a calculator.\nRootIndex 3 √(23)\n(3 , 23)\nPart 1\nThe linear approximation of\nRootIndex 3 √(23)\n3\n23 is\n(Type an exact answer.)",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Use a linear approximation to estimate the following quantity. Choose a value of a that produces a small error and does not require the use of a calculator.\nRootIndex 3 \u221a(23)\n(3 , 23)"
+        "text": "Use a linear approximation to estimate the following quantity. Choose a value of a that produces a small error and does not require the use of a calculator.\nRootIndex 3 √(23)\n(3 , 23)"
       },
       {
         "label": "Part 1",
-        "text": "The linear approximation of\nRootIndex 3 \u221a(23)\n3\n23 is\n(Type an exact answer.)"
+        "text": "The linear approximation of\nRootIndex 3 √(23)\n3\n23 is\n(Type an exact answer.)"
       }
     ]
   },
   "4.6.41": {
-    "summary": "Use a linear approximation to estimate the following quantity. Choose a value of a that prod\u2026",
+    "summary": "Use a linear approximation to estimate the following quantity. Choose a value of a that prod…",
     "fullText": "Part 1\nUse a linear approximation to estimate the following quantity. Choose a value of a that produces a small error and does not require the use of a calculator.\nln (1.06)\nln(1.06)\nPart 1\nThe linear approximation of\nln (1.06)\nln(1.06) is\n(Type an exact answer.)",
     "parts": [
       {
@@ -4821,115 +4784,113 @@ const PROBLEMS = {
   },
   "4.6.55": {
     "summary": "Approximate the change in the volume of a sphere when its radius changes from r =",
-    "fullText": "Part 1\nApproximate the change in the volume of a sphere when its radius changes from r =\n50\n50 ft to\nr = 50.05\u00a0ft\n(Upper V (r) = four thirds \u03c0 r\u00b3)\nV(r) =\n(4 , 3)\n\u03c0r\u00b3.\nPart 1\nWhen r changes from\n50\n50 ft to\n50.05\n50.05 ft ,\nUpper Delta\n\u0394V\nalmost =\n\u2248\nft\n\u00b3\n(Type an exact answer.)",
+    "fullText": "Part 1\nApproximate the change in the volume of a sphere when its radius changes from r =\n50\n50 ft to\nr = 50.05 ft\n(Upper V (r) = four thirds π r³)\nV(r) =\n(4 , 3)\nπr³.\nPart 1\nWhen r changes from\n50\n50 ft to\n50.05\n50.05 ft ,\nUpper Delta\nΔV\nalmost =\n≈\nft\n³\n(Type an exact answer.)",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Approximate the change in the volume of a sphere when its radius changes from r =\n50\n50 ft to\nr = 50.05\u00a0ft\n(Upper V (r) = four thirds \u03c0 r\u00b3)\nV(r) =\n(4 , 3)\n\u03c0r\u00b3."
+        "text": "Approximate the change in the volume of a sphere when its radius changes from r =\n50\n50 ft to\nr = 50.05 ft\n(Upper V (r) = four thirds π r³)\nV(r) =\n(4 , 3)\nπr³."
       },
       {
         "label": "Part 1",
-        "text": "When r changes from\n50\n50 ft to\n50.05\n50.05 ft ,\nUpper Delta\n\u0394V\nalmost =\n\u2248\nft\n\u00b3\n(Type an exact answer.)"
+        "text": "When r changes from\n50\n50 ft to\n50.05\n50.05 ft ,\nUpper Delta\nΔV\nalmost =\n≈\nft\n³\n(Type an exact answer.)"
       }
     ],
-    "expr": "r = 50.05\u00a0ft"
+    "expr": "r = 50.05 ft"
   },
   "4.6.57": {
     "summary": "Approximate the change in the volume of a right circular cylinder of fixed radius r",
-    "fullText": "Part 1\nApproximate the change in the volume of a right circular cylinder of fixed radius r\n19\n19 cm when its height decreases from h\n15\n15 cm to h\n14.9\n14.9 cm (\nV(h) = \u03c0r\u00b2h). Use a linear approximation.\nPart 1\nUpper Delta Upper V\n\u0394V\nalmost =\n\u2248\ncm\n\u00b3\n(Type an exact answer.)",
+    "fullText": "Part 1\nApproximate the change in the volume of a right circular cylinder of fixed radius r\n19\n19 cm when its height decreases from h\n15\n15 cm to h\n14.9\n14.9 cm (\nV(h) = πr²h). Use a linear approximation.\nPart 1\nUpper Delta Upper V\nΔV\nalmost =\n≈\ncm\n³\n(Type an exact answer.)",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Approximate the change in the volume of a right circular cylinder of fixed radius r\n19\n19 cm when its height decreases from h\n15\n15 cm to h\n14.9\n14.9 cm (\nV(h) = \u03c0r\u00b2h). Use a linear approximation."
+        "text": "Approximate the change in the volume of a right circular cylinder of fixed radius r\n19\n19 cm when its height decreases from h\n15\n15 cm to h\n14.9\n14.9 cm (\nV(h) = πr²h). Use a linear approximation."
       },
       {
         "label": "Part 1",
-        "text": "Upper Delta Upper V\n\u0394V\nalmost =\n\u2248\ncm\n\u00b3\n(Type an exact answer.)"
+        "text": "Upper Delta Upper V\nΔV\nalmost =\n≈\ncm\n³\n(Type an exact answer.)"
       }
     ],
-    "expr": "V(h) = \u03c0r\u00b2h). Use a linear approximation."
+    "expr": "V(h) = πr²h). Use a linear approximation."
   },
   "4.6.61": {
-    "summary": "Consider the following function and express the relationship between a small change in x and\u2026",
-    "fullText": "Part 1\nConsider the following function and express the relationship between a small change in x and the corresponding change in y in the form\ndy = f\u2032(x)dx.\nf(x) 9 x plus 1 9x + 1\nPart 1\ndy\n(nothing) dx nbsp\ndx",
+    "summary": "Consider the following function and express the relationship between a small change in x and…",
+    "fullText": "Part 1\nConsider the following function and express the relationship between a small change in x and the corresponding change in y in the form\ndy = f′(x)dx.\nf(x) 9 x plus 1 9x + 1\nPart 1\ndy\n(nothing) dx nbsp\ndx",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Consider the following function and express the relationship between a small change in x and the corresponding change in y in the form\ndy = f\u2032(x)dx.\nf(x) 9 x plus 1 9x + 1"
+        "text": "Consider the following function and express the relationship between a small change in x and the corresponding change in y in the form\ndy = f′(x)dx.\nf(x) 9 x plus 1 9x + 1"
       },
       {
         "label": "Part 1",
         "text": "dy\n(nothing) dx nbsp\ndx"
       }
     ],
-    "expr": "dy = f\u2032(x)dx."
+    "expr": "dy = f′(x)dx."
   },
   "4.6.63": {
-    "summary": "Consider the following function and express the relationship between a small change in x and\u2026",
-    "fullText": "Part 1\nConsider the following function and express the relationship between a small change in x and the corresponding change in y in the form\ndy = f\u2032(x)dx.\nf(x) =\n1\nx\u2076\nPart 1\ndy\ndx",
+    "summary": "Consider the following function and express the relationship between a small change in x and…",
+    "fullText": "Part 1\nConsider the following function and express the relationship between a small change in x and the corresponding change in y in the form\ndy = f′(x)dx.\nf(x) =\n1\nx⁶\nPart 1\ndy\ndx",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Consider the following function and express the relationship between a small change in x and the corresponding change in y in the form\ndy = f\u2032(x)dx.\nf(x) =\n1\nx\u2076"
+        "text": "Consider the following function and express the relationship between a small change in x and the corresponding change in y in the form\ndy = f′(x)dx.\nf(x) =\n1\nx⁶"
       },
       {
         "label": "Part 1",
         "text": "dy\ndx"
       }
     ],
-    "expr": "dy = f\u2032(x)dx."
+    "expr": "dy = f′(x)dx."
   },
   "4.6.64": {
-    "summary": "Consider the following function and express the relationship between a small change in x and\u2026",
-    "fullText": "Part 1\nConsider the following function and express the relationship between a small change in x and the corresponding change in y in the form dy\nf prime (x) dx\nf\u2032(x)dx.\nf(x) = e Superscript 18 x\nPart 1\ndy\n(nothing) dx\ndx (Type an exact answer in terms of\ne\ne.)",
+    "summary": "Consider the following function and express the relationship between a small change in x and t…",
+    "fullText": "Consider the following function and express the relationship between a small change in x and the corresponding change in y in the form dy\nf′ (x) dx\nf′(x)dx.\nf(x) = e^(15x)\ndx\n(Type an exact answer in terms of\ne\ne.)",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Consider the following function and express the relationship between a small change in x and the corresponding change in y in the form dy\nf prime (x) dx\nf\u2032(x)dx.\nf(x) = e Superscript 18 x"
-      },
-      {
-        "label": "Part 1",
-        "text": "dy\n(nothing) dx\ndx (Type an exact answer in terms of\ne\ne.)"
+        "text": "Consider the following function and express the relationship between a small change in x and the corresponding change in y in the form dy\nf′ (x) dx\nf′(x)dx.\nf(x) = e^(15x)\ndx\n(Type an exact answer in terms of\ne\ne.)"
       }
-    ]
+    ],
+    "expr": "f(x) = e^(15x)",
+    "prompt": "Consider the following function and express the relationship between a small change in x and t…"
   },
   "4.6.65": {
-    "summary": "Consider the following function and express the relationship between a small change in x and\u2026",
-    "fullText": "Part 1\nConsider the following function and express the relationship between a small change in x and the corresponding change in y in the form\ndy = f\u2032(x)dx.\nf(x) = 17 \u2212 a cos x\nf(x) = 17 \u2212 acosx , a is a constant\nPart 1\ndy\ndx",
+    "summary": "Consider the following function and express the relationship between a small change in x and…",
+    "fullText": "Part 1\nConsider the following function and express the relationship between a small change in x and the corresponding change in y in the form\ndy = f′(x)dx.\nf(x) = 17 − a cos x\nf(x) = 17 − acosx , a is a constant\nPart 1\ndy\ndx",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Consider the following function and express the relationship between a small change in x and the corresponding change in y in the form\ndy = f\u2032(x)dx.\nf(x) = 17 \u2212 a cos x\nf(x) = 17 \u2212 acosx , a is a constant"
+        "text": "Consider the following function and express the relationship between a small change in x and the corresponding change in y in the form\ndy = f′(x)dx.\nf(x) = 17 − a cos x\nf(x) = 17 − acosx , a is a constant"
       },
       {
         "label": "Part 1",
         "text": "dy\ndx"
       }
     ],
-    "expr": "dy = f\u2032(x)dx."
+    "expr": "dy = f′(x)dx."
   },
   "4.6.67": {
-    "summary": "Consider the following function and express the relationship between a small change in x and\u2026",
-    "fullText": "Part 1\nConsider the following function and express the relationship between a small change in x and the corresponding change in y in the form\ndy = f\u2032(x)dx.\nf(x) = 2 x\u00b3 \u2212 4 x\nPart 1\ndy\n(nothing)\ndx",
+    "summary": "Consider the following function and express the relationship between a small change in x and…",
+    "fullText": "Part 1\nConsider the following function and express the relationship between a small change in x and the corresponding change in y in the form\ndy = f′(x)dx.\nf(x) = 2 x³ − 4 x\nPart 1\ndy\n(nothing)\ndx",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Consider the following function and express the relationship between a small change in x and the corresponding change in y in the form\ndy = f\u2032(x)dx.\nf(x) = 2 x\u00b3 \u2212 4 x"
+        "text": "Consider the following function and express the relationship between a small change in x and the corresponding change in y in the form\ndy = f′(x)dx.\nf(x) = 2 x³ − 4 x"
       },
       {
         "label": "Part 1",
         "text": "dy\n(nothing)\ndx"
       }
     ],
-    "expr": "dy = f\u2032(x)dx."
+    "expr": "dy = f′(x)dx."
   },
   "4.6.69": {
-    "summary": "Consider the following function and express the relationship between a small change in x and\u2026",
-    "fullText": "Part 1\nConsider the following function and express the relationship between a small change in x and the corresponding change in y in the form dy\nf prime (x)\nf\u2032(x) dx.\nf(x) cotangent 6 x cot\u2076x\nPart 1\ndy\ndx",
+    "summary": "Consider the following function and express the relationship between a small change in x and…",
+    "fullText": "Part 1\nConsider the following function and express the relationship between a small change in x and the corresponding change in y in the form dy\nf prime (x)\nf′(x) dx.\nf(x) cotangent 6 x cot⁶x\nPart 1\ndy\ndx",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Consider the following function and express the relationship between a small change in x and the corresponding change in y in the form dy\nf prime (x)\nf\u2032(x) dx.\nf(x) cotangent 6 x cot\u2076x"
+        "text": "Consider the following function and express the relationship between a small change in x and the corresponding change in y in the form dy\nf prime (x)\nf′(x) dx.\nf(x) cotangent 6 x cot⁶x"
       },
       {
         "label": "Part 1",
@@ -4938,233 +4899,234 @@ const PROBLEMS = {
     ]
   },
   "4.7.17": {
-    "summary": "Evaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.",
-    "fullText": "Part 1\nEvaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow minus 3\nlim\nx\u2192\u22123\nx\u00b2 + 5 x + 6/ \u2212 15 \u2212 2 x + x\u00b2\n\u2212 15 \u2212 2x + x\u00b2\nPart 1\nModifyingBelow lim With x right arrow minus 3\nlim\nx\u2192\u22123\nx\u00b2 + 5 x + 6/ \u2212 15 \u2212 2 x + x\u00b2\n\u2212 15 \u2212 2x + x\u00b2\n(Type an exact answer.)",
+    "summary": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.",
+    "fullText": "Part 1\nEvaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow minus 3\nlim\nx→−3\nx² + 5 x + 6/ − 15 − 2 x + x²\n− 15 − 2x + x²\nPart 1\nModifyingBelow lim With x right arrow minus 3\nlim\nx→−3\nx² + 5 x + 6/ − 15 − 2 x + x²\n− 15 − 2x + x²\n(Type an exact answer.)",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Evaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow minus 3\nlim\nx\u2192\u22123\nx\u00b2 + 5 x + 6/ \u2212 15 \u2212 2 x + x\u00b2\n\u2212 15 \u2212 2x + x\u00b2"
+        "text": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow minus 3\nlim\nx→−3\nx² + 5 x + 6/ − 15 − 2 x + x²\n− 15 − 2x + x²"
       },
       {
         "label": "Part 1",
-        "text": "ModifyingBelow lim With x right arrow minus 3\nlim\nx\u2192\u22123\nx\u00b2 + 5 x + 6/ \u2212 15 \u2212 2 x + x\u00b2\n\u2212 15 \u2212 2x + x\u00b2\n(Type an exact answer.)"
+        "text": "ModifyingBelow lim With x right arrow minus 3\nlim\nx→−3\nx² + 5 x + 6/ − 15 − 2 x + x²\n− 15 − 2x + x²\n(Type an exact answer.)"
       }
     ]
   },
   "4.7.18": {
-    "summary": "Evaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.",
-    "fullText": "Part 1\nEvaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow minus 1\nlim\nx\u2192\u22121\n3 x\u2074 + 9 x\u00b3 + 9 x + 15/x + 1\n3x\u2074 + 9x\u00b3 + 9x + 15\nx + 1\nPart 1\nModifyingBelow lim With x right arrow minus 1\nlim\nx\u2192\u22121\n3 x\u2074 + 9 x\u00b3 + 9 x + 15/x + 1\n3x\u2074 + 9x\u00b3 + 9x + 15\nx + 1\n(Type an exact answer.)",
+    "summary": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.",
+    "fullText": "Part 1\nEvaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow minus 1\nlim\nx→−1\n3 x⁴ + 9 x³ + 9 x + 15/x + 1\n3x⁴ + 9x³ + 9x + 15\nx + 1\nPart 1\nModifyingBelow lim With x right arrow minus 1\nlim\nx→−1\n3 x⁴ + 9 x³ + 9 x + 15/x + 1\n3x⁴ + 9x³ + 9x + 15\nx + 1\n(Type an exact answer.)",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Evaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow minus 1\nlim\nx\u2192\u22121\n3 x\u2074 + 9 x\u00b3 + 9 x + 15/x + 1\n3x\u2074 + 9x\u00b3 + 9x + 15\nx + 1"
+        "text": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow minus 1\nlim\nx→−1\n3 x⁴ + 9 x³ + 9 x + 15/x + 1\n3x⁴ + 9x³ + 9x + 15\nx + 1"
       },
       {
         "label": "Part 1",
-        "text": "ModifyingBelow lim With x right arrow minus 1\nlim\nx\u2192\u22121\n3 x\u2074 + 9 x\u00b3 + 9 x + 15/x + 1\n3x\u2074 + 9x\u00b3 + 9x + 15\nx + 1\n(Type an exact answer.)"
+        "text": "ModifyingBelow lim With x right arrow minus 1\nlim\nx→−1\n3 x⁴ + 9 x³ + 9 x + 15/x + 1\n3x⁴ + 9x³ + 9x + 15\nx + 1\n(Type an exact answer.)"
       }
     ]
   },
   "4.7.21": {
-    "summary": "Evaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.",
-    "fullText": "Part 1\nEvaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow 1\nlim\nx\u21921\nln x/18 x \u2212 x\u00b2 \u2212 17\n18x \u2212 x\u00b2 \u2212 17\nPart 1\nModifyingBelow lim With x right arrow 1\nlim\nx\u21921\nln x/18 x \u2212 x\u00b2 \u2212 17\n18x \u2212 x\u00b2 \u2212 17\n(Type an exact answer.)",
+    "summary": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.",
+    "fullText": "Part 1\nEvaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow 1\nlim\nx→1\nln x/18 x − x² − 17\n18x − x² − 17\nPart 1\nModifyingBelow lim With x right arrow 1\nlim\nx→1\nln x/18 x − x² − 17\n18x − x² − 17\n(Type an exact answer.)",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Evaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow 1\nlim\nx\u21921\nln x/18 x \u2212 x\u00b2 \u2212 17\n18x \u2212 x\u00b2 \u2212 17"
+        "text": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow 1\nlim\nx→1\nln x/18 x − x² − 17\n18x − x² − 17"
       },
       {
         "label": "Part 1",
-        "text": "ModifyingBelow lim With x right arrow 1\nlim\nx\u21921\nln x/18 x \u2212 x\u00b2 \u2212 17\n18x \u2212 x\u00b2 \u2212 17\n(Type an exact answer.)"
+        "text": "ModifyingBelow lim With x right arrow 1\nlim\nx→1\nln x/18 x − x² − 17\n18x − x² − 17\n(Type an exact answer.)"
       }
     ]
   },
   "4.7.22": {
-    "summary": "Evaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.",
-    "fullText": "Part 1\nEvaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow 0\nlim\nx\u21920\ne ^4 x \u2212 1/2 x\u00b2 + 7 x\nPart 1\nModifyingBelow lim With x right arrow 0\nlim\nx\u21920\ne ^4 x \u2212 1/2 x\u00b2 + 7 x\n(Simplify your answer.)",
+    "summary": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.",
+    "fullText": "Part 1\nEvaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow 0\nlim\nx→0\ne ^4 x − 1/2 x² + 7 x\nPart 1\nModifyingBelow lim With x right arrow 0\nlim\nx→0\ne ^4 x − 1/2 x² + 7 x\n(Simplify your answer.)",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Evaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow 0\nlim\nx\u21920\ne ^4 x \u2212 1/2 x\u00b2 + 7 x"
+        "text": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow 0\nlim\nx→0\ne ^4 x − 1/2 x² + 7 x"
       },
       {
         "label": "Part 1",
-        "text": "ModifyingBelow lim With x right arrow 0\nlim\nx\u21920\ne ^4 x \u2212 1/2 x\u00b2 + 7 x\n(Simplify your answer.)"
+        "text": "ModifyingBelow lim With x right arrow 0\nlim\nx→0\ne ^4 x − 1/2 x² + 7 x\n(Simplify your answer.)"
       }
     ]
   },
   "4.7.25": {
-    "summary": "Evaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.",
-    "fullText": "Part 1\nEvaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow e\nlim\nx\u2192e\n8 ln x \u2212 8/x \u2212 e\nPart 1\nModifyingBelow lim With x right arrow e\nlim\nx\u2192e\n8 ln x \u2212 8/x \u2212 e\n(Type an exact answer.)",
+    "summary": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.",
+    "fullText": "Part 1\nEvaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow e\nlim\nx→e\n8 ln x − 8/x − e\nPart 1\nModifyingBelow lim With x right arrow e\nlim\nx→e\n8 ln x − 8/x − e\n(Type an exact answer.)",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Evaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow e\nlim\nx\u2192e\n8 ln x \u2212 8/x \u2212 e"
+        "text": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow e\nlim\nx→e\n8 ln x − 8/x − e"
       },
       {
         "label": "Part 1",
-        "text": "ModifyingBelow lim With x right arrow e\nlim\nx\u2192e\n8 ln x \u2212 8/x \u2212 e\n(Type an exact answer.)"
+        "text": "ModifyingBelow lim With x right arrow e\nlim\nx→e\n8 ln x − 8/x − e\n(Type an exact answer.)"
       }
     ]
   },
   "4.7.29": {
-    "summary": "Evaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.",
-    "fullText": "Part 1\nEvaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow 0\nlim\nx\u21920\n2 sin 8 x/9 x\nPart 1\nModifyingBelow lim With x right arrow 0\nlim\nx\u21920\n2 sin 8 x/9 x\n(Type an exact answer.)",
+    "summary": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.",
+    "fullText": "Part 1\nEvaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow 0\nlim\nx→0\n2 sin 8 x/9 x\nPart 1\nModifyingBelow lim With x right arrow 0\nlim\nx→0\n2 sin 8 x/9 x\n(Type an exact answer.)",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Evaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow 0\nlim\nx\u21920\n2 sin 8 x/9 x"
+        "text": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow 0\nlim\nx→0\n2 sin 8 x/9 x"
       },
       {
         "label": "Part 1",
-        "text": "ModifyingBelow lim With x right arrow 0\nlim\nx\u21920\n2 sin 8 x/9 x\n(Type an exact answer.)"
+        "text": "ModifyingBelow lim With x right arrow 0\nlim\nx→0\n2 sin 8 x/9 x\n(Type an exact answer.)"
       }
     ]
   },
   "4.7.33": {
-    "summary": "Evaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.",
-    "fullText": "Part 1\nEvaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow 0\nlim\nx\u21920\n1 \u2212 cos 9 x/5 x\u00b2\nPart 1\nModifyingBelow lim With x right arrow 0\nlim\nx\u21920\n1 \u2212 cos 9 x/5 x\u00b2\n(Type an exact answer.)",
+    "summary": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.",
+    "fullText": "Part 1\nEvaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow 0\nlim\nx→0\n1 − cos 9 x/5 x²\nPart 1\nModifyingBelow lim With x right arrow 0\nlim\nx→0\n1 − cos 9 x/5 x²\n(Type an exact answer.)",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Evaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow 0\nlim\nx\u21920\n1 \u2212 cos 9 x/5 x\u00b2"
+        "text": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow 0\nlim\nx→0\n1 − cos 9 x/5 x²"
       },
       {
         "label": "Part 1",
-        "text": "ModifyingBelow lim With x right arrow 0\nlim\nx\u21920\n1 \u2212 cos 9 x/5 x\u00b2\n(Type an exact answer.)"
+        "text": "ModifyingBelow lim With x right arrow 0\nlim\nx→0\n1 − cos 9 x/5 x²\n(Type an exact answer.)"
       }
     ]
   },
   "4.7.35": {
-    "summary": "Evaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.",
-    "fullText": "Part 1\nEvaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow minus pi\nlim\nx\u2192\u2212\u03c0\n(7 cos x + 7)/((x + \u03c0) \u00b2)\n7cosx + 7\n(x + \u03c0)2\nPart 1\nModifyingBelow lim With x right arrow minus pi\nlim\nx\u2192\u2212\u03c0\n(7 cos x + 7)/((x + \u03c0) \u00b2)\n7cosx + 7\n(x + \u03c0)2\n(Type an exact answer.)",
+    "summary": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.",
+    "fullText": "Part 1\nEvaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow minus pi\nlim\nx→−π\n(7 cos x + 7)/((x + π) ²)\n7cosx + 7\n(x + π)2\nPart 1\nModifyingBelow lim With x right arrow minus pi\nlim\nx→−π\n(7 cos x + 7)/((x + π) ²)\n7cosx + 7\n(x + π)2\n(Type an exact answer.)",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Evaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow minus pi\nlim\nx\u2192\u2212\u03c0\n(7 cos x + 7)/((x + \u03c0) \u00b2)\n7cosx + 7\n(x + \u03c0)2"
+        "text": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow minus pi\nlim\nx→−π\n(7 cos x + 7)/((x + π) ²)\n7cosx + 7\n(x + π)2"
       },
       {
         "label": "Part 1",
-        "text": "ModifyingBelow lim With x right arrow minus pi\nlim\nx\u2192\u2212\u03c0\n(7 cos x + 7)/((x + \u03c0) \u00b2)\n7cosx + 7\n(x + \u03c0)2\n(Type an exact answer.)"
+        "text": "ModifyingBelow lim With x right arrow minus pi\nlim\nx→−π\n(7 cos x + 7)/((x + π) ²)\n7cosx + 7\n(x + π)2\n(Type an exact answer.)"
       }
     ]
   },
   "4.7.39": {
-    "summary": "Evaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.",
-    "fullText": "Part 1\nEvaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow 0\nlim\nx\u21920\ne ^x \u2212 sin x \u2212 1/x\u2074 + 2 x\u00b3 + 7 x\u00b2\nex \u2212 sin x \u2212 1\nx\u2074 + 2x\u00b3 + 7x\u00b2\nPart 1\nModifyingBelow lim With x right arrow 0\nlim\nx\u21920\ne ^x \u2212 sin x \u2212 1/x\u2074 + 2 x\u00b3 + 7 x\u00b2\nex \u2212 sin x \u2212 1\nx\u2074 + 2x\u00b3 + 7x\u00b2\n(Type an exact answer.)",
+    "summary": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.",
+    "fullText": "Part 1\nEvaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow 0\nlim\nx→0\ne ^x − sin x − 1/x⁴ + 2 x³ + 7 x²\nex − sin x − 1\nx⁴ + 2x³ + 7x²\nPart 1\nModifyingBelow lim With x right arrow 0\nlim\nx→0\ne ^x − sin x − 1/x⁴ + 2 x³ + 7 x²\nex − sin x − 1\nx⁴ + 2x³ + 7x²\n(Type an exact answer.)",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Evaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow 0\nlim\nx\u21920\ne ^x \u2212 sin x \u2212 1/x\u2074 + 2 x\u00b3 + 7 x\u00b2\nex \u2212 sin x \u2212 1\nx\u2074 + 2x\u00b3 + 7x\u00b2"
+        "text": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow 0\nlim\nx→0\ne ^x − sin x − 1/x⁴ + 2 x³ + 7 x²\nex − sin x − 1\nx⁴ + 2x³ + 7x²"
       },
       {
         "label": "Part 1",
-        "text": "ModifyingBelow lim With x right arrow 0\nlim\nx\u21920\ne ^x \u2212 sin x \u2212 1/x\u2074 + 2 x\u00b3 + 7 x\u00b2\nex \u2212 sin x \u2212 1\nx\u2074 + 2x\u00b3 + 7x\u00b2\n(Type an exact answer.)"
+        "text": "ModifyingBelow lim With x right arrow 0\nlim\nx→0\ne ^x − sin x − 1/x⁴ + 2 x³ + 7 x²\nex − sin x − 1\nx⁴ + 2x³ + 7x²\n(Type an exact answer.)"
       }
     ]
   },
   "4.7.43": {
-    "summary": "Evaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.",
-    "fullText": "Part 1\nEvaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow minus 1\nlim\nx\u2192\u22121\n2 x\u00b3 \u2212 x\u00b2 \u2212 8 x \u2212 5/3 x\u2074 + 2 x\u00b3 \u2212 2 x\u00b2 + 2 x + 3\n2x\u00b3 \u2212 x\u00b2 \u2212 8x \u2212 5\n3x\u2074 + 2x\u00b3 \u2212 2x\u00b2 + 2x + 3\nPart 1\nModifyingBelow lim With x right arrow minus 1\nlim\nx\u2192\u22121\n2 x\u00b3 \u2212 x\u00b2 \u2212 8 x \u2212 5/3 x\u2074 + 2 x\u00b3 \u2212 2 x\u00b2 + 2 x + 3\n2x\u00b3 \u2212 x\u00b2 \u2212 8x \u2212 5\n3x\u2074 + 2x\u00b3 \u2212 2x\u00b2 + 2x + 3\n(Type an exact answer.)",
+    "summary": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.",
+    "fullText": "Part 1\nEvaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow minus 1\nlim\nx→−1\n2 x³ − x² − 8 x − 5/3 x⁴ + 2 x³ − 2 x² + 2 x + 3\n2x³ − x² − 8x − 5\n3x⁴ + 2x³ − 2x² + 2x + 3\nPart 1\nModifyingBelow lim With x right arrow minus 1\nlim\nx→−1\n2 x³ − x² − 8 x − 5/3 x⁴ + 2 x³ − 2 x² + 2 x + 3\n2x³ − x² − 8x − 5\n3x⁴ + 2x³ − 2x² + 2x + 3\n(Type an exact answer.)",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Evaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow minus 1\nlim\nx\u2192\u22121\n2 x\u00b3 \u2212 x\u00b2 \u2212 8 x \u2212 5/3 x\u2074 + 2 x\u00b3 \u2212 2 x\u00b2 + 2 x + 3\n2x\u00b3 \u2212 x\u00b2 \u2212 8x \u2212 5\n3x\u2074 + 2x\u00b3 \u2212 2x\u00b2 + 2x + 3"
+        "text": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow minus 1\nlim\nx→−1\n2 x³ − x² − 8 x − 5/3 x⁴ + 2 x³ − 2 x² + 2 x + 3\n2x³ − x² − 8x − 5\n3x⁴ + 2x³ − 2x² + 2x + 3"
       },
       {
         "label": "Part 1",
-        "text": "ModifyingBelow lim With x right arrow minus 1\nlim\nx\u2192\u22121\n2 x\u00b3 \u2212 x\u00b2 \u2212 8 x \u2212 5/3 x\u2074 + 2 x\u00b3 \u2212 2 x\u00b2 + 2 x + 3\n2x\u00b3 \u2212 x\u00b2 \u2212 8x \u2212 5\n3x\u2074 + 2x\u00b3 \u2212 2x\u00b2 + 2x + 3\n(Type an exact answer.)"
+        "text": "ModifyingBelow lim With x right arrow minus 1\nlim\nx→−1\n2 x³ − x² − 8 x − 5/3 x⁴ + 2 x³ − 2 x² + 2 x + 3\n2x³ − x² − 8x − 5\n3x⁴ + 2x³ − 2x² + 2x + 3\n(Type an exact answer.)"
       }
     ]
   },
   "4.7.23": {
-    "summary": "Evaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.",
-    "fullText": "Part 1\nEvaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow infinity\nlim\nx\u2192\u221e\n9 x\u2074 \u2212 6 x\u00b2/3 x\u2074 \u2212 11\nPart 1\nModifyingBelow lim With x right arrow infinity\nlim\nx\u2192\u221e\n9 x\u2074 \u2212 6 x\u00b2/3 x\u2074 \u2212 11\n(Simplify your answer.)",
+    "summary": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.",
+    "fullText": "Part 1\nEvaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow infinity\nlim\nx→∞\n9 x⁴ − 6 x²/3 x⁴ − 11\nPart 1\nModifyingBelow lim With x right arrow infinity\nlim\nx→∞\n9 x⁴ − 6 x²/3 x⁴ − 11\n(Simplify your answer.)",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Evaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow infinity\nlim\nx\u2192\u221e\n9 x\u2074 \u2212 6 x\u00b2/3 x\u2074 \u2212 11"
+        "text": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow infinity\nlim\nx→∞\n9 x⁴ − 6 x²/3 x⁴ − 11"
       },
       {
         "label": "Part 1",
-        "text": "ModifyingBelow lim With x right arrow infinity\nlim\nx\u2192\u221e\n9 x\u2074 \u2212 6 x\u00b2/3 x\u2074 \u2212 11\n(Simplify your answer.)"
+        "text": "ModifyingBelow lim With x right arrow infinity\nlim\nx→∞\n9 x⁴ − 6 x²/3 x⁴ − 11\n(Simplify your answer.)"
       }
     ]
   },
   "4.7.51": {
-    "summary": "Evaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.",
-    "fullText": "Part 1\nEvaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow infinity\nlim\nx\u2192\u221e\nStart(x\u00b2 \u2212 ln StartFraction 2/x) OverOver 8 x\u00b2 + 9 x EndEndFraction\nx\u00b2 \u2212 ln\n2\nx\n8x\u00b2 + 9x\nPart 1\nModifyingBelow lim With x right arrow infinity\nlim\nx\u2192\u221e\nStart(x\u00b2 \u2212 ln StartFraction 2/x) OverOver 8 x\u00b2 + 9 x EndEndFraction\nx\u00b2 \u2212 ln\n2\nx\n8x\u00b2 + 9x\n(Type an exact answer.)",
+    "summary": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.",
+    "fullText": "Part 1\nEvaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow infinity\nlim\nx→∞\nStart(x² − ln StartFraction 2/x) OverOver 8 x² + 9 x EndEndFraction\nx² − ln\n2\nx\n8x² + 9x\nPart 1\nModifyingBelow lim With x right arrow infinity\nlim\nx→∞\nStart(x² − ln StartFraction 2/x) OverOver 8 x² + 9 x EndEndFraction\nx² − ln\n2\nx\n8x² + 9x\n(Type an exact answer.)",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Evaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow infinity\nlim\nx\u2192\u221e\nStart(x\u00b2 \u2212 ln StartFraction 2/x) OverOver 8 x\u00b2 + 9 x EndEndFraction\nx\u00b2 \u2212 ln\n2\nx\n8x\u00b2 + 9x"
+        "text": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow infinity\nlim\nx→∞\nStart(x² − ln StartFraction 2/x) OverOver 8 x² + 9 x EndEndFraction\nx² − ln\n2\nx\n8x² + 9x"
       },
       {
         "label": "Part 1",
-        "text": "ModifyingBelow lim With x right arrow infinity\nlim\nx\u2192\u221e\nStart(x\u00b2 \u2212 ln StartFraction 2/x) OverOver 8 x\u00b2 + 9 x EndEndFraction\nx\u00b2 \u2212 ln\n2\nx\n8x\u00b2 + 9x\n(Type an exact answer.)"
+        "text": "ModifyingBelow lim With x right arrow infinity\nlim\nx→∞\nStart(x² − ln StartFraction 2/x) OverOver 8 x² + 9 x EndEndFraction\nx² − ln\n2\nx\n8x² + 9x\n(Type an exact answer.)"
       }
     ]
   },
   "4.7.53": {
-    "summary": "Evaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.",
-    "fullText": "Part 1\nEvaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow 0\nlim\nx\u21920\nx\u00b2\ncosecant x\ncscx\nPart 1\nModifyingBelow lim With x right arrow 0\nlim\nx\u21920\nx\u00b2\ncosecant x\ncscx\n(Type an exact answer.)",
+    "summary": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.",
+    "fullText": "Part 1\nEvaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow 0\nlim\nx→0\nx²\ncosecant x\ncscx\nPart 1\nModifyingBelow lim With x right arrow 0\nlim\nx→0\nx²\ncosecant x\ncscx\n(Type an exact answer.)",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Evaluate the following limit. Use l'H\u00f4pital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow 0\nlim\nx\u21920\nx\u00b2\ncosecant x\ncscx"
+        "text": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\nModifyingBelow lim With x right arrow 0\nlim\nx→0\nx²\ncosecant x\ncscx"
       },
       {
         "label": "Part 1",
-        "text": "ModifyingBelow lim With x right arrow 0\nlim\nx\u21920\nx\u00b2\ncosecant x\ncscx\n(Type an exact answer.)"
+        "text": "ModifyingBelow lim With x right arrow 0\nlim\nx→0\nx²\ncosecant x\ncscx\n(Type an exact answer.)"
       }
     ]
   },
   "4.8.10": {
-    "summary": "Write the formula for Newton's method and use the given initial approximation to compute th\u2026",
-    "fullText": "Part 1\nWrite the formula for Newton's method and use the given initial approximation to compute the approximations\nx\u00b9\nx\u00b9 and\nx\u00b2\nx\u00b2.\nf(x) = x\u00b2 \u2212 4x \u2212 32 ,\nx\u2070 = 6\nPart 1\nWrite the formula for Newton's method for the given function. Choose the correct answer below.\nA.\nxn + 1 = xn \u2212\nx\u00b2n \u2212 4xn \u2212 32\n2xn \u2212 4\nB.\nxn + 1 = xn \u2212\nx\u00b2n \u2212 4xn \u2212 32\nx\u00b2n \u2212 32\nC.\nxn + 1 = xn \u2212\n2xn \u2212 4\nx\u00b2n \u2212 4xn \u2212 32\nD.\nxn + 1 = xn +\nx\u00b2n \u2212 4xn \u2212 32\n2xn \u2212 4\nPart 2\nUse the given initial approximation to compute the approximations\nx\u00b9\nx\u00b9 and\nx\u00b2\nx\u00b2.\nx\u00b9\n(Do not round until the final answer. Then round to three decimal places as needed.)\nPart 3\nx\u00b2\n(Do not round until the final answer. Then round to three decimal places as needed.)",
+    "summary": "Write the formula for Newton's method and use the given initial approximation to compute the a…",
+    "fullText": "Write the formula for Newton's method and use the given initial approximation to compute the approximations\nx¹\nx¹ and\nx²\nx².\nf(x) = x² − 2x − 63 ,\nx⁰ = 8\nPart 1 of 3\nWrite the formula for Newton's method for the given function. Choose the correct answer below.\nA.\nxn + 1 = xn −\n2xn − 2\nx²n − 2xn − 63\nB.\nxn + 1 = xn −\nx²n − 2xn − 63\nx²n − 63\nC.\nxn + 1 = xn −\nx²n − 2xn − 63\n2xn − 2\nD.\nxn + 1 = xn +\nx²n − 2xn − 63\n2xn − 2\nPart 2 of 3\nUse the given initial approximation to compute the approximations\nx¹\nx¹ and\nx²\nx².\nx¹\n(Do not round until the final answer. Then round to three decimal places as needed.)\nPart 3 of 3\nx²\n(Do not round until the final answer. Then round to three decimal places as needed.)",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Write the formula for Newton's method and use the given initial approximation to compute the approximations\nx\u00b9\nx\u00b9 and\nx\u00b2\nx\u00b2.\nf(x) = x\u00b2 \u2212 4x \u2212 32 ,\nx\u2070 = 6"
+        "text": "Write the formula for Newton's method and use the given initial approximation to compute the approximations\nx¹\nx¹ and\nx²\nx².\nf(x) = x² − 2x − 63 ,\nx⁰ = 8"
       },
       {
-        "label": "Part 1",
+        "label": "Part 1 of 3",
         "text": "Write the formula for Newton's method for the given function. Choose the correct answer below."
       },
       {
         "label": "A.",
-        "text": "xn + 1 = xn \u2212\nx\u00b2n \u2212 4xn \u2212 32\n2xn \u2212 4"
+        "text": "xn + 1 = xn −\n2xn − 2\nx²n − 2xn − 63"
       },
       {
         "label": "B.",
-        "text": "xn + 1 = xn \u2212\nx\u00b2n \u2212 4xn \u2212 32\nx\u00b2n \u2212 32"
+        "text": "xn + 1 = xn −\nx²n − 2xn − 63\nx²n − 63"
       },
       {
         "label": "C.",
-        "text": "xn + 1 = xn \u2212\n2xn \u2212 4\nx\u00b2n \u2212 4xn \u2212 32"
+        "text": "xn + 1 = xn −\nx²n − 2xn − 63\n2xn − 2"
       },
       {
         "label": "D.",
-        "text": "xn + 1 = xn +\nx\u00b2n \u2212 4xn \u2212 32\n2xn \u2212 4"
+        "text": "xn + 1 = xn +\nx²n − 2xn − 63\n2xn − 2"
       },
       {
-        "label": "Part 2",
-        "text": "Use the given initial approximation to compute the approximations\nx\u00b9\nx\u00b9 and\nx\u00b2\nx\u00b2.\nx\u00b9\n(Do not round until the final answer. Then round to three decimal places as needed.)"
+        "label": "Part 2 of 3",
+        "text": "Use the given initial approximation to compute the approximations\nx¹\nx¹ and\nx²\nx².\nx¹\n(Do not round until the final answer. Then round to three decimal places as needed.)"
       },
       {
-        "label": "Part 3",
-        "text": "x\u00b2\n(Do not round until the final answer. Then round to three decimal places as needed.)"
+        "label": "Part 3 of 3",
+        "text": "x²\n(Do not round until the final answer. Then round to three decimal places as needed.)"
       }
     ],
-    "expr": "f(x) = x\u00b2 \u2212 4x \u2212 32 ,"
+    "expr": "f(x) = x² − 2x − 63 ,",
+    "prompt": "Write the formula for Newton's method and use the given initial approximation to compute the a…"
   },
   "4.8.11": {
-    "summary": "Write the formula for Newton's method and use the given initial approximation to compute th\u2026",
-    "fullText": "Part 1\nWrite the formula for Newton's method and use the given initial approximation to compute the approximations\nx\u00b9\nx\u00b9 and\nx\u00b2\nx\u00b2.\nf(x) = 6e \u2212 x \u2212 17x ,\nx\u2070 = ln (3)\nx\u2070 = ln(3)\nPart 1\nWrite the formula for Newton's method for the given function. Choose the correct answer below.\nA.\nxn + 1 = xn \u2212\n6e \u2212 xn \u2212 17xn\n\u2212 6e \u2212 xn \u2212 17\nB.\nxn + 1 = xn +\n6e \u2212 xn \u2212 17xn\n\u2212 6e \u2212 xn \u2212 17\nC.\nxn + 1 = xn \u2212\n\u2212 6e \u2212 xn \u2212 17\n6e \u2212 xn \u2212 17xn\nD.\nxn + 1 = xn +\n6e \u2212 xn + 17xn\n6e \u2212 xn + 17\nPart 2\nUse the given initial approximation to compute the approximations\nx\u00b9\nx\u00b9 and\nx\u00b2\nx\u00b2.\nx\u00b9\n(Do not round until the final answer. Then round to six decimal places as needed.)\nPart 3\nx\u00b2\n(Do not round until the final answer. Then round to six decimal places as needed.)",
+    "summary": "Write the formula for Newton's method and use the given initial approximation to compute th…",
+    "fullText": "Part 1\nWrite the formula for Newton's method and use the given initial approximation to compute the approximations\nx¹\nx¹ and\nx²\nx².\nf(x) = 6e − x − 17x ,\nx⁰ = ln (3)\nx⁰ = ln(3)\nPart 1\nWrite the formula for Newton's method for the given function. Choose the correct answer below.\nA.\nxn + 1 = xn −\n6e − xn − 17xn\n− 6e − xn − 17\nB.\nxn + 1 = xn +\n6e − xn − 17xn\n− 6e − xn − 17\nC.\nxn + 1 = xn −\n− 6e − xn − 17\n6e − xn − 17xn\nD.\nxn + 1 = xn +\n6e − xn + 17xn\n6e − xn + 17\nPart 2\nUse the given initial approximation to compute the approximations\nx¹\nx¹ and\nx²\nx².\nx¹\n(Do not round until the final answer. Then round to six decimal places as needed.)\nPart 3\nx²\n(Do not round until the final answer. Then round to six decimal places as needed.)",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Write the formula for Newton's method and use the given initial approximation to compute the approximations\nx\u00b9\nx\u00b9 and\nx\u00b2\nx\u00b2.\nf(x) = 6e \u2212 x \u2212 17x ,\nx\u2070 = ln (3)\nx\u2070 = ln(3)"
+        "text": "Write the formula for Newton's method and use the given initial approximation to compute the approximations\nx¹\nx¹ and\nx²\nx².\nf(x) = 6e − x − 17x ,\nx⁰ = ln (3)\nx⁰ = ln(3)"
       },
       {
         "label": "Part 1",
@@ -5172,59 +5134,290 @@ const PROBLEMS = {
       },
       {
         "label": "A.",
-        "text": "xn + 1 = xn \u2212\n6e \u2212 xn \u2212 17xn\n\u2212 6e \u2212 xn \u2212 17"
+        "text": "xn + 1 = xn −\n6e − xn − 17xn\n− 6e − xn − 17"
       },
       {
         "label": "B.",
-        "text": "xn + 1 = xn +\n6e \u2212 xn \u2212 17xn\n\u2212 6e \u2212 xn \u2212 17"
+        "text": "xn + 1 = xn +\n6e − xn − 17xn\n− 6e − xn − 17"
       },
       {
         "label": "C.",
-        "text": "xn + 1 = xn \u2212\n\u2212 6e \u2212 xn \u2212 17\n6e \u2212 xn \u2212 17xn"
+        "text": "xn + 1 = xn −\n− 6e − xn − 17\n6e − xn − 17xn"
       },
       {
         "label": "D.",
-        "text": "xn + 1 = xn +\n6e \u2212 xn + 17xn\n6e \u2212 xn + 17"
+        "text": "xn + 1 = xn +\n6e − xn + 17xn\n6e − xn + 17"
       },
       {
         "label": "Part 2",
-        "text": "Use the given initial approximation to compute the approximations\nx\u00b9\nx\u00b9 and\nx\u00b2\nx\u00b2.\nx\u00b9\n(Do not round until the final answer. Then round to six decimal places as needed.)"
+        "text": "Use the given initial approximation to compute the approximations\nx¹\nx¹ and\nx²\nx².\nx¹\n(Do not round until the final answer. Then round to six decimal places as needed.)"
       },
       {
         "label": "Part 3",
-        "text": "x\u00b2\n(Do not round until the final answer. Then round to six decimal places as needed.)"
+        "text": "x²\n(Do not round until the final answer. Then round to six decimal places as needed.)"
       }
     ],
-    "expr": "f(x) = 6e \u2212 x \u2212 17x ,"
+    "expr": "f(x) = 6e − x − 17x ,"
   },
   "4.8.13-T": {
-    "summary": "Use a calculator or program to compute the first 10 iterations of Newton's method when they\u2026",
-    "fullText": "Part 1\nUse a calculator or program to compute the first 10 iterations of Newton's method when they are applied to the following function with the given initial approximation.\nf(x) = x\u00b2 \u2212 11 ;\nx\u2070 = 4\nPart 1\nk\nx Subscript k\nxk\nk\nx Subscript k\nxk\n(0 , 6)",
+    "summary": "Use a calculator or program to compute the first 10 iterations of Newton's method when they…",
+    "fullText": "Part 1\nUse a calculator or program to compute the first 10 iterations of Newton's method when they are applied to the following function with the given initial approximation.\nf(x) = x² − 11 ;\nx⁰ = 4\nPart 1\nk\nx Subscript k\nxk\nk\nx Subscript k\nxk\n(0 , 6)",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Use a calculator or program to compute the first 10 iterations of Newton's method when they are applied to the following function with the given initial approximation.\nf(x) = x\u00b2 \u2212 11 ;\nx\u2070 = 4"
+        "text": "Use a calculator or program to compute the first 10 iterations of Newton's method when they are applied to the following function with the given initial approximation.\nf(x) = x² − 11 ;\nx⁰ = 4"
       },
       {
         "label": "Part 1",
         "text": "k\nx Subscript k\nxk\nk\nx Subscript k\nxk\n(0 , 6)"
       }
     ],
-    "expr": "f(x) = x\u00b2 \u2212 11 ;"
+    "expr": "f(x) = x² − 11 ;"
   },
   "4.8.15-T": {
-    "summary": "Use a calculator or program to compute the first 10 iterations of Newton's method for the g\u2026",
-    "fullText": "Part 1\nUse a calculator or program to compute the first 10 iterations of Newton's method for the given function and initial approximation.\nf(x) 3 sin e x plus 2 x minus 1 3sinx + 2x \u2212 1 , x\u2070 x\u2070 1.5\nPart 1\nComplete the table.\n(Do not round until the final answer. Then round to six decimal places as needed.)\nk\nx Subscript k\nxk\nk\nx Subscript k\nxk\n(1 , 6)",
+    "summary": "Use a calculator or program to compute the first 10 iterations of Newton's method for the g…",
+    "fullText": "Part 1\nUse a calculator or program to compute the first 10 iterations of Newton's method for the given function and initial approximation.\nf(x) 3 sin e x plus 2 x minus 1 3sinx + 2x − 1 , x⁰ x⁰ 1.5\nPart 1\nComplete the table.\n(Do not round until the final answer. Then round to six decimal places as needed.)\nk\nx Subscript k\nxk\nk\nx Subscript k\nxk\n(1 , 6)",
     "parts": [
       {
         "label": "Part 1",
-        "text": "Use a calculator or program to compute the first 10 iterations of Newton's method for the given function and initial approximation.\nf(x) 3 sin e x plus 2 x minus 1 3sinx + 2x \u2212 1 , x\u2070 x\u2070 1.5"
+        "text": "Use a calculator or program to compute the first 10 iterations of Newton's method for the given function and initial approximation.\nf(x) 3 sin e x plus 2 x minus 1 3sinx + 2x − 1 , x⁰ x⁰ 1.5"
       },
       {
         "label": "Part 1",
         "text": "Complete the table.\n(Do not round until the final answer. Then round to six decimal places as needed.)\nk\nx Subscript k\nxk\nk\nx Subscript k\nxk\n(1 , 6)"
       }
     ]
+  },
+  "4.3.39-Setup & Solve": {
+    "summary": "Find the intervals on which f is increasing and the intervals on which it is decreasing.",
+    "fullText": "Find the intervals on which f is increasing and the intervals on which it is decreasing.\nf(x) = − 12 x⁵ + + 135 x⁴ − 400 x³\nPart 1 of 2\nFind\nf′ (x)\nf′(x).\nf′ (x)\nf′(x)\nPart 2 of 2\nSelect the correct choice below and, if necessary, fill in the answer box(es) to complete your choice.\nA.\nThe function is decreasing on the open interval(s)\n. The function is never increasing.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)\nB.\nThe function is increasing on the open interval(s)\n. The function is never decreasing.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)\nC.\nThe function is increasing on the open interval(s)\nand decreasing on the open interval(s)\n(Simplify your answers. Type your answers in interval notation. Use a comma to separate answers as needed.)\nD.\nThe function is never increasing or decreasing.",
+    "parts": [
+      {
+        "label": "Part 1",
+        "text": "Find the intervals on which f is increasing and the intervals on which it is decreasing.\nf(x) = − 12 x⁵ + + 135 x⁴ − 400 x³"
+      },
+      {
+        "label": "Part 1 of 2",
+        "text": "Find\nf′ (x)\nf′(x).\nf′ (x)\nf′(x)"
+      },
+      {
+        "label": "Part 2 of 2",
+        "text": "Select the correct choice below and, if necessary, fill in the answer box(es) to complete your choice."
+      },
+      {
+        "label": "A.",
+        "text": "The function is decreasing on the open interval(s)\n. The function is never increasing.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)"
+      },
+      {
+        "label": "B.",
+        "text": "The function is increasing on the open interval(s)\n. The function is never decreasing.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)"
+      },
+      {
+        "label": "C.",
+        "text": "The function is increasing on the open interval(s)\nand decreasing on the open interval(s)\n(Simplify your answers. Type your answers in interval notation. Use a comma to separate answers as needed.)"
+      },
+      {
+        "label": "D.",
+        "text": "The function is never increasing or decreasing."
+      }
+    ],
+    "expr": "f(x) = − 12 x⁵ + + 135 x⁴ − 400 x³",
+    "prompt": "Find the intervals on which f is increasing and the intervals on which it is decreasing."
+  },
+  "4.3.85": {
+    "summary": "Locate the critical points of the following function. Then use the Second Derivative Test to d…",
+    "fullText": "Locate the critical points of the following function. Then use the Second Derivative Test to determine whether they correspond to local maxima, local minima, or neither.\nf(x) = 4 x² e^(−2x) − 1\n4x²e − 2x − 1\nPart 1 of 3\nWhat is(are) the critical point(s) of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe critical point(s) is(are) x\n. (Use a comma to separate answers as needed.)\nB.\nThere are no critical points for f.\nPart 2 of 3\nWhat is/are the local minimum/minima of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe local minimum/minima of f is/are at x\n(Use a comma to separate answers as needed.)\nB.\nThere is no local minimum of f.\nPart 3 of 3\nWhat is/are the local maximum/maxima of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe local maximum/maxima of f is/are at x\n(Use a comma to separate answers as needed.)\nB.\nThere is no local maximum of f.",
+    "parts": [
+      {
+        "label": "Part 1",
+        "text": "Locate the critical points of the following function. Then use the Second Derivative Test to determine whether they correspond to local maxima, local minima, or neither.\nf(x) = 4 x² e^(−2x) − 1\n4x²e − 2x − 1"
+      },
+      {
+        "label": "Part 1 of 3",
+        "text": "What is(are) the critical point(s) of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice."
+      },
+      {
+        "label": "A.",
+        "text": "The critical point(s) is(are) x\n. (Use a comma to separate answers as needed.)"
+      },
+      {
+        "label": "B.",
+        "text": "There are no critical points for f."
+      },
+      {
+        "label": "Part 2 of 3",
+        "text": "What is/are the local minimum/minima of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice."
+      },
+      {
+        "label": "A.",
+        "text": "The local minimum/minima of f is/are at x\n(Use a comma to separate answers as needed.)"
+      },
+      {
+        "label": "B.",
+        "text": "There is no local minimum of f."
+      },
+      {
+        "label": "Part 3 of 3",
+        "text": "What is/are the local maximum/maxima of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice."
+      },
+      {
+        "label": "A.",
+        "text": "The local maximum/maxima of f is/are at x\n(Use a comma to separate answers as needed.)"
+      },
+      {
+        "label": "B.",
+        "text": "There is no local maximum of f."
+      }
+    ],
+    "expr": "f(x) = 4 x² e^(−2x) − 1",
+    "prompt": "Locate the critical points of the following function. Then use the Second Derivative Test to d…"
+  },
+  "4.4.55": {
+    "summary": "Determine whether the following statements are true and give an explanation or counterexample.",
+    "fullText": "Determine whether the following statements are true and give an explanation or counterexample.\nPart 1 of 4\na. The zeroes of\nf′\nf′ are\n−3, 1, and 4, so the local extrema are located at these points. Choose the correct answer below.\nA.\nTrue.  The zeros of\nf′\nf′ are local extrema so long as the denominator is nonzero at those points.\nB.\nFalse. A zero of\nf′\nf′ is a critical point and is a local extremum so long as\nf′ (x)\nf′(x) changes sign.  Take, for example, the function\nf(x) = (x + 3)3(x − 1)3(x − 4)3.\nC.\nFalse. The zeros of\nf′\nf′ are the inflection points of f.\nD.\nTrue. The zeros of\nf′\nf′ are the local extrema of f.\nPart 2 of 4\nb. The zeros of\nf′′\nf′′ are\n−2 and 4, so the inflection points are located at these points. Choose the correct answer below.\nA.\nTrue. Another requirement is that\nf′′ (x)\nf′′(x) changes sign at these points.\nB.\nFalse. Another requirement is that\nf′′ (x)\nf′′(x) does not change sign at these points. Take, for example, the function\nf(x) = x³.\nC.\nTrue. If the zeroes of\nf′′\nf′′ occur at these points, then the inflection points are located at these points.\nD.\nFalse. Another requirement is that\nf′′ (x)\nf′′(x) changes sign at these points. Take, for example, the function\nf(x) = (x + 2)4(x − 4)4.\nPart 3 of 4\nc. The zeros of the denominator of f are\n−3 and 4, so f has vertical asymptotes at these points. Choose the correct answer below.\nA.\nFalse. These points are only candidates for vertical asymptotes. Consider, for example, the function f(x)\n(x² − 9)/(x² − x − 12)\nB.\nTrue. Vertical asymptotes occur where zeros of the denominator happen.\nC.\nFalse. Vertical asymptotes require examining limits as x\nright arrow\n→\nplus or minus\n±\ninfinity\n∞.\nD.\nTrue. Vertical asymptotes require examining limits of the denominator as x\nright arrow\n→\nplus or minus\n±\ninfinity\n∞.\nPart 4 of 4\nd. If a rational function has a finite limit as x\nright arrow\n→\ninfinity\n∞, it must have a finite limit as x\nright arrow\n→\ninfinity\n∞. Choose the correct answer below.\nA.\nFalse. One side of a rational function does not dictate the limit of the opposite side of the function. Take, for example, the function\nf(x) =\n1\nlnx\nB.\nTrue. If a rational function has a finite limit as x\nright arrow\n→\ninfinity\n∞, then the degree of the numerator is greater than the degree of the denominator. In this instance, the limit as x\nright arrow\n→\ninfinity\n∞ is finite.\nC.\nFalse. If one side of a rational function has a finite limit, then the other side must diverge to infinity. Take, for example, the function\nf(x) =\n1\nex\nD.\nTrue. If a rational function has a finite limit as x\nright arrow\n→\ninfinity\n∞, then either the degree of the numerator is the same as the degree of the denominator or the degree of the numerator is less than the degree of the denominator. In either of these instances, the limit as x\nright arrow\n→\ninfinity\n∞ is finite.",
+    "parts": [
+      {
+        "label": "Part 1",
+        "text": "Determine whether the following statements are true and give an explanation or counterexample."
+      },
+      {
+        "label": "Part 1 of 4",
+        "text": "a. The zeroes of\nf′\nf′ are\n−3, 1, and 4, so the local extrema are located at these points. Choose the correct answer below."
+      },
+      {
+        "label": "A.",
+        "text": "True.  The zeros of\nf′\nf′ are local extrema so long as the denominator is nonzero at those points."
+      },
+      {
+        "label": "B.",
+        "text": "False. A zero of\nf′\nf′ is a critical point and is a local extremum so long as\nf′ (x)\nf′(x) changes sign.  Take, for example, the function\nf(x) = (x + 3)3(x − 1)3(x − 4)3."
+      },
+      {
+        "label": "C.",
+        "text": "False. The zeros of\nf′\nf′ are the inflection points of f."
+      },
+      {
+        "label": "D.",
+        "text": "True. The zeros of\nf′\nf′ are the local extrema of f."
+      },
+      {
+        "label": "Part 2 of 4",
+        "text": "b. The zeros of\nf′′\nf′′ are\n−2 and 4, so the inflection points are located at these points. Choose the correct answer below."
+      },
+      {
+        "label": "A.",
+        "text": "True. Another requirement is that\nf′′ (x)\nf′′(x) changes sign at these points."
+      },
+      {
+        "label": "B.",
+        "text": "False. Another requirement is that\nf′′ (x)\nf′′(x) does not change sign at these points. Take, for example, the function\nf(x) = x³."
+      },
+      {
+        "label": "C.",
+        "text": "True. If the zeroes of\nf′′\nf′′ occur at these points, then the inflection points are located at these points."
+      },
+      {
+        "label": "D.",
+        "text": "False. Another requirement is that\nf′′ (x)\nf′′(x) changes sign at these points. Take, for example, the function\nf(x) = (x + 2)4(x − 4)4."
+      },
+      {
+        "label": "Part 3 of 4",
+        "text": "c. The zeros of the denominator of f are\n−3 and 4, so f has vertical asymptotes at these points. Choose the correct answer below."
+      },
+      {
+        "label": "A.",
+        "text": "False. These points are only candidates for vertical asymptotes. Consider, for example, the function f(x)\n(x² − 9)/(x² − x − 12)"
+      },
+      {
+        "label": "B.",
+        "text": "True. Vertical asymptotes occur where zeros of the denominator happen."
+      },
+      {
+        "label": "C.",
+        "text": "False. Vertical asymptotes require examining limits as x\nright arrow\n→\nplus or minus\n±\ninfinity\n∞."
+      },
+      {
+        "label": "D.",
+        "text": "True. Vertical asymptotes require examining limits of the denominator as x\nright arrow\n→\nplus or minus\n±\ninfinity\n∞."
+      },
+      {
+        "label": "Part 4 of 4",
+        "text": "d. If a rational function has a finite limit as x\nright arrow\n→\ninfinity\n∞, it must have a finite limit as x\nright arrow\n→\ninfinity\n∞. Choose the correct answer below."
+      },
+      {
+        "label": "A.",
+        "text": "False. One side of a rational function does not dictate the limit of the opposite side of the function. Take, for example, the function\nf(x) =\n1\nlnx"
+      },
+      {
+        "label": "B.",
+        "text": "True. If a rational function has a finite limit as x\nright arrow\n→\ninfinity\n∞, then the degree of the numerator is greater than the degree of the denominator. In this instance, the limit as x\nright arrow\n→\ninfinity\n∞ is finite."
+      },
+      {
+        "label": "C.",
+        "text": "False. If one side of a rational function has a finite limit, then the other side must diverge to infinity. Take, for example, the function\nf(x) =\n1\nex"
+      },
+      {
+        "label": "D.",
+        "text": "True. If a rational function has a finite limit as x\nright arrow\n→\ninfinity\n∞, then either the degree of the numerator is the same as the degree of the denominator or the degree of the numerator is less than the degree of the denominator. In either of these instances, the limit as x\nright arrow\n→\ninfinity\n∞ is finite."
+      }
+    ],
+    "expr": "f(x) = (x + 3)3(x − 1)3(x − 4)3.",
+    "prompt": "Determine whether the following statements are true and give an explanation or counterexample."
+  },
+  "4.7.22-Setup & Solve": {
+    "summary": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.",
+    "fullText": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\nlim x→0 (e^(2x) − 1)/(4 x² + 2 x)",
+    "parts": [
+      {
+        "label": "Part 1",
+        "text": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\nlim x→0 (e^(2x) − 1)/(4 x² + 2 x)"
+      },
+      {
+        "label": "Part 1 of 2",
+        "text": "Use l'Hôpital's Rule to rewrite the given limit so that it is not an indeterminate form.\nlim x→0 (e^(2x) − 1)/(4 x² + 2 x)\nlim x→0"
+      },
+      {
+        "label": "Part 2 of 2",
+        "text": "Evaluate the limit.\nlim x→0 (e^(2x) − 1)/(4 x² + 2 x)\n(Type an exact answer.)"
+      }
+    ],
+    "expr": "lim x→0 (e^(2x) − 1)/(4 x² + 2 x)",
+    "prompt": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable."
+  },
+  "4.9.35": {
+    "summary": "Determine the following indefinite integral.",
+    "fullText": "Determine the following indefinite integral.\n∫ (7 x⁸ + 12 x⁴)/(x²) dx",
+    "parts": [
+      {
+        "label": "Part 1",
+        "text": "Determine the following indefinite integral.\n∫ (7 x⁸ + 12 x⁴)/(x²) dx\n∫\n7x⁸ + 12x⁴\nx²\ndx\n∫ (7 x⁸ + 12 x⁴)/(x²) dx\n∫\n7x⁸ + 12x⁴\nx²\ndx"
+      }
+    ],
+    "expr": "∫ (7 x⁸ + 12 x⁴)/(x²) dx",
+    "prompt": "Determine the following indefinite integral."
+  },
+  "4.9.45": {
+    "summary": "Determine the following indefinite integral.",
+    "fullText": "Determine the following indefinite integral.\nIntegral from nothing to nothing (− 7 Bold sec x Bold tan x − 5 Bold sec² x) dx\n∫−7secxtanx −5sec2x dx\nIntegral from nothing to nothing (− 7 Bold sec x Bold tan x − 5 Bold sec² x) dx\n∫−7secxtanx −5sec2x dx",
+    "parts": [
+      {
+        "label": "Part 1",
+        "text": "Determine the following indefinite integral.\nIntegral from nothing to nothing (− 7 Bold sec x Bold tan x − 5 Bold sec² x) dx\n∫−7secxtanx −5sec2x dx\nIntegral from nothing to nothing (− 7 Bold sec x Bold tan x − 5 Bold sec² x) dx\n∫−7secxtanx −5sec2x dx"
+      }
+    ],
+    "expr": "∫−7secxtanx −5sec2x dx",
+    "prompt": "Determine the following indefinite integral."
+  },
+  "4.9.74": {
+    "summary": "For the following function f, find the antiderivative F that satisfies the given condition.",
+    "fullText": "For the following function f, find the antiderivative F that satisfies the given condition.\nf(u)\n3 e^u + 17\n3eu+17; F(0)\n= 9\nThe antiderivative that satisfies the given condition is F(u)",
+    "parts": [
+      {
+        "label": "Part 1",
+        "text": "For the following function f, find the antiderivative F that satisfies the given condition.\nf(u)\n3 e^u + 17\n3eu+17; F(0)\n= 9\nThe antiderivative that satisfies the given condition is F(u)"
+      }
+    ],
+    "prompt": "For the following function f, find the antiderivative F that satisfies the given condition."
   }
 };
 

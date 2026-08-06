@@ -7,9 +7,10 @@ ZW = re.compile(r"[\u200b-\u200f\u2060\ufeff]")
 SUPERS = str.maketrans("0123456789", "⁰¹²³⁴⁵⁶⁷⁸⁹")
 
 A11Y_MARKERS = re.compile(
-    r"StartFraction|EndFraction|Superscript|Baseline|StartRoot|EndRoot|"
+    r"StartFraction|EndFraction|Superscript|Subscript|Baseline|StartRoot|EndRoot|"
     r"left parenthesis|right parenthesis|left bracket|right bracket|"
-    r"\bequals\b|\bsquared\b|\bcubed\b|\bcosine\b|\bsine\b|\btangent\b",
+    r"\bequals\b|\bsquared\b|\bcubed\b|\bcosine\b|\bsine\b|\btangent\b|"
+    r"ModifyingBelow|Integral from nothing",
     re.I,
 )
 
@@ -49,6 +50,7 @@ def _word_replace(text: str) -> str:
         (r"\bcosine\b", "cos"),
         (r"\bsine\b", "sin"),
         (r"\btangent\b", "tan"),
+        (r"\bsecant\b", "sec"),
         (r"\bnatural log\b", "ln"),
         (r"\bln\b", "ln"),
     ]
@@ -81,7 +83,34 @@ def _convert_superscripts(text: str) -> str:
         text,
         flags=re.I,
     )
+    text = re.sub(
+        r"Superscript\s+(.+?)(?=\s+(?:Over|plus|minus|times|right|left|EndFraction|font|d[rx])|$)",
+        lambda m: _to_superscript(m.group(1).strip()),
+        text,
+        flags=re.I,
+    )
     return text
+
+
+def _convert_subscripts(text: str) -> str:
+    text = re.sub(
+        r"Subscript\s+(.+?)\s+Superscript\s+(.+?)\s+Baseline",
+        lambda m: "_{" + _plain_script(m.group(1).strip()) + "}" + _to_superscript(m.group(2).strip()),
+        text,
+        flags=re.I,
+    )
+    return re.sub(
+        r"Subscript\s+(.+?)\s+Baseline",
+        lambda m: "_{" + _plain_script(m.group(1).strip()) + "}",
+        text,
+        flags=re.I,
+    )
+
+
+def _plain_script(chunk: str) -> str:
+    chunk = _word_replace(chunk)
+    chunk = chunk.replace(" ", "")
+    return chunk
 
 
 def _to_superscript(chunk: str) -> str:
@@ -91,14 +120,30 @@ def _to_superscript(chunk: str) -> str:
     if " divided by " in chunk.lower():
         a, b = re.split(r"\s+divided by\s+", chunk, flags=re.I)
         return f"{_to_superscript(a)}/{_to_superscript(b)}"
-    return f"^{chunk}"
+    chunk = _plain_script(chunk)
+    if re.fullmatch(r"[a-zA-Z]", chunk):
+        return f"^{chunk}"
+    return f"^({chunk})"
 
 
 def _convert_inline(text: str, *, final: bool = True) -> str:
     text = _normalize_chars(text)
+    text = re.sub(
+        r"ModifyingBelow\s+lim\s+With\s+(.+?)\s+right arrow\s+(.+)",
+        lambda m: "lim " + _convert_inline(m.group(1), final=False) + " -> " + _convert_inline(m.group(2), final=False),
+        text,
+        flags=re.I,
+    )
     text = _convert_fractions(text)
+    text = _convert_subscripts(text)
     text = _convert_superscripts(text)
     text = _word_replace(text)
+    text = re.sub(
+        r"Integral from nothing to nothing\s+(.+?)\s+font size decreased by 3\s+(d[rx])",
+        r"∫ \1 \2",
+        text,
+        flags=re.I,
+    )
     text = re.sub(r"\s+", " ", text).strip()
     if final:
         text = _format_equation(text)
@@ -106,7 +151,10 @@ def _convert_inline(text: str, *, final: bool = True) -> str:
 
 
 def _format_equation(text: str) -> str:
-    text = re.sub(r"\(\s*([^()/]+?)\s*\)\/\(\s*([^()/]+?)\s*\)", r"\1/\2", text)
+    text = re.sub(r"\(\s*([^()/+\-−\s]+?)\s*\)\/\(\s*([^()/+\-−\s]+?)\s*\)", r"\1/\2", text)
+    text = re.sub(r"\s*\^\s*", "^", text)
+    text = re.sub(r"\^\(\s*([−-])\s*", r"^(\1", text)
+    text = re.sub(r"([a-zA-Z])\^\(([^)]+)\)", r"\1^(\2)", text)
     text = re.sub(r"\bx\s+(\d)\b", lambda m: "x" + m.group(1).translate(SUPERS), text)
     text = re.sub(r"\b(cos|sin|tan|ln)([a-z])\b", r"\1 \2", text)
     text = re.sub(r"(?<=[a-zA-Z])(\d)(?![0-9])", lambda m: m.group(1).translate(SUPERS), text)
@@ -114,6 +162,7 @@ def _format_equation(text: str) -> str:
     text = re.sub(r"\s*([=+\−;,])\s*", r" \1 ", text)
     text = re.sub(r"\(\s+", "(", text)
     text = re.sub(r"\s+\)", ")", text)
+    text = re.sub(r"\^\(([−-])\s+([A-Za-z0-9]+)\)", r"^(\1\2)", text)
     text = re.sub(r"\[\s+", "[", text)
     text = re.sub(r"\s+\]", "]", text)
     text = re.sub(r"  +", " ", text).strip()
@@ -195,6 +244,9 @@ def _dedupe_lines(lines: list[str]) -> list[str]:
         if not t:
             continue
         if out and out[-1] == t:
+            continue
+        if out and t.startswith(out[-1] + " ="):
+            out[-1] = t
             continue
         if out and INTERVAL.match(t) and INTERVAL.match(out[-1]):
             if t.replace(" ", "") == out[-1].replace(" ", ""):
@@ -321,6 +373,9 @@ def _try_merge_fx_block(lines: list[str], i: int) -> tuple[list[str], int] | Non
     if j >= len(lines):
         return None
 
+    if lines[j].strip().startswith("f(x) ="):
+        return [_format_equation(lines[j].strip())], j + 1
+
     if _is_a11y_math(lines[j]) and any(
         k in lines[j].lower() for k in ("cubed", "squared", "startfraction", "superscript")
     ):
@@ -384,6 +439,8 @@ def _try_merge_fx_block(lines: list[str], i: int) -> tuple[list[str], int] | Non
 
     expr_parts: list[str] = []
     for t in tokens:
+        if _is_a11y_math(t):
+            t = _convert_inline(t)
         low = t.lower()
         if low in ("on",):
             continue
@@ -397,13 +454,28 @@ def _try_merge_fx_block(lines: list[str], i: int) -> tuple[list[str], int] | Non
             if not expr_parts or expr_parts[-1] != "−":
                 expr_parts.append("−")
             continue
+        if low in ("plus", "+"):
+            if not expr_parts or expr_parts[-1] != "+":
+                expr_parts.append("+")
+            continue
         if expr_parts and expr_parts[-1] == t:
             continue
         if t == "2" and expr_parts and expr_parts[-1].endswith("²"):
             continue
         expr_parts.append(t)
 
-    expr = _format_equation(" ".join(expr_parts).replace("=x", "= x"))
+    expr = " ".join(expr_parts).replace("=x", "= x")
+    expr = re.sub(r"\b(\d+)\s+\1\b", r"\1", expr)
+    for digit, sup in zip("0123456789", "0123456789".translate(SUPERS)):
+        expr = re.sub(
+            rf"\b(?P<var>[A-Za-z]){re.escape(sup)}\s+(?P=var){digit}\b",
+            rf"\g<var>{sup}",
+            expr,
+        )
+    expr = re.sub(r"([−-])\s+([−-])\s*", r"\1", expr)
+    expr = _format_equation(expr)
+    if not expr.startswith("="):
+        expr = "= " + expr
     interval = compact_interval or (bracket_a11y and _convert_inline(bracket_a11y))
     row = f"f(x) {expr}"
     if interval:

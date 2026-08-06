@@ -2,6 +2,18 @@
 
 Teaching HTML, exam maps, Pearson harvest artifacts under `School Scrips/School documents/`.
 
+## 2026-08-06 - Exam 3 review expansion and homework section cleanup
+
+**Files changed:** `exam3-homework-map.html` (413), `exam3-homework-map-app.js` (388), `exam3-map-state.js` (350)
+
+**What worked:** Exam 3 Review now stays fully expanded instead of using collapsible section bodies. Browser state now merges with `exam3-review-map-state.json` so stale localStorage does not hide saved review additions like 3.8 and 3.11. Homework/review grouping now normalizes harvested IDs into the right sections, including the optimization problems that were captured with raw `4.6.*-BE` / `4.8.13` keys but belong under 4.5 for display and review planning.
+
+**Current state:** Green - `http://127.0.0.1:8765/exam3-homework-map.html` should show all Exam 3 Review sections expanded and 4.5 Optimization containing the corrected optimization batch.
+
+**File size flag:** `exam3-homework-map-data.js` is 5708 lines and generated/harvested; do not edit it directly. Keep future cleanup in smaller normalization/state files or split the data first.
+
+**Next session:** Refresh the page and spot-check 4.5, 4.6, and 4.8 against MyLab; if the raw MyLab IDs are confirmed, consider adding a small visible note or export field that distinguishes raw harvested ID from displayed section ID.
+
 ## 2026-08-04 — Exam 2 pool ordering, Exam 2 pools tab, state sync
 
 **Files changed:** `exam2-review-map-exam.js`, `exam2-review-map-app.js`, `exam2-review-map.html`, `exam2-review-map-state.json`, `exam3-review-map-state.json`

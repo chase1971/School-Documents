@@ -336,6 +336,58 @@
     }
     .summary-panel-body li { margin-bottom: 0.35rem; }
 
+    .full-toolbar {
+      padding: 0.65rem 1rem;
+      font-size: 0.92rem;
+      color: var(--muted);
+      border-bottom: 1px solid var(--border);
+      background: #151c26;
+    }
+    .pool-hint {
+      padding: 0.55rem 1rem;
+      font-size: 0.88rem;
+      color: var(--muted);
+      border-bottom: 1px solid var(--border);
+      background: #0d1218;
+    }
+    .pool-head {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.75rem;
+      padding: 0.65rem 1rem;
+      background: var(--surface2);
+      border-bottom: 1px solid var(--border);
+      border-top: 1px solid var(--border);
+    }
+    .pool-head:first-child { border-top: none; }
+    .pool-title { flex: 1; font-weight: 700; }
+    .pool-title span { color: var(--muted); font-weight: 400; font-size: 0.88rem; }
+    .pool-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+    .qid-select {
+      min-height: 36px;
+      padding: 0.15rem 0.45rem;
+      border: 2px solid transparent;
+      border-radius: 6px;
+      background: transparent;
+      color: var(--purple);
+      font: inherit;
+      font-family: Consolas, "Courier New", monospace;
+      font-weight: 700;
+      cursor: pointer;
+    }
+    .qid-select:hover, .qid-select:focus-visible { border-color: var(--accent); }
+    .qid-select.selected {
+      border-color: var(--accent);
+      background: rgba(94, 184, 255, 0.14);
+    }
+    .q-row.match .qid-select.selected { border-color: var(--accent2); }
+    #exam-view.hidden { display: none; }
+
     .empty-msg {
       padding: 1.5rem 1rem;
       color: var(--muted);
@@ -359,6 +411,7 @@
     <div class="view-tabs" role="tablist" aria-label="Problem source">
       <button type="button" class="view-tab active" id="tab-homework" data-view="homework">Homework</button>
       <button type="button" class="view-tab" id="tab-review" data-view="review">Exam 3 Review</button>
+      <button type="button" class="view-tab" id="tab-exam" data-view="exam">Exam 3</button>
     </div>
 
     <div class="sync-bar" id="sync-bar">
@@ -390,23 +443,31 @@
 
     <div class="columns hidden" id="review-view">
       <div class="panel">
-        <div class="panel-head">Exam 3 Review <span>— click section to expand</span></div>
+        <div class="panel-head">Exam 3 Review <span>— all sections expanded</span></div>
         <div id="review-sections"></div>
       </div>
       <div class="panel">
-        <div class="panel-head">Section summary</div>
-        <div id="review-summary-panel" class="summary-bar">Select a review section on the left.</div>
-        <div id="review-summary-detail" class="summary-panel-body"></div>
+        <div class="panel-head">Exam 3 <span>current pools</span></div>
+        <div class="full-toolbar" id="exam-pool-toolbar"></div>
+        <div class="pool-hint" id="pool-hint"></div>
+        <div id="exam-pool-list"></div>
       </div>
+    </div>
+
+    <div class="panel hidden" id="exam-view">
+      <div class="panel-head">Exam 3 <span>all pools, IDs only</span></div>
+      <div class="full-toolbar" id="exam-list-toolbar"></div>
+      <div id="exam-list-body"></div>
     </div>
 
     <div class="footer">
       <a href="http://127.0.0.1:8765/exam3-homework-map.html">http://127.0.0.1:8765/exam3-homework-map.html</a>
-      · Homework: 145 Q · Exam 3 Review: 16 Q
+      · <span id="homework-count-footer">Homework: loading</span> · <span id="review-count-footer">Exam 3 Review: loading saved state</span>
     </div>
   </div>
 
   <script src="exam3-homework-map-data.js"></script>
+  <script src="exam3-exam-data.js"></script>
   <script src="exam3-map-state.js"></script>
   <script src="exam3-homework-map-app.js"></script>
 </body>

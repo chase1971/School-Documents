@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Assignment Assistant — One Page Overview</title>
+<style>
+  @page { size: letter portrait; margin: 0; }
+
+  :root {
+    --ink:      #1b2735;
+    --navy:     #22364d;
+    --navy-2:   #2e4664;
+    --accent:   #c26a26;
+    --accent-l: #f0e0cf;
+    --teal:     #2f6f68;
+    --teal-l:   #dcebe8;
+    --paper:    #ffffff;
+    --wash:     #f6f4f1;
+    --line:     #d9d3cb;
+    --muted:    #5d6b7c;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html, body {
+    width: 8.5in;
+    height: 11in;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .page {
+    width: 8.5in;
+    height: 11in;
+    padding: 0.42in 0.5in 0.34in 0.5in;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  /* ---------- header ---------- */
+  .head {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 18px;
+    padding-bottom: 10px;
+    border-bottom: 3px solid var(--navy);
+  }
+  .head h1 {
+    font-size: 34px;
+    line-height: 1.02;
+    letter-spacing: -0.6px;
+    color: var(--navy);
+    font-weight: 700;
+  }
+  .head .kicker {
+    font-size: 9.5px;
+    letter-spacing: 2.4px;
+    text-transform: uppercase;
+    color: var(--accent);
+    font-weight: 700;
+    margin-bottom: 5px;
+  }
+  .head .lede {
+    font-size: 12.6px;
+    line-height: 1.42;
+    color: var(--muted);
+    max-width: 3.55in;
+    text-align: right;
+    padding-bottom: 3px;
+  }
+  .head .lede b { color: var(--ink); font-weight: 600; }
+
+  /* ---------- problem strip ---------- */
+  .problem {
+    background: var(--wash);
+    border-left: 4px solid var(--accent);
+    padding: 11px 14px 12px 14px;
+  }
+  .problem h2 {
+    font-size: 9.5px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: var(--accent);
+    font-weight: 700;
+    margin-bottom: 8px;
+  }
+  .problem p {
+    font-size: 12.2px;
+    line-height: 1.5;
+    color: var(--ink);
+  }
+  .problem p + p { margin-top: 6px; }
+  .problem b { font-weight: 600; }
+
+  /* ---------- main two-column ---------- */
+  .main {
+    display: grid;
+    grid-template-columns: 1.32fr 1fr;
+    gap: 22px;
+    flex: 1;
+    min-height: 0;
+  }
+
+  .sec-title {
+    font-size: 9.5px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: var(--navy);
+    padding-bottom: 6px;
+    margin-bottom: 11px;
+    border-bottom: 1.5px solid var(--line);
+  }
+  .sec-title span { color: var(--muted); letter-spacing: 0.3px; text-transform: none; font-weight: 500; }
+
+  /* steps */
+  .steps {
+    list-style: none;
+    position: relative;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .steps::before {
+    content: "";
+    position: absolute;
+    left: 11px; top: 12px; bottom: 14px;
+    width: 1.5px;
+    background: var(--line);
+  }
+  .steps li {
+    position: relative;
+    padding-left: 34px;
+    padding-bottom: 11px;
+  }
+  .steps li:last-child { padding-bottom: 0; }
+  .num {
+    position: absolute;
+    left: 0; top: 0;
+    width: 23px; height: 23px;
+    border-radius: 50%;
+    background: var(--navy);
+    color: #fff;
+    font-size: 11.5px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .steps h3 {
+    font-size: 12.4px;
+    font-weight: 700;
+    color: var(--navy);
+    margin-bottom: 2px;
+    line-height: 1.25;
+    padding-top: 3px;
+  }
+  .steps p {
+    font-size: 11.1px;
+    line-height: 1.42;
+    color: #3d4a5a;
+  }
+
+  /* column shells so both sides fill the page height evenly */
+  .col { display: flex; flex-direction: column; min-height: 0; }
+  .col > .body { flex: 1; display: flex; flex-direction: column; }
+
+  /* before / after comparison */
+  .compare {
+    margin-top: 16px;
+    padding-top: 13px;
+    border-top: 1.5px solid var(--line);
+  }
+  .cmp-row { margin-bottom: 9px; }
+  .cmp-row:last-child { margin-bottom: 0; }
+  .cmp-label {
+    font-size: 9px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 5px;
+  }
+  .cmp-row.before .cmp-label { color: #8b93a0; }
+  .cmp-row.after  .cmp-label { color: var(--accent); }
+  .flow { display: flex; flex-wrap: wrap; align-items: center; gap: 4px; }
+  .pill {
+    font-size: 9.2px;
+    line-height: 1;
+    padding: 4.5px 7px;
+    border-radius: 20px;
+    white-space: nowrap;
+  }
+  .cmp-row.before .pill { background: #eceae6; color: #6b7480; }
+  .cmp-row.after  .pill { background: var(--navy); color: #fff; font-weight: 600; }
+  .arrow { font-size: 9px; color: #b4bac2; }
+  .cmp-row.after .arrow { color: var(--accent); }
+  .tally {
+    font-size: 9.2px;
+    font-weight: 700;
+    font-style: italic;
+    margin-left: 3px;
+  }
+  .cmp-row.before .tally { color: #8b93a0; }
+  .cmp-row.after  .tally { color: var(--accent); }
+
+  /* feature chips */
+  .chips { display: flex; flex-direction: column; justify-content: space-between; flex: 1; gap: 8px; }
+  .chip {
+    border: 1px solid var(--line);
+    border-radius: 5px;
+    padding: 8px 10px 9px 10px;
+    background: #fff;
+  }
+  .chip h4 {
+    font-size: 11.4px;
+    font-weight: 700;
+    color: var(--teal);
+    margin-bottom: 1px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .chip h4 svg { flex: none; }
+  .chip p {
+    font-size: 10.4px;
+    line-height: 1.36;
+    color: #55616f;
+  }
+
+  /* ---------- payoff ---------- */
+  .payoff {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+    background: var(--navy);
+    color: #fff;
+    padding: 14px 16px 15px 16px;
+    border-radius: 4px;
+  }
+  .payoff .cell h4 {
+    font-size: 12.4px;
+    font-weight: 700;
+    color: #ffd9ac;
+    margin-bottom: 3px;
+    line-height: 1.2;
+  }
+  .payoff .cell p {
+    font-size: 10.6px;
+    line-height: 1.4;
+    color: #d3dbe5;
+  }
+
+  /* ---------- footer ---------- */
+  .note {
+    display: flex;
+    gap: 10px;
+    align-items: flex-start;
+    font-size: 10.6px;
+    line-height: 1.42;
+    color: var(--muted);
+    padding: 0 2px;
+  }
+  .note .tag {
+    flex: none;
+    font-size: 8.6px;
+    letter-spacing: 1.3px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: var(--accent);
+    background: var(--accent-l);
+    padding: 3px 7px;
+    border-radius: 3px;
+    margin-top: -1px;
+  }
+  .note b { color: var(--ink); font-weight: 600; }
+
+  .ask {
+    border-top: 3px solid var(--navy);
+    padding-top: 9px;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 16px;
+  }
+  .ask .q {
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--navy);
+  }
+  .ask .sub {
+    font-size: 10.2px;
+    color: var(--muted);
+    text-align: right;
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- HEADER -->
+  <header class="head">
+    <div>
+      <div class="kicker">A grading tool for teachers</div>
+      <h1>Assignment&nbsp;Assistant</h1>
+    </div>
+    <p class="lede">
+      Turns a folder of digital submissions into <b>one stack of papers you grade in one pass</b> —
+      instead of clicking through the LMS one student at a time.
+    </p>
+  </header>
+
+  <!-- PROBLEM -->
+  <section class="problem">
+    <h2>What it's for</h2>
+    <p>
+      Normally you grade digital work inside the LMS's built-in submission editor — click into a student, wait for the
+      viewer to load, mark it up, enter the score, click back out, find the next student. It's clunky, it's slow, and
+      you spend more time navigating it than reading student work.
+    </p>
+    <p>
+      <b>Assignment Assistant compiles every student's submission into one PDF instead.</b> You grade the whole class as
+      a single document, top to bottom, the way you'd work through a stack of papers on your desk — and the built-in
+      editor drops out of the process entirely.
+    </p>
+  </section>
+
+  <!-- MAIN -->
+  <div class="main">
+
+    <!-- LEFT: how it works -->
+    <section class="col">
+      <div class="sec-title">How you use it <span>— start to finish</span></div>
+      <div class="body">
+      <ol class="steps">
+
+        <li>
+          <div class="num">1</div>
+          <h3>Pick your class and the file you downloaded</h3>
+          <p>Choose the section, then the submission ZIP sitting in Downloads. Nothing to set up, nothing to rename.</p>
+        </li>
+
+        <li>
+          <div class="num">2</div>
+          <h3>It assembles the stack for you</h3>
+          <p>Unzips everything, keeps only each student's newest attempt, converts Word files to PDF, merges students
+             who uploaded several files, and matches every submission back to your roster by name.</p>
+        </li>
+
+        <li>
+          <div class="num">3</div>
+          <h3>One combined PDF opens, ready to grade</h3>
+          <p>The whole class in last-name order, every page stamped with the student's name and “page 2 of 3.”
+             Grade it on screen, mark it up on a tablet, or print it like a paper stack.</p>
+        </li>
+
+        <li>
+          <div class="num">4</div>
+          <h3>Enter every grade on one screen</h3>
+          <p>The full roster at once — a grade box beside each name and a comment box if you want one. Badges mark
+             who didn't submit, whose file wouldn't open, and whose page count doesn't match the rest of the class.</p>
+        </li>
+
+        <li>
+          <div class="num">5</div>
+          <h3>Grades move to the gradebook</h3>
+          <p>Typed once, in one pass, then synced — not re-entered student by student inside the LMS.</p>
+        </li>
+
+      </ol>
+
+      <!-- before / after -->
+      <div class="compare">
+        <div class="cmp-row before">
+          <div class="cmp-label">The usual way</div>
+          <div class="flow">
+            <span class="pill">download ZIP</span><span class="arrow">›</span>
+            <span class="pill">unzip</span><span class="arrow">›</span>
+            <span class="pill">find the student</span><span class="arrow">›</span>
+            <span class="pill">open the file</span><span class="arrow">›</span>
+            <span class="pill">read &amp; decide</span><span class="arrow">›</span>
+            <span class="pill">type the score in the LMS</span><span class="arrow">›</span>
+            <span class="pill">next student</span>
+            <span class="tally">× every student, every assignment</span>
+          </div>
+        </div>
+        <div class="cmp-row after">
+          <div class="cmp-label">With Assignment Assistant</div>
+          <div class="flow">
+            <span class="pill">pick the ZIP</span><span class="arrow">›</span>
+            <span class="pill">grade one PDF</span><span class="arrow">›</span>
+            <span class="pill">fill one grade screen</span><span class="arrow">›</span>
+            <span class="pill">sync</span>
+            <span class="tally">× once</span>
+          </div>
+        </div>
+      </div>
+      </div>
+    </section>
+
+    <!-- RIGHT: extras -->
+    <section class="col">
+      <div class="sec-title">Also included</div>
+      <div class="chips">
+
+        <div class="chip">
+          <h4>Completion mode</h4>
+          <p>Grading for “did you do it?” — one click gives the same points to everyone who turned it in, and lists everyone who didn't.</p>
+        </div>
+
+        <div class="chip">
+          <h4>Attach a rubric page</h4>
+          <p>Automatically add the same rubric or feedback sheet before or after every student's submission.</p>
+        </div>
+
+        <div class="chip">
+          <h4>Split &amp; hand back</h4>
+          <p>Once you've marked up the combined PDF, it splits back into per-student files and re-zips them for return.</p>
+        </div>
+
+        <div class="chip">
+          <h4>Email who's missing</h4>
+          <p>Email the whole class, or only the students who never submitted this assignment.</p>
+        </div>
+
+        <div class="chip">
+          <h4>Running term statistics</h4>
+          <p>A per-student tally of missed and late work across the semester, with room for your own notes.</p>
+        </div>
+
+        <div class="chip">
+          <h4>Plain activity log</h4>
+          <p>A readable record of exactly what happened to this assignment — useful when a student disputes it.</p>
+        </div>
+
+      </div>
+    </section>
+  </div>
+
+  <!-- PAYOFF -->
+  <section class="payoff">
+    <div class="cell">
+      <h4>One pass, not thirty</h4>
+      <p>A 30-student assignment becomes one PDF and one grade screen instead of thirty trips through the LMS grader.</p>
+    </div>
+    <div class="cell">
+      <h4>Nothing disappears quietly</h4>
+      <p>Missing, unreadable, and unmatched submissions come back as a list <i>before</i> you grade — not as a blank cell in week twelve.</p>
+    </div>
+    <div class="cell">
+      <h4>Every paper looks the same</h4>
+      <p>Same order, same page size, same name stamp — so you're comparing student work instead of fighting file formats.</p>
+    </div>
+  </section>
+
+  <!-- HONEST NOTE -->
+  <div class="note">
+    <span class="tag">To be clear</span>
+    <p><b>It doesn't grade for you.</b> Every score and every comment is still your judgment — the tool only removes the
+       clerical work around it: the downloading, unzipping, sorting, name-matching, page-stamping, and re-typing.</p>
+  </div>
+
+  <!-- ASK -->
+  <div class="ask">
+    <div class="q">Would this fit the way you grade?</div>
+    <div class="sub">Built by a teacher, for the assignments we actually collect.<br />Happy to walk through it with your own class files.</div>
+  </div>
+
+</div>
+</body>
+</html>
