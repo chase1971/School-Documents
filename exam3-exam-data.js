@@ -1,6 +1,5 @@
-// Exam 3 live pools - harvested from Pearson Question Details.
-// Source: Macro App/scripts/pearson_question_details.py, assignment "Exam 3" (2026-08-06).
-// Rows with the same Pearson order value are pooled; one question from each pool is assigned.
+// Exam 3 live pools - from My Selections # column (Pearson editor, 2026-08-06).
+// Source: editor PlayerAddAndRemove harvest; one random draw per pool at test time.
 
 const EXAM3_POOLS = [
   { pool: 1, questions: ["4.1.23", "4.1.27"] },

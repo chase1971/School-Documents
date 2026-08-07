@@ -2,6 +2,18 @@
 
 Teaching HTML, exam maps, Pearson harvest artifacts under `School Scrips/School documents/`.
 
+## 2026-08-06 — Exam 3 editor harvest, stem polish, Exam changes tab
+
+**Files changed:** `harvest/write_exam3_editor_harvest.py` (new), `harvest/stem_polish.py` (new), `harvest/ai_polish_exam_stems.py` (new), `harvest/exam3-editor-preview-raw.json`, `harvest/exam3-ai-polish-queue.json`, `harvest/exam3-ai-polish-results.json`, `harvest/pearson_a11y_math.py`, `harvest/HARVEST.md`; `exam3-exam-harvest.json`, `exam3-exam-data.js`, `exam3-homework-map.html`, `exam3-homework-map-app.js` (781), `exam3-map-state.js` (498). Macro App: `docs/Automations/PEARSON_EXAM_POOL_HARVEST.md` (new), `PEARSON_BROWSER_AUTOMATION.md`, `README.md`, `AGENTS.md`. Programs: `recipes/school-exam-map-html.md`.
+
+**What worked:** Harvested all 27 Exam 3 pool alternates via editor `PlayerAddAndRemove` Next loop; post-process writes clean stems to `exam3-exam-harvest.json` (Phase E: `pearson_a11y_math` + `stem_polish`; Phase F: AI polish queue/apply). Exam tab uses harvest JSON only (no stale `PROBLEMS` fallback). Added **Exam changes** fourth tab — diffs current `examGroups` vs `EXAM3_POOLS` harvest baseline (added / removed / unchanged). Documented full pipeline Phases A–F and map tabs in harvest recipe, `HARVEST.md`, and `school-exam-map-html.md`.
+
+**Current state:** Green for harvest JSON and map UI — not live-GUI verified this wrap. View: `http://127.0.0.1:8765/exam3-homework-map.html` (hard refresh after pull).
+
+**File size flag:** `exam3-homework-map-app.js` is 781 lines — extract before adding more behavior; `exam3-map-state.js` 498.
+
+**Next session:** Hard-refresh map; confirm Exam changes tab after any Add/Remove from Exam on Review tab; extract `renderExamChanges` / exam pool UI from app.js if more tabs land.
+
 ## 2026-08-06 - Exam 3 map workflow, problem capture, and school HTML recipe
 
 **Files changed:** `exam3-homework-map.html`, `exam3-homework-map-app.js` (near cap at 698), `exam3-map-state.js` (424), `exam3-review-map-state.json`, `exam3-exam-data.js` (new), `exam3-exam-harvest.json` (new cleaned exam print text), `exam3-exam-harvest.a11y.json` (new raw backup), `harvest/pearson_a11y_math.py` (640), `harvest/clean_exam3_math.py`, `README.md`; `../../recipes/school-exam-map-html.md` (new, 161) and `../../recipes/INDEX.md`.

@@ -220,6 +220,35 @@
       padding-left: calc(1rem - 4px);
     }
     .q-row.review-only .qid { color: var(--warn); }
+    .q-row.exam-removed {
+      background: rgba(240, 80, 80, 0.08);
+      border-left: 4px solid #e55353;
+      padding-left: calc(1.5rem - 4px);
+      opacity: 0.85;
+    }
+    .q-row.exam-removed .qid,
+    .q-row.exam-removed .q-note { text-decoration: line-through; color: var(--muted); }
+    .q-row.exam-added {
+      background: var(--added-bg);
+      border-left: 4px solid var(--added-border);
+      padding-left: calc(1.5rem - 4px);
+    }
+    .q-row.exam-added .qid { color: var(--accent); }
+    .q-row.exam-original {
+      border-left: 4px solid var(--match-border);
+      padding-left: calc(1.5rem - 4px);
+    }
+    .badge-removed { background: #4a2020; color: #ff8a8a; }
+    .badge-original { background: #264032; color: var(--accent2); }
+    .changes-section-head {
+      padding: 0.75rem 1rem;
+      background: var(--surface2);
+      border-bottom: 1px solid var(--border);
+      font-weight: 700;
+      font-size: 0.95rem;
+    }
+    .changes-section-head span { color: var(--muted); font-weight: 400; font-size: 0.88rem; }
+    #exam-changes-view.hidden { display: none; }
 
     .qid {
       font-family: Consolas, "Courier New", monospace;
@@ -412,6 +441,7 @@
       <button type="button" class="view-tab active" id="tab-homework" data-view="homework">Homework</button>
       <button type="button" class="view-tab" id="tab-review" data-view="review">Exam 3 Review</button>
       <button type="button" class="view-tab" id="tab-exam" data-view="exam">Exam 3</button>
+      <button type="button" class="view-tab" id="tab-exam-changes" data-view="exam-changes">Exam changes</button>
     </div>
 
     <div class="sync-bar" id="sync-bar">
@@ -458,6 +488,17 @@
       <div class="panel-head">Exam 3 <span>all pools, IDs only</span></div>
       <div class="full-toolbar" id="exam-list-toolbar"></div>
       <div id="exam-list-body"></div>
+    </div>
+
+    <div class="panel hidden" id="exam-changes-view">
+      <div class="panel-head">Exam changes <span>vs initial Pearson harvest (<span id="exam-changes-baseline-count">27</span> questions)</span></div>
+      <div class="legend" id="exam-changes-legend">
+        <div class="legend-item"><span class="swatch swatch-match"></span> Still on exam (from harvest)</div>
+        <div class="legend-item"><span class="swatch swatch-added"></span> Added after harvest</div>
+        <div class="legend-item"><span class="swatch" style="background:#4a2020;border-color:#e55353"></span> Removed from harvest</div>
+      </div>
+      <div class="full-toolbar" id="exam-changes-toolbar"></div>
+      <div id="exam-changes-body"></div>
     </div>
 
     <div class="footer">

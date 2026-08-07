@@ -63,6 +63,80 @@ function defaultExamGroups() {
   return EXAM3_POOLS.map((pool) => [...pool.questions]);
 }
 
+function initialExamFlatIds() {
+  return defaultExamGroups().flat();
+}
+
+function initialPoolIndexFor(id) {
+  const base = examBaseId(id);
+  const groups = defaultExamGroups();
+  for (let i = 0; i < groups.length; i++) {
+    if (groups[i].some((qid) => examBaseId(qid) === base)) return i + 1;
+  }
+  return null;
+}
+
+function currentPoolIndexFor(id) {
+  const base = examBaseId(id);
+  for (let i = 0; i < examGroups.length; i++) {
+    if (examGroups[i].some((qid) => examBaseId(qid) === base)) return i + 1;
+  }
+  return null;
+}
+
+function examAddSourceLabel(id) {
+  const nativeSet = nativeReviewSet();
+  if (isPlannedAdd(id, nativeSet)) return "from review";
+  if (addedToReview.has(id)) return "from review";
+  if (nativeSet.has(id) && !removedFromReview.has(id)) return "from review";
+  if (isOnReview(id, nativeSet)) return "from review";
+  return "not in harvest";
+}
+
+function computeExamHarvestDiff() {
+  const initialByBase = new Map();
+  for (const id of initialExamFlatIds()) {
+    initialByBase.set(examBaseId(id), id);
+  }
+  const currentByBase = new Map();
+  for (const id of examGroups.flat()) {
+    currentByBase.set(examBaseId(id), id);
+  }
+  const unchanged = [];
+  const added = [];
+  const removed = [];
+  for (const [base, initialId] of initialByBase) {
+    if (currentByBase.has(base)) {
+      unchanged.push({
+        id: currentByBase.get(base),
+        initialId,
+        pool: currentPoolIndexFor(currentByBase.get(base)),
+      });
+    } else {
+      removed.push({ id: initialId, pool: initialPoolIndexFor(initialId) });
+    }
+  }
+  for (const [base, id] of currentByBase) {
+    if (!initialByBase.has(base)) {
+      added.push({ id, pool: currentPoolIndexFor(id), source: examAddSourceLabel(id) });
+    }
+  }
+  unchanged.sort((a, b) => compareQuestionIdsForSort(a.id, b.id));
+  added.sort((a, b) => compareQuestionIdsForSort(a.id, b.id));
+  removed.sort((a, b) => compareQuestionIdsForSort(a.id, b.id));
+  return { unchanged, added, removed };
+}
+
+function compareQuestionIdsForSort(a, b) {
+  const pa = String(a).split(".").map((n) => parseInt(n, 10) || 0);
+  const pb = String(b).split(".").map((n) => parseInt(n, 10) || 0);
+  const len = Math.max(pa.length, pb.length);
+  for (let i = 0; i < len; i++) {
+    if ((pa[i] || 0) !== (pb[i] || 0)) return (pa[i] || 0) - (pb[i] || 0);
+  }
+  return String(a).localeCompare(String(b));
+}
+
 function normalizeExamGroups(groups) {
   if (!Array.isArray(groups) || !groups.length) return defaultExamGroups();
   const cleaned = groups

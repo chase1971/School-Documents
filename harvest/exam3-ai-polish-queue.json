@@ -1,0 +1,141 @@
+{
+  "prompt": "You clean Pearson exam problem stems for a teaching map.\n\nInput: code-polished but still awkward text from Pearson's accessibility dump.\n\nOutput: ONE readable stem block — what the problem asks, given function/data, sub-parts a/b/c if present.\nRules:\n- Plain text only (Unicode ² ³ ₀ ₁ ′ − OK). No LaTeX.\n- Newton iterates: x₀, x₁, x₂ (subscripts), not superscripts.\n- One f(x)= line — no duplicated corrupted echo after it.\n- Merge broken line breaks mid-sentence (\"approximations x₁ and x₂\" on one line).\n- For \"Determine whether\" problems: keep statements a–d only; omit MC answer choices A/B/C/D.\n- Do NOT include answer boxes, \"enter your response\", or \"Choose the correct answer\".\n- Keep it short — map preview, not full exam paper.\n\nReturn ONLY the cleaned stem text.",
+  "capturedAt": "2026-08-07T00:21:42Z",
+  "problems": [
+    {
+      "questionId": "4.1.23",
+      "objective": "Locate critical points of functions.",
+      "codePolishedStem": "Find the critical points of the following function.\nf(x) = 5x² + 3x + 2"
+    },
+    {
+      "questionId": "4.1.27",
+      "objective": "Locate critical points of functions.",
+      "codePolishedStem": "Find the critical points of the following function.\nf(x) = 3 x³ − 6 x² − 5 x"
+    },
+    {
+      "questionId": "4.1.49",
+      "objective": "Determine the existence, location, and value of absolute extrema on a given interval...",
+      "codePolishedStem": "Determine the location and value of the absolute extreme values of f on the given interval, if they exist.\nf(x) = 5 cos² x 5cos²x [0 , π]"
+    },
+    {
+      "questionId": "4.1.57",
+      "objective": "Determine the existence, location, and value of absolute extrema on a given interval...",
+      "codePolishedStem": "Determine the location and value of the absolute extreme values of f on the given interval, if they exist.\nf(x) = − 2 x³ + 39 x² − 216 x − 2x³ + 39x² − 216x on [3.10]"
+    },
+    {
+      "questionId": "4.2.21",
+      "objective": "Find the point(s) guaranteed to exist by the Mean Value Theorem.",
+      "codePolishedStem": "a. Determine whether the Mean Value Theorem applies to the function f(x)\nnegative 1\n− 1\n− x\n²\n2 on the interval [\nnegative 1\n− 1 ,\n2\n2].\nb. If so, find the point(s) that are guaranteed to exist by the Mean Value Theorem."
+    },
+    {
+      "questionId": "4.2.25",
+      "objective": "Find the point(s) guaranteed to exist by the Mean Value Theorem.",
+      "codePolishedStem": "a. Determine whether the Mean Value Theorem applies to the function\nf(x) = e^x on the given interval\n[0 , ln 20]\n[0,ln20].\nb. If so, find the point(s) that are guaranteed to exist by the Mean Value Theorem."
+    },
+    {
+      "questionId": "4.3.39-Setup & Solve",
+      "objective": "Find the intervals on which a function is increasing or decreasing.",
+      "codePolishedStem": "Find the intervals on which f is increasing and the intervals on which it is decreasing.\nf(x) = − 12 x⁵ + 135 x⁴ − 400 x³"
+    },
+    {
+      "questionId": "4.3.40",
+      "objective": "Find the intervals on which a function is increasing or decreasing.",
+      "codePolishedStem": "Find the intervals on which f is increasing and decreasing.\nf(x) = − x² + 2 ln x"
+    },
+    {
+      "questionId": "4.3.63",
+      "objective": "Determine the concavity on intervals and find inflection points.",
+      "codePolishedStem": "Determine the intervals on which the following function is concave up or concave down. Identify any inflection points.\nf(x) = 3 x⁴ − 4 x³ + 4"
+    },
+    {
+      "questionId": "4.3.65",
+      "objective": "Determine the concavity on intervals and find inflection points.",
+      "codePolishedStem": "Determine the intervals on which the following function is concave up or concave down. Identify any inflection points.\nf(x) = − 5 x⁴ + 40 x³ − 15"
+    },
+    {
+      "questionId": "4.3.83",
+      "objective": "Determine if critical points correspond to local minima/maxima using the second...",
+      "codePolishedStem": "Locate the critical points of the following function. Then use the Second Derivative Test to determine whether they correspond to local maxima, local minima, or neither.\nf(x) = − 3 x³ − 9 x² + 13"
+    },
+    {
+      "questionId": "4.3.85",
+      "objective": "Determine if critical points correspond to local minima/maxima using the second...",
+      "codePolishedStem": "Locate the critical points of the following function. Then use the Second Derivative Test to determine whether they correspond to local maxima, local minima, or neither.\nf(x) = − 3 x² e^(−2x) + 2"
+    },
+    {
+      "questionId": "4.4.55",
+      "objective": "Answer advanced conceptual questions about graphing functions.",
+      "codePolishedStem": "Determine whether the following statements are true and give an explanation or counterexample.\na. The zeroes of f′ f′ are minus −3, 1, and 4, so the local extrema are located at these points\nb. The zeros of f′′ f′′ are minus −2 and 4, so the inflection points are located at these points\nc. The zeros of the denominator of f are minus −3 and 4, so f has vertical asymptotes at these points\nd. If a rational function has a finite limit as x right arrow → infinity ∞, it must have a finite limit as x right arrow → minus − infinity ∞"
+    },
+    {
+      "questionId": "4.6.30",
+      "objective": "Construct a linear approximation to estimate the value of a function and find the...",
+      "codePolishedStem": "a. Write the equation of the line that represents the linear approximation to the following function at the given point a.\nb. Use the linear approximation to estimate the given quantity.\nc. Compute the percent error in the approximation,\n100 · (|approximation − exact|)/(|exact|)\n, where the exact value is given by a calculator.\nf(x) = e^x at a = 0 ; f(0.04)"
+    },
+    {
+      "questionId": "4.6.53",
+      "objective": "Answer conceptual questions involving linear approximations and differentials.",
+      "codePolishedStem": "Determine whether the following statements are true and give an explanation or counterexample.\na. The linear approximation to f(x) = = x^(2atx = = 0isL(x) = = 0.)\nb. Linear approximation at x = = 0 provides a good approximation to f(x) = |x| f(x) = x.\nc. If f(x) = = mx + + b , then the linear approximation to f at any point is L(x) = = f(x).\nd. When linear approximation is used to estimate values of ln x ln x near x = e x = e , the approximations are overestimates of the true values."
+    },
+    {
+      "questionId": "4.6.64",
+      "objective": "Given y=f(x), write a differential expressing the change in y as a function of a...",
+      "codePolishedStem": "Consider the following function and express the relationship between a small change in x and the corresponding change in y in the form dy\nf′ (x) dx\nf′(x)dx.\nf(x) = e^(20x)"
+    },
+    {
+      "questionId": "4.6.67",
+      "objective": "Given y=f(x), write a differential expressing the change in y as a function of a...",
+      "codePolishedStem": "Consider the following function and express the relationship between a small change in x and the corresponding change in y in the form\ndy = f′(x)dx.\nf(x) = 2 x³ − 6 x"
+    },
+    {
+      "questionId": "4.7.22-Setup & Solve",
+      "objective": "Evaluate limits using the form 0/0 or infinity/infinity of l'Hopital's Rule if it applies.",
+      "codePolishedStem": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\nlim x→0 (e^x − 1)/(4 x² + 9 x)"
+    },
+    {
+      "questionId": "4.7.25-Setup & Solve",
+      "objective": "Evaluate limits using the form 0/0 or infinity/infinity of l'Hopital's Rule if it applies.",
+      "codePolishedStem": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\nlim x→e (11 ln x − 11)/(x − e)"
+    },
+    {
+      "questionId": "4.8.9",
+      "objective": "Given an initial approximation, use Newton's method to find the first two approximations.",
+      "codePolishedStem": "Write the formula for Newton's method and use the given initial approximation to compute the approximations x₁ and x₂.\nf(x) = x² − 11\nx2−11; x₀ = 3"
+    },
+    {
+      "questionId": "4.8.10",
+      "objective": "Given an initial approximation, use Newton's method to find the first two approximations.",
+      "codePolishedStem": "Write the formula for Newton's method and use the given initial approximation to compute the approximations x₁ and x₂.\nf(x) = x² − 2x − 63 , x₀ = 8"
+    },
+    {
+      "questionId": "4.9.25",
+      "objective": "Determine the indefinite integrals of a function.",
+      "codePolishedStem": "Determine the following indefinite integral.\n∫ ((5)/(√(x)) + 5 √(x)) dx"
+    },
+    {
+      "questionId": "4.9.35",
+      "objective": "Determine the indefinite integrals of a function.",
+      "codePolishedStem": "Determine the following indefinite integral.\n∫ (4 x⁴ + 10 x²)/(x) dx"
+    },
+    {
+      "questionId": "4.9.45",
+      "objective": "Determine the indefinite integrals of a function.",
+      "codePolishedStem": "Determine the following indefinite integral.\nIntegral from nothing to nothing (− 7 Bold sec x Bold tan x + 3 Bold sec² x) dx\n∫−7secxtanx +3sec2x dx"
+    },
+    {
+      "questionId": "4.9.47",
+      "objective": "Determine the indefinite integrals of a function.",
+      "codePolishedStem": "Determine the following indefinite integral. Check your work by differentiation.\n∫ (9 r⁸ − 2 sec² r) dr\n∫9r8−2sec2r dr"
+    },
+    {
+      "questionId": "4.9.74",
+      "objective": "Given a function, find the antiderivative satisfying a given condition.",
+      "codePolishedStem": "For the following function f, find the antiderivative F that satisfies the given condition.\nf(u)\n5 e^u + 14\n5eu+14; F(0)\n8"
+    },
+    {
+      "questionId": "4.9.91",
+      "objective": "Find a position function given a velocity function and an initial position.",
+      "codePolishedStem": "Given the following velocity function of an object moving along a line, find the position function with the given initial position.\nv(t)\n2 t plus 4\n2t+4; s(0)\n= 0"
+    }
+  ]
+}

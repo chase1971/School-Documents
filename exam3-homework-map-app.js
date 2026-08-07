@@ -22,7 +22,8 @@ async function loadExamProblems() {
 }
 
 function examProblemFor(id) {
-  return examProblems[id] || REVIEW_PROBLEMS[id] || PROBLEMS[id] || null;
+  // Exam tab uses editor harvest only — never fall back to PROBLEMS (stale print text with MC junk).
+  return examProblems[id] || null;
 }
 
 function renderProblemBody(container, problem) {
@@ -571,6 +572,85 @@ function renderExamPoolSide(reviewIds) {
   });
 }
 
+function renderExamChanges() {
+  const diff = computeExamHarvestDiff();
+  const baselineCount = initialExamFlatIds().length;
+  const baselineEl = document.getElementById("exam-changes-baseline-count");
+  if (baselineEl) baselineEl.textContent = String(baselineCount);
+
+  const toolbar = document.getElementById("exam-changes-toolbar");
+  if (toolbar) {
+    toolbar.innerHTML =
+      "<strong>" +
+      diff.unchanged.length +
+      " unchanged</strong> | " +
+      '<span style="color:var(--accent)">' +
+      diff.added.length +
+      " added</span> | " +
+      '<span style="color:#ff8a8a">' +
+      diff.removed.length +
+      " removed</span> | " +
+      examGroups.length +
+      " pools now";
+  }
+
+  const body = document.getElementById("exam-changes-body");
+  if (!body) return;
+  body.innerHTML = "";
+
+  function appendSection(title, hint, items, rowClass, badgeFn) {
+    const head = document.createElement("div");
+    head.className = "changes-section-head";
+    head.innerHTML = esc(title) + ' <span>(' + items.length + ")</span> — " + esc(hint);
+    body.appendChild(head);
+    if (!items.length) {
+      const empty = document.createElement("div");
+      empty.className = "empty-msg";
+      empty.textContent = "None";
+      body.appendChild(empty);
+      return;
+    }
+    for (const row of items) {
+      const note =
+        (row.pool ? "Pool " + row.pool + " · " : "") + examSummaryFor(row.id);
+      const extras = [];
+      const badge = document.createElement("span");
+      badge.className = "badge " + badgeFn(row).className;
+      badge.textContent = badgeFn(row).text;
+      extras.push(badge);
+      if (row.source === "from review") {
+        const src = document.createElement("span");
+        src.className = "badge badge-added";
+        src.textContent = "review";
+        extras.push(src);
+      }
+      body.appendChild(buildQBlock(row.id, "exam", rowClass, note, extras));
+    }
+  }
+
+  appendSection(
+    "Removed from initial harvest",
+    "were on the exam when harvested; you removed them",
+    diff.removed,
+    "exam-removed",
+    () => ({ className: "badge-removed", text: "removed" })
+  );
+  appendSection(
+    "Added after initial harvest",
+    "not in the Pearson harvest; you put them on the exam",
+    diff.added,
+    "exam-added",
+    (row) => ({ className: "badge-added", text: row.source === "from review" ? "added" : "added" })
+  );
+  appendSection(
+    "Still on exam from harvest",
+    "unchanged since the editor harvest",
+    diff.unchanged,
+    "exam-original",
+    (row) => ({ className: "badge-original", text: row.pool ? "pool " + row.pool : "original" })
+  );
+}
+
 function renderExamList() {
   const flatIds = examFlatIds();
   const toolbar = document.getElementById("exam-list-toolbar");
@@ -614,10 +694,7 @@ function renderExamList() {
 
     list.appendChild(row);
     for (const qid of group.slice().sort(compareQuestionIds)) {
-      const badge = document.createElement("span");
-      badge.className = "badge badge-hw";
-      badge.textContent = examProblems[qid] ? "printed" : "harvested";
-      list.appendChild(buildQBlock(qid, "exam", "", examSummaryFor(qid), [badge]));
+      list.appendChild(buildQBlock(qid, "exam", "", examSummaryFor(qid), []));
     }
   });
 }
@@ -660,12 +737,14 @@ function renderAll() {
   const homeworkView = document.getElementById("homework-view");
   const reviewView = document.getElementById("review-view");
   const examView = document.getElementById("exam-view");
+  const examChangesView = document.getElementById("exam-changes-view");
   const legend = document.getElementById("homework-legend");
   const subtitle = document.getElementById("subtitle");
 
   homeworkView.classList.toggle("hidden", viewMode !== "homework");
   reviewView.classList.toggle("hidden", viewMode !== "review");
   examView.classList.toggle("hidden", viewMode !== "exam");
+  examChangesView.classList.toggle("hidden", viewMode !== "exam-changes");
   legend.classList.toggle("hidden", viewMode !== "homework");
 
   if (viewMode === "homework") {
@@ -678,9 +757,13 @@ function renderAll() {
       "Use Add to Exam to create a new pool, or Add to Pool to place a review question into an existing Exam 3 pool.";
     renderReviewTabLeft();
     renderReviewTabRight();
-  } else {
+  } else if (viewMode === "exam") {
     subtitle.textContent = "All Exam 3 pools in order. Multi-question pools randomly assign one question per student.";
     renderExamList();
+  } else if (viewMode === "exam-changes") {
+    subtitle.textContent =
+      "Compare your current exam to the initial Pearson editor harvest. Removed rows are struck through; added rows are highlighted.";
+    renderExamChanges();
   }
   updateFooterCount();
 }

@@ -1,0 +1,83 @@
+{
+  "4.1.23": {
+    "stem": "Find the critical points of the following function.\nf(x) = 5x² + 3x + 2"
+  },
+  "4.1.27": {
+    "stem": "Find the critical points of the following function.\nf(x) = 3x³ − 6x² − 5x"
+  },
+  "4.1.49": {
+    "stem": "Determine the location and value of the absolute extreme values of f on the given interval, if they exist.\nf(x) = 5 cos² x on [0, π]"
+  },
+  "4.1.57": {
+    "stem": "Determine the location and value of the absolute extreme values of f on the given interval, if they exist.\nf(x) = −2x³ + 39x² − 216x on [3, 10]"
+  },
+  "4.2.21": {
+    "stem": "a. Determine whether the Mean Value Theorem applies to f(x) = −x²/2 on the interval [−1, 2].\nb. If so, find the point(s) guaranteed by the Mean Value Theorem."
+  },
+  "4.2.25": {
+    "stem": "a. Determine whether the Mean Value Theorem applies to f(x) = e^x on [0, ln 20].\nb. If so, find the point(s) guaranteed by the Mean Value Theorem."
+  },
+  "4.3.39-Setup & Solve": {
+    "stem": "Find the intervals on which f is increasing and the intervals on which it is decreasing.\nf(x) = −12x⁵ + 135x⁴ − 400x³"
+  },
+  "4.3.40": {
+    "stem": "Find the intervals on which f is increasing and decreasing.\nf(x) = −x² + 2 ln x"
+  },
+  "4.3.63": {
+    "stem": "Determine the intervals on which the following function is concave up or concave down. Identify any inflection points.\nf(x) = 3x⁴ − 4x³ + 4"
+  },
+  "4.3.65": {
+    "stem": "Determine the intervals on which the following function is concave up or concave down. Identify any inflection points.\nf(x) = −5x⁴ + 40x³ − 15"
+  },
+  "4.3.83": {
+    "stem": "Locate the critical points of the following function. Then use the Second Derivative Test to determine whether they correspond to local maxima, local minima, or neither.\nf(x) = −3x³ − 9x² + 13"
+  },
+  "4.3.85": {
+    "stem": "Locate the critical points of the following function. Then use the Second Derivative Test to determine whether they correspond to local maxima, local minima, or neither.\nf(x) = −3x² e^(−2x) + 2"
+  },
+  "4.4.55": {
+    "stem": "Determine whether the following statements are true and give an explanation or counterexample.\na. The zeroes of f′ are −3, 1, and 4, so the local extrema are located at these points.\nb. The zeros of f′′ are −2 and 4, so the inflection points are located at these points.\nc. The zeros of the denominator of f are −3 and 4, so f has vertical asymptotes at these points.\nd. If a rational function has a finite limit as x → ∞, it must have a finite limit as x → −∞."
+  },
+  "4.6.30": {
+    "stem": "a. Write the equation of the line that represents the linear approximation to the following function at the given point a.\nb. Use the linear approximation to estimate the given quantity.\nc. Compute the percent error in the approximation, 100 · (|approximation − exact|)/(|exact|), where the exact value is given by a calculator.\nf(x) = e^x at a = 0; f(0.04)"
+  },
+  "4.6.53": {
+    "stem": "Determine whether the following statements are true and give an explanation or counterexample.\na. The linear approximation to f(x) = x² at x = 0 is L(x) = 0.\nb. Linear approximation at x = 0 provides a good approximation to f(x) = |x|.\nc. If f(x) = mx + b, then the linear approximation to f at any point is L(x) = f(x).\nd. When linear approximation is used to estimate values of ln x near x = e, the approximations are overestimates of the true values."
+  },
+  "4.6.64": {
+    "stem": "Consider the following function and express the relationship between a small change in x and the corresponding change in y in the form dy = f′(x) dx.\nf(x) = e^(20x)"
+  },
+  "4.6.67": {
+    "stem": "Consider the following function and express the relationship between a small change in x and the corresponding change in y in the form dy = f′(x) dx.\nf(x) = 2x³ − 6x"
+  },
+  "4.7.22-Setup & Solve": {
+    "stem": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\nlim x→0 (e^x − 1)/(4x² + 9x)"
+  },
+  "4.7.25-Setup & Solve": {
+    "stem": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\nlim x→e (11 ln x − 11)/(x − e)"
+  },
+  "4.8.9": {
+    "stem": "Write the formula for Newton's method and use the given initial approximation to compute the approximations x₁ and x₂.\nf(x) = x² − 11; x₀ = 3"
+  },
+  "4.8.10": {
+    "stem": "Write the formula for Newton's method and use the given initial approximation to compute the approximations x₁ and x₂.\nf(x) = x² − 2x − 63; x₀ = 8"
+  },
+  "4.9.25": {
+    "stem": "Determine the following indefinite integral.\n∫ (5/√x + 5√x) dx"
+  },
+  "4.9.35": {
+    "stem": "Determine the following indefinite integral.\n∫ (4x⁴ + 10x²)/x dx"
+  },
+  "4.9.45": {
+    "stem": "Determine the following indefinite integral.\n∫ (−7 sec x tan x + 3 sec² x) dx"
+  },
+  "4.9.47": {
+    "stem": "Determine the following indefinite integral. Check your work by differentiation.\n∫ (9r⁸ − 2 sec² r) dr"
+  },
+  "4.9.74": {
+    "stem": "For the following function f, find the antiderivative F that satisfies the given condition.\nf(u) = 5e^u + 14; F(0) = 8"
+  },
+  "4.9.91": {
+    "stem": "Given the following velocity function of an object moving along a line, find the position function with the given initial position.\nv(t) = 2t + 4; s(0) = 0"
+  }
+}

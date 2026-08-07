@@ -7,7 +7,8 @@ ZW = re.compile(r"[\u200b-\u200f\u2060\ufeff]")
 SUPERS = str.maketrans("0123456789", "⁰¹²³⁴⁵⁶⁷⁸⁹")
 
 A11Y_MARKERS = re.compile(
-    r"StartFraction|EndFraction|Superscript|Subscript|Baseline|StartRoot|EndRoot|"
+    r"StartFraction|EndFraction|StartAbsoluteValue|EndAbsoluteValue|"
+    r"Superscript|Subscript|Baseline|StartRoot|EndRoot|"
     r"left parenthesis|right parenthesis|left bracket|right bracket|"
     r"\bequals\b|\bsquared\b|\bcubed\b|\bcosine\b|\bsine\b|\btangent\b|"
     r"ModifyingBelow|Integral from nothing",
@@ -60,6 +61,20 @@ def _word_replace(text: str) -> str:
     return out
 
 
+def _convert_absolute_values(text: str) -> str:
+    while "StartAbsoluteValue" in text:
+        m = re.search(
+            r"StartAbsoluteValue\s+(.+?)\s+EndAbsoluteValue",
+            text,
+            flags=re.I,
+        )
+        if not m:
+            break
+        inner = _convert_inline(m.group(1).strip(), final=False)
+        text = text[: m.start()] + f"|{inner}|" + text[m.end() :]
+    return text
+
+
 def _convert_fractions(text: str) -> str:
     while "StartFraction" in text:
         m = re.search(
@@ -93,6 +108,18 @@ def _convert_superscripts(text: str) -> str:
 
 
 def _convert_subscripts(text: str) -> str:
+    text = re.sub(
+        r"(\w)\s+Subscript\s+(\w+)\s+plus\s+(\d+)",
+        lambda m: f"{m.group(1)}_{{{m.group(2)}+{m.group(3)}}}",
+        text,
+        flags=re.I,
+    )
+    text = re.sub(
+        r"(\w)\s+Subscript\s+(\w+)\s+Baseline",
+        lambda m: f"{m.group(1)}_{m.group(2)}",
+        text,
+        flags=re.I,
+    )
     text = re.sub(
         r"Subscript\s+(.+?)\s+Superscript\s+(.+?)\s+Baseline",
         lambda m: "_{" + _plain_script(m.group(1).strip()) + "}" + _to_superscript(m.group(2).strip()),
@@ -134,6 +161,7 @@ def _convert_inline(text: str, *, final: bool = True) -> str:
         text,
         flags=re.I,
     )
+    text = _convert_absolute_values(text)
     text = _convert_fractions(text)
     text = _convert_subscripts(text)
     text = _convert_superscripts(text)
@@ -163,6 +191,9 @@ def _format_equation(text: str) -> str:
     text = re.sub(r"\(\s+", "(", text)
     text = re.sub(r"\s+\)", ")", text)
     text = re.sub(r"\^\(([−-])\s+([A-Za-z0-9]+)\)", r"^(\1\2)", text)
+    text = re.sub(r"\b(\d*)ex\b", lambda m: f"{m.group(1)}e^x", text)
+    text = re.sub(r"\^\(2atx\)", "² at x", text)
+    text = re.sub(r"=\s*x\^\(2atx\)", "= x² at x", text)
     text = re.sub(r"\[\s+", "[", text)
     text = re.sub(r"\s+\]", "]", text)
     text = re.sub(r"  +", " ", text).strip()
@@ -245,6 +276,11 @@ def _dedupe_lines(lines: list[str]) -> list[str]:
             continue
         if out and out[-1] == t:
             continue
+        if out:
+            prev_compact = re.sub(r"\s+", "", out[-1])
+            compact = re.sub(r"\s+", "", t)
+            if compact == prev_compact or (len(compact) < len(prev_compact) and compact in prev_compact):
+                continue
         if out and t.startswith(out[-1] + " ="):
             out[-1] = t
             continue
@@ -492,6 +528,27 @@ def clean_lines_to_readable(lines: list[str]) -> list[str]:
         line = lines[i]
 
         if SKIP_LINE.match(line) and out:
+            i += 1
+            continue
+
+        if re.fullmatch(r"Superscript", line, re.I) and i + 1 < len(lines):
+            sup = _to_superscript(lines[i + 1].strip())
+            if out:
+                out[-1] = out[-1] + sup
+            i += 2
+            continue
+
+        if line in ("100•", "100 ·", "100·") and i + 2 < len(lines):
+            n1, n2 = lines[i + 1].strip(), lines[i + 2].strip()
+            if "approximation" in n1.lower() and n2.lower() == "exact":
+                i += 3
+                continue
+
+        if line in ("almost =", "≈", "almost equals"):
+            i += 1
+            continue
+
+        if out and line == out[-1]:
             i += 1
             continue
 

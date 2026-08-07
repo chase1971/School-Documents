@@ -90,4 +90,15 @@ node scripts/serve-programs-docs.js
 
 http://127.0.0.1:8765/exam3-homework-map.html
 
-**Review edits sync:** `exam3-review-map-state.json` — same flow as Exam 2 (`Download state for GitHub` → commit → pull → `Load from GitHub file`). See `README.md` in this folder.
+**Review / exam edits sync:** `exam3-review-map-state.json` — same flow as Exam 2 (`Download state for GitHub` → commit → pull → `Load from GitHub file`). See `README.md` in this folder.
+
+## Exam tab (pooled test — all pool alternates)
+
+**Not** the print harvest above. For the **Exam 3** tab stems and `EXAM3_POOLS`:
+
+→ `School Scrips/Macro App/docs/Automations/PEARSON_EXAM_POOL_HARVEST.md`
+
+Phases: MCP editor Next-loop → `write_exam3_editor_harvest.py` → optional `ai_polish_exam_stems.py`.
+
+Output: `exam3-exam-harvest.json`, `exam3-exam-data.js`. Map **Exam changes** tab diffs current
+`examGroups` vs that harvest baseline.
