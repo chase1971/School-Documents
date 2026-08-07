@@ -4,7 +4,7 @@ Teaching HTML, exam maps, Pearson harvest artifacts under `School Scrips/School 
 
 ## 2026-08-06 — Exam 3 editor harvest, stem polish, Exam changes tab
 
-**Files changed:** `harvest/write_exam3_editor_harvest.py` (new), `harvest/stem_polish.py` (new), `harvest/ai_polish_exam_stems.py` (new), `harvest/exam3-editor-preview-raw.json`, `harvest/exam3-ai-polish-queue.json`, `harvest/exam3-ai-polish-results.json`, `harvest/pearson_a11y_math.py`, `harvest/HARVEST.md`; `exam3-exam-harvest.json`, `exam3-exam-data.js`, `exam3-homework-map.html`, `exam3-homework-map-app.js` (781), `exam3-map-state.js` (498). Macro App: `docs/Automations/PEARSON_EXAM_POOL_HARVEST.md` (new), `PEARSON_BROWSER_AUTOMATION.md`, `README.md`, `AGENTS.md`. Programs: `recipes/school-exam-map-html.md`.
+**Files changed:** `harvest/write_exam3_editor_harvest.py` (new), `harvest/stem_polish.py` (new), `harvest/ai_polish_exam_stems.py` (new), `harvest/exam3-editor-preview-raw.json`, `harvest/exam3-ai-polish-queue.json`, `harvest/exam3-ai-polish-results.json`, `harvest/pearson_a11y_math.py`, `harvest/HARVEST.md`; `exam3-exam-harvest.json`, `exam3-exam-data.js`, `exam3-homework-map.html`, `exam3-homework-map-app.js` (781), `exam3-map-state.js` (498). Macro App: `docs/Automations/PEARSON_EXAM_POOL_HARVEST.md` (new), `PEARSON_BROWSER_AUTOMATION.md`, `README.md`, `AGENTS.md`. Programs: `agent docs/recipes/school-exam-map-html.md`.
 
 **What worked:** Harvested all 27 Exam 3 pool alternates via editor `PlayerAddAndRemove` Next loop; post-process writes clean stems to `exam3-exam-harvest.json` (Phase E: `pearson_a11y_math` + `stem_polish`; Phase F: AI polish queue/apply). Exam tab uses harvest JSON only (no stale `PROBLEMS` fallback). Added **Exam changes** fourth tab — diffs current `examGroups` vs `EXAM3_POOLS` harvest baseline (added / removed / unchanged). Documented full pipeline Phases A–F and map tabs in harvest recipe, `HARVEST.md`, and `school-exam-map-html.md`.
 
@@ -16,7 +16,7 @@ Teaching HTML, exam maps, Pearson harvest artifacts under `School Scrips/School 
 
 ## 2026-08-06 - Exam 3 map workflow, problem capture, and school HTML recipe
 
-**Files changed:** `exam3-homework-map.html`, `exam3-homework-map-app.js` (near cap at 698), `exam3-map-state.js` (424), `exam3-review-map-state.json`, `exam3-exam-data.js` (new), `exam3-exam-harvest.json` (new cleaned exam print text), `exam3-exam-harvest.a11y.json` (new raw backup), `harvest/pearson_a11y_math.py` (640), `harvest/clean_exam3_math.py`, `README.md`; `../../recipes/school-exam-map-html.md` (new, 161) and `../../recipes/INDEX.md`.
+**Files changed:** `exam3-homework-map.html`, `exam3-homework-map-app.js` (near cap at 698), `exam3-map-state.js` (424), `exam3-review-map-state.json`, `exam3-exam-data.js` (new), `exam3-exam-harvest.json` (new cleaned exam print text), `exam3-exam-harvest.a11y.json` (new raw backup), `harvest/pearson_a11y_math.py` (640), `harvest/clean_exam3_math.py`, `README.md`; `../../agent docs/recipes/school-exam-map-html.md` (new, 161) and `../../agent docs/recipes/INDEX.md`.
 
 **What worked:** Expanded the Exam 3 HTML map into the intended three-tab workflow: Homework builds Review, Review builds Exam pools, and Exam summarizes all pools. Captured Exam 3 question details and printed problem text, made exam rows expandable, cleaned Pearson accessibility math enough to remove screen-reader artifacts, fixed mojibake separators, and added Homework-tab `Remove HW` state so homework can be pruned while still adding selected problems to review. Documented the construction pattern as a reusable recipe keyed to Chase's wording.
 
@@ -61,3 +61,33 @@ Teaching HTML, exam maps, Pearson harvest artifacts under `School Scrips/School 
 **File size flag:** `pearson_a11y_math.py` at 568 lines — extract before adding more math rules.
 
 **Next session:** Optional `DOC_TRACKER.md` at Programs root (keyword router Chase asked about); or copy exam 3 pattern for unit 4 via doc tracker + exemplar files.
+
+## 2026-08-02 — exam2-review-map: full homework harvest + Exam 2 Review
+
+*Relocated 2026-08-07 from `agent docs/sessions/SESSIONS.md` — that log is for the instruction
+layer itself, not School documents work; the entry only ended up there because the map's output
+HTML was being served from `agent docs/` at the time.*
+
+**Files changed:** `exam2-review-map.html` (~721 lines), `School Scrips/Macro App/docs/PEARSON_BROWSER_AUTOMATION.md`
+
+**What worked:** Pearson print harvest (Macro App MCP, no snapshots) for homework 3.6–3.10 and Exam 2 Review. Trimmed map to homework 3.3–3.10 only; updated REVIEW to edited 18-question list; added six review-only PROBLEMS (3.3.63, 3.5.25, 3.5.59, 3.7.23, 3.9.36, 3.9.75); right-panel hover tooltips; tooltip wrap fix for long equations.
+
+**Current state:** Green — map complete for that review/homework set.
+
+**File size flag:** None
+
+**Next session:** Serve at `http://127.0.0.1:8765/exam2-review-map.html`; optional fix for parameterized IDs showing homework vs review instance text.
+
+## 2026-08-02 — exam2-review-map: 3.4/3.5 problem text + collapsible sections
+
+*Relocated 2026-08-07 from `agent docs/sessions/SESSIONS.md`, same reason as above.*
+
+**Files changed:** `exam2-review-map.html` (~660 lines)
+
+**What worked:** Added 16 + 14 Pearson print-harvested `{ prompt, expr }` entries (3.4, 3.5). Fixed homework accordion — second click on open section collapses it and clears right panel.
+
+**Current state:** Green
+
+**File size flag:** None
+
+**Next session:** Serve via docs server; continue PROBLEMS harvest for 3.6+

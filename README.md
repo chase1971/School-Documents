@@ -46,4 +46,4 @@ Miscellaneous teaching documents that are not part of any app repo — HTML comp
 
 When creating new school HTML, tell the AI to save it in this folder.
 
-Construction recipe for exam maps: `../../recipes/school-exam-map-html.md`.
+Construction recipe for exam maps: `../../agent docs/recipes/school-exam-map-html.md`.
