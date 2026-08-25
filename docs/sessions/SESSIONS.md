@@ -2,6 +2,18 @@
 
 Teaching HTML, exam maps, Pearson harvest artifacts under `School Scrips/School documents/`.
 
+## 2026-08-25 — Exam maps index + Exam 4 skeleton
+
+**Files changed:** `index.html` (new), `exam4-homework-map.html` (new), `README.md`
+
+**What worked:** Added dwell-friendly hub at docs-server root linking Exam 2, Exam 3, and Exam 4 maps. Exam 4 skeleton mirrors Exam 3 tab layout (Homework, Exam 4 Review, Exam 4, Exam changes) with empty placeholders until harvest. Verified 200 on index and exam4 pages with docs server running.
+
+**Current state:** Green — [http://127.0.0.1:8765/](http://127.0.0.1:8765/) opens index when `serve-programs-docs.js` is running.
+
+**File size flag:** None
+
+**Next session:** When Exam 4 assignments exist in Pearson, copy Exam 3 harvest pipeline per `docs/school-exam-map-html.md`.
+
 ## 2026-08-06 — Exam 3 editor harvest, stem polish, Exam changes tab
 
 **Files changed:** `harvest/write_exam3_editor_harvest.py` (new), `harvest/stem_polish.py` (new), `harvest/ai_polish_exam_stems.py` (new), `harvest/exam3-editor-preview-raw.json`, `harvest/exam3-ai-polish-queue.json`, `harvest/exam3-ai-polish-results.json`, `harvest/pearson_a11y_math.py`, `harvest/HARVEST.md`; `exam3-exam-harvest.json`, `exam3-exam-data.js`, `exam3-homework-map.html`, `exam3-homework-map-app.js` (781), `exam3-map-state.js` (498). Macro App: `docs/Automations/PEARSON_EXAM_POOL_HARVEST.md` (new), `PEARSON_BROWSER_AUTOMATION.md`, `README.md`, `AGENTS.md`. Programs: `agent docs/recipes/school-exam-map-html.md`.

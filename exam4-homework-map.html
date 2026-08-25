@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exam 4 Homework &amp; Review</title>
+  <style>
+    :root {
+      --bg: #0f1419;
+      --surface: #1a2332;
+      --surface2: #243044;
+      --text: #e8eef4;
+      --muted: #9db0c4;
+      --accent: #5eb8ff;
+      --accent2: #7ee787;
+      --warn: #f0b429;
+      --border: #3d5166;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Segoe UI", system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+      font-size: 18px;
+    }
+    .wrap { max-width: 1280px; margin: 0 auto; padding: 1.5rem 1.25rem 3rem; }
+    h1 { font-size: 1.85rem; margin: 0 0 0.3rem; }
+    .subtitle { color: var(--muted); margin-bottom: 1rem; font-size: 1rem; }
+    .back-link {
+      display: inline-block;
+      min-height: 48px;
+      line-height: 48px;
+      margin-bottom: 1rem;
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .back-link:hover, .back-link:focus-visible { text-decoration: underline; }
+    .notice {
+      margin-bottom: 1.25rem;
+      padding: 0.85rem 1rem;
+      background: #3d2f1a;
+      border: 1px solid var(--warn);
+      border-radius: 10px;
+      color: var(--text);
+    }
+    .view-tabs {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin-bottom: 1.25rem;
+    }
+    .view-tab {
+      min-height: 48px;
+      min-width: 140px;
+      padding: 0.65rem 1.25rem;
+      border: 2px solid var(--border);
+      border-radius: 10px;
+      background: var(--surface);
+      color: var(--muted);
+      font: inherit;
+      font-weight: 700;
+      cursor: pointer;
+    }
+    .view-tab:hover, .view-tab:focus-visible { border-color: var(--accent); color: var(--text); }
+    .view-tab.active {
+      background: #1e3350;
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+    .panel {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .panel-head {
+      padding: 0.85rem 1rem;
+      background: var(--surface2);
+      border-bottom: 1px solid var(--border);
+      font-weight: 700;
+    }
+    .panel-head span { font-weight: 400; color: var(--muted); font-size: 0.92rem; }
+    .columns {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1rem;
+      align-items: start;
+    }
+    @media (max-width: 900px) { .columns { grid-template-columns: 1fr; } }
+    .empty-msg {
+      padding: 2rem 1rem;
+      color: var(--muted);
+      text-align: center;
+      font-style: italic;
+    }
+    .hidden { display: none !important; }
+    .footer {
+      margin-top: 1.5rem;
+      font-size: 0.88rem;
+      color: var(--muted);
+    }
+    .footer a { color: var(--accent); }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <a class="back-link" href="index.html">← All exam maps</a>
+    <h1>Exam 4 Homework &amp; Review</h1>
+    <p class="subtitle" id="subtitle">Skeleton — same tabs as Exam 3. Harvest homework and exam data when Exam 4 assignments exist in Pearson.</p>
+
+    <div class="notice">
+      No question data yet. When ready, copy the Exam 3 file set and run the Pearson harvest scripts
+      (see <code>docs/school-exam-map-html.md</code> and <code>harvest/HARVEST.md</code>).
+    </div>
+
+    <div class="view-tabs" role="tablist" aria-label="Problem source">
+      <button type="button" class="view-tab active" data-view="homework">Homework</button>
+      <button type="button" class="view-tab" data-view="review">Exam 4 Review</button>
+      <button type="button" class="view-tab" data-view="exam">Exam 4</button>
+      <button type="button" class="view-tab" data-view="exam-changes">Exam changes</button>
+    </div>
+
+    <div class="columns" id="homework-view">
+      <div class="panel">
+        <div class="panel-head">Homework <span>— click section to expand</span></div>
+        <div class="empty-msg">No homework sections harvested.</div>
+      </div>
+      <div class="panel">
+        <div class="panel-head">Exam 4 Review <span>— same section as left</span></div>
+        <div class="empty-msg">No review questions harvested.</div>
+      </div>
+    </div>
+
+    <div class="columns hidden" id="review-view">
+      <div class="panel">
+        <div class="panel-head">Exam 4 Review <span>— all sections expanded</span></div>
+        <div class="empty-msg">No review questions harvested.</div>
+      </div>
+      <div class="panel">
+        <div class="panel-head">Exam 4 <span>current pools</span></div>
+        <div class="empty-msg">No exam pools yet.</div>
+      </div>
+    </div>
+
+    <div class="panel hidden" id="exam-view">
+      <div class="panel-head">Exam 4 <span>all pools, IDs only</span></div>
+      <div class="empty-msg">No exam pools yet.</div>
+    </div>
+
+    <div class="panel hidden" id="exam-changes-view">
+      <div class="panel-head">Exam changes <span>vs initial Pearson harvest</span></div>
+      <div class="empty-msg">No baseline harvest — nothing to compare yet.</div>
+    </div>
+
+    <p class="footer">
+      <a href="index.html">Exam maps index</a>
+      · Working example: <a href="exam3-homework-map.html">Exam 3 map</a>
+    </p>
+  </div>
+
+  <script>
+    const subtitles = {
+      homework: "Homework on the left, Exam 4 Review on the right — empty until harvest.",
+      review: "Build Exam 4 pools from the review list — empty until harvest.",
+      exam: "Final ordered exam summary — empty until harvest.",
+      "exam-changes": "Audit trail vs Pearson editor harvest — empty until harvest.",
+    };
+    const views = {
+      homework: document.getElementById("homework-view"),
+      review: document.getElementById("review-view"),
+      exam: document.getElementById("exam-view"),
+      "exam-changes": document.getElementById("exam-changes-view"),
+    };
+    const subtitle = document.getElementById("subtitle");
+    document.querySelectorAll(".view-tab").forEach((tab) => {
+      tab.addEventListener("click", () => {
+        const view = tab.dataset.view;
+        document.querySelectorAll(".view-tab").forEach((t) => t.classList.toggle("active", t === tab));
+        Object.entries(views).forEach(([key, el]) => el.classList.toggle("hidden", key !== view));
+        subtitle.textContent = subtitles[view] || "";
+      });
+    });
+  </script>
+</body>
+</html>
