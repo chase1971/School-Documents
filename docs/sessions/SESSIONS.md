@@ -2,6 +2,20 @@
 
 Teaching HTML, exam maps, Pearson harvest artifacts under `School Scrips/School documents/`.
 
+## 2026-09-02 — Factoring handout rebuilt as KaTeX HTML (two pages)
+
+**Files changed:** `scripts/factoring-shared.js` (new, 152), `scripts/build-factoring-page1.js` (new, 228), `scripts/build-factoring-page2.js` (new, 205), `factoring-trinomials-page1.html` / `-page2.html` + matching PDFs (generated), `README.md` (+26). Superseded image drafts left in place: `factoring-page1-setup.png`, `factoring-page2-testing.png`, `factoring-journey-map.png`, `factoring-poster.png`, `factoring-worked-example.png`, `factoring-handout.pdf`.
+
+**What worked:** Started the session still iterating the handout through image generation and burned several rounds on spacing notes — box padding, parenthesis gaps, gray text that would not photocopy. Chase spotted that the design had stopped changing shape and asked for it in code instead. Rebuilt both pages as self-contained HTML with KaTeX pre-rendered at build time and its woff2 fonts base64-inlined, so the pages make no external requests per `agent docs/rules/html-delivery.md` — KaTeX was already vendored in `canvas-kit/node_modules`, so no new dependency. Section 2's connector arrows and the factor-tree branches are drawn by measuring the rendered DOM and generating SVG paths, which makes the crossover exact rather than eyeballed; colour was dropped for print, so the two connector families are distinguished by solid vs dashed strokes. Page 2 covers inner/outer testing of both arrangements, the vertical `−15x + 4x = −11x` sign decision, and the zero-product solve to `x = −2/3` and `x = 5/2` — the step the app never did. Page 1's generator hit 317 lines, so the masthead, KaTeX helpers, and box/parenthesis styling were extracted to `factoring-shared.js` before page 2 was added.
+
+**Also this session:** Chase floated an interactive page where a student types a quadratic and watches it work. Checked `School Scrips/factoring-app` first per the grep-before-adding-a-mechanism rule — it already does this as a deployed Netlify site (coefficient inputs, GCF warning, unfactorable warning, factor-pair buttons, double bubble, product arrows, sum verification). He dropped the idea. Two gaps noted if it comes back: it never works a problem for the student, and `QuadraticEquation.tsx` restricts each coefficient input to a **single digit**, so `12x² − 22x − 20` cannot be entered.
+
+**Current state:** Green — both pages verified by headless screenshot at 816×1056 and printed to PDF; all four URLs return 200 on the docs server.
+
+**File size flag:** None in this repo. Pre-existing in `factoring-app` (not touched): `QuadraticEquation.tsx` 1233 lines, over the 800 cap; `App.tsx` 367 lines against the ~100-line orchestrator rule.
+
+**Next session:** Merge the two pages into one printable PDF if Chase wants a class set. Page 2's arc labels sit on white chips that mask the apex of each arc — check whether he likes that. Sections II+ (difference of squares, GCF-only, etc.) would slot in as more `build-factoring-page*.js` files against the same shared module.
+
 ## 2026-08-25 — Exam maps index + Exam 4 skeleton
 
 **Files changed:** `index.html` (new), `exam4-homework-map.html` (new), `README.md`

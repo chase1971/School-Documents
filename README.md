@@ -58,6 +58,31 @@ Requires `node scripts/serve-programs-docs.js` from Programs if links fail.
 
 When Exam 4 homework exists in Pearson, copy the Exam 3 file set and harvest scripts per `docs/school-exam-map-html.md`.
 
+## Factoring handout (guess-and-check double bubble)
+
+Two-page printable walkthrough of `12x² − 22x − 20 = 0` in Chase's guess-and-check
+method — GCF first, then the double bubble, inner/outer testing, signs, and solving.
+
+| File | Role |
+|---|---|
+| `scripts/factoring-shared.js` | KaTeX render + font embedding, masthead, box/parenthesis styles |
+| `scripts/build-factoring-page1.js` | Page 1 — setup through Option A / Option B |
+| `scripts/build-factoring-page2.js` | Page 2 — testing, signs, zero product solve |
+| `factoring-trinomials-page1.html` · `-page2.html` | Generated; do not hand-edit |
+
+**Rebuild:** `node "School Scrips/School documents/scripts/build-factoring-page1.js"`
+(same for page 2), then headless Edge `--print-to-pdf` for the PDFs.
+
+**Local links:** [page 1](http://127.0.0.1:8765/factoring-trinomials-page1.html) ·
+[page 2](http://127.0.0.1:8765/factoring-trinomials-page2.html)
+
+Math is pre-rendered with the KaTeX vendored in `School Scrips/canvas-kit/node_modules`,
+and its woff2 fonts are base64-inlined, so the pages make **no external requests** —
+required by `agent docs/rules/html-delivery.md`. Spacing complaints ("move the
+parentheses closer", "less padding in the boxes") are CSS values in the generators,
+not a reason to regenerate an image. Earlier `factoring-*.png` files in this folder are
+the superseded image-generated drafts.
+
 ## What does *not* go here
 
 - App source code (those live in their own repos under `School Scrips\`)

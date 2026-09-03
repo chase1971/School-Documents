@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Factoring — Double Bubble, Step by Step</title>
+<style>
+  @page{size:letter portrait;margin:.3in}
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{background:#fdfdfb}
+  svg.poster{width:850px;height:auto;display:block}
+  @media print{body{display:flex;justify-content:center}svg.poster{width:auto;height:10.35in}}
+</style>
+</head>
+<body>
+<svg class="poster" viewBox="0 0 850 1240" xmlns="http://www.w3.org/2000/svg"
+     font-family="Segoe UI, Arial, sans-serif">
+<style>
+  .t{font-family:"Segoe UI",Arial,sans-serif}
+  .m{font-family:"Cambria Math",Cambria,Georgia,serif}
+  .kick{font-size:10px;letter-spacing:3px;font-weight:700}
+  .htitle{font-size:17.5px;font-weight:800;fill:#0f172a}
+  .hclause{font-size:12.5px;fill:#7b8798}
+  .mini{font-size:9.5px;letter-spacing:1.7px;font-weight:700}
+  .note{font-size:11.5px;fill:#64748b}
+  .bignum{font-size:29px;font-weight:700}
+  .blue{fill:#2563eb}.amber{fill:#d97706}.slate{fill:#475569}
+  .teal{fill:#0d9488}.violet{fill:#7c3aed}.green{fill:#059669}.red{fill:#dc2626}
+  .navy{fill:#0f172a}
+</style>
+
+<rect width="850" height="1240" fill="#fdfdfb"/>
+
+<!-- ══════════ HEADER ══════════ -->
+<rect width="850" height="100" fill="#0f172a"/>
+<circle cx="792" cy="8" r="96" fill="#2563eb" opacity=".16"/>
+<text class="t kick" x="34" y="34" fill="#7aa2ff">STEP BY STEP</text>
+<text class="t" x="34" y="68" font-size="31" font-weight="800" fill="#fff" letter-spacing="-.6">Factor it. Then solve it.</text>
+<text class="t" x="34" y="88" font-size="12" fill="#93a3ba">every step below is the same problem, one move further along</text>
+<rect x="512" y="20" width="304" height="60" rx="10" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".2"/>
+<text class="m" x="664" y="60" font-size="28" font-weight="700" fill="#fff" text-anchor="middle">12x² − 22x − 20 = 0</text>
+
+<!-- ══════════ STEP 1 — GCF ══════════ -->
+<circle cx="51" cy="126" r="15" fill="#0f172a"/>
+<text class="t" x="51" y="132" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">1</text>
+<text class="t htitle" x="76" y="132">Is there a GCF? Take it out.</text>
+<text class="t hclause" x="816" y="132" text-anchor="end">every term is even — so divide the whole equation by 2</text>
+
+<rect x="34" y="148" width="342" height="86" rx="10" fill="#fff8ec" stroke="#f0c987" stroke-width="1.4"/>
+<text class="t mini" x="52" y="170" fill="#b4790a">ALL THREE SHARE A 2</text>
+<text class="m bignum" x="205" y="212" text-anchor="middle">
+  <tspan class="amber">12</tspan><tspan class="slate">x² − </tspan><tspan class="amber">22</tspan><tspan class="slate">x − </tspan><tspan class="amber">20</tspan><tspan class="slate"> = 0</tspan>
+</text>
+
+<path d="M392 191 H438" stroke="#0f172a" stroke-width="3" stroke-linecap="round"/>
+<path d="M432 184 l8 7 l-8 7" fill="none" stroke="#0f172a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text class="m" x="415" y="177" font-size="17" font-weight="700" fill="#0f172a" text-anchor="middle">÷ 2</text>
+
+<rect x="454" y="148" width="362" height="86" rx="10" fill="#eafaf2" stroke="#7bd3ab" stroke-width="1.4"/>
+<text class="t mini" x="472" y="170" fill="#047857">THE 2 IS GONE — IT NEVER COMES BACK</text>
+<text class="m bignum" x="635" y="212" text-anchor="middle" fill="#0f172a">6x² − 11x − 10 = 0</text>
+
+<!-- ══════════ STEP 2 — DOUBLE BUBBLE ══════════ -->
+<circle cx="51" cy="264" r="15" fill="#0f172a"/>
+<text class="t" x="51" y="270" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">2</text>
+<text class="t htitle" x="76" y="270">Three terms always make two bubbles.</text>
+<text class="t hclause" x="816" y="270" text-anchor="end">now decide what has to go where</text>
+
+<text class="m" x="330" y="308" font-size="26" font-weight="700" text-anchor="middle" fill="#2563eb">6x²</text>
+<text class="m" x="425" y="308" font-size="26" font-weight="700" text-anchor="middle" fill="#94a3b8">− 11x</text>
+<text class="m" x="521" y="308" font-size="26" font-weight="700" text-anchor="middle" fill="#d97706">− 10</text>
+
+<!-- bubbles -->
+<ellipse cx="292" cy="404" rx="112" ry="36" fill="#fff" stroke="#c8d2e0" stroke-width="2.5"/>
+<ellipse cx="558" cy="404" rx="112" ry="36" fill="#fff" stroke="#c8d2e0" stroke-width="2.5"/>
+<rect x="228" y="386" width="54" height="34" rx="6" fill="#e8f0fe" stroke="#2563eb" stroke-width="1.6" stroke-dasharray="4 3"/>
+<rect x="300" y="386" width="46" height="34" rx="6" fill="#fff4e2" stroke="#d97706" stroke-width="1.6" stroke-dasharray="4 3"/>
+<rect x="494" y="386" width="54" height="34" rx="6" fill="#e8f0fe" stroke="#2563eb" stroke-width="1.6" stroke-dasharray="4 3"/>
+<rect x="566" y="386" width="46" height="34" rx="6" fill="#fff4e2" stroke="#d97706" stroke-width="1.6" stroke-dasharray="4 3"/>
+<text class="m" x="255" y="411" font-size="18" font-weight="700" fill="#8fb2f2" text-anchor="middle">?x</text>
+<text class="m" x="521" y="411" font-size="18" font-weight="700" fill="#8fb2f2" text-anchor="middle">?x</text>
+<text class="m" x="323" y="411" font-size="18" font-weight="700" fill="#e7b16a" text-anchor="middle">?</text>
+<text class="m" x="589" y="411" font-size="18" font-weight="700" fill="#e7b16a" text-anchor="middle">?</text>
+
+<!-- blue staple: first spots -> 6x² -->
+<path d="M255 384 V352 H521 V384" fill="none" stroke="#2563eb" stroke-width="2.2" stroke-linejoin="round"/>
+<path d="M330 318 V352" stroke="#2563eb" stroke-width="2.2"/>
+<rect x="336" y="340" width="104" height="24" rx="12" fill="#e8f0fe" stroke="#2563eb" stroke-width="1.3"/>
+<text class="t" x="388" y="356" font-size="11.5" font-weight="700" fill="#2563eb" text-anchor="middle">must make 6x²</text>
+
+<!-- amber staple: last spots -> 10 (routed around the right) -->
+<path d="M323 424 V456 H589 V424" fill="none" stroke="#d97706" stroke-width="2.2" stroke-linejoin="round"/>
+<rect x="404" y="444" width="104" height="24" rx="12" fill="#fff4e2" stroke="#d97706" stroke-width="1.3"/>
+<text class="t" x="456" y="460" font-size="11.5" font-weight="700" fill="#d97706" text-anchor="middle">must make 10</text>
+
+<!-- ══════════ STEP 3 — LIST THE WAYS ══════════ -->
+<circle cx="51" cy="502" r="15" fill="#0f172a"/>
+<text class="t" x="51" y="508" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">3</text>
+<text class="t htitle" x="76" y="508">List every way to make each one.</text>
+<text class="t hclause" x="816" y="508" text-anchor="end">then start with the pair that is closest together</text>
+
+<text class="t mini" x="34" y="536" fill="#2563eb">WAYS TO MAKE 6</text>
+<rect x="34" y="544" width="80" height="34" rx="8" fill="#f1f4f9" stroke="#dbe2ec" stroke-width="1.4"/>
+<text class="m" x="74" y="567" font-size="19" font-weight="700" fill="#94a3b8" text-anchor="middle">6 · 1</text>
+<rect x="120" y="538" width="92" height="46" rx="10" fill="none" stroke="#2563eb" stroke-opacity=".22" stroke-width="2"/>
+<rect x="126" y="544" width="80" height="34" rx="8" fill="#2563eb"/>
+<text class="m" x="166" y="567" font-size="19" font-weight="700" fill="#fff" text-anchor="middle">3 · 2</text>
+<text class="t" x="222" y="562" font-size="11.5" font-weight="700" fill="#2563eb">closest pair —</text>
+<text class="t" x="222" y="576" font-size="11.5" font-weight="700" fill="#2563eb">always start here</text>
+
+<text class="t mini" x="440" y="536" fill="#d97706">WAYS TO MAKE 10</text>
+<rect x="440" y="544" width="86" height="34" rx="8" fill="#f1f4f9" stroke="#dbe2ec" stroke-width="1.4"/>
+<text class="m" x="483" y="567" font-size="19" font-weight="700" fill="#94a3b8" text-anchor="middle">10 · 1</text>
+<rect x="532" y="538" width="92" height="46" rx="10" fill="none" stroke="#d97706" stroke-opacity=".22" stroke-width="2"/>
+<rect x="538" y="544" width="80" height="34" rx="8" fill="#d97706"/>
+<text class="m" x="578" y="567" font-size="19" font-weight="700" fill="#fff" text-anchor="middle">2 · 5</text>
+<text class="t" x="634" y="562" font-size="11.5" font-weight="700" fill="#d97706">closest pair —</text>
+<text class="t" x="634" y="576" font-size="11.5" font-weight="700" fill="#d97706">always start here</text>
+
+<!-- ══════════ STEP 4 — DROP THEM IN, NO SIGNS ══════════ -->
+<circle cx="51" cy="620" r="15" fill="#0f172a"/>
+<text class="t" x="51" y="626" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">4</text>
+<text class="t htitle" x="76" y="626">Drop the numbers in. Leave the signs out.</text>
+<text class="t hclause" x="816" y="626" text-anchor="end">right now we are only testing positions</text>
+
+<ellipse cx="292" cy="690" rx="112" ry="34" fill="#fff" stroke="#c8d2e0" stroke-width="2.5"/>
+<ellipse cx="558" cy="690" rx="112" ry="34" fill="#fff" stroke="#c8d2e0" stroke-width="2.5"/>
+<text class="m" x="256" y="700" font-size="29" font-weight="700" fill="#2563eb" text-anchor="middle">3x</text>
+<text class="m" x="344" y="700" font-size="29" font-weight="700" fill="#d97706" text-anchor="middle">2</text>
+<text class="m" x="522" y="700" font-size="29" font-weight="700" fill="#2563eb" text-anchor="middle">2x</text>
+<text class="m" x="610" y="700" font-size="29" font-weight="700" fill="#d97706" text-anchor="middle">5</text>
+<rect x="288" y="674" width="26" height="32" rx="5" fill="#f8fafc" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="3 3"/>
+<text class="t" x="301" y="697" font-size="16" font-weight="700" fill="#b6c0cd" text-anchor="middle">?</text>
+<rect x="554" y="674" width="26" height="32" rx="5" fill="#f8fafc" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="3 3"/>
+<text class="t" x="567" y="697" font-size="16" font-weight="700" fill="#b6c0cd" text-anchor="middle">?</text>
+
+<path d="M694 660 C 650 634, 604 642, 570 670" fill="none" stroke="#0f172a" stroke-width="1.6" stroke-dasharray="4 3"/>
+<circle cx="568" cy="673" r="3.2" fill="#0f172a"/>
+<rect x="690" y="662" width="126" height="56" rx="10" fill="#0f172a"/>
+<text class="t" x="753" y="686" font-size="12.5" font-weight="700" fill="#fff" text-anchor="middle">signs come</text>
+<text class="t" x="753" y="704" font-size="12.5" font-weight="700" fill="#fff" text-anchor="middle">later — not now</text>
+
+<rect x="34" y="734" width="782" height="46" rx="10" fill="#fdeaea" stroke="#f2b8b8" stroke-width="1.4"/>
+<circle cx="60" cy="757" r="11" fill="#dc2626"/>
+<path d="M55 752 l10 10 M65 752 l-10 10" stroke="#fff" stroke-width="2.4" stroke-linecap="round"/>
+<text class="t" x="82" y="753" font-size="12.5" font-weight="700" fill="#b91c1c">Never leave a GCF inside a bubble.</text>
+<text class="t" x="82" y="770" font-size="11.5" fill="#8a5252">You already divided the 2 out — so a pair like this can't happen:</text>
+<rect x="596" y="742" width="120" height="30" rx="15" fill="#fff" stroke="#dc2626" stroke-width="1.6"/>
+<text class="m" x="656" y="763" font-size="18" font-weight="700" fill="#dc2626" text-anchor="middle">2x &#160; 10</text>
+<text class="t" x="726" y="762" font-size="11.5" font-weight="700" fill="#b91c1c">both share a 2</text>
+
+<!-- ══════════ STEP 5 — INNER & OUTER ══════════ -->
+<circle cx="51" cy="806" r="15" fill="#0f172a"/>
+<text class="t" x="51" y="812" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">5</text>
+<text class="t htitle" x="76" y="812">Multiply the inside pair and the outside pair.</text>
+<text class="t hclause" x="816" y="812" text-anchor="end">together they have to make the middle number, 11</text>
+
+<ellipse cx="262" cy="896" rx="100" ry="34" fill="#fff" stroke="#c8d2e0" stroke-width="2.5"/>
+<ellipse cx="482" cy="896" rx="100" ry="34" fill="#fff" stroke="#c8d2e0" stroke-width="2.5"/>
+<text class="m" x="228" y="906" font-size="28" font-weight="700" fill="#2563eb" text-anchor="middle">3x</text>
+<text class="m" x="310" y="906" font-size="28" font-weight="700" fill="#d97706" text-anchor="middle">2</text>
+<text class="m" x="448" y="906" font-size="28" font-weight="700" fill="#2563eb" text-anchor="middle">2x</text>
+<text class="m" x="530" y="906" font-size="28" font-weight="700" fill="#d97706" text-anchor="middle">5</text>
+
+<path d="M226 862 C 280 828, 470 828, 526 862" fill="none" stroke="#7c3aed" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="292" y="832" width="176" height="26" rx="13" fill="#f3ebfe" stroke="#7c3aed" stroke-width="1.3"/>
+<text class="m" x="380" y="850" font-size="14.5" font-weight="700" fill="#7c3aed" text-anchor="middle">outside: 3x · 5 = 15x</text>
+
+<path d="M312 928 C 344 962, 420 962, 448 928" fill="none" stroke="#0d9488" stroke-width="2.4" stroke-linecap="round"/>
+<rect x="300" y="934" width="168" height="26" rx="13" fill="#dcf6f2" stroke="#0d9488" stroke-width="1.3"/>
+<text class="m" x="384" y="952" font-size="14.5" font-weight="700" fill="#0d9488" text-anchor="middle">inside: 2 · 2x = 4x</text>
+
+<rect x="606" y="846" width="210" height="88" rx="10" fill="#eafaf2" stroke="#7bd3ab" stroke-width="1.6"/>
+<text class="t mini" x="711" y="868" fill="#047857" text-anchor="middle">CAN 15 AND 4 MAKE 11?</text>
+<text class="m" x="711" y="902" font-size="26" font-weight="700" fill="#059669" text-anchor="middle">15 − 4 = 11</text>
+<text class="t" x="711" y="922" font-size="11.5" font-weight="700" fill="#047857" text-anchor="middle">✓ yes — these are the right spots</text>
+
+<text class="t" x="425" y="982" font-size="11.5" fill="#64748b" text-anchor="middle">If they can't make 11 → swap the 2 and the 5. Still can't → go back and swap the 3x and the 2x.</text>
+
+<!-- ══════════ STEP 6 — SIGNS ══════════ -->
+<circle cx="51" cy="1016" r="15" fill="#0f172a"/>
+<text class="t" x="51" y="1022" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">6</text>
+<text class="t htitle" x="76" y="1022">Now the signs place themselves.</text>
+<text class="t hclause" x="816" y="1022" text-anchor="end">the middle term is −11, so one of them has to turn negative</text>
+
+<rect x="34" y="1038" width="228" height="72" rx="10" fill="#f4f7fb" stroke="#dbe2ec" stroke-width="1.4"/>
+<text class="t" x="148" y="1060" font-size="11.5" fill="#64748b" text-anchor="middle">we need −11, not +11</text>
+<text class="m" x="148" y="1090" font-size="22" font-weight="700" fill="#0f172a" text-anchor="middle">−15 + 4 = −11</text>
+
+<path d="M274 1074 h26" stroke="#94a3b8" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M294 1068 l7 6 l-7 6" fill="none" stroke="#94a3b8" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+
+<rect x="312" y="1038" width="228" height="72" rx="10" fill="#f3ebfe" stroke="#c9aef7" stroke-width="1.4"/>
+<text class="t" x="426" y="1060" font-size="11.5" fill="#6b21a8" text-anchor="middle">the 15 came from 3x · 5</text>
+<text class="m" x="426" y="1090" font-size="19" font-weight="700" fill="#7c3aed" text-anchor="middle">so the 5 goes negative</text>
+
+<path d="M552 1074 h26" stroke="#94a3b8" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M572 1068 l7 6 l-7 6" fill="none" stroke="#94a3b8" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+
+<rect x="590" y="1038" width="226" height="72" rx="10" fill="#eafaf2" stroke="#7bd3ab" stroke-width="1.6"/>
+<text class="m" x="703" y="1076" font-size="24" font-weight="700" text-anchor="middle">
+  <tspan fill="#2563eb">(3x</tspan><tspan fill="#059669"> + </tspan><tspan fill="#d97706">2)</tspan><tspan fill="#2563eb">(2x</tspan><tspan fill="#dc2626"> − </tspan><tspan fill="#d97706">5)</tspan>
+</text>
+<text class="t" x="703" y="1097" font-size="11" font-weight="700" fill="#047857" text-anchor="middle">check the last spots: (+2)(−5) = −10 ✓</text>
+
+<!-- ══════════ STEP 7 — SOLVE ══════════ -->
+<rect x="0" y="1120" width="850" height="120" fill="#0f172a"/>
+<circle cx="51" cy="1158" r="15" fill="none" stroke="#7aa2ff" stroke-width="2"/>
+<text class="t" x="51" y="1164" font-size="15" font-weight="700" fill="#7aa2ff" text-anchor="middle">7</text>
+<text class="t" x="76" y="1156" font-size="17.5" font-weight="800" fill="#fff">Set each bubble to 0.</text>
+<text class="t" x="76" y="1176" font-size="11.5" fill="#93a3ba">two things multiply to zero → one of them must be zero</text>
+<text class="m" x="76" y="1210" font-size="20" font-weight="700" fill="#e2e8f0">(3x + 2)(2x − 5) = 0</text>
+
+<rect x="404" y="1136" width="200" height="88" rx="10" fill="#ffffff" fill-opacity=".07" stroke="#ffffff" stroke-opacity=".18"/>
+<text class="m" x="504" y="1166" font-size="17" font-weight="700" fill="#9fb0c8" text-anchor="middle">3x + 2 = 0</text>
+<text class="m" x="467" y="1204" font-size="22" font-weight="700" fill="#5ee0a8">x = −</text>
+<text class="m" x="537" y="1193" font-size="16" font-weight="700" fill="#5ee0a8" text-anchor="middle">2</text>
+<path d="M527 1197 H547" stroke="#5ee0a8" stroke-width="2" stroke-linecap="round"/>
+<text class="m" x="537" y="1215" font-size="16" font-weight="700" fill="#5ee0a8" text-anchor="middle">3</text>
+
+<rect x="616" y="1136" width="200" height="88" rx="10" fill="#ffffff" fill-opacity=".07" stroke="#ffffff" stroke-opacity=".18"/>
+<text class="m" x="716" y="1166" font-size="17" font-weight="700" fill="#9fb0c8" text-anchor="middle">2x − 5 = 0</text>
+<text class="m" x="687" y="1204" font-size="22" font-weight="700" fill="#5ee0a8">x =</text>
+<text class="m" x="737" y="1193" font-size="16" font-weight="700" fill="#5ee0a8" text-anchor="middle">5</text>
+<path d="M727 1197 H747" stroke="#5ee0a8" stroke-width="2" stroke-linecap="round"/>
+<text class="m" x="737" y="1215" font-size="16" font-weight="700" fill="#5ee0a8" text-anchor="middle">2</text>
+
+</svg>
+</body>
+</html>
