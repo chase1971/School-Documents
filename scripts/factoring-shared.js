@@ -8,7 +8,16 @@
 const fs = require('fs');
 const path = require('path');
 
-const KATEX_DIR = path.resolve(__dirname, '../../canvas-kit/node_modules/katex/dist');
+function katexDir() {
+  const local = path.resolve(__dirname, '../node_modules/katex/dist');
+  if (fs.existsSync(path.join(local, 'katex.js'))) return local;
+  const canvasKit = path.resolve(__dirname, '../../canvas-kit/node_modules/katex/dist');
+  if (fs.existsSync(path.join(canvasKit, 'katex.js'))) return canvasKit;
+  throw new Error(
+    'KaTeX not found. Run npm install in School documents, or npm install in canvas-kit.');
+}
+
+const KATEX_DIR = katexDir();
 const katex = require(path.join(KATEX_DIR, 'katex.js'));
 
 /** Inline math. */

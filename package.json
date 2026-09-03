@@ -1,0 +1,13 @@
+{
+  "name": "school-documents",
+  "private": true,
+  "description": "Teaching HTML, exam maps, and factoring handout generators",
+  "scripts": {
+    "build:factoring-page1": "node scripts/build-factoring-page1.js",
+    "build:factoring-page2": "node scripts/build-factoring-page2.js",
+    "build:factoring": "npm run build:factoring-page1 && npm run build:factoring-page2"
+  },
+  "dependencies": {
+    "katex": "^0.16.28"
+  }
+}

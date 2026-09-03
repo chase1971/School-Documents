@@ -6,6 +6,36 @@ Miscellaneous teaching documents that are not part of any app repo — HTML comp
 
 **GitHub:** [chase1971/School-Documents](https://github.com/chase1971/School-Documents)
 
+## Pull at work (or any second machine)
+
+This folder is its **own git repo**. To continue exactly where you left off:
+
+```powershell
+cd "C:\Users\chase\Documents\Programs\School Scrips\School documents"
+git pull --ff-only
+```
+
+If the folder does not exist yet:
+
+```powershell
+cd "C:\Users\chase\Documents\Programs\School Scrips"
+git clone https://github.com/chase1971/School-Documents.git "School documents"
+cd "School documents"
+npm install
+```
+
+**Viewing** the factoring handout needs only the pulled HTML/PDF files. **Rebuilding** pages after editing the generators requires `npm install` once (KaTeX is listed in this repo's `package.json`). Then:
+
+```powershell
+npm run build:factoring
+```
+
+Serve locally from Programs root: `node scripts/serve-programs-docs.js` →
+[page 1](http://127.0.0.1:8765/factoring-trinomials-page1.html) ·
+[page 2](http://127.0.0.1:8765/factoring-trinomials-page2.html)
+
+Tell Cursor: *"pull School documents"* or *"we're in School documents — continue the factoring handout."*
+
 ## Exam maps index
 
 | File | Role |
@@ -76,10 +106,11 @@ method — GCF first, then the double bubble, inner/outer testing, signs, and so
 **Local links:** [page 1](http://127.0.0.1:8765/factoring-trinomials-page1.html) ·
 [page 2](http://127.0.0.1:8765/factoring-trinomials-page2.html)
 
-Math is pre-rendered with the KaTeX vendored in `School Scrips/canvas-kit/node_modules`,
-and its woff2 fonts are base64-inlined, so the pages make **no external requests** —
-required by `agent docs/rules/html-delivery.md`. Spacing complaints ("move the
-parentheses closer", "less padding in the boxes") are CSS values in the generators,
+Math is pre-rendered with KaTeX at build time (`npm install` in this folder, then
+`npm run build:factoring`). Fonts are base64-inlined, so the generated pages make
+**no external requests** — required by `agent docs/rules/html-delivery.md`. The
+build scripts also fall back to `School Scrips/canvas-kit/node_modules/katex` if
+present on the same machine. Spacing complaints ("move the parentheses closer", "less padding in the boxes") are CSS values in the generators,
 not a reason to regenerate an image. Earlier `factoring-*.png` files in this folder are
 the superseded image-generated drafts.
 

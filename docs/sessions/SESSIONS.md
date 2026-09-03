@@ -2,6 +2,18 @@
 
 Teaching HTML, exam maps, Pearson harvest artifacts under `School Scrips/School documents/`.
 
+## 2026-09-03 — Self-contained KaTeX for work-machine pull
+
+**Files changed:** `package.json` (new), `package-lock.json` (new), `.gitignore`, `scripts/factoring-shared.js`, `README.md` (+ pull-at-work section).
+
+**What worked:** Factoring handout was already on GitHub (`74731f8`) but rebuild depended on sibling `canvas-kit/node_modules/katex`. Added local `katex` dependency and `npm run build:factoring` so a fresh clone + `npm install` + pull is enough to continue at work without canvas-kit.
+
+**Current state:** Green — `npm run build:factoring` verified after local `npm install`.
+
+**File size flag:** None
+
+**Next session:** Merge pages into one printable PDF if Chase wants a class set.
+
 ## 2026-09-02 — Factoring handout rebuilt as KaTeX HTML (two pages)
 
 **Files changed:** `scripts/factoring-shared.js` (new, 152), `scripts/build-factoring-page1.js` (new, 228), `scripts/build-factoring-page2.js` (new, 205), `factoring-trinomials-page1.html` / `-page2.html` + matching PDFs (generated), `README.md` (+26). Superseded image drafts left in place: `factoring-page1-setup.png`, `factoring-page2-testing.png`, `factoring-journey-map.png`, `factoring-poster.png`, `factoring-worked-example.png`, `factoring-handout.pdf`.
