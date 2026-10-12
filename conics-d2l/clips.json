@@ -1,0 +1,60 @@
+[
+  {
+    "group": "Parabolas", "label": "Opens up", "file": "parabola-opens-up.mp4",
+    "steps": "parabola-opens-up-steps.json", "hold": 86.56
+  },
+  {
+    "group": "Parabolas", "label": "Opens left", "file": "parabola-opens-left.mp4",
+    "steps": "parabola-opens-left-steps.json", "hold": 100.33
+  },
+  {
+    "group": "Parabolas", "label": "Definition of a parabola", "file": "parabola-directrix.mp4",
+    "steps": "parabola-directrix-steps.json", "hold": 216.22,
+    "parts": [
+      { "label": "Part 1", "start": 0 },
+      { "label": "Part 2", "start": 43.18 },
+      { "label": "Part 3", "start": 119.18 }
+    ]
+  },
+  {
+    "group": "Ellipses", "label": "Horizontal", "file": "ellipse-horizontal.mp4",
+    "steps": "ellipse-horizontal-steps.json", "hold": 117.78,
+    "parts": [
+      { "label": "Part 1", "start": 0 },
+      { "label": "Part 2", "start": 62.18 }
+    ]
+  },
+  {
+    "group": "Ellipses", "label": "Vertical", "file": "ellipse-vertical.mp4",
+    "steps": "ellipse-vertical-steps.json", "hold": 117.78,
+    "parts": [
+      { "label": "Part 1", "start": 0 },
+      { "label": "Part 2", "start": 62.18 }
+    ]
+  },
+  {
+    "group": "Ellipses", "label": "Definition of an ellipse", "file": "ellipse-definition.mp4",
+    "steps": "ellipse-definition-steps.json", "hold": 226.89,
+    "parts": [
+      { "label": "Part 1", "start": 0 },
+      { "label": "Part 2", "start": 51.4 },
+      { "label": "Part 3", "start": 103.52 }
+    ]
+  },
+  {
+    "group": "Hyperbolas", "label": "Horizontal", "file": "hyperbola-horizontal.mp4",
+    "steps": "hyperbola-horizontal-steps.json", "hold": 168.56,
+    "parts": [
+      { "label": "Part 1", "start": 0 },
+      { "label": "Part 2", "start": 94.4 }
+    ]
+  },
+  {
+    "group": "Hyperbolas", "label": "Vertical", "file": "hyperbola-vertical.mp4",
+    "steps": "hyperbola-vertical-steps.json", "hold": 179.11,
+    "parts": [
+      { "label": "Part 1", "start": 0 },
+      { "label": "Part 2", "start": 93.74 }
+    ]
+  }
+]
