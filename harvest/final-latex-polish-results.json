@@ -1,0 +1,398 @@
+{
+  "2.2.15": {
+    "summary": "Limits and value of $f$ at $x=1$ from a graph (see figure).",
+    "stem": "Use the graph of $f$ in the figure to find the following values or state that they do not exist. If a limit does not exist, explain why. (see figure)\n\na. $f(1)$\n\nb. $\\lim_{x\\to 1^-} f(x)$\n\nc. $\\lim_{x\\to 1^+} f(x)$\n\nd. $\\lim_{x\\to 1} f(x)$"
+  },
+  "2.2.17": {
+    "summary": "Values and limits of $f$ at $x=1,3,2$ from a graph (see figure).",
+    "stem": "Use the graph of $f$ to complete parts (a) through (l). If a limit does not exist, explain why. (see figure)\n\na. $f(1)$\n\nb. $\\lim_{x\\to 1^-} f(x)$\n\nc. $\\lim_{x\\to 1^+} f(x)$\n\nd. $\\lim_{x\\to 1} f(x)$\n\ne. $f(3)$\n\nf. $\\lim_{x\\to 3^-} f(x)$\n\ng. $\\lim_{x\\to 3^+} f(x)$\n\nh. $\\lim_{x\\to 3} f(x)$\n\ni. $f(2)$\n\nj. $\\lim_{x\\to 2^-} f(x)$\n\nk. $\\lim_{x\\to 2^+} f(x)$\n\nl. $\\lim_{x\\to 2} f(x)$"
+  },
+  "2.2.18": {
+    "summary": "Values and limits of $g$ at $x=1,2,3$ from a graph (see figure).",
+    "stem": "Use the graph of $g$ in the figure to find the following values or state that they do not exist. If a limit does not exist, explain why. (see figure)\n\na. $g(1)$\n\nb. $\\lim_{x\\to 1^-} g(x)$\n\nc. $\\lim_{x\\to 1^+} g(x)$\n\nd. $\\lim_{x\\to 1} g(x)$\n\ne. $g(2)$\n\nf. $\\lim_{x\\to 2^-} g(x)$\n\ng. $\\lim_{x\\to 2^+} g(x)$\n\nh. $g(3)$\n\ni. $\\lim_{x\\to 3} g(x)$"
+  },
+  "2.3.22": {
+    "summary": "Find $\\lim_{x\\to -3} 1$.",
+    "stem": "Find the following limit or state that it does not exist.\n\n$$\\lim_{x\\to -3} 1$$"
+  },
+  "2.3.27": {
+    "summary": "Find $\\lim_{b\\to 3}\\dfrac{8b}{\\sqrt{5b+1}-1}$.",
+    "stem": "Find the following limit or state that it does not exist.\n\n$$\\lim_{b\\to 3}\\dfrac{8b}{\\sqrt{5b+1}-1}$$"
+  },
+  "2.3.35": {
+    "summary": "Find $\\lim_{x\\to 19}\\dfrac{x^{2}-361}{19-x}$.",
+    "stem": "Find the following limit or state that it does not exist.\n\n$$\\lim_{x\\to 19}\\dfrac{x^{2}-361}{19-x}$$"
+  },
+  "2.3.47": {
+    "summary": "Find $\\lim_{h\\to 0}\\dfrac{\\sqrt{289+h}-17}{h}$.",
+    "stem": "Find the following limit or state that it does not exist.\n\n$$\\lim_{h\\to 0}\\dfrac{\\sqrt{289+h}-17}{h}$$"
+  },
+  "2.3.74": {
+    "summary": "One-sided and two-sided limits of a piecewise $g(x)$ at $x=-5$ and $x=5$.",
+    "stem": "For the function $g(x)$ shown below, compute the following limits or state that they do not exist.\n\n$$g(x)=\\begin{cases}0 & \\text{if } x\\le -5\\\\ \\sqrt{25-x^{2}} & \\text{if } -5<x<5\\\\ 3x & \\text{if } x\\ge 5\\end{cases}$$\n\na. $\\lim_{x\\to -5^-} g(x)$\n\nb. $\\lim_{x\\to -5^+} g(x)$\n\nc. $\\lim_{x\\to -5} g(x)$\n\nd. $\\lim_{x\\to 5^-} g(x)$\n\ne. $\\lim_{x\\to 5^+} g(x)$\n\nf. $\\lim_{x\\to 5} g(x)$"
+  },
+  "2.3.39-Setup & Solve": {
+    "summary": "Limit $\\lim_{x\\to -1}\\dfrac{3(2x-4)^{2}-108}{x+1}$: rewrite for direct substitution, then evaluate.",
+    "stem": "Find the following limit or state that it does not exist.\n\n$$\\lim_{x\\to -1} \\dfrac{3(2x-4)^{2}-108}{x+1}$$\n\na. Replace the limit with an equivalent limit that can be evaluated by direct substitution.\n\nb. Evaluate the limit, if possible."
+  },
+  "2.3.40-Setup & Solve": {
+    "summary": "Limit $\\lim_{h\\to 0}\\dfrac{\\frac{1}{4+h}-\\frac14}{h}$: rewrite for direct substitution, then evaluate.",
+    "stem": "Find the following limit or state that it does not exist.\n\n$$\\lim_{h\\to 0} \\dfrac{\\dfrac{1}{4+h}-\\dfrac{1}{4}}{h}$$\n\na. Replace the limit with an equivalent limit that can be evaluated by direct substitution.\n\nb. Evaluate the limit, if possible."
+  },
+  "2.3.41-Setup & Solve": {
+    "summary": "Limit $\\lim_{x\\to 361}\\dfrac{\\sqrt{x}-19}{x-361}$: rewrite for direct substitution, then evaluate.",
+    "stem": "Find the following limit or state that it does not exist.\n\n$$\\lim_{x\\to 361} \\dfrac{\\sqrt{x}-19}{x-361}$$\n\na. Replace the limit with an equivalent limit that can be evaluated by direct substitution.\n\nb. Evaluate the limit, if possible."
+  },
+  "2.3.47-Setup & Solve": {
+    "summary": "Limit $\\lim_{h\\to 0}\\dfrac{\\sqrt{256+h}-16}{h}$: rewrite for direct substitution, then evaluate.",
+    "stem": "Find the following limit or state that it does not exist.\n\n$$\\lim_{h\\to 0} \\dfrac{\\sqrt{256+h}-16}{h}$$\n\na. Replace the limit with an equivalent limit that can be evaluated by direct substitution.\n\nb. Evaluate the limit, if possible."
+  },
+  "2.4.25": {
+    "summary": "One-sided and two-sided limits of $\\dfrac{(x-1)(x-4)}{x+4}$ at $x=-4$.",
+    "stem": "Determine the following limits.\n\na. $\\displaystyle\\lim_{x\\to -4^-}\\dfrac{(x-1)(x-4)}{x+4}$\n\nb. $\\displaystyle\\lim_{x\\to -4^+}\\dfrac{(x-1)(x-4)}{x+4}$\n\nc. $\\displaystyle\\lim_{x\\to -4}\\dfrac{(x-1)(x-4)}{x+4}$"
+  },
+  "2.4.47": {
+    "summary": "Vertical asymptotes of $f(x)=\\dfrac{x^{2}-9x+14}{x^{2}-6x+8}$ and the related limits.",
+    "stem": "Find all vertical asymptotes $x=a$ of the following function. For each value of $a$, evaluate $\\lim_{x\\to a^+} f(x)$, $\\lim_{x\\to a^-} f(x)$, and $\\lim_{x\\to a} f(x)$. Use $\\infty$ or $-\\infty$ when appropriate.\n\n$$f(x)=\\dfrac{x^{2}-9x+14}{x^{2}-6x+8}$$"
+  },
+  "2.4.35-Setup & Solve": {
+    "summary": "Find $\\lim_{x\\to 1^+}\\dfrac{x^{2}-7x+12}{x-1}$ (simplify, then evaluate).",
+    "stem": "Determine the following limit, using $\\infty$ or $-\\infty$ when appropriate, or state that it does not exist.\n\n$$\\lim_{x\\to 1^+}\\dfrac{x^{2}-7x+12}{x-1}$$\n\na. Simplify the expression inside the limit, if possible.\n\nb. Now, evaluate the limit."
+  },
+  "2.4.45-Setup & Solve": {
+    "summary": "Limits of $f(x)=\\dfrac{x-1}{x^{2}-1}$ at $x=1$ and $x=-1$, and vertical asymptotes.",
+    "stem": "Analyze the following limits and find the vertical asymptotes of\n\n$$f(x)=\\dfrac{x-1}{x^{2}-1}$$\n\na. $\\lim_{x\\to 1} f(x)$ (first rewrite the limit so it can be evaluated by direct substitution, then evaluate)\n\nb. $\\lim_{x\\to -1^-} f(x)$\n\nc. $\\lim_{x\\to -1^+} f(x)$\n\nd. Where are the vertical asymptotes of the function, if any exist?"
+  },
+  "2.4.33-Setup & Solve": {
+    "summary": "Find $\\lim_{x\\to 0}\\dfrac{x^{6}-6x^{5}}{x^{5}}$ (simplify, then evaluate).",
+    "stem": "Determine the following limit, using $\\infty$ or $-\\infty$ when appropriate, or state that it does not exist.\n\n$$\\lim_{x\\to 0}\\dfrac{x^{6}-6x^{5}}{x^{5}}$$\n\na. Simplify the expression inside the limit, if possible.\n\nb. Now, evaluate the limit."
+  },
+  "2.5.9": {
+    "summary": "Evaluate $\\lim_{x\\to\\infty}\\left(5+\\dfrac{8}{x^{2}}\\right)$.",
+    "stem": "Evaluate the following limit.\n\n$$\\lim_{x\\to\\infty}\\left(5+\\dfrac{8}{x^{2}}\\right)$$"
+  },
+  "2.5.21": {
+    "summary": "Find $\\lim_{x\\to\\infty}(4x^{5}-5x^{4}+1)$.",
+    "stem": "Determine the following limit.\n\n$$\\lim_{x\\to\\infty}\\left(4x^{5}-5x^{4}+1\\right)$$"
+  },
+  "2.5.39": {
+    "summary": "Limits at $\\pm\\infty$ and horizontal asymptote of $f(x)=\\dfrac{16x^{2}-9x+8}{4x^{2}+1}$.",
+    "stem": "Evaluate $\\lim_{x\\to\\infty} f(x)$ and $\\lim_{x\\to -\\infty} f(x)$ for the following function. Then give the horizontal asymptote of $f$ (if any).\n\n$$f(x)=\\dfrac{16x^{2}-9x+8}{4x^{2}+1}$$"
+  },
+  "2.5.41": {
+    "summary": "Limits at $\\pm\\infty$ and horizontal asymptotes of $f(x)=\\dfrac{2x^{5}-7}{x^{6}+5x^{4}}$.",
+    "stem": "Determine $\\lim_{x\\to\\infty} f(x)$ and $\\lim_{x\\to -\\infty} f(x)$ for the following function. Then give the horizontal asymptotes of $f$, if any.\n\n$$f(x)=\\dfrac{2x^{5}-7}{x^{6}+5x^{4}}$$"
+  },
+  "2.5.12": {
+    "summary": "Find $\\lim_{x\\to\\infty}\\dfrac{6+3x+9x^{2}}{x^{2}}$.",
+    "stem": "Determine the following limit at infinity.\n\n$$\\lim_{x\\to\\infty}\\dfrac{6+3x+9x^{2}}{x^{2}}$$"
+  },
+  "2.5.25": {
+    "summary": "Find $\\lim_{x\\to\\infty}\\dfrac{25x^{5}+9x^{3}-6x^{2}}{20x^{5}+x^{3}+6x^{2}+2}$.",
+    "stem": "Determine the following limit.\n\n$$\\lim_{x\\to\\infty}\\dfrac{25x^{5}+9x^{3}-6x^{2}}{20x^{5}+x^{3}+6x^{2}+2}$$"
+  },
+  "2.5.28": {
+    "summary": "Find $\\lim_{x\\to\\infty}\\dfrac{3x^{5}+4}{7x^{6}+x^{5}-5x^{2}}$.",
+    "stem": "Determine the following limit.\n\n$$\\lim_{x\\to\\infty}\\dfrac{3x^{5}+4}{7x^{6}+x^{5}-5x^{2}}$$"
+  },
+  "2.5.29": {
+    "summary": "Find $\\lim_{w\\to\\infty}\\dfrac{8w^{2}+6w+1}{\\sqrt{4w^{4}+2w^{3}}}$.",
+    "stem": "Determine the following limit.\n\n$$\\lim_{w\\to\\infty}\\dfrac{8w^{2}+6w+1}{\\sqrt{4w^{4}+2w^{3}}}$$"
+  },
+  "2.5.31": {
+    "summary": "Find $\\lim_{x\\to -\\infty}\\dfrac{\\sqrt{121x^{2}+x}}{x}$.",
+    "stem": "Determine the following limit.\n\n$$\\lim_{x\\to -\\infty}\\dfrac{\\sqrt{121x^{2}+x}}{x}$$"
+  },
+  "2.6.23": {
+    "summary": "Continuity of $f(x)=\\dfrac{8x-2}{x^{2}-10x+16}$ at $a=2$ using the continuity checklist.",
+    "stem": "Determine whether the following function is continuous at $a$. Use the continuity checklist to justify your answer.\n\n$$f(x)=\\dfrac{8x-2}{x^{2}-10x+16},\\quad a=2$$"
+  },
+  "2.6.28": {
+    "summary": "Intervals of continuity of $f(x)=\\dfrac{x^{2}-8x+15}{x^{2}-9}$.",
+    "stem": "Determine the interval(s) on which the following function is continuous. Give your answer in interval notation.\n\n$$f(x)=\\dfrac{x^{2}-8x+15}{x^{2}-9}$$"
+  },
+  "2.6.30": {
+    "summary": "Intervals of continuity of $f(x)=\\dfrac{x+2}{x^{2}-4}$.",
+    "stem": "Determine the intervals on which the following function is continuous. Give your answer in interval notation.\n\n$$f(x)=\\dfrac{x+2}{x^{2}-4}$$"
+  },
+  "2.7.11": {
+    "summary": "Largest $\\delta$ for $\\lim_{x\\to 4} f(x)=8$ with $\\varepsilon=3$ and $\\varepsilon=1$ (see figure).",
+    "stem": "The function $f$ in the figure satisfies $\\lim_{x\\to 4} f(x)=8$. Determine the largest value of $\\delta>0$ satisfying each statement. (see figure)\n\na. If $0<|x-4|<\\delta$, then $|f(x)-8|<3$.\n\nb. If $0<|x-4|<\\delta$, then $|f(x)-8|<1$. Round to the nearest half unit."
+  },
+  "2.7.12": {
+    "summary": "Largest $\\delta$ for $\\lim_{x\\to 7} f(x)=6$ with $\\varepsilon=1$ and $\\varepsilon=0.5$ (see figure).",
+    "stem": "The function $f$ in the figure satisfies $\\lim_{x\\to 7} f(x)=6$. Determine the largest value of $\\delta>0$ satisfying each statement. (see figure)\n\na. If $0<|x-7|<\\delta$, then $|f(x)-6|<1$.\n\nb. If $0<|x-7|<\\delta$, then $|f(x)-6|<0.5$."
+  },
+  "3.2.35": {
+    "summary": "Derivative of $f(x)=2x^{2}+3x-2$ and tangent line at $a=-2$.",
+    "stem": "a. Find the derivative function $f'$ for the function $f$.\n\nb. Find an equation of the line tangent to the graph of $f$ at $(a,f(a))$ for the given value of $a$.\n\n$$f(x)=2x^{2}+3x-2,\\quad a=-2$$"
+  },
+  "3.2.36": {
+    "summary": "Derivative of $f(x)=4x^{2}-2x+7$ and tangent line at $a=1$.",
+    "stem": "a. Find the derivative function $f'$ for the following function $f$.\n\nb. Find an equation of the line tangent to the graph of $f$ at $(a,f(a))$ for the given value of $a$.\n\n$$f(x)=4x^{2}-2x+7,\\quad a=1$$"
+  },
+  "3.2.37": {
+    "summary": "Derivative of $f(x)=\\sqrt{5x+4}$ and tangent line at $a=9$.",
+    "stem": "a. Find the derivative function $f'$ for the function $f$.\n\nb. Find an equation of the line tangent to the graph of $f$ at $(a,f(a))$ for the given value of $a$.\n\n$$f(x)=\\sqrt{5x+4},\\quad a=9$$"
+  },
+  "3.2.38": {
+    "summary": "Derivative of $f(x)=\\sqrt{x+6}$ and tangent line at $a=10$.",
+    "stem": "a. Find the derivative function $f'$ for the function $f$.\n\nb. Find an equation of the line tangent to the graph of $f$ at $(a,f(a))$ for the given value of $a$.\n\n$$f(x)=\\sqrt{x+6},\\quad a=10$$"
+  },
+  "3.2.39": {
+    "summary": "Derivative of $f(x)=\\dfrac{6}{5x+2}$ and tangent line at $a=-1$.",
+    "stem": "a. Find the derivative function $f'$ for the function $f$.\n\nb. Find an equation of the line tangent to the graph of $f$ at $(a,f(a))$ for the given value of $a$.\n\n$$f(x)=\\dfrac{6}{5x+2},\\quad a=-1$$"
+  },
+  "3.1.34": {
+    "summary": "Find $f'(a)$ and the tangent line for $f(x)=-3x^{2}$ at $a=-2$.",
+    "stem": "a. For the function and point below, find $f'(a)$.\n\nb. Determine an equation of the line tangent to the graph of $f$ at $(a,f(a))$ for the given value of $a$.\n\n$$f(x)=-3x^{2},\\quad a=-2$$"
+  },
+  "3.1.37": {
+    "summary": "Find $f'(a)$ and the tangent line for $f(x)=\\dfrac{4}{\\sqrt{x}}$ at $a=\\frac19$.",
+    "stem": "a. For the function and point below, find $f'(a)$.\n\nb. Determine an equation of the line tangent to the graph of $f$ at $(a,f(a))$ for the given value of $a$.\n\n$$f(x)=\\dfrac{4}{\\sqrt{x}},\\quad a=\\dfrac{1}{9}$$"
+  },
+  "3.1.39": {
+    "summary": "Find $f'(a)$ and the tangent line for $f(x)=\\sqrt{7x+4}$ at $a=3$.",
+    "stem": "a. For the following function, find $f'(a)$.\n\nb. Determine an equation of the line tangent to the graph of $f$ at $(a,f(a))$ for the given value of $a$.\n\n$$f(x)=\\sqrt{7x+4},\\quad a=3$$"
+  },
+  "3.3.25": {
+    "summary": "Differentiate $h(t)=\\dfrac{t^{2}}{2}+9$.",
+    "stem": "Find the derivative of the following function.\n\n$$h(t)=\\dfrac{t^{2}}{2}+9$$"
+  },
+  "3.3.28": {
+    "summary": "Differentiate $g(t)=6\\sqrt{t}$.",
+    "stem": "Find the derivative of the following function.\n\n$$g(t)=6\\sqrt{t}$$"
+  },
+  "3.3.35": {
+    "summary": "Differentiate $g(w)=9w^{8}+3w^{2}+19w$.",
+    "stem": "Find the derivative of the following function.\n\n$$g(w)=9w^{8}+3w^{2}+19w$$"
+  },
+  "3.3.48": {
+    "summary": "Differentiate $g(r)=(6r^{3}+3r+7)(r^{2}+7)$ by first expanding.",
+    "stem": "Find the derivative of the following function by first expanding the expression.\n\n$$g(r)=(6r^{3}+3r+7)(r^{2}+7)$$"
+  },
+  "3.3.49": {
+    "summary": "Differentiate $f(w)=\\dfrac{7w^{7}-5w^{3}}{4w^{3}}$ by first simplifying.",
+    "stem": "Find the derivative of the following function by first simplifying the expression.\n\n$$f(w)=\\dfrac{7w^{7}-5w^{3}}{4w^{3}}$$"
+  },
+  "3.4.20": {
+    "summary": "Differentiate $f(x)=10x+13xe^{x}$.",
+    "stem": "Compute the derivative of the following function.\n\n$$f(x)=10x+13xe^{x}$$"
+  },
+  "3.4.24-Setup & Solve": {
+    "summary": "Differentiate $g(x)=e^{x}(3x^{2}-6x+6)$: choose the correct setup, then simplify.",
+    "stem": "Find and simplify the derivative of the following function.\n\n$$g(x)=e^{x}\\left(3x^{2}-6x+6\\right)$$\n\na. Which of the following shows how to find the derivative of $g(x)$?\n\nA. $g'(x)=\\dfrac{(3x^{2}-6x+6)\\,\\frac{d}{dx}(3x^{2}-6x+6)+e^{x}\\,\\frac{d}{dx}(e^{x})}{(3x^{2}-6x+6)^{2}}$\n\nB. $g'(x)=\\dfrac{(3x^{2}-6x+6)\\,\\frac{d}{dx}(e^{x})+e^{x}\\,\\frac{d}{dx}(3x^{2}-6x+6)}{(e^{x})^{2}}$\n\nC. $g'(x)=e^{x}\\,\\frac{d}{dx}(e^{x})+(3x^{2}-6x+6)\\,\\frac{d}{dx}(3x^{2}-6x+6)$\n\nD. $g'(x)=\\frac{d}{dx}(e^{x})\\,(3x^{2}-6x+6)+e^{x}\\,\\frac{d}{dx}(3x^{2}-6x+6)$\n\nb. Find the derivative of $g(x)$."
+  },
+  "3.4.22": {
+    "summary": "Differentiate $f(x)=\\dfrac{x^{3}-7x^{2}+x}{x-1}$.",
+    "stem": "Find the derivative of the following function.\n\n$$f(x)=\\dfrac{x^{3}-7x^{2}+x}{x-1}$$"
+  },
+  "3.4.25-Setup & Solve": {
+    "summary": "Differentiate $f(x)=\\dfrac{e^{x}}{5e^{x}+8}$: choose the correct setup, then simplify.",
+    "stem": "Find and simplify the derivative of the following function.\n\n$$f(x)=\\dfrac{e^{x}}{5e^{x}+8}$$\n\na. Which of the following shows how to find the derivative of $f(x)$?\n\nA. $f'(x)=(5e^{x}+8)\\,\\frac{d}{dx}(e^{x})-e^{x}\\,\\frac{d}{dx}(5e^{x}+8)$\n\nB. $f'(x)=\\dfrac{(5e^{x}+8)\\,\\frac{d}{dx}(e^{x})-e^{x}\\,\\frac{d}{dx}(5e^{x}+8)}{(5e^{x}+8)^{2}}$\n\nC. $f'(x)=\\dfrac{e^{x}\\,\\frac{d}{dx}(e^{x})+(5e^{x}+8)\\,\\frac{d}{dx}(5e^{x}+8)}{5e^{x}+8}$\n\nD. $f'(x)=e^{x}\\,\\frac{d}{dx}(e^{x})+(5e^{x}+8)\\,\\frac{d}{dx}(5e^{x}+8)$\n\nb. Find the derivative of $f(x)$."
+  },
+  "3.5.29": {
+    "summary": "Find $\\dfrac{dy}{dx}$ for $y=\\dfrac{6\\cos x}{6-7\\cos x}$.",
+    "stem": "Find $\\dfrac{dy}{dx}$ for the following function.\n\n$$y=\\dfrac{6\\cos x}{6-7\\cos x}$$"
+  },
+  "3.5.34": {
+    "summary": "Differentiate $y=\\dfrac{6x\\sin x}{1+\\cos x}$.",
+    "stem": "Find the derivative of the following function.\n\n$$y=\\dfrac{6x\\sin x}{1+\\cos x}$$"
+  },
+  "3.5.59": {
+    "summary": "Find $y''$ for $y=e^{x}\\sin x$.",
+    "stem": "Find $y''$.\n\n$$y=e^{x}\\sin x$$"
+  },
+  "3.5.61": {
+    "summary": "Find $y''$ for $y=8\\tan x$.",
+    "stem": "Find $y''$ for the following function.\n\n$$y=8\\tan x$$"
+  },
+  "3.6.29": {
+    "summary": "Average and marginal cost for $C(x)=1900+0.9x$ at $a=2400$, with interpretation.",
+    "stem": "Consider the following cost function.\n\n$$C(x)=1900+0.9x,\\quad 0\\le x\\le 5000,\\quad a=2400$$\n\na. Find the average cost and marginal cost functions.\n\nb. Determine the average and marginal cost when $x=a$.\n\nc. Interpret the values obtained in part (b)."
+  },
+  "3.6.32": {
+    "summary": "Average and marginal cost for $C(x)=-0.03x^{2}+190x+800$ at $a=800$, with interpretation.",
+    "stem": "Consider the following cost function.\n\n$$C(x)=-0.03x^{2}+190x+800,\\quad 0\\le x\\le 1000,\\quad a=800$$\n\na. Find the average cost and marginal cost functions.\n\nb. Determine the average and marginal cost when $x=a$.\n\nc. Interpret the values obtained in part (b)."
+  },
+  "3.6.36": {
+    "summary": "Velocity and acceleration at impact for $s(t)=1936-16t^{2}$.",
+    "stem": "An object is dropped from a tower, $1936$ ft above the ground. The object's height above the ground $t$ seconds after it is dropped is $s(t)=1936-16t^{2}$. Determine the velocity and acceleration of the object the moment it reaches the ground."
+  },
+  "3.7.14": {
+    "summary": "Find $f'(x)$ for $f(x)=4e^{6x}$.",
+    "stem": "Find $f'(x)$ if $f(x)=4e^{6x}$."
+  },
+  "3.7.15": {
+    "summary": "Inner/outer functions and $\\dfrac{dy}{dx}$ for $y=(2x+9)^{8}$.",
+    "stem": "For the following composite function, find an inner function $u=g(x)$ and an outer function $y=f(u)$ such that $y=f(g(x))$. Then calculate $\\dfrac{dy}{dx}$.\n\n$$y=(2x+9)^{8}$$\n\na. Identify the inner and outer functions. Choose the correct answer.\n\nA. $u=g(x)=2x+9$ and $y=f(u)=u^{8}$\n\nB. $u=g(x)=2x$ and $y=f(u)=u^{8}$\n\nC. $u=g(x)=x^{8}$ and $y=f(u)=2u+9$\n\nD. $u=g(x)=2x+9$ and $y=f(u)=u$\n\nb. Find $\\dfrac{dy}{dx}$."
+  },
+  "3.7.19": {
+    "summary": "Inner/outer functions and $\\dfrac{dy}{dx}$ for $y=\\sqrt{4x^{8}+9}$.",
+    "stem": "For the following composite function, find an inner function $u=g(x)$ and an outer function $y=f(u)$ such that $y=f(g(x))$. Then calculate $\\dfrac{dy}{dx}$.\n\n$$y=\\sqrt{4x^{8}+9}$$\n\na. Identify the inner and outer functions. Choose the correct answer.\n\nA. $u=g(x)=x$ and $y=f(u)=\\sqrt{u}$\n\nB. $u=g(x)=4x^{8}+9$ and $y=f(u)=\\sqrt{u}$\n\nC. $u=g(x)=4x^{8}+9$ and $y=f(u)=u$\n\nD. $u=g(x)=\\sqrt{x}$ and $y=f(u)=4u^{8}+9$\n\nb. Find $\\dfrac{dy}{dx}$."
+  },
+  "3.7.20": {
+    "summary": "Inner/outer functions and $\\dfrac{dy}{dx}$ for $y=\\sqrt{-6+3x}$.",
+    "stem": "For the following composite function, find an inner function $u=g(x)$ and an outer function $y=f(u)$ such that $y=f(g(x))$. Then calculate $\\dfrac{dy}{dx}$.\n\n$$y=\\sqrt{-6+3x}$$\n\na. Identify the inner and outer functions. Choose the correct answer.\n\nA. $u=g(x)=-6+3x$ and $y=f(u)=u$\n\nB. $u=g(x)=3x$ and $y=f(u)=\\sqrt{u}$\n\nC. $u=g(x)=-6+3x$ and $y=f(u)=\\sqrt{u}$\n\nD. $u=g(x)=\\sqrt{x}$ and $y=f(u)=-6+3u$\n\nb. Find $\\dfrac{dy}{dx}$."
+  },
+  "3.7.24": {
+    "summary": "Inner/outer functions and $\\dfrac{dy}{dx}$ for $y=\\sin\\dfrac{x}{8}$.",
+    "stem": "For the following composite function, find an inner function $u=g(x)$ and an outer function $y=f(u)$ such that $y=f(g(x))$. Then calculate $\\dfrac{dy}{dx}$.\n\n$$y=\\sin\\dfrac{x}{8}$$\n\na. Identify the inner and outer functions. Choose the correct answer.\n\nA. $u=g(x)=\\sin x$ and $y=f(u)=\\dfrac{u}{8}$\n\nB. $u=g(x)=\\sin x$ and $y=f(u)=8u$\n\nC. $u=g(x)=\\dfrac{x}{8}$ and $y=f(u)=\\sin u$\n\nD. $u=g(x)=8x$ and $y=f(u)=\\sin u$\n\nb. Find $\\dfrac{dy}{dx}$."
+  },
+  "3.7.29": {
+    "summary": "Differentiate $y=\\sqrt{15x+17}$.",
+    "stem": "Calculate the derivative of the following function.\n\n$$y=\\sqrt{15x+17}$$"
+  },
+  "3.7.31": {
+    "summary": "Differentiate $y=4(6x^{4}+1)^{-8}$.",
+    "stem": "Calculate the derivative of the following function.\n\n$$y=4\\left(6x^{4}+1\\right)^{-8}$$"
+  },
+  "3.9.16": {
+    "summary": "Differentiate $f(x)=5x^{4}\\ln x$.",
+    "stem": "Find the derivative of the following function.\n\n$$f(x)=5x^{4}\\ln x$$"
+  },
+  "3.9.36": {
+    "summary": "Differentiate $y=\\ln\\left((x^{2}+5)^{\\pi}\\right)$.",
+    "stem": "Find the derivative of the following function. Type an exact answer, using $\\pi$ as needed.\n\n$$y=\\ln\\left(\\left(x^{2}+5\\right)^{\\pi}\\right)$$"
+  },
+  "3.9.29": {
+    "summary": "Differentiate $y=\\ln(\\ln(6x))$.",
+    "stem": "Find the derivative of the following function. Use parentheses to clearly denote the argument of each function.\n\n$$y=\\ln\\left(\\ln(6x)\\right)$$"
+  },
+  "3.9.30": {
+    "summary": "Find $\\dfrac{dy}{d\\theta}$ for $y=\\ln(2\\cos^{4}\\theta)$.",
+    "stem": "Find the derivative of $y$ with respect to $\\theta$.\n\n$$y=\\ln\\left(2\\cos^{4}\\theta\\right)$$"
+  },
+  "3.9.41": {
+    "summary": "Differentiate $y=3^{2+\\cot x}$.",
+    "stem": "Find the derivative of $y$.\n\n$$y=3^{2+\\cot x}$$"
+  },
+  "3.9.43": {
+    "summary": "Differentiate $y=x^{3}6^{x}$.",
+    "stem": "Find the derivative of $y$.\n\n$$y=x^{3}\\,6^{x}$$"
+  },
+  "3.9.73": {
+    "summary": "Differentiate $f(x)=\\ln\\left[\\dfrac{(5x+9)(x+3)^{3}}{(1-8x)^{4}}\\right]$.",
+    "stem": "Differentiate.\n\n$$f(x)=\\ln\\left[\\dfrac{(5x+9)(x+3)^{3}}{(1-8x)^{4}}\\right]$$"
+  },
+  "3.10.23": {
+    "summary": "Differentiate $f(z)=8\\cot^{-1}\\sqrt{7z}$.",
+    "stem": "Evaluate the derivative of the following function.\n\n$$f(z)=8\\cot^{-1}\\!\\left(\\sqrt{7z}\\right)$$"
+  },
+  "3.10.29": {
+    "summary": "Differentiate $f(x)=\\cos^{-1}\\!\\left(\\dfrac{7}{x}\\right)$.",
+    "stem": "Evaluate the derivative of the following function.\n\n$$f(x)=\\cos^{-1}\\!\\left(\\dfrac{7}{x}\\right)$$"
+  },
+  "3.10.21": {
+    "summary": "Differentiate $f(y)=\\tan^{-1}(9y^{4}+5)$.",
+    "stem": "Find the derivative of the function $f(y)$.\n\n$$f(y)=\\tan^{-1}\\!\\left(9y^{4}+5\\right)$$"
+  },
+  "3.8.15": {
+    "summary": "Implicit differentiation of $y^{4}=625x$ and slope at $(81,15)$.",
+    "stem": "a. Use implicit differentiation to find $\\dfrac{dy}{dx}$.\n\nb. Find the slope of the curve at the given point.\n\n$$y^{4}=625x;\\quad (81,15)$$"
+  },
+  "3.8.24": {
+    "summary": "Implicit differentiation of $x^{1/5}+y^{1/5}=2$ and slope at $(1,1)$.",
+    "stem": "a. Use implicit differentiation to find $\\dfrac{dy}{dx}$.\n\nb. Find the slope of the curve at the given point.\n\n$$x^{1/5}+y^{1/5}=2;\\quad (1,1)$$"
+  },
+  "3.11.11": {
+    "summary": "Rate of change of a square's area when sides are $12$ m and $21$ m (sides growing at $6$ m/s).",
+    "stem": "The sides of a square increase in length at a rate of $6$ m/s.\n\na. At what rate is the area of the square changing when the sides are $12$ m long? Include units.\n\nb. At what rate is the area of the square changing when the sides are $21$ m long? Include units."
+  },
+  "3.11.17": {
+    "summary": "Rate of change of a circle's area at $r=26$ ft when $r$ decreases at $2$ ft/min.",
+    "stem": "A circle has an initial radius of $50$ ft when the radius begins decreasing at the rate of $2$ ft/min. What is the rate of change of area at the instant that the radius is $26$ ft? Type an exact answer in terms of $\\pi$, with units."
+  },
+  "3.11.19": {
+    "summary": "Rate of change of a sphere's radius at $r=12$ in. when $V$ grows at $44$ in.$^3$/min.",
+    "stem": "A spherical balloon is inflated and its volume increases at a rate of $44\\ \\text{in.}^{3}/\\text{min}$. What is the rate of change of its radius when the radius is $12$ in.? Round to three decimal places, with units."
+  },
+  "4.1.23": {
+    "summary": "Critical points of $f(x)=3x^{2}-5x-4$.",
+    "stem": "Find the critical points of the following function.\n\n$$f(x)=3x^{2}-5x-4$$"
+  },
+  "4.1.27": {
+    "summary": "Critical points of $f(x)=3x^{3}+9x^{2}+8x$.",
+    "stem": "Find the critical points of the following function.\n\n$$f(x)=3x^{3}+9x^{2}+8x$$"
+  },
+  "4.1.49": {
+    "summary": "Absolute extrema of $f(x)=3\\cos^{2}x$ on $[0,\\pi]$.",
+    "stem": "Determine the location and value of the absolute extreme values of $f$ on the given interval, if they exist.\n\n$$f(x)=3\\cos^{2}x\\ \\text{ on }\\ [0,\\pi]$$"
+  },
+  "4.1.57": {
+    "summary": "Absolute extrema of $f(x)=-2x^{3}+15x^{2}-24x$ on $[0,5]$.",
+    "stem": "Determine the location and value of the absolute extreme values of $f$ on the given interval, if they exist.\n\n$$f(x)=-2x^{3}+15x^{2}-24x\\ \\text{ on }\\ [0,5]$$\n\na. What is/are the absolute maximum/maxima of $f$ on the given interval?\n\nb. What is/are the absolute minimum/minima of $f$ on the given interval?"
+  },
+  "4.2.13": {
+    "summary": "Rolle's Theorem for $f(x)=\\cos 2x$ on $\\left[\\frac{\\pi}{4},\\frac{3\\pi}{4}\\right]$.",
+    "stem": "Determine whether Rolle's Theorem applies to the given function on the given interval. If so, find the point(s) that are guaranteed to exist by Rolle's Theorem.\n\n$$f(x)=\\cos 2x;\\quad \\left[\\dfrac{\\pi}{4},\\dfrac{3\\pi}{4}\\right]$$"
+  },
+  "4.3.39-Setup & Solve": {
+    "summary": "Increasing/decreasing intervals of $f(x)=-12x^{5}+75x^{4}-80x^{3}$.",
+    "stem": "Find the intervals on which $f$ is increasing and the intervals on which it is decreasing.\n\n$$f(x)=-12x^{5}+75x^{4}-80x^{3}$$\n\na. Find $f'(x)$.\n\nb. Give the intervals on which $f$ is increasing and decreasing (interval notation)."
+  },
+  "4.3.40": {
+    "summary": "Increasing/decreasing intervals of $f(x)=-x^{2}+8\\ln x$.",
+    "stem": "Find the intervals on which $f$ is increasing and decreasing.\n\n$$f(x)=-x^{2}+8\\ln x$$"
+  },
+  "4.3.63": {
+    "summary": "Concavity and inflection points of $f(x)=2x^{4}-2x^{3}+1$.",
+    "stem": "Determine the intervals on which the following function is concave up or concave down. Identify any inflection points.\n\n$$f(x)=2x^{4}-2x^{3}+1$$"
+  },
+  "4.3.65": {
+    "summary": "Concavity and inflection points of $f(x)=5x^{4}+50x^{3}-10$.",
+    "stem": "Determine the intervals on which the following function is concave up or concave down. Identify any inflection points.\n\n$$f(x)=5x^{4}+50x^{3}-10$$"
+  },
+  "4.3.83": {
+    "summary": "Critical points and Second Derivative Test for $f(x)=-3x^{3}-9x^{2}+8$.",
+    "stem": "Locate the critical points of the following function. Then use the Second Derivative Test to determine whether they correspond to local maxima, local minima, or neither.\n\n$$f(x)=-3x^{3}-9x^{2}+8$$"
+  },
+  "4.3.85": {
+    "summary": "Critical points and Second Derivative Test for $f(x)=3x^{2}e^{-2x}-5$.",
+    "stem": "Locate the critical points of the following function. Then use the Second Derivative Test to determine whether they correspond to local maxima, local minima, or neither.\n\n$$f(x)=3x^{2}e^{-2x}-5$$"
+  },
+  "4.5.13": {
+    "summary": "Rectangle of area $400$ with minimum perimeter.",
+    "stem": "Of all rectangles of area $400$, which one has the minimum perimeter? Give the width and height."
+  },
+  "+ (4.5) Copy of 4.5.19": {
+    "summary": "Open-top square-base tank, $V=1372$ ft$^3$: minimize surface area.",
+    "stem": "A rectangular tank with a square base, an open top, and a volume of $1372$ ft$^{3}$ is to be constructed of sheet steel. Find the dimensions of the tank that has the minimum surface area. (Surface area: $SA=s^{2}+4sh$.)"
+  },
+  "4.5.20": {
+    "summary": "Square-based box with length + width + height $\\le 168$ in.: maximize volume.",
+    "stem": "Suppose an airline policy states that all baggage must be box-shaped with a sum of length, width, and height not exceeding $168$ in. What are the dimensions and volume of a square-based box with the greatest volume under these conditions?"
+  },
+  "4.6.28": {
+    "summary": "Linear approximation of $f(x)=\\dfrac{x}{x+2}$ at $a=1$, estimate $f(1.2)$, percent error.",
+    "stem": "a. Write the equation of the line that represents the linear approximation to the following function at the given point $a$.\n\nb. Use the linear approximation to estimate the given quantity.\n\nc. Compute the percent error in the approximation, $100\\cdot\\dfrac{|\\text{approximation}-\\text{exact}|}{|\\text{exact}|}$, where the exact value is given by a calculator.\n\n$$f(x)=\\dfrac{x}{x+2};\\quad a=1;\\quad f(1.2)$$"
+  },
+  "4.6.55": {
+    "summary": "Approximate $\\Delta V$ for a sphere as $r$ goes from $10$ ft to $10.02$ ft.",
+    "stem": "Approximate the change in the volume of a sphere when its radius changes from $r=10$ ft to $r=10.02$ ft, where\n\n$$V(r)=\\dfrac{4}{3}\\pi r^{3}$$\n\nType an exact answer."
+  },
+  "4.6.64": {
+    "summary": "Write $dy=f'(x)\\,dx$ for $f(x)=e^{3x}$.",
+    "stem": "Consider the following function and express the relationship between a small change in $x$ and the corresponding change in $y$ in the form $dy=f'(x)\\,dx$.\n\n$$f(x)=e^{3x}$$"
+  },
+  "4.6.67": {
+    "summary": "Write $dy=f'(x)\\,dx$ for $f(x)=3x^{3}-3x$.",
+    "stem": "Consider the following function and express the relationship between a small change in $x$ and the corresponding change in $y$ in the form $dy=f'(x)\\,dx$.\n\n$$f(x)=3x^{3}-3x$$"
+  },
+  "4.7.22-Setup & Solve": {
+    "summary": "L'Hôpital's Rule: $\\lim_{x\\to 0}\\dfrac{e^{2x}-1}{4x^{2}+5x}$.",
+    "stem": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\n\n$$\\lim_{x\\to 0}\\dfrac{e^{2x}-1}{4x^{2}+5x}$$"
+  },
+  "4.7.25-Setup & Solve": {
+    "summary": "L'Hôpital's Rule: $\\lim_{x\\to e}\\dfrac{15\\ln x-15}{x-e}$.",
+    "stem": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\n\n$$\\lim_{x\\to e}\\dfrac{15\\ln x-15}{x-e}$$\n\na. Use l'Hôpital's Rule to rewrite the given limit so that it is not an indeterminate form.\n\nb. Evaluate the limit. Type an exact answer."
+  },
+  "4.8.9": {
+    "summary": "Newton's method for $f(x)=x^{2}-12$, $x_0=3$: formula, $x_1$, $x_2$.",
+    "stem": "Write the formula for Newton's method and use the given initial approximation to compute the approximations $x_1$ and $x_2$.\n\n$$f(x)=x^{2}-12;\\quad x_0=3$$\n\na. Write the formula for Newton's method for the given function. Choose the correct answer.\n\nA. $x_{n+1}=x_n+\\dfrac{x_n^{2}-12}{2x_n}$\n\nB. $x_{n+1}=x_n-\\dfrac{x_n^{2}-12}{2x_n}$\n\nC. $x_{n+1}=x_n-\\dfrac{2x_n}{x_n^{2}-12}$\n\nD. $x_{n+1}=x_n+\\dfrac{2x_n}{x_n^{2}-12}$\n\nb. Compute $x_1$. (Do not round until the final answer. Then round to three decimal places as needed.)\n\nc. Compute $x_2$. (Do not round until the final answer. Then round to three decimal places as needed.)"
+  },
+  "4.8.10": {
+    "summary": "Newton's method for $f(x)=x^{2}+4x-21$, $x_0=5$: formula, $x_1$, $x_2$.",
+    "stem": "Write the formula for Newton's method and use the given initial approximation to compute the approximations $x_1$ and $x_2$.\n\n$$f(x)=x^{2}+4x-21;\\quad x_0=5$$\n\na. Write the formula for Newton's method for the given function. Choose the correct answer.\n\nA. $x_{n+1}=x_n-\\dfrac{x_n^{2}+4x_n-21}{x_n^{2}-21}$\n\nB. $x_{n+1}=x_n+\\dfrac{x_n^{2}+4x_n-21}{2x_n+4}$\n\nC. $x_{n+1}=x_n-\\dfrac{x_n^{2}+4x_n-21}{2x_n+4}$\n\nD. $x_{n+1}=x_n-\\dfrac{2x_n+4}{x_n^{2}+4x_n-21}$\n\nb. Compute $x_1$. (Do not round until the final answer. Then round to three decimal places as needed.)\n\nc. Compute $x_2$. (Do not round until the final answer. Then round to three decimal places as needed.)"
+  }
+}

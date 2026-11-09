@@ -1,0 +1,168 @@
+﻿My Selections (27)
+Pooling options       View question details
+
+
+Points: 44
+#
+Question ID
+Objective
+Estimated time:
+38m+
+
+
+O.1.3
+O.1.6
+O.1.7
+O.1.8
+O.1.9
+O.1.10
+O.1.11
+O.1.12
+O.1.13
+O.1.14
+O.1.15
+O.1.16
+O.1.17
+O.1.18
+O.1.19
+	
+Add 
+Remove
+Pool
+Unpool
+	
+1
+3.8.15
+
+Use implicit differentiation to find slopes of curves at given points.
+1m 52s
+1
+3.8.24
+
+Use implicit differentiation to find slopes of curves at given points.
+2m 16s
+2
+3.11.11
+
+Solve related rates problems involving geometry.
+1m 41s
+2
+3.11.17
+
+Solve related rates problems involving geometry.
+1m 58s
+3
+3.11.19
+
+Solve applications involving related rates.
+2m 23s
+4
+4.1.23
+
+Locate critical points of functions.
+1m 22s
+4
+4.1.27
+
+Locate critical points of functions.
+2m 9s
+5
+4.1.49
+
+Determine the existence, location, and value of absolute extrema on a given interval...
+3m 11s
+5
+4.1.57
+
+Determine the existence, location, and value of absolute extrema on a given interval...
+3m 11s
+6
+4.2.13
+
+Determine if Rolle's Theorem applies and find the point(s) guaranteed to exist by...
+2m 10s
+7
+4.3.39-Setup & Solve
+
+Find the intervals on which a function is increasing or decreasing.
+4m 15s
+7
+4.3.40
+
+Find the intervals on which a function is increasing or decreasing.
+2m 18s
+8
+4.3.63
+
+Determine the concavity on intervals and find inflection points.
+3m 12s
+8
+4.3.65
+
+Determine the concavity on intervals and find inflection points.
+2m 55s
+9
+4.3.83
+
+Determine if critical points correspond to local minima/maxima using the second...
+2m 8s
+9
+4.3.85
+
+Determine if critical points correspond to local minima/maxima using the second...
+3m 30s
+10
+4.5.13
+
+Optimize the area given the perimeter or the perimeter given the area of a rectangle.
+1m 29s
+11
++ (4.5) Copy of 4.5.19
+
+Solve applications involving optimization.
+ 
+11
+4.5.20
+
+Solve applications involving optimization.
+2m 29s
+12
+4.6.28
+
+Construct a linear approximation to estimate the value of a function and find the...
+3m 20s
+12
+4.6.55
+
+Use linear approximations to approximate changes in volume or surface area of...
+1m 25s
+13
+4.6.64
+
+Given y=f(x), write a differential expressing the change in y as a function of a...
+42s
+13
+4.6.67
+
+Given y=f(x), write a differential expressing the change in y as a function of a...
+1m 3s
+14
+4.7.22-Setup & Solve
+
+Evaluate limits using the form 0/0 or infinity/infinity of l'Hopital's Rule if it applies.
+1m 25s
+14
+4.7.25-Setup & Solve
+
+Evaluate limits using the form 0/0 or infinity/infinity of l'Hopital's Rule if it applies.
+1m 54s
+15
+4.8.9
+
+Given an initial approximation, use Newton's method to find the first two approximations.
+2m 41s
+15
+4.8.10
+
+Given an initial approximation, use Newton's method to find the first two approximations.
+2m 31s

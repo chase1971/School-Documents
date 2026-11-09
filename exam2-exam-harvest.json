@@ -1,0 +1,733 @@
+[
+  {
+    "requested": "Exam 2",
+    "captureMethod": "Pearson editor copy (Exam 2 (Copy)): Add/Remove Content → question link → PlayerAddAndRemove Next loop (Work as student)",
+    "capturedAt": "2026-11-06T18:39:20Z",
+    "questionIds": [
+      "3.3.25",
+      "3.3.28",
+      "3.3.35",
+      "3.3.48",
+      "3.3.49",
+      "3.4.20",
+      "3.4.24-Setup & Solve",
+      "3.4.22",
+      "3.4.25-Setup & Solve",
+      "3.5.29",
+      "3.5.34",
+      "3.5.59",
+      "3.5.61",
+      "3.6.29",
+      "3.6.32",
+      "3.6.36",
+      "3.7.14",
+      "3.7.15",
+      "3.7.19",
+      "3.7.20",
+      "3.7.20",
+      "3.7.24",
+      "3.7.29",
+      "3.7.31",
+      "3.9.16",
+      "3.9.36",
+      "3.9.29",
+      "3.9.30",
+      "3.9.41",
+      "3.9.43",
+      "3.9.73",
+      "3.10.23",
+      "3.10.29",
+      "3.10.21"
+    ],
+    "capturedQuestionIds": [
+      "3.3.25",
+      "3.3.28",
+      "3.3.35",
+      "3.3.48",
+      "3.3.49",
+      "3.4.20",
+      "3.4.24-Setup & Solve",
+      "3.4.22",
+      "3.4.25-Setup & Solve",
+      "3.5.29",
+      "3.5.34",
+      "3.5.59",
+      "3.5.61",
+      "3.6.29",
+      "3.6.32",
+      "3.6.36",
+      "3.7.14",
+      "3.7.15",
+      "3.7.19",
+      "3.7.20",
+      "3.7.20",
+      "3.7.24",
+      "3.7.29",
+      "3.7.31",
+      "3.9.16",
+      "3.9.36",
+      "3.9.29",
+      "3.9.30",
+      "3.9.41",
+      "3.9.43",
+      "3.9.73",
+      "3.10.23",
+      "3.10.29",
+      "3.10.21"
+    ],
+    "missingQuestionIds": [],
+    "unexpectedQuestionIds": [],
+    "coverage": {
+      "captured": 34,
+      "expected": 34
+    },
+    "problems": [
+      {
+        "printOrder": 1,
+        "questionId": "3.3.25",
+        "summary": "Differentiate $h(t)=\\dfrac{t^{2}}{2}+9$.",
+        "fullText": "Find the derivative of the following function.\n\n$$h(t)=\\dfrac{t^{2}}{2}+9$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Find the derivative of the following function.\n\n$$h(t)=\\dfrac{t^{2}}{2}+9$$"
+          }
+        ],
+        "prompt": "Differentiate $h(t)=\\dfrac{t^{2}}{2}+9$.",
+        "expr": "",
+        "objective": "Find derivatives using rules of differentiation.",
+        "poolOrder": "1",
+        "difficulty": "Easy",
+        "estimatedTime": "1m 11s",
+        "latex": true
+      },
+      {
+        "printOrder": 2,
+        "questionId": "3.3.28",
+        "summary": "Differentiate $g(t)=6\\sqrt{t}$.",
+        "fullText": "Find the derivative of the following function.\n\n$$g(t)=6\\sqrt{t}$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Find the derivative of the following function.\n\n$$g(t)=6\\sqrt{t}$$"
+          }
+        ],
+        "prompt": "Differentiate $g(t)=6\\sqrt{t}$.",
+        "expr": "",
+        "objective": "Find derivatives using rules of differentiation.",
+        "poolOrder": "1",
+        "difficulty": "Easy",
+        "estimatedTime": "1m 5s",
+        "latex": true
+      },
+      {
+        "printOrder": 3,
+        "questionId": "3.3.35",
+        "summary": "Differentiate $g(w)=9w^{8}+3w^{2}+19w$.",
+        "fullText": "Find the derivative of the following function.\n\n$$g(w)=9w^{8}+3w^{2}+19w$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Find the derivative of the following function.\n\n$$g(w)=9w^{8}+3w^{2}+19w$$"
+          }
+        ],
+        "prompt": "Differentiate $g(w)=9w^{8}+3w^{2}+19w$.",
+        "expr": "",
+        "objective": "Find derivatives using rules of differentiation.",
+        "poolOrder": "2",
+        "difficulty": "Easy",
+        "estimatedTime": "1m 16s",
+        "latex": true
+      },
+      {
+        "printOrder": 4,
+        "questionId": "3.3.48",
+        "summary": "Differentiate $g(r)=(6r^{3}+3r+7)(r^{2}+7)$ by first expanding.",
+        "fullText": "Find the derivative of the following function by first expanding the expression.\n\n$$g(r)=(6r^{3}+3r+7)(r^{2}+7)$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Find the derivative of the following function by first expanding the expression.\n\n$$g(r)=(6r^{3}+3r+7)(r^{2}+7)$$"
+          }
+        ],
+        "prompt": "Differentiate $g(r)=(6r^{3}+3r+7)(r^{2}+7)$ by first expanding.",
+        "expr": "",
+        "objective": "Simplify products and quotients and find their derivatives.",
+        "poolOrder": "2",
+        "difficulty": "Moderate",
+        "estimatedTime": "2m 19s",
+        "latex": true
+      },
+      {
+        "printOrder": 5,
+        "questionId": "3.3.49",
+        "summary": "Differentiate $f(w)=\\dfrac{7w^{7}-5w^{3}}{4w^{3}}$ by first simplifying.",
+        "fullText": "Find the derivative of the following function by first simplifying the expression.\n\n$$f(w)=\\dfrac{7w^{7}-5w^{3}}{4w^{3}}$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Find the derivative of the following function by first simplifying the expression.\n\n$$f(w)=\\dfrac{7w^{7}-5w^{3}}{4w^{3}}$$"
+          }
+        ],
+        "prompt": "Differentiate $f(w)=\\dfrac{7w^{7}-5w^{3}}{4w^{3}}$ by first simplifying.",
+        "expr": "",
+        "objective": "Simplify products and quotients and find their derivatives.",
+        "poolOrder": "3",
+        "difficulty": "Moderate",
+        "estimatedTime": "1m 58s",
+        "latex": true
+      },
+      {
+        "printOrder": 6,
+        "questionId": "3.4.20",
+        "summary": "Differentiate $f(x)=10x+13xe^{x}$.",
+        "fullText": "Compute the derivative of the following function.\n\n$$f(x)=10x+13xe^{x}$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Compute the derivative of the following function.\n\n$$f(x)=10x+13xe^{x}$$"
+          }
+        ],
+        "prompt": "Differentiate $f(x)=10x+13xe^{x}$.",
+        "expr": "",
+        "objective": "Find derivatives of products and quotients of functions involving exponentials.",
+        "poolOrder": "4",
+        "difficulty": "Moderate",
+        "estimatedTime": "1m 34s",
+        "latex": true
+      },
+      {
+        "printOrder": 7,
+        "questionId": "3.4.24-Setup & Solve",
+        "summary": "Differentiate $g(x)=e^{x}(3x^{2}-6x+6)$: choose the correct setup, then simplify.",
+        "fullText": "Find and simplify the derivative of the following function.\n\n$$g(x)=e^{x}\\left(3x^{2}-6x+6\\right)$$\n\na. Which of the following shows how to find the derivative of $g(x)$?\n\nA. $g'(x)=\\dfrac{(3x^{2}-6x+6)\\,\\frac{d}{dx}(3x^{2}-6x+6)+e^{x}\\,\\frac{d}{dx}(e^{x})}{(3x^{2}-6x+6)^{2}}$\n\nB. $g'(x)=\\dfrac{(3x^{2}-6x+6)\\,\\frac{d}{dx}(e^{x})+e^{x}\\,\\frac{d}{dx}(3x^{2}-6x+6)}{(e^{x})^{2}}$\n\nC. $g'(x)=e^{x}\\,\\frac{d}{dx}(e^{x})+(3x^{2}-6x+6)\\,\\frac{d}{dx}(3x^{2}-6x+6)$\n\nD. $g'(x)=\\frac{d}{dx}(e^{x})\\,(3x^{2}-6x+6)+e^{x}\\,\\frac{d}{dx}(3x^{2}-6x+6)$\n\nb. Find the derivative of $g(x)$.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Find and simplify the derivative of the following function.\n\n$$g(x)=e^{x}\\left(3x^{2}-6x+6\\right)$$\n\na. Which of the following shows how to find the derivative of $g(x)$?\n\nA. $g'(x)=\\dfrac{(3x^{2}-6x+6)\\,\\frac{d}{dx}(3x^{2}-6x+6)+e^{x}\\,\\frac{d}{dx}(e^{x})}{(3x^{2}-6x+6)^{2}}$\n\nB. $g'(x)=\\dfrac{(3x^{2}-6x+6)\\,\\frac{d}{dx}(e^{x})+e^{x}\\,\\frac{d}{dx}(3x^{2}-6x+6)}{(e^{x})^{2}}$\n\nC. $g'(x)=e^{x}\\,\\frac{d}{dx}(e^{x})+(3x^{2}-6x+6)\\,\\frac{d}{dx}(3x^{2}-6x+6)$\n\nD. $g'(x)=\\frac{d}{dx}(e^{x})\\,(3x^{2}-6x+6)+e^{x}\\,\\frac{d}{dx}(3x^{2}-6x+6)$\n\nb. Find the derivative of $g(x)$."
+          }
+        ],
+        "prompt": "Differentiate $g(x)=e^{x}(3x^{2}-6x+6)$: choose the correct setup, then simplify.",
+        "expr": "",
+        "objective": "Find derivatives of products and quotients of functions involving exponentials.",
+        "poolOrder": "4",
+        "difficulty": "Moderate",
+        "estimatedTime": "2m 31s",
+        "latex": true
+      },
+      {
+        "printOrder": 8,
+        "questionId": "3.4.22",
+        "summary": "Differentiate $f(x)=\\dfrac{x^{3}-7x^{2}+x}{x-1}$.",
+        "fullText": "Find the derivative of the following function.\n\n$$f(x)=\\dfrac{x^{3}-7x^{2}+x}{x-1}$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Find the derivative of the following function.\n\n$$f(x)=\\dfrac{x^{3}-7x^{2}+x}{x-1}$$"
+          }
+        ],
+        "prompt": "Differentiate $f(x)=\\dfrac{x^{3}-7x^{2}+x}{x-1}$.",
+        "expr": "",
+        "objective": "Find derivatives of products and quotients of algebraic expressions.",
+        "poolOrder": "5",
+        "difficulty": "Moderate",
+        "estimatedTime": "2m 49s",
+        "latex": true
+      },
+      {
+        "printOrder": 9,
+        "questionId": "3.4.25-Setup & Solve",
+        "summary": "Differentiate $f(x)=\\dfrac{e^{x}}{5e^{x}+8}$: choose the correct setup, then simplify.",
+        "fullText": "Find and simplify the derivative of the following function.\n\n$$f(x)=\\dfrac{e^{x}}{5e^{x}+8}$$\n\na. Which of the following shows how to find the derivative of $f(x)$?\n\nA. $f'(x)=(5e^{x}+8)\\,\\frac{d}{dx}(e^{x})-e^{x}\\,\\frac{d}{dx}(5e^{x}+8)$\n\nB. $f'(x)=\\dfrac{(5e^{x}+8)\\,\\frac{d}{dx}(e^{x})-e^{x}\\,\\frac{d}{dx}(5e^{x}+8)}{(5e^{x}+8)^{2}}$\n\nC. $f'(x)=\\dfrac{e^{x}\\,\\frac{d}{dx}(e^{x})+(5e^{x}+8)\\,\\frac{d}{dx}(5e^{x}+8)}{5e^{x}+8}$\n\nD. $f'(x)=e^{x}\\,\\frac{d}{dx}(e^{x})+(5e^{x}+8)\\,\\frac{d}{dx}(5e^{x}+8)$\n\nb. Find the derivative of $f(x)$.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Find and simplify the derivative of the following function.\n\n$$f(x)=\\dfrac{e^{x}}{5e^{x}+8}$$\n\na. Which of the following shows how to find the derivative of $f(x)$?\n\nA. $f'(x)=(5e^{x}+8)\\,\\frac{d}{dx}(e^{x})-e^{x}\\,\\frac{d}{dx}(5e^{x}+8)$\n\nB. $f'(x)=\\dfrac{(5e^{x}+8)\\,\\frac{d}{dx}(e^{x})-e^{x}\\,\\frac{d}{dx}(5e^{x}+8)}{(5e^{x}+8)^{2}}$\n\nC. $f'(x)=\\dfrac{e^{x}\\,\\frac{d}{dx}(e^{x})+(5e^{x}+8)\\,\\frac{d}{dx}(5e^{x}+8)}{5e^{x}+8}$\n\nD. $f'(x)=e^{x}\\,\\frac{d}{dx}(e^{x})+(5e^{x}+8)\\,\\frac{d}{dx}(5e^{x}+8)$\n\nb. Find the derivative of $f(x)$."
+          }
+        ],
+        "prompt": "Differentiate $f(x)=\\dfrac{e^{x}}{5e^{x}+8}$: choose the correct setup, then simplify.",
+        "expr": "",
+        "objective": "Find derivatives of products and quotients of functions involving exponentials.",
+        "poolOrder": "5",
+        "difficulty": "Moderate",
+        "estimatedTime": "2m 55s",
+        "latex": true
+      },
+      {
+        "printOrder": 10,
+        "questionId": "3.5.29",
+        "summary": "Find $\\dfrac{dy}{dx}$ for $y=\\dfrac{6\\cos x}{6-7\\cos x}$.",
+        "fullText": "Find $\\dfrac{dy}{dx}$ for the following function.\n\n$$y=\\dfrac{6\\cos x}{6-7\\cos x}$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Find $\\dfrac{dy}{dx}$ for the following function.\n\n$$y=\\dfrac{6\\cos x}{6-7\\cos x}$$"
+          }
+        ],
+        "prompt": "Find $\\dfrac{dy}{dx}$ for $y=\\dfrac{6\\cos x}{6-7\\cos x}$.",
+        "expr": "",
+        "objective": "Find derivatives of products, quotients, and powers of functions with trigonometric...",
+        "poolOrder": "6",
+        "difficulty": "Moderate",
+        "estimatedTime": "2m 27s",
+        "latex": true
+      },
+      {
+        "printOrder": 11,
+        "questionId": "3.5.34",
+        "summary": "Differentiate $y=\\dfrac{6x\\sin x}{1+\\cos x}$.",
+        "fullText": "Find the derivative of the following function.\n\n$$y=\\dfrac{6x\\sin x}{1+\\cos x}$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Find the derivative of the following function.\n\n$$y=\\dfrac{6x\\sin x}{1+\\cos x}$$"
+          }
+        ],
+        "prompt": "Differentiate $y=\\dfrac{6x\\sin x}{1+\\cos x}$.",
+        "expr": "",
+        "objective": "Find derivatives of products, quotients, and powers of functions with trigonometric...",
+        "poolOrder": "6",
+        "difficulty": "Moderate",
+        "estimatedTime": "3m 19s",
+        "latex": true
+      },
+      {
+        "printOrder": 12,
+        "questionId": "3.5.59",
+        "summary": "Find $y''$ for $y=e^{x}\\sin x$.",
+        "fullText": "Find $y''$.\n\n$$y=e^{x}\\sin x$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Find $y''$.\n\n$$y=e^{x}\\sin x$$"
+          }
+        ],
+        "prompt": "Find $y''$ for $y=e^{x}\\sin x$.",
+        "expr": "",
+        "objective": "Find higher order derivatives of functions involving trigonometric expressions.",
+        "poolOrder": "7",
+        "difficulty": "Moderate",
+        "estimatedTime": "1m 50s",
+        "latex": true
+      },
+      {
+        "printOrder": 13,
+        "questionId": "3.5.61",
+        "summary": "Find $y''$ for $y=8\\tan x$.",
+        "fullText": "Find $y''$ for the following function.\n\n$$y=8\\tan x$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Find $y''$ for the following function.\n\n$$y=8\\tan x$$"
+          }
+        ],
+        "prompt": "Find $y''$ for $y=8\\tan x$.",
+        "expr": "",
+        "objective": "Find higher order derivatives of functions involving trigonometric expressions.",
+        "poolOrder": "7",
+        "difficulty": "Moderate",
+        "estimatedTime": "1m 39s",
+        "latex": true
+      },
+      {
+        "printOrder": 14,
+        "questionId": "3.6.29",
+        "summary": "Average and marginal cost for $C(x)=1900+0.9x$ at $a=2400$, with interpretation.",
+        "fullText": "Consider the following cost function.\n\n$$C(x)=1900+0.9x,\\quad 0\\le x\\le 5000,\\quad a=2400$$\n\na. Find the average cost and marginal cost functions.\n\nb. Determine the average and marginal cost when $x=a$.\n\nc. Interpret the values obtained in part (b).",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Consider the following cost function.\n\n$$C(x)=1900+0.9x,\\quad 0\\le x\\le 5000,\\quad a=2400$$\n\na. Find the average cost and marginal cost functions.\n\nb. Determine the average and marginal cost when $x=a$.\n\nc. Interpret the values obtained in part (b)."
+          }
+        ],
+        "prompt": "Average and marginal cost for $C(x)=1900+0.9x$ at $a=2400$, with interpretation.",
+        "expr": "",
+        "objective": "Find average and marginal cost and profit functions.",
+        "poolOrder": "8",
+        "difficulty": "Moderate",
+        "estimatedTime": "3m 17s",
+        "latex": true
+      },
+      {
+        "printOrder": 15,
+        "questionId": "3.6.32",
+        "summary": "Average and marginal cost for $C(x)=-0.03x^{2}+190x+800$ at $a=800$, with interpretation.",
+        "fullText": "Consider the following cost function.\n\n$$C(x)=-0.03x^{2}+190x+800,\\quad 0\\le x\\le 1000,\\quad a=800$$\n\na. Find the average cost and marginal cost functions.\n\nb. Determine the average and marginal cost when $x=a$.\n\nc. Interpret the values obtained in part (b).",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Consider the following cost function.\n\n$$C(x)=-0.03x^{2}+190x+800,\\quad 0\\le x\\le 1000,\\quad a=800$$\n\na. Find the average cost and marginal cost functions.\n\nb. Determine the average and marginal cost when $x=a$.\n\nc. Interpret the values obtained in part (b)."
+          }
+        ],
+        "prompt": "Average and marginal cost for $C(x)=-0.03x^{2}+190x+800$ at $a=800$, with interpretation.",
+        "expr": "",
+        "objective": "Find average and marginal cost and profit functions.",
+        "poolOrder": "8",
+        "difficulty": "Hard",
+        "estimatedTime": "3m 44s",
+        "latex": true
+      },
+      {
+        "printOrder": 16,
+        "questionId": "3.6.36",
+        "summary": "Velocity and acceleration at impact for $s(t)=1936-16t^{2}$.",
+        "fullText": "An object is dropped from a tower, $1936$ ft above the ground. The object's height above the ground $t$ seconds after it is dropped is $s(t)=1936-16t^{2}$. Determine the velocity and acceleration of the object the moment it reaches the ground.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "An object is dropped from a tower, $1936$ ft above the ground. The object's height above the ground $t$ seconds after it is dropped is $s(t)=1936-16t^{2}$. Determine the velocity and acceleration of the object the moment it reaches the ground."
+          }
+        ],
+        "prompt": "Velocity and acceleration at impact for $s(t)=1936-16t^{2}$.",
+        "expr": "",
+        "objective": "Solve applications involving position, velocity, and acceleration functions.",
+        "poolOrder": "9",
+        "difficulty": "Moderate",
+        "estimatedTime": "2m 21s",
+        "latex": true
+      },
+      {
+        "printOrder": 17,
+        "questionId": "3.7.14",
+        "summary": "Find $f'(x)$ for $f(x)=4e^{6x}$.",
+        "fullText": "Find $f'(x)$ if $f(x)=4e^{6x}$.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Find $f'(x)$ if $f(x)=4e^{6x}$."
+          }
+        ],
+        "prompt": "Find $f'(x)$ for $f(x)=4e^{6x}$.",
+        "expr": "",
+        "objective": "Find derivatives of basic functions using the chain rule.",
+        "poolOrder": "10",
+        "difficulty": "Moderate",
+        "estimatedTime": "1m 12s",
+        "latex": true
+      },
+      {
+        "printOrder": 18,
+        "questionId": "3.7.15",
+        "summary": "Inner/outer functions and $\\dfrac{dy}{dx}$ for $y=(2x+9)^{8}$.",
+        "fullText": "For the following composite function, find an inner function $u=g(x)$ and an outer function $y=f(u)$ such that $y=f(g(x))$. Then calculate $\\dfrac{dy}{dx}$.\n\n$$y=(2x+9)^{8}$$\n\na. Identify the inner and outer functions. Choose the correct answer.\n\nA. $u=g(x)=2x+9$ and $y=f(u)=u^{8}$\n\nB. $u=g(x)=2x$ and $y=f(u)=u^{8}$\n\nC. $u=g(x)=x^{8}$ and $y=f(u)=2u+9$\n\nD. $u=g(x)=2x+9$ and $y=f(u)=u$\n\nb. Find $\\dfrac{dy}{dx}$.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "For the following composite function, find an inner function $u=g(x)$ and an outer function $y=f(u)$ such that $y=f(g(x))$. Then calculate $\\dfrac{dy}{dx}$.\n\n$$y=(2x+9)^{8}$$\n\na. Identify the inner and outer functions. Choose the correct answer.\n\nA. $u=g(x)=2x+9$ and $y=f(u)=u^{8}$\n\nB. $u=g(x)=2x$ and $y=f(u)=u^{8}$\n\nC. $u=g(x)=x^{8}$ and $y=f(u)=2u+9$\n\nD. $u=g(x)=2x+9$ and $y=f(u)=u$\n\nb. Find $\\dfrac{dy}{dx}$."
+          }
+        ],
+        "prompt": "Inner/outer functions and $\\dfrac{dy}{dx}$ for $y=(2x+9)^{8}$.",
+        "expr": "",
+        "objective": "Identify inner functions and outer functions for composite functions, and then apply...",
+        "poolOrder": "10",
+        "difficulty": "Easy",
+        "estimatedTime": "1m 33s",
+        "latex": true
+      },
+      {
+        "printOrder": 19,
+        "questionId": "3.7.19",
+        "summary": "Inner/outer functions and $\\dfrac{dy}{dx}$ for $y=\\sqrt{4x^{8}+9}$.",
+        "fullText": "For the following composite function, find an inner function $u=g(x)$ and an outer function $y=f(u)$ such that $y=f(g(x))$. Then calculate $\\dfrac{dy}{dx}$.\n\n$$y=\\sqrt{4x^{8}+9}$$\n\na. Identify the inner and outer functions. Choose the correct answer.\n\nA. $u=g(x)=x$ and $y=f(u)=\\sqrt{u}$\n\nB. $u=g(x)=4x^{8}+9$ and $y=f(u)=\\sqrt{u}$\n\nC. $u=g(x)=4x^{8}+9$ and $y=f(u)=u$\n\nD. $u=g(x)=\\sqrt{x}$ and $y=f(u)=4u^{8}+9$\n\nb. Find $\\dfrac{dy}{dx}$.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "For the following composite function, find an inner function $u=g(x)$ and an outer function $y=f(u)$ such that $y=f(g(x))$. Then calculate $\\dfrac{dy}{dx}$.\n\n$$y=\\sqrt{4x^{8}+9}$$\n\na. Identify the inner and outer functions. Choose the correct answer.\n\nA. $u=g(x)=x$ and $y=f(u)=\\sqrt{u}$\n\nB. $u=g(x)=4x^{8}+9$ and $y=f(u)=\\sqrt{u}$\n\nC. $u=g(x)=4x^{8}+9$ and $y=f(u)=u$\n\nD. $u=g(x)=\\sqrt{x}$ and $y=f(u)=4u^{8}+9$\n\nb. Find $\\dfrac{dy}{dx}$."
+          }
+        ],
+        "prompt": "Inner/outer functions and $\\dfrac{dy}{dx}$ for $y=\\sqrt{4x^{8}+9}$.",
+        "expr": "",
+        "objective": "Identify inner functions and outer functions for composite functions, and then apply...",
+        "poolOrder": "11",
+        "difficulty": "Moderate",
+        "estimatedTime": "2m 6s",
+        "latex": true
+      },
+      {
+        "printOrder": 20,
+        "questionId": "3.7.20",
+        "summary": "Inner/outer functions and $\\dfrac{dy}{dx}$ for $y=\\sqrt{-6+3x}$.",
+        "fullText": "For the following composite function, find an inner function $u=g(x)$ and an outer function $y=f(u)$ such that $y=f(g(x))$. Then calculate $\\dfrac{dy}{dx}$.\n\n$$y=\\sqrt{-6+3x}$$\n\na. Identify the inner and outer functions. Choose the correct answer.\n\nA. $u=g(x)=-6+3x$ and $y=f(u)=u$\n\nB. $u=g(x)=3x$ and $y=f(u)=\\sqrt{u}$\n\nC. $u=g(x)=-6+3x$ and $y=f(u)=\\sqrt{u}$\n\nD. $u=g(x)=\\sqrt{x}$ and $y=f(u)=-6+3u$\n\nb. Find $\\dfrac{dy}{dx}$.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "For the following composite function, find an inner function $u=g(x)$ and an outer function $y=f(u)$ such that $y=f(g(x))$. Then calculate $\\dfrac{dy}{dx}$.\n\n$$y=\\sqrt{-6+3x}$$\n\na. Identify the inner and outer functions. Choose the correct answer.\n\nA. $u=g(x)=-6+3x$ and $y=f(u)=u$\n\nB. $u=g(x)=3x$ and $y=f(u)=\\sqrt{u}$\n\nC. $u=g(x)=-6+3x$ and $y=f(u)=\\sqrt{u}$\n\nD. $u=g(x)=\\sqrt{x}$ and $y=f(u)=-6+3u$\n\nb. Find $\\dfrac{dy}{dx}$."
+          }
+        ],
+        "prompt": "Inner/outer functions and $\\dfrac{dy}{dx}$ for $y=\\sqrt{-6+3x}$.",
+        "expr": "",
+        "objective": "Identify inner functions and outer functions for composite functions, and then apply...",
+        "poolOrder": "11",
+        "difficulty": "Moderate",
+        "estimatedTime": "1m 30s",
+        "latex": true
+      },
+      {
+        "printOrder": 21,
+        "questionId": "3.7.20",
+        "summary": "Inner/outer functions and $\\dfrac{dy}{dx}$ for $y=\\sqrt{-6+3x}$.",
+        "fullText": "For the following composite function, find an inner function $u=g(x)$ and an outer function $y=f(u)$ such that $y=f(g(x))$. Then calculate $\\dfrac{dy}{dx}$.\n\n$$y=\\sqrt{-6+3x}$$\n\na. Identify the inner and outer functions. Choose the correct answer.\n\nA. $u=g(x)=-6+3x$ and $y=f(u)=u$\n\nB. $u=g(x)=3x$ and $y=f(u)=\\sqrt{u}$\n\nC. $u=g(x)=-6+3x$ and $y=f(u)=\\sqrt{u}$\n\nD. $u=g(x)=\\sqrt{x}$ and $y=f(u)=-6+3u$\n\nb. Find $\\dfrac{dy}{dx}$.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "For the following composite function, find an inner function $u=g(x)$ and an outer function $y=f(u)$ such that $y=f(g(x))$. Then calculate $\\dfrac{dy}{dx}$.\n\n$$y=\\sqrt{-6+3x}$$\n\na. Identify the inner and outer functions. Choose the correct answer.\n\nA. $u=g(x)=-6+3x$ and $y=f(u)=u$\n\nB. $u=g(x)=3x$ and $y=f(u)=\\sqrt{u}$\n\nC. $u=g(x)=-6+3x$ and $y=f(u)=\\sqrt{u}$\n\nD. $u=g(x)=\\sqrt{x}$ and $y=f(u)=-6+3u$\n\nb. Find $\\dfrac{dy}{dx}$."
+          }
+        ],
+        "prompt": "Inner/outer functions and $\\dfrac{dy}{dx}$ for $y=\\sqrt{-6+3x}$.",
+        "expr": "",
+        "objective": "Identify inner functions and outer functions for composite functions, and then apply...",
+        "poolOrder": "12",
+        "difficulty": "Moderate",
+        "estimatedTime": "1m 30s",
+        "latex": true
+      },
+      {
+        "printOrder": 22,
+        "questionId": "3.7.24",
+        "summary": "Inner/outer functions and $\\dfrac{dy}{dx}$ for $y=\\sin\\dfrac{x}{8}$.",
+        "fullText": "For the following composite function, find an inner function $u=g(x)$ and an outer function $y=f(u)$ such that $y=f(g(x))$. Then calculate $\\dfrac{dy}{dx}$.\n\n$$y=\\sin\\dfrac{x}{8}$$\n\na. Identify the inner and outer functions. Choose the correct answer.\n\nA. $u=g(x)=\\sin x$ and $y=f(u)=\\dfrac{u}{8}$\n\nB. $u=g(x)=\\sin x$ and $y=f(u)=8u$\n\nC. $u=g(x)=\\dfrac{x}{8}$ and $y=f(u)=\\sin u$\n\nD. $u=g(x)=8x$ and $y=f(u)=\\sin u$\n\nb. Find $\\dfrac{dy}{dx}$.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "For the following composite function, find an inner function $u=g(x)$ and an outer function $y=f(u)$ such that $y=f(g(x))$. Then calculate $\\dfrac{dy}{dx}$.\n\n$$y=\\sin\\dfrac{x}{8}$$\n\na. Identify the inner and outer functions. Choose the correct answer.\n\nA. $u=g(x)=\\sin x$ and $y=f(u)=\\dfrac{u}{8}$\n\nB. $u=g(x)=\\sin x$ and $y=f(u)=8u$\n\nC. $u=g(x)=\\dfrac{x}{8}$ and $y=f(u)=\\sin u$\n\nD. $u=g(x)=8x$ and $y=f(u)=\\sin u$\n\nb. Find $\\dfrac{dy}{dx}$."
+          }
+        ],
+        "prompt": "Inner/outer functions and $\\dfrac{dy}{dx}$ for $y=\\sin\\dfrac{x}{8}$.",
+        "expr": "",
+        "objective": "Identify inner functions and outer functions for composite functions, and then apply...",
+        "poolOrder": "12",
+        "difficulty": "Moderate",
+        "estimatedTime": "1m 59s",
+        "latex": true
+      },
+      {
+        "printOrder": 23,
+        "questionId": "3.7.29",
+        "summary": "Differentiate $y=\\sqrt{15x+17}$.",
+        "fullText": "Calculate the derivative of the following function.\n\n$$y=\\sqrt{15x+17}$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Calculate the derivative of the following function.\n\n$$y=\\sqrt{15x+17}$$"
+          }
+        ],
+        "prompt": "Differentiate $y=\\sqrt{15x+17}$.",
+        "expr": "",
+        "objective": "Find derivatives of basic functions using the chain rule.",
+        "poolOrder": "13",
+        "difficulty": "Moderate",
+        "estimatedTime": "1m 18s",
+        "latex": true
+      },
+      {
+        "printOrder": 24,
+        "questionId": "3.7.31",
+        "summary": "Differentiate $y=4(6x^{4}+1)^{-8}$.",
+        "fullText": "Calculate the derivative of the following function.\n\n$$y=4\\left(6x^{4}+1\\right)^{-8}$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Calculate the derivative of the following function.\n\n$$y=4\\left(6x^{4}+1\\right)^{-8}$$"
+          }
+        ],
+        "prompt": "Differentiate $y=4(6x^{4}+1)^{-8}$.",
+        "expr": "",
+        "objective": "Find derivatives of basic functions using the chain rule.",
+        "poolOrder": "13",
+        "difficulty": "Moderate",
+        "estimatedTime": "2m 9s",
+        "latex": true
+      },
+      {
+        "printOrder": 25,
+        "questionId": "3.9.16",
+        "summary": "Differentiate $f(x)=5x^{4}\\ln x$.",
+        "fullText": "Find the derivative of the following function.\n\n$$f(x)=5x^{4}\\ln x$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Find the derivative of the following function.\n\n$$f(x)=5x^{4}\\ln x$$"
+          }
+        ],
+        "prompt": "Differentiate $f(x)=5x^{4}\\ln x$.",
+        "expr": "",
+        "objective": "Find derivatives involving logarithms and exponentials.",
+        "poolOrder": "14",
+        "difficulty": "Moderate",
+        "estimatedTime": "1m 35s",
+        "latex": true
+      },
+      {
+        "printOrder": 26,
+        "questionId": "3.9.36",
+        "summary": "Differentiate $y=\\ln\\left((x^{2}+5)^{\\pi}\\right)$.",
+        "fullText": "Find the derivative of the following function. Type an exact answer, using $\\pi$ as needed.\n\n$$y=\\ln\\left(\\left(x^{2}+5\\right)^{\\pi}\\right)$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Find the derivative of the following function. Type an exact answer, using $\\pi$ as needed.\n\n$$y=\\ln\\left(\\left(x^{2}+5\\right)^{\\pi}\\right)$$"
+          }
+        ],
+        "prompt": "Differentiate $y=\\ln\\left((x^{2}+5)^{\\pi}\\right)$.",
+        "expr": "",
+        "objective": "Find derivatives involving logarithms and exponentials.",
+        "poolOrder": "14",
+        "difficulty": "Moderate",
+        "estimatedTime": "2m 3s",
+        "latex": true
+      },
+      {
+        "printOrder": 27,
+        "questionId": "3.9.29",
+        "summary": "Differentiate $y=\\ln(\\ln(6x))$.",
+        "fullText": "Find the derivative of the following function. Use parentheses to clearly denote the argument of each function.\n\n$$y=\\ln\\left(\\ln(6x)\\right)$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Find the derivative of the following function. Use parentheses to clearly denote the argument of each function.\n\n$$y=\\ln\\left(\\ln(6x)\\right)$$"
+          }
+        ],
+        "prompt": "Differentiate $y=\\ln(\\ln(6x))$.",
+        "expr": "",
+        "objective": "Find derivatives involving logarithms and exponentials.",
+        "poolOrder": "15",
+        "difficulty": "Moderate",
+        "estimatedTime": "1m 28s",
+        "latex": true
+      },
+      {
+        "printOrder": 28,
+        "questionId": "3.9.30",
+        "summary": "Find $\\dfrac{dy}{d\\theta}$ for $y=\\ln(2\\cos^{4}\\theta)$.",
+        "fullText": "Find the derivative of $y$ with respect to $\\theta$.\n\n$$y=\\ln\\left(2\\cos^{4}\\theta\\right)$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Find the derivative of $y$ with respect to $\\theta$.\n\n$$y=\\ln\\left(2\\cos^{4}\\theta\\right)$$"
+          }
+        ],
+        "prompt": "Find $\\dfrac{dy}{d\\theta}$ for $y=\\ln(2\\cos^{4}\\theta)$.",
+        "expr": "",
+        "objective": "Find derivatives involving logarithms and exponentials.",
+        "poolOrder": "16",
+        "difficulty": "Moderate",
+        "estimatedTime": "1m 45s",
+        "latex": true
+      },
+      {
+        "printOrder": 29,
+        "questionId": "3.9.41",
+        "summary": "Differentiate $y=3^{2+\\cot x}$.",
+        "fullText": "Find the derivative of $y$.\n\n$$y=3^{2+\\cot x}$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Find the derivative of $y$.\n\n$$y=3^{2+\\cot x}$$"
+          }
+        ],
+        "prompt": "Differentiate $y=3^{2+\\cot x}$.",
+        "expr": "",
+        "objective": "Find derivatives involving logarithms and exponentials.",
+        "poolOrder": "17",
+        "difficulty": "Moderate",
+        "estimatedTime": "1m 57s",
+        "latex": true
+      },
+      {
+        "printOrder": 30,
+        "questionId": "3.9.43",
+        "summary": "Differentiate $y=x^{3}6^{x}$.",
+        "fullText": "Find the derivative of $y$.\n\n$$y=x^{3}\\,6^{x}$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Find the derivative of $y$.\n\n$$y=x^{3}\\,6^{x}$$"
+          }
+        ],
+        "prompt": "Differentiate $y=x^{3}6^{x}$.",
+        "expr": "",
+        "objective": "Find derivatives involving logarithms and exponentials.",
+        "poolOrder": "17",
+        "difficulty": "Moderate",
+        "estimatedTime": "2m 29s",
+        "latex": true
+      },
+      {
+        "printOrder": 31,
+        "questionId": "3.9.73",
+        "summary": "Differentiate $f(x)=\\ln\\left[\\dfrac{(5x+9)(x+3)^{3}}{(1-8x)^{4}}\\right]$.",
+        "fullText": "Differentiate.\n\n$$f(x)=\\ln\\left[\\dfrac{(5x+9)(x+3)^{3}}{(1-8x)^{4}}\\right]$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Differentiate.\n\n$$f(x)=\\ln\\left[\\dfrac{(5x+9)(x+3)^{3}}{(1-8x)^{4}}\\right]$$"
+          }
+        ],
+        "prompt": "Differentiate $f(x)=\\ln\\left[\\dfrac{(5x+9)(x+3)^{3}}{(1-8x)^{4}}\\right]$.",
+        "expr": "",
+        "objective": "Find derivatives involving logarithms and exponentials.",
+        "poolOrder": "18",
+        "difficulty": "Moderate",
+        "estimatedTime": "2m 27s",
+        "latex": true
+      },
+      {
+        "printOrder": 32,
+        "questionId": "3.10.23",
+        "summary": "Differentiate $f(z)=8\\cot^{-1}\\sqrt{7z}$.",
+        "fullText": "Evaluate the derivative of the following function.\n\n$$f(z)=8\\cot^{-1}\\!\\left(\\sqrt{7z}\\right)$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Evaluate the derivative of the following function.\n\n$$f(z)=8\\cot^{-1}\\!\\left(\\sqrt{7z}\\right)$$"
+          }
+        ],
+        "prompt": "Differentiate $f(z)=8\\cot^{-1}\\sqrt{7z}$.",
+        "expr": "",
+        "objective": "Find derivatives of functions involving inverse trigonometric functions.",
+        "poolOrder": "19",
+        "difficulty": "Moderate",
+        "estimatedTime": "2m 40s",
+        "latex": true
+      },
+      {
+        "printOrder": 33,
+        "questionId": "3.10.29",
+        "summary": "Differentiate $f(x)=\\cos^{-1}\\!\\left(\\dfrac{7}{x}\\right)$.",
+        "fullText": "Evaluate the derivative of the following function.\n\n$$f(x)=\\cos^{-1}\\!\\left(\\dfrac{7}{x}\\right)$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Evaluate the derivative of the following function.\n\n$$f(x)=\\cos^{-1}\\!\\left(\\dfrac{7}{x}\\right)$$"
+          }
+        ],
+        "prompt": "Differentiate $f(x)=\\cos^{-1}\\!\\left(\\dfrac{7}{x}\\right)$.",
+        "expr": "",
+        "objective": "Find derivatives of functions involving inverse trigonometric functions.",
+        "poolOrder": "19",
+        "difficulty": "Hard",
+        "estimatedTime": "2m 24s",
+        "latex": true
+      },
+      {
+        "printOrder": 34,
+        "questionId": "3.10.21",
+        "summary": "Differentiate $f(y)=\\tan^{-1}(9y^{4}+5)$.",
+        "fullText": "Find the derivative of the function $f(y)$.\n\n$$f(y)=\\tan^{-1}\\!\\left(9y^{4}+5\\right)$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Find the derivative of the function $f(y)$.\n\n$$f(y)=\\tan^{-1}\\!\\left(9y^{4}+5\\right)$$"
+          }
+        ],
+        "prompt": "Differentiate $f(y)=\\tan^{-1}(9y^{4}+5)$.",
+        "expr": "",
+        "objective": "Find derivatives of functions involving inverse trigonometric functions.",
+        "poolOrder": "20",
+        "difficulty": "Moderate",
+        "estimatedTime": "2m 13s",
+        "latex": true
+      }
+    ]
+  }
+]

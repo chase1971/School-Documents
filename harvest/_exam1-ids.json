@@ -1,0 +1,327 @@
+[
+  {
+    "header": {
+      "name": "Exam 1",
+      "chapterCoverage": "2",
+      "totalPoints": "60",
+      "estimatedTime": "82m 29s+",
+      "difficulty": "Moderate (33), Easy (2), Hard (4)",
+      "historyId": "97040_T_215549211_2"
+    },
+    "rows": [
+      {
+        "order": "1",
+        "questionId": "2.2.15",
+        "objective": "Find limits from a graph.",
+        "estimatedTime": "1m 22s",
+        "difficulty": "Moderate",
+        "points": "2"
+      },
+      {
+        "order": "2",
+        "questionId": "2.2.17",
+        "objective": "Find limits from a graph.",
+        "estimatedTime": "2m 23s",
+        "difficulty": "Moderate",
+        "points": "6"
+      },
+      {
+        "order": "2",
+        "questionId": "2.2.18",
+        "objective": "Find limits from a graph.",
+        "estimatedTime": "2m 36s",
+        "difficulty": "Moderate",
+        "points": "6"
+      },
+      {
+        "order": "3",
+        "questionId": "2.3.22",
+        "objective": "Evaluate two-sided limits using limit laws and theorems.",
+        "estimatedTime": "38s",
+        "difficulty": "Easy",
+        "points": "2"
+      },
+      {
+        "order": "3",
+        "questionId": "2.3.27",
+        "objective": "Evaluate two-sided limits using limit laws and theorems.",
+        "estimatedTime": "1m 43s",
+        "difficulty": "Moderate",
+        "points": "2"
+      },
+      {
+        "order": "4",
+        "questionId": "2.3.35",
+        "objective": "Evaluate two-sided limits using limit laws and theorems.",
+        "estimatedTime": "1m 31s",
+        "difficulty": "Moderate",
+        "points": "2"
+      },
+      {
+        "order": "4",
+        "questionId": "2.3.47",
+        "objective": "Evaluate two-sided limits using limit laws and theorems.",
+        "estimatedTime": "2m 5s",
+        "difficulty": "Moderate",
+        "points": "2"
+      },
+      {
+        "order": "5",
+        "questionId": "2.3.74",
+        "objective": "Evaluate one-sided limits using limit laws and theorems.",
+        "estimatedTime": "2m 43s",
+        "difficulty": "Moderate",
+        "points": "3"
+      },
+      {
+        "order": "6",
+        "questionId": "2.3.39-Setup & Solve",
+        "objective": "Evaluate two-sided limits using limit laws and theorems.",
+        "estimatedTime": "3m 28s",
+        "difficulty": "Moderate",
+        "points": "2"
+      },
+      {
+        "order": "7",
+        "questionId": "2.3.40-Setup & Solve",
+        "objective": "Evaluate two-sided limits using limit laws and theorems.",
+        "estimatedTime": "3m 16s",
+        "difficulty": "Moderate",
+        "points": "2"
+      },
+      {
+        "order": "8",
+        "questionId": "2.3.41-Setup & Solve",
+        "objective": "Evaluate two-sided limits using limit laws and theorems.",
+        "estimatedTime": "1m 51s",
+        "difficulty": "Moderate",
+        "points": "2"
+      },
+      {
+        "order": "8",
+        "questionId": "2.3.47-Setup & Solve",
+        "objective": "Evaluate two-sided limits using limit laws and theorems.",
+        "estimatedTime": "2m 17s",
+        "difficulty": "Moderate",
+        "points": "2"
+      },
+      {
+        "order": "9",
+        "questionId": "2.4.25",
+        "objective": "Evaluate limits analytically.",
+        "estimatedTime": "2m 7s",
+        "difficulty": "Moderate",
+        "points": "2"
+      },
+      {
+        "order": "9",
+        "questionId": "2.4.47",
+        "objective": "Find vertical asymptotes.",
+        "estimatedTime": "2m 54s",
+        "difficulty": "Moderate",
+        "points": "2"
+      },
+      {
+        "order": "10",
+        "questionId": "2.4.35-Setup & Solve",
+        "objective": "Evaluate limits analytically.",
+        "estimatedTime": "1m 51s",
+        "difficulty": "Hard",
+        "points": "2"
+      },
+      {
+        "order": "10",
+        "questionId": "2.4.45-Setup & Solve",
+        "objective": "Find vertical asymptotes.",
+        "estimatedTime": "4m 16s",
+        "difficulty": "Hard",
+        "points": "2"
+      },
+      {
+        "order": "11",
+        "questionId": "2.4.33-Setup & Solve",
+        "objective": "Evaluate limits analytically.",
+        "estimatedTime": "1m 21s",
+        "difficulty": "Moderate",
+        "points": "2"
+      },
+      {
+        "order": "12",
+        "questionId": "2.5.9",
+        "objective": "Evaluate limits at infinity.",
+        "estimatedTime": "52s",
+        "difficulty": "Easy",
+        "points": "2"
+      },
+      {
+        "order": "13",
+        "questionId": "2.5.21",
+        "objective": "Evaluate limits at infinity.",
+        "estimatedTime": "58s",
+        "difficulty": "Moderate",
+        "points": "2"
+      },
+      {
+        "order": "14",
+        "questionId": "2.5.39",
+        "objective": "Find horizontal and vertical asymptotes of functions.",
+        "estimatedTime": "1m 56s",
+        "difficulty": "Moderate",
+        "points": "2"
+      },
+      {
+        "order": "14",
+        "questionId": "2.5.41",
+        "objective": "Find horizontal and vertical asymptotes of functions.",
+        "estimatedTime": "1m 32s",
+        "difficulty": "Moderate",
+        "points": "2"
+      },
+      {
+        "order": "15",
+        "questionId": "2.5.12",
+        "objective": "Evaluate limits at infinity.",
+        "estimatedTime": "1m 8s",
+        "difficulty": "Moderate",
+        "points": "2"
+      },
+      {
+        "order": "15",
+        "questionId": "2.5.25",
+        "objective": "Evaluate limits at infinity.",
+        "estimatedTime": "1m 16s",
+        "difficulty": "Moderate",
+        "points": "2"
+      },
+      {
+        "order": "16",
+        "questionId": "2.5.28",
+        "objective": "Evaluate limits at infinity.",
+        "estimatedTime": "1m 9s",
+        "difficulty": "Moderate",
+        "points": "2"
+      },
+      {
+        "order": "17",
+        "questionId": "2.5.29",
+        "objective": "Evaluate limits at infinity.",
+        "estimatedTime": "1m 53s",
+        "difficulty": "Moderate",
+        "points": "2"
+      },
+      {
+        "order": "17",
+        "questionId": "2.5.31",
+        "objective": "Evaluate limits at infinity.",
+        "estimatedTime": "1m 48s",
+        "difficulty": "Moderate",
+        "points": "2"
+      },
+      {
+        "order": "18",
+        "questionId": "2.6.23",
+        "objective": "Determine if functions are continuous at given values.",
+        "estimatedTime": "1m 40s",
+        "difficulty": "Moderate",
+        "points": "2"
+      },
+      {
+        "order": "19",
+        "questionId": "2.6.28",
+        "objective": "Find points of discontinuity or intervals of continuity.",
+        "estimatedTime": "1m 30s",
+        "difficulty": "Moderate",
+        "points": "2"
+      },
+      {
+        "order": "19",
+        "questionId": "2.6.30",
+        "objective": "Find points of discontinuity or intervals of continuity.",
+        "estimatedTime": "1m 37s",
+        "difficulty": "Moderate",
+        "points": "2"
+      },
+      {
+        "order": "20",
+        "questionId": "2.7.11",
+        "objective": "Determine delta values associated with the precise definition of a limit.",
+        "estimatedTime": "2m 16s",
+        "difficulty": "Hard",
+        "points": "2"
+      },
+      {
+        "order": "20",
+        "questionId": "2.7.12",
+        "objective": "Determine delta values associated with the precise definition of a limit.",
+        "estimatedTime": "2m 37s",
+        "difficulty": "Hard",
+        "points": "2"
+      },
+      {
+        "order": "21",
+        "questionId": "3.2.35",
+        "objective": "Find derivatives of functions using limits.",
+        "estimatedTime": "2m 9s",
+        "difficulty": "Moderate",
+        "points": "3"
+      },
+      {
+        "order": "21",
+        "questionId": "3.2.36",
+        "objective": "Find derivatives of functions using limits.",
+        "estimatedTime": "2m 24s",
+        "difficulty": "Moderate",
+        "points": "3"
+      },
+      {
+        "order": "22",
+        "questionId": "3.2.37",
+        "objective": "Find derivatives of functions using limits.",
+        "estimatedTime": "3m 7s",
+        "difficulty": "Moderate",
+        "points": "3"
+      },
+      {
+        "order": "22",
+        "questionId": "3.2.38",
+        "objective": "Find derivatives of functions using limits.",
+        "estimatedTime": "2m 44s",
+        "difficulty": "Moderate",
+        "points": "3"
+      },
+      {
+        "order": "23",
+        "questionId": "3.2.39",
+        "objective": "Find derivatives of functions using limits.",
+        "estimatedTime": "3m 13s",
+        "difficulty": "Moderate",
+        "points": "3"
+      },
+      {
+        "order": "24",
+        "questionId": "3.1.34",
+        "objective": "Use limit definitions to find equations of tangent lines.",
+        "estimatedTime": "2m 6s",
+        "difficulty": "Moderate",
+        "points": "3"
+      },
+      {
+        "order": "25",
+        "questionId": "3.1.37",
+        "objective": "Use limit definitions to find equations of tangent lines.",
+        "estimatedTime": "2m 50s",
+        "difficulty": "Moderate",
+        "points": "3"
+      },
+      {
+        "order": "25",
+        "questionId": "3.1.39",
+        "objective": "Use limit definitions to find equations of tangent lines.",
+        "estimatedTime": "3m 22s",
+        "difficulty": "Moderate",
+        "points": "3"
+      }
+    ],
+    "requested": "Exam 1"
+  }
+]

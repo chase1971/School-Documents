@@ -1,0 +1,385 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AACU AI Sessions</title>
+<style>
+:root{
+  --bg:#f7f6f2; --card:#ffffff; --ink:#1d1f24; --muted:#5d6370; --line:#e2e0d8;
+  --accent:#2f5d8a; --accent-soft:#e6eef6; --warn:#8a4b12; --warn-soft:#fbefe1;
+  --good:#2d6a43; --good-soft:#e5f2e9;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#16181c; --card:#1f2228; --ink:#e8e8ea; --muted:#a2a7b2; --line:#33373f;
+    --accent:#8db8e3; --accent-soft:#1f2c3a; --warn:#e7b27a; --warn-soft:#3a2b1c;
+    --good:#86c99d; --good-soft:#1c3024;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#16181c; --card:#1f2228; --ink:#e8e8ea; --muted:#a2a7b2; --line:#33373f;
+  --accent:#8db8e3; --accent-soft:#1f2c3a; --warn:#e7b27a; --warn-soft:#3a2b1c;
+  --good:#86c99d; --good-soft:#1c3024;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 system-ui,-apple-system,"Segoe UI",sans-serif}
+main{max-width:1000px;margin:0 auto;padding:24px 16px 80px}
+a{color:var(--accent)}
+.back{font-size:14px}
+h1{font-size:28px;margin:12px 0 4px}
+h2{font-size:21px;margin:40px 0 12px;padding-bottom:6px;border-bottom:2px solid var(--line)}
+h3{font-size:18px;margin:0 0 2px}
+.sub{color:var(--muted);margin:0 0 16px}
+.note{background:var(--accent-soft);border-radius:8px;padding:12px 14px;margin:12px 0}
+.toc{display:flex;flex-wrap:wrap;gap:6px;margin:12px 0}
+.toc a{background:var(--card);border:1px solid var(--line);border-radius:6px;padding:3px 9px;text-decoration:none;font-size:14px}
+.tablewrap{overflow-x:auto;border:1px solid var(--line);border-radius:8px;background:var(--card)}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th,td{text-align:left;vertical-align:top;padding:8px 10px;border-bottom:1px solid var(--line)}
+th{background:var(--accent-soft);font-weight:600}
+tr:last-child td{border-bottom:none}
+.stats li{margin-bottom:8px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:16px 18px;margin:14px 0}
+.who{color:var(--muted);font-size:14px;margin:0 0 10px}
+.tags{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 10px}
+.tag{font-size:12px;border-radius:999px;padding:2px 9px;background:var(--accent-soft);color:var(--accent)}
+.tag.cc{background:var(--good-soft);color:var(--good)}
+.tag.skeptic{background:var(--warn-soft);color:var(--warn)}
+dl{margin:0;display:grid;grid-template-columns:150px 1fr;gap:6px 14px}
+dt{font-weight:600;font-size:14px;color:var(--muted)}
+dd{margin:0}
+dd ul{margin:0;padding-left:18px}
+.pitch{margin-top:12px;background:var(--good-soft);border-radius:8px;padding:10px 12px}
+.pitch b{color:var(--good)}
+.files{font-size:13px;color:var(--muted);margin-top:10px}
+@media (max-width:640px){dl{grid-template-columns:1fr}dt{margin-top:6px}}
+</style>
+</head>
+<body>
+<main>
+<a class="back" href="/pages.html">← All pages</a>
+<h1>AACU 2026 Conference on AI and Higher Education</h1>
+<p class="sub">Session summaries for the AI proposal. October 28 to 30, 2026. Written November 7, 2026 from the transcripts in the AACU folder in Google Drive.</p>
+
+<div class="note">Each session has a short card: who presented and where, the field, what they use AI for, the framework they offer, results, research they cited, and why it helps your case. For more detail on any session, open the transcript listed at the bottom of its card. A few presenter names were garbled by the auto transcript; those are marked "(name unclear)".</div>
+
+<div class="toc">
+<a href="#table">Quick table</a>
+<a href="#evidence">Best evidence for the pitch</a>
+<a href="#classroom">Classroom frameworks</a>
+<a href="#institution">Institution-wide efforts</a>
+<a href="#big">Plenaries and big ideas</a>
+<a href="#other">Faculty workload and counterpoint</a>
+</div>
+
+<h2 id="table">Quick table</h2>
+<div class="tablewrap"><table>
+<tr><th>College</th><th>Type</th><th>Field</th><th>What AI does</th><th>Framework</th></tr>
+<tr><td><a href="#ziegler">Harford Community College</a></td><td>Community college</td><td>Nursing</td><td>Course-specific Socratic tutor for after-hours studying</td><td>Five pillars of a Socratic tutor</td></tr>
+<tr><td><a href="#takeaim">Ferris State University</a></td><td>Public university</td><td>Mechanical engineering technology</td><td>"Board of experts" critiques student's own answer first</td><td>TAKE AI.M</td></tr>
+<tr><td><a href="#asked">Not named (Texas)</a></td><td>Unknown</td><td>Political science</td><td>Simulation with conflicting AI advisors; students defend decisions</td><td>A.S.K.E.D.</td></tr>
+<tr><td><a href="#syllabus">Kean University + Middlesex County College</a></td><td>University + community college</td><td>Psychology, statistics, leadership</td><td>AI rules set per assignment, scaffolded 100 to 400 level</td><td>Holistic Syllabus + AI Assessment Scale</td></tr>
+<tr><td><a href="#suny">SUNY (5 campuses)</a></td><td>State system</td><td>STEM, health, culinary, business, humanities</td><td>Faculty-designed AI learning activities, measured</td><td>SIAC (Design, Partner, Measure)</td></tr>
+<tr><td><a href="#utsa">UT San Antonio</a></td><td>Public university</td><td>Campus-wide</td><td>Paid student interns co-design AI guidelines and tools</td><td>Pedagogical partnership</td></tr>
+<tr><td><a href="#creativity">UW Stevens Point</a></td><td>Regional public</td><td>Media studies</td><td>Students choose which AI tools to use in a client video project</td><td>"Creativity is a choice"</td></tr>
+<tr><td><a href="#design">UW Stevens Point</a></td><td>Regional public</td><td>Graphic design</td><td>AI connected to design tools; students direct AI systems</td><td>Design Engineering</td></tr>
+<tr><td><a href="#cuny">CUNY (LaGuardia CC, Hunter, York)</a></td><td>State system, incl. community colleges</td><td>Cross-discipline</td><td>Faculty communities, student AI guide, AI literacy modules</td><td>Four community models; 6-level color scale</td></tr>
+<tr><td><a href="#soar">Santa Monica College area (SOAR grant)</a></td><td>Community college</td><td>CTE, nursing, music, math, ESL</td><td>Faculty AI Academy with coaches</td><td>Three anchors</td></tr>
+<tr><td><a href="#alabama">Alabama State University</a></td><td>HBCU, lower-resource</td><td>Academic affairs / advising</td><td>No-code degree tracker, degree audit, transfer credit tools</td><td>TOAST; "low cost is not low governance"</td></tr>
+<tr><td><a href="#governance">Northern Arizona University (study of 253 colleges)</a></td><td>Research</td><td>Higher ed leadership</td><td>Rates colleges' AI policies for maturity</td><td>Digital maturity, six indicators</td></tr>
+<tr><td><a href="#melo">UNC Chapel Hill (study of UNC system)</a></td><td>Research</td><td>Information science</td><td>How unclear AI rules land on students</td><td>Policy vs infrastructure</td></tr>
+<tr><td><a href="#plenary">Emory, Agnes Scott, Georgia State, Clark Atlanta, Berry</a></td><td>Mixed</td><td>Institution-wide</td><td>Required AI curricula, AI centers, literacy badges</td><td>Plenary overview</td></tr>
+<tr><td><a href="#bowen">José Antonio Bowen (plenary)</a></td><td>Speaker</td><td>Teaching and learning</td><td>AI simulations; design over access</td><td>Do unaided / delegate / do with AI</td></tr>
+<tr><td><a href="#reclaim">Northern Arizona University</a></td><td>Public university</td><td>Faculty productivity</td><td>AI agents handle faculty paperwork and prep</td><td>MAPS (multi-agent persona system)</td></tr>
+<tr><td><a href="#georgetown">Georgetown University</a></td><td>Private university</td><td>Teaching center</td><td>How to teach well without AI</td><td>Meet the same needs without AI</td></tr>
+<tr><td><a href="#medical">Univ. of South Dakota School of Medicine</a></td><td>Medical school</td><td>Medicine</td><td>AI for study planning and learning plans</td><td>Abstract only</td></tr>
+</table></div>
+
+<h2 id="evidence">Best evidence for the pitch</h2>
+<p>The strongest points for showing that other colleges are moving and that we are behind.</p>
+<ul class="stats">
+<li><b>Community colleges are the furthest behind.</b> A study of 253 colleges' public AI policies found 99 of 100 major research universities at "developing" or "maturing." Half of the associate's colleges (50 of 100) and 57 of 100 bachelor's colleges scored 0 or 1 on a 5-point scale, meaning almost nothing. <i>(Brazelton, Northern Arizona University)</i></li>
+<li><b>Most colleges allow AI.</b> In the same study, 206 frameworks permit AI with conditions and only 26 prohibit it. Permissive frameworks also cover about twice as much ground (median 26.5 of 48 topics vs 12). <i>(Brazelton)</i></li>
+<li><b>It doesn't matter whether a policy was required from above or built locally.</b> Both kinds came out about the same. "What matters is doing the work." <i>(Brazelton)</i></li>
+<li><b>Having no clear policy leaves students to sort it out.</b> When the answer is "it depends," students taking five classes face five different rules and carry the risk of an integrity violation. One administrator said half of all academic dishonesty cases are now AI-related. <i>(Melo, UNC Chapel Hill)</i></li>
+<li><b>Students are afraid, not experts.</b> Faculty in a 30-person community college AI Academy found many students "terrified" of being failed just for mentioning AI. <i>(SOAR, Santa Monica College area)</i> Students also asked for clearer acceptable-use rules and AI tutorials. <i>(SUNY)</i></li>
+<li><b>Faculty already expect change.</b> In a survey of 1,000+ faculty, 95% expect students to rely on AI more, 90% worry it could weaken critical thinking, and 61% see potential to improve and personalize learning. <i>(Opening plenary)</i></li>
+<li><b>Teens already use AI companions.</b> In a 2025 Common Sense Media survey, 72% of US teens had tried an AI companion and 52% used one at least a few times a month (n=1,060). <i>(Bowen)</i></li>
+<li><b>Design matters, not just access.</b> In a high school math study, unrestricted AI helped during practice, but students did worse than a no-AI group once it was removed. A tutor with safeguards mostly avoided this. A carefully designed AI tutor in undergraduate physics beat active learning. <i>(Cited by D'Amico. He didn't name them, but they match Bastani et al. (PNAS, 2025) and Kestin et al. (Harvard, Scientific Reports, 2025).)</i></li>
+<li><b>Community colleges are already doing this.</b> Harford CC (nursing tutors), LaGuardia CC (campus AI guide, first-year AI literacy modules, $50K in grants), Middlesex County College (AI in master syllabi), Santa Monica College (AI coaching, about 200 faculty at one drop-in), and Clark Atlanta (IBM AI literacy badge for every entering student).</li>
+<li><b>Cost is not the barrier people assume.</b> Harford's tutors run on BoodleBox's free tier. Alabama State, a lower-resource HBCU, built its own advising tools with staff who had no coding background. CUNY's grassroots "Don't AI Alone" group has no budget. On the other side, free tools ran out of capacity mid-project at UW Stevens Point, and one presenter pays about $120 a month out of pocket. That argues for institutional licenses.</li>
+<li><b>Even skeptics' campuses invest.</b> Georgetown's "Teaching Without AI" presenters work at a school with an enterprise Gemini license and a dedicated AI and Digital Learning Specialist position.</li>
+</ul>
+
+<h2 id="classroom">Classroom frameworks</h2>
+
+<div class="card" id="ziegler">
+<h3>Engineering Engagement: Socratic AI Tutors</h3>
+<p class="who">Galen Ziegler, Assistant Professor of Nursing, Harford Community College (Maryland)</p>
+<div class="tags"><span class="tag cc">Community college</span><span class="tag">Nursing</span><span class="tag">AI tutor</span></div>
+<dl>
+<dt>What they do</dt><dd>Builds course-specific AI tutors so nursing students get coaching at 2 AM, when he isn't available. The tutors replace rote rereading of notes. Each tutor is loaded with his own slides, objectives, study guides and exam blueprint, so it doesn't pull from the open internet.</dd>
+<dt>Framework</dt><dd>Five pillars: (1) ask one question, then wait; (2) require reasoning and prioritization, not recall; (3) a safety alert that immediately corrects dangerous errors; (4) "knowledge bridges": a short explanation or analogy when stuck, then try again; (5) stay tied to the exam blueprint and redirect off-topic questions. Setup: pick one use case, attach materials, write instructions, test it as five kinds of students, revise.</dd>
+<dt>Tool / cost</dt><dd>BoodleBox, free version. Includes a fill-in-the-blank system prompt template.</dd>
+<dt>Results</dt><dd>Student perception survey: about 36% more students felt AI helps them understand complex concepts, 32% more felt it could improve performance, and 17% more felt comfortable using it. No sample size given, and these are perceptions, not grades. One student: "it would not just give me the answer, use hints and clues to lead me there."</dd>
+<dt>Limits</dt><dd>Determined students can get around the instructions to obtain answers.</dd>
+</dl>
+<div class="pitch"><b>For the pitch:</b> a community college, a free tool, and a low-lift model any department could copy.</div>
+<div class="files">Files: Engineering Engagement A Universal Framework for Architecting Socratic AI Tutors.docx · Socratic_AI_Tutor_Presentation_Summary.docx</div>
+</div>
+
+<div class="card" id="takeaim">
+<h3>TAKE AI.M: Preserving Engineering Judgment</h3>
+<p class="who">Christina (last name not in transcript), Professor of Mechanical Engineering Technology, Ferris State University (Michigan)</p>
+<div class="tags"><span class="tag">Engineering / STEM</span><span class="tag">Critical thinking</span></div>
+<dl>
+<dt>What they do</dt><dd>Students must commit to their own answer before consulting AI. Then an AI "board of experts" responds: one expert, one practitioner from a neighboring field, and one naysayer. Students judge each response.</dd>
+<dt>Framework</dt><dd><b>T</b>ake a position (answer, confidence, reason) → <b>A</b>I assistance (the board) → <b>K</b>nowledge gained (did my answer change?) → <b>E</b>ngineering judgment (correct? physically reasonable? assumptions valid? accept, partly accept, or reject each advisor) → <b>AI.M</b> reflection through one "M" lens (mistakes, misconceptions, method, modifications, merit, and others).</dd>
+<dt>Tool</dt><dd>She built a web tool that forces the full cycle, because students kept skipping straight to AI. It exports a PDF log that students submit, and she grades the change in their thinking. On the instructor side, you can run your own assignment past the board to find AI shortcuts before students do.</dd>
+<dt>Results</dt><dd>Example: a student designing a throwable water-rescue device changed his motor, battery and float decisions after the board pushed back. Not a formal study.</dd>
+</dl>
+<div class="pitch"><b>For the pitch:</b> a STEM example that puts student judgment ahead of AI answers, with a graded paper trail.</div>
+<div class="files">File: Sessions.md (despite the file name, this is the TAKE AI.M transcript)</div>
+</div>
+
+<div class="card" id="asked">
+<h3>From Answers to Judgment: the A.S.K.E.D. Framework</h3>
+<p class="who">Scott D'Amico, Faculty Development Program Lead and adjunct political science instructor, Texas (college not named in the transcript)</p>
+<div class="tags"><span class="tag">Political science</span><span class="tag">Simulation</span><span class="tag">Research cited</span></div>
+<dl>
+<dt>What they do</dt><dd>A semester-long simulation in which students act as political figures, for example a Texas governor deciding on the 2025 hemp/THC bill. Two AI advisors give confident, opposite advice. Then new information arrives (veterans oppose the ban), and students must decide again. A custom ChatGPT site walks students through it and produces a decision memo they submit in Canvas.</dd>
+<dt>Framework</dt><dd><b>A</b>rticulate (what are we deciding?) · <b>S</b>upport (what evidence?) · <b>K</b>nock around (strongest competing argument) · <b>E</b>valuate (does it hold up after new information?) · <b>D</b>ecide (recommendation, why, what is still uncertain). Repeat when new evidence arrives. No credit for changing your mind or for sticking with it, only for showing why.</dd>
+<dt>Research cited</dt><dd>The two studies listed under "Design matters" in the evidence section above: unrestricted AI hurt later math performance, and a well-designed physics tutor beat active learning. Also research on reading comprehension and the self-monitoring that working with AI demands.</dd>
+<dt>Other uses suggested</dt><dd>Case studies, bioethics, nursing diagnosis, IT, ethics bowl, group work in large lectures.</dd>
+</dl>
+<div class="pitch"><b>For the pitch:</b> when answers are free, judging answers becomes the skill to teach. Includes two research citations.</div>
+<div class="files">File: From Answers to Judgment Teaching with the A.S.K.E.D. Framework in the Age of AI.docx</div>
+</div>
+
+<div class="card" id="syllabus">
+<h3>Rewriting the Syllabus for the AI Era</h3>
+<p class="who">Dr. Peri Yuksel, developmental psychologist, Kean University (New Jersey); a colleague in educational science and statistics, first name Nick (last name unclear); Dr. Nurdan Duzgoren-Aydin, academic leadership, Middlesex County College</p>
+<div class="tags"><span class="tag cc">Community college partner</span><span class="tag">Psychology</span><span class="tag">Syllabus / policy</span><span class="tag">Research cited</span></div>
+<dl>
+<dt>Main idea</dt><dd>Set AI rules <b>per assignment, not per course</b>. Rules can even vary within one assignment (for example, AI for ideas, then for editing a draft you wrote). Scaffold AI use: the instructor demonstrates how they check AI output, and low-stakes practice comes before high-stakes work. If an assignment bans AI, say why and what skill students build instead.</dd>
+<dt>Framework</dt><dd>Holistic Syllabus with a fifth dimension: AI pedagogy, fluency and responsible use. Uses the AI Assessment Scale levels: no AI, brainstorm, edit, AI generates and students critique, full use. A master blueprint maps AI literacy growth from 100- to 400-level courses using Bloom's taxonomy. "Inverted Bloom's": students jump straight to creating with AI and skip understanding and evaluating.</dd>
+<dt>Leadership view</dt><dd>Course-by-course rules confuse students. Fix this at the program level with master course shells (especially for intro courses taught by adjuncts), curriculum maps that tie AI skills to program outcomes, employer expectations, and professional development in the strategic plan with a budget.</dd>
+<dt>Examples</dt><dd>Statistics: devices away in class, plus a demo of AI misreading statistical output compared with APA standards. Comparing a database literature search with an AI search to show the gaps. Museum studies: fact-checking AI exhibit data. Computer science: pair programming with AI as "navigator."</dd>
+<dt>Research cited</dt><dd>Perkins et al. 2024 (AI Assessment Scale); Ng et al. 2021 (AI literacy); Gurung &amp; Galardi 2022 (syllabus tone affects help-seeking); Karve &amp; Hurless 2026 ("Do I need an AI policy in the course syllabus?"); Anderson &amp; Krathwohl 2001 (revised Bloom's); Yuksel &amp; Bailey 2024. Free syllabus checklists on OSF.</dd>
+</dl>
+<div class="pitch"><b>For the pitch:</b> a concrete, low-cost first step (department-level syllabus language), with a community college leader endorsing it and a strong citation list.</div>
+<div class="files">File: Rewriting the Syllabus for the AI Era A Blueprint for AI Pedagogy.docx</div>
+</div>
+
+<div class="card" id="suny">
+<h3>Infusing GenAI Across Disciplines (SUNY multi-campus project)</h3>
+<p class="who">Audeliz Matias, SUNY Empire State University; Dr. Deepa Deshpande (lead researcher, Alfred State); team from SUNY Upstate, Fredonia and Schenectady; guest Rebecca Milliner, Associate Professor of Baking Production &amp; Management, Alfred State College</p>
+<div class="tags"><span class="tag">State system</span><span class="tag">Cross-discipline</span><span class="tag">Measured study</span></div>
+<dl>
+<dt>Scale</dt><dd>SUNY grant, IRB-approved. Phase 2: 5 campuses, about 35 faculty (50 recruited), 639 students reached, 4 AI tools (ChatGPT, Claude, Gemini, Perplexity through the vendor Mentor AI). Phase 1: 4 campuses, 27 faculty. Disciplines: STEM, health, culinary, business, social sciences, arts, humanities.</dd>
+<dt>Framework</dt><dd>SIAC (Systematic Infusion of AI in Teaching): <b>Design</b> (start from a learning challenge in the discipline, choose the AI interaction, teach basic AI literacy first), <b>Partner</b> (student partners run a SWOT analysis on the faculty member's draft activity; paid $50), <b>Measure</b> (shared surveys on AI literacy, critical thinking and equity). Faculty had training, an online course, AI coaches and campus coordinators.</dd>
+<dt>Results</dt><dd>Faculty AI literacy rose in both phases. Too few students completed the post-survey to measure them. Of 48 faculty-designed activities, 45 kept learning in the discipline central. AI was used for feedback (18), tutoring (14), critiquing AI output (13), content generation (13) and planning (11). <b>Only 5 of 21 required students to verify information.</b> Lesson: "Treat GenAI as a learning-design problem. Start with learning goals, not the tool."</dd>
+<dt>Classroom example</dt><dd>Baking: seniors designed a bakery packaging line with two custom chatbots, one for creative ideas and one for restructuring the written report. Freshmen used AI for plated-dessert ideas. Some students turned in obvious AI filler, so she now writes an AI rubric for every project. Students who used it as intended "couldn't stop working on the project."</dd>
+</dl>
+<div class="pitch"><b>For the pitch:</b> an entire state system running a coordinated, measured rollout across very different fields, including a hands-on culinary program.</div>
+<div class="files">Files: Infusing GenAI Across Disciplines Lessons from a Multi-Institutional Initiative.docx · three slide screenshots from Nov 1</div>
+</div>
+
+<div class="card" id="utsa">
+<h3>Student AI Partners as Co-Designers</h3>
+<p class="who">Haley Craig (learning experience designer) and Claudia Arcolin, University of Texas at San Antonio</p>
+<div class="tags"><span class="tag">Campus-wide</span><span class="tag">Student voice</span></div>
+<dl>
+<dt>What they do</dt><dd>A paid, structured 8 to 10 week internship, now in its 6th cohort (the first had 6 students). Students are matched with faculty, staff or student-service offices as co-designers, not assistants. They take Coursera AI literacy courses, join journal clubs, and do resume and communication training.</dd>
+<dt>Framework</dt><dd>Pedagogical partnership (from Elon University's open guide): students and faculty learn AI together.</dd>
+<dt>Outputs</dt><dd>A three-sentence syllabus AI statement that made a big difference for faculty and students. An "AI Essentials" guidelines course for faculty, staff and students, revised yearly. A student-led AI 101 workshop for staff. A student audit of 300+ chatbot FAQ answers. Assignment redesigns. Now moving into course transformation.</dd>
+<dt>Results</dt><dd>Faculty said "I had no idea that's what students were thinking." Higher engagement. Lesson: start small, design for scale. (Johns Hopkins School of Education runs something similar with 5 students.)</dd>
+</dl>
+<div class="pitch"><b>For the pitch:</b> a cheap way to start that gives students a voice and produces syllabus language and guides.</div>
+<div class="files">File: Beyond the Classroom Student AI Partners as Co-Designers of Creative and Transformative Learning.docx</div>
+</div>
+
+<div class="card" id="creativity">
+<h3>Creativity is a Choice: GenAI in Service Learning</h3>
+<p class="who">Cary (last name not in transcript), media historian, Media Studies, University of Wisconsin-Stevens Point</p>
+<div class="tags"><span class="tag">Media studies</span><span class="tag">Service learning</span><span class="tag skeptic">Skeptic who teaches with AI</span></div>
+<dl>
+<dt>What they do</dt><dd>A 300-level course on AI and creativity (spring 2025). Students partnered with a local nonprofit to make K-5 bike trail safety videos and decided for themselves which AI tools, if any, to use at each production step. Each week paired a tool's history and ethics with a decision about using it. AI was never required.</dd>
+<dt>Framework</dt><dd>"Creativity is a choice": every use of AI is a choice between outsourcing a piece of thinking and doing it yourself. Course arc: history of AI → theories of creativity → ethics → integration.</dd>
+<dt>Assignments</dt><dd>Students wrote a vivid scene of a vacation 10 years from now, then asked Copilot to do the same. The AI answers were nearly identical (white-sand beach, half said the Maldives), while the human answers were all different. Another assignment had Copilot alter a creative piece students were proud of. It distorted their work and sometimes removed people of color, which opened a discussion of representation. Students also trained a simple dataset (Machine Learning for Kids).</dd>
+<dt>Results</dt><dd>The client was pleased, but quality was below these students' usual work, partly because free tools ran out of capacity. The best video used AI only for the voice. Copilot was used because of the university's policy.</dd>
+</dl>
+<div class="pitch"><b>For the pitch:</b> even a skeptic builds AI literacy into a course, and the lack of institutional tool access hurt the project.</div>
+<div class="files">File: Creativity is a Choice Determining the Value of GenAI Tools in Service Learning.md</div>
+</div>
+
+<div class="card" id="design">
+<h3>From Pixels to Parameters: Design Engineering</h3>
+<p class="who">Tamara (last name not in transcript), Graphic Design, University of Wisconsin-Stevens Point</p>
+<div class="tags"><span class="tag">Graphic design</span><span class="tag">Workforce</span></div>
+<dl>
+<dt>Main idea</dt><dd>AI is automating entry-level design production, so new graduates need senior-level skills from day one. A curriculum built only on manual software skills risks becoming obsolete.</dd>
+<dt>Framework</dt><dd>"Design Engineering," with the graduate as director: teach design fundamentals first, then in 300/400-level courses teach design systems, design tokens, and connecting design tools (Figma, Adobe) to AI so students direct the AI rather than compete with it. Shift from a static portfolio to a "systems portfolio." Faculty teach themselves (Figma courses, "ask Claude to teach you Claude").</dd>
+<dt>Example</dt><dd>"Personal Vision Quest": she started a career-planning app in Figma Make, and students rebuilt and extended it with job hotspots, salaries, BLS data and rent costs. Students ran out of AI credits and got frustrated, but learned to write prompts and iterate.</dd>
+</dl>
+<div class="pitch"><b>For the pitch:</b> the workforce argument. Entry-level jobs are changing, and programs that don't adapt leave graduates behind.</div>
+<div class="files">File: From Pixels to Parameters Pioneering 'Design Engineering' in the AI Era.docx</div>
+</div>
+
+<div class="card" id="medical">
+<h3>Reimagining Student Success: AI, Self-Directed Learning, and the Co-curriculum</h3>
+<p class="who">Paula Hawks, Medical Education Learning Specialist, University of South Dakota Sanford School of Medicine</p>
+<div class="tags"><span class="tag">Medicine</span><span class="tag">Advising</span></div>
+<dl>
+<dt>Note</dt><dd>The file contains only the session description, not a transcript.</dd>
+<dt>Summary</dt><dd>A qualitative study of medical students. Students called self-directed learning essential but struggled with goals, time management and tracking progress. Individual learning plans helped, and AI made planning faster and more personal. Students also worried about over-relying on AI. Conclusion: AI is most useful for redesigning support systems such as advising, not for replacing teaching.</dd>
+</dl>
+<div class="files">File: Reimagining Student Success AI, Self-Directed Learning, and the Co-curriculum.docx</div>
+</div>
+
+<h2 id="institution">Institution-wide efforts</h2>
+
+<div class="card" id="governance">
+<h3>Beyond Compliance: AI Governance as a Sign of Digital Maturity</h3>
+<p class="who">G. Blue Brazelton, Associate Professor of Higher Education Leadership and AI Fellow, Northern Arizona University</p>
+<div class="tags"><span class="tag">Research</span><span class="tag">Policy</span><span class="tag cc">Community college data</span></div>
+<dl>
+<dt>Study</dt><dd>Coded the public AI policies of colleges randomly sampled from federal data: 100 each of research universities, master's, bachelor's and associate's colleges (253 had enough to code). A 600-college follow-up study is underway.</dd>
+<dt>Findings</dt><dd>See the evidence section above: research universities 99 of 100 developing or maturing; associate's colleges 50 of 100 at nearly nothing; 206 permissive vs 26 prohibitive; required vs homegrown policies made no difference. Academic integrity was covered the same way everywhere. At some small colleges, one librarian's research guide <i>was</i> the whole AI framework. Cal State Fullerton's team-built framework was adopted by the entire Cal State system.</dd>
+<dt>Framework</dt><dd>Digital maturity (Kane et al., <i>The Technology Fallacy</i>, 2019): early → developing → maturing. Mature organizations draw people toward change instead of ordering it. Six indicators: <b>Default</b> (no unless approved, or yes with conditions), <b>Reach</b> (beyond cheating: HR, tenure review, staff), <b>Owner</b> (someone's actual job), <b>Current</b> (dated, with a review schedule), <b>Support</b> (AI literacy training), <b>Audiences</b> (staff and student affairs, not just faculty). Free self-assessment web form.</dd>
+<dt>Exemplar</dt><dd>Northeastern: chief AI officer, review board, and four assignment labels from "prohibited" to "required."</dd>
+<dt>Also said</dt><dd>Students get rewarded for AI use in one class and charged with dishonesty for the same use in another. Colleges should license tools for students as an equity issue. An audience member who researches community colleges noted that two-year colleges' AI goals reflect their mission, for example helping ESL students.</dd>
+</dl>
+<div class="pitch"><b>For the pitch:</b> the clearest data that associate's colleges are behind, plus a ready-made six-point checklist for where to start.</div>
+<div class="files">Files: Beyond Compliance Reading AI Governance as a Signal of Institutional Digital Maturity.docx · AI_Governance_and_Campus_Digital_Maturity_Summary.docx (your earlier summary, which includes your Lone Star note)</div>
+</div>
+
+<div class="card" id="melo">
+<h3>"It Depends": Ambiguity as AI Governance</h3>
+<p class="who">Maggie Melo, Associate Professor, School of Data and Information Sciences, UNC Chapel Hill (NSF-funded)</p>
+<div class="tags"><span class="tag">Research</span><span class="tag">Policy</span><span class="tag">Students</span></div>
+<dl>
+<dt>Study</dt><dd>A scan of 16 UNC-system universities and interviews with 11 people who wrote AI guidance. Next phase: first-generation students' use of AI for academic help.</dd>
+<dt>Findings</dt><dd>Colleges chose flexible guidance over formal policy on purpose, because AI changes too fast. Administrators are interpreting things day by day. Students were rarely involved. Quote: "two years ago there was no AI, and now half of all academic dishonesty things are somehow related to this new tool." No campus detection tool, and faculty want black-and-white answers.</dd>
+<dt>Framework</dt><dd>Flexibility helps the institution and protects faculty autonomy, but at the student level it means five classes with five sets of rules, and the student carries the risk. Metaphor: a policy is a speed limit sign, but you also need roads, lane lines and pothole repair. Recommendations: concrete examples of acceptable use, support outside class (UNC's Library AI Studio, a shared space plus a chatbot), quick answers, and students on AI committees in paid roles. Students avoid asking for fear of being accused.</dd>
+<dt>Research cited</dt><dd>A University of Hong Kong study (58 students, 12 teachers) on the hidden work students do to navigate unclear AI policies.</dd>
+</dl>
+<div class="pitch"><b>For the pitch:</b> doing nothing is itself a policy, and its cost falls on students.</div>
+<div class="files">File: Ambiguity as AI Governance in Higher Education.docx</div>
+</div>
+
+<div class="card" id="cuny">
+<h3>The Unexpected Upside: AI as a Catalyst for Educator Community</h3>
+<p class="who">Mari (last name unclear), Hunter College / CUNY; J. Elizabeth Clark, AI Faculty Lead, LaGuardia Community College; Cassandra Silva Sibilin, York College and CUNY central office</p>
+<div class="tags"><span class="tag cc">Community college</span><span class="tag">State system</span><span class="tag">Faculty development</span></div>
+<dl>
+<dt>Setting</dt><dd>CUNY: 26 colleges (7 community colleges), about 250,000 degree-seeking students.</dd>
+<dt>Four models</dt><dd>
+<ul>
+<li><b>Peer-led fellowship</b> ("Building Bridges of Knowledge," 2024-25, private grant): 25 fellows in 5 discipline areas created open classroom materials teaching students to use AI. 200+ applicants from 21 colleges, 100% completion, and 13,000 downloads from 140 countries.</li>
+<li><b>Institutional ecosystem</b> (LaGuardia CC): "entered the ChatGPT era without a plan." In one year: sent a team to the AAC&amp;U AI institute, held a campus AI conference (100+ faculty), wrote a student AI guide with a <b>6-level color scale</b> (red 1 = no AI up to blue 5 = full use; purple 6 = AI is the topic), built 4 AI literacy modules for the first-year seminar, won two CUNY grants (about $50K), formed an advisory group, and ran a reading group on Bowen &amp; Watson's <i>Teaching with AI</i>. The scale lets AI-averse faculty join the conversation too.</li>
+<li><b>Collaborative network</b>: the national AI in Education Network (3,000+ members) and its custom-chatbot interest group. Volunteer-run, unfunded.</li>
+<li><b>Grassroots</b>: "Don't AI Alone," started by about 10 CUNY colleagues. It runs conferences and a dashboard mapping who is doing what, with a session for skeptics coming up.</li>
+</ul></dd>
+<dt>Lessons</dt><dd>Peer invitations work better than central-office emails. Go to department meetings instead of waiting for people to come to workshops.</dd>
+</dl>
+<div class="pitch"><b>For the pitch:</b> a community college went from no plan to a campus-wide framework in one year on small grants. The grassroots model shows how to start with no budget.</div>
+<div class="files">File: The Unexpected Upside Generative AI as a Catalyst for Educators' Community.docx</div>
+</div>
+
+<div class="card" id="soar">
+<h3>Building an AI-Ready Faculty</h3>
+<p class="who">SOAR grant project; scaled by Santa Monica College</p>
+<div class="tags"><span class="tag cc">Community college</span><span class="tag">Faculty development</span></div>
+<dl>
+<dt>What they do</dt><dd>A faculty-led AI Academy: 30 faculty from career and technical ed, nursing, music, math and ESL. 27 completed projects, most shared as open resources. Projects included course redesigns, course management, data analysis and student chatbots.</dd>
+<dt>Framework</dt><dd>Three anchors: purpose and readiness, conditions and support, sustainability. Not tied to any one tool. Choose-your-own-path assignments. AI coaches (trained in coaching, not tech) check in weekly, plus monthly drop-in "Coaching Corners."</dd>
+<dt>Results</dt><dd>Santa Monica College funded ongoing coaching for all faculty. One drop-in drew about 200 people. Faculty found many students "terrified" of AI. Barriers: burnout, time, union issues, policy, and worry that tools will disappear. Course materials and forms are free to reuse.</dd>
+</dl>
+<div class="pitch"><b>For the pitch:</b> a community college faculty development model with a ready-made toolkit.</div>
+<div class="files">File: Building an AI-Ready Faculty_ A Scalable Model for Institutional Transformation.docx (your summary, not the full transcript)</div>
+</div>
+
+<div class="card" id="alabama">
+<h3>Optimizing and Modernizing Student Success through AI</h3>
+<p class="who">Dr. Rena Bristol (retired Assistant Provost and Graduate Dean) and Ayo Atane (Academic Program Coordinator), Alabama State University, an HBCU in Montgomery</p>
+<div class="tags"><span class="tag">HBCU</span><span class="tag">Advising / student success</span><span class="tag">Low cost</span></div>
+<dl>
+<dt>What they do</dt><dd>Faculty and staff with no coding background used the university's closed internal AI system ("AskStinger") to build tools. They discovered faculty were already doing this on their own and brought them together. Tools: a student <b>degree tracker</b> dashboard (progress, alerts, links), <b>degree audit logic</b> written by faculty, and a <b>transfer credit analyzer</b> for rising transfer and dual-enrollment volume. A human reviews every result.</dd>
+<dt>Framework</dt><dd>TOAST ("Take Ownership of your Academic Success Trajectory") under a "Modernize and Optimize" project to cut the number of separate platforms. Steps: define the problem, assign an owner, build, test, connect, scale. "Low cost doesn't mean low governance."</dd>
+<dt>Why</dt><dd>As a lower-revenue institution, they found commercial tools too expensive.</dd>
+<dt>Governance</dt><dd>IT, institutional research and the VP were involved. One project was paused over data security. Open questions: who maintains a faculty-built tool, and is it accessible?</dd>
+</dl>
+<div class="pitch"><b>For the pitch:</b> a resource-limited college built its own AI tools in-house, and AI can serve advising and retention, not just classrooms.</div>
+<div class="files">File: Optimizing and Modernizing Student Success through AI.docx</div>
+</div>
+
+<h2 id="big">Plenaries and big ideas</h2>
+
+<div class="card" id="plenary">
+<h3>Opening Plenary: Leading Through Uncertainty</h3>
+<p class="who">AAC&amp;U leadership with college presidents and students</p>
+<div class="tags"><span class="tag">Institution-wide</span><span class="tag">Survey data</span></div>
+<dl>
+<dt>What colleges are doing</dt><dd>
+<ul>
+<li><b>Emory:</b> AI.Humanity initiative, faculty cluster hire, about 200 faculty in AI research, task force on teaching.</li>
+<li><b>Agnes Scott College:</b> a required two-semester AI curriculum for all first-year students (ethics, labor, environment, representation, integrity).</li>
+<li><b>Georgia State:</b> AI summit tied to the strategic plan, an AI Center of Excellence with a boot camp for students, staff and faculty, and a responsible-AI research center.</li>
+<li><b>Clark Atlanta (HBCU):</b> syllabus AI guidelines, an IBM AI literacy badge for every entering student, a $9.8M Department of Defense AI grant, and an AI master's with Georgia Tech.</li>
+<li><b>Berry College:</b> AI built into its campus-work program.</li>
+</ul></dd>
+<dt>Survey</dt><dd>1,000+ faculty: 95% expect more student reliance on AI, 90% think it could weaken critical thinking, 61% see potential to enhance learning.</dd>
+<dt>Student voice</dt><dd>Students use AI as a "spotter at the gym" (support, not heavy lifting). They want to understand how it works and the ethics. Equity worry: students who can't or won't use AI may fall behind in school and jobs.</dd>
+</dl>
+<div class="pitch"><b>For the pitch:</b> a list of named colleges with campus-wide AI programs, plus faculty survey numbers.</div>
+<div class="files">File: Opening Plenary_ Leading Through Uncertainty.docx (summary)</div>
+</div>
+
+<div class="card" id="bowen">
+<h3>Day 2 Plenary: Human Thinking and AI</h3>
+<p class="who">José Antonio Bowen (co-author of <i>Teaching with AI</i>)</p>
+<div class="tags"><span class="tag">Teaching and learning</span><span class="tag">Research cited</span></div>
+<dl>
+<dt>Main ideas</dt><dd>Results depend on how teaching is designed, not on access to AI. Passively reading AI explanations is like highlighting: it feels like learning but isn't. Good AI tutors ask more than they tell. Assignments should make changes in thinking visible: commit, defend, get feedback, revise, explain what changed. Sort skills into: done unaided, safe to delegate, and done with AI. Colleges need to be a "cognitive gym" that keeps the useful mental effort.</dd>
+<dt>Examples</dt><dd>AI-built simulations: Three Mile Island control room, Broad Street cholera outbreak, a policy-modeling assignment, and a database of 250,000 piano works.</dd>
+<dt>Research cited</dt><dd>Common Sense Media 2025: 72% of teens have tried an AI companion. Gallup-Purdue 2014: only 27% of graduates strongly agreed their professors cared about them as people. Harvard Business School's $699 program with AI professor avatars. "Verification is the new limit" (slide cites Cunningham 2026 and Brodeur et al. 2026, PNAS): AI lets you produce more than you can check.</dd>
+<dt>Q&amp;A</dt><dd>Admits long-term evidence is limited. Opposes a policing approach. Says to tell students each assignment's purpose.</dd>
+</dl>
+<div class="pitch"><b>For the pitch:</b> the "design, not access" message, plus the teen companion statistic and the verification slide.</div>
+<div class="files">Files: AI_Conference_Day_2_Summary_and_Presentation_Notes.docx · day 2 conference notes.pdf (same content) · verification is the new limit.png · ai professors.png</div>
+</div>
+
+<h2 id="other">Faculty workload and counterpoint</h2>
+
+<div class="card" id="reclaim">
+<h3>Reclaim Your Time, Reclaim Your Agency</h3>
+<p class="who">G. Blue Brazelton, Northern Arizona University</p>
+<div class="tags"><span class="tag">Faculty productivity</span></div>
+<dl>
+<dt>What they do</dt><dd>Uses AI for faculty work, not student work: drafting, editing, research triage, slide decks, assessment reports. It never touches student data or assignments.</dd>
+<dt>Framework</dt><dd>MAPS (multi-agent persona system): a set of specialized AI "personas" (editor, researcher and fact-checker, storyteller, project manager), each just a file of instructions. A second AI reviews the work, and the human stays in charge. Start with a "Monday action": name the project you keep putting off, find the tedious step, and hand that step to AI first.</dd>
+<dt>Equity</dt><dd>Paid tools and uneven access are a barrier. He pays about $120 a month himself and urges colleges to provide enterprise seats or reimbursement. He calls the gains "narrow, real gains, not magic."</dd>
+<dt>Classroom ideas from the chat</dt><dd>A University of Arizona nutrition professor lets students improve their writing with AI but requires them to verify and cite every scientific change. A graphic design professor replaced online discussion boards ("the single most AI-able assignment") with conversational bots. Her three questions before using AI: Do I know enough to judge the output? Would I otherwise pay a person for this? Would this exist without AI? Brazelton offers an opt-out track for students who object.</dd>
+</dl>
+<div class="pitch"><b>For the pitch:</b> AI can give faculty time back for teaching, and the college should pay for the tools, not individual faculty.</div>
+<div class="files">File: Reclaim Your Time, Reclaim Your Agency AI as Productivity Infrastructure for the Professoriate.docx</div>
+</div>
+
+<div class="card" id="georgetown">
+<h3>Teaching Without AI</h3>
+<p class="who">David Ebenbach (Assistant Director, Graduate Student &amp; Faculty Programs) and Ella Csarnó (AI and Digital Learning Specialist), Georgetown University teaching center</p>
+<div class="tags"><span class="tag skeptic">Counterpoint</span><span class="tag">Research cited</span></div>
+<dl>
+<dt>Stance</dt><dd>Ebenbach is openly "AI hostile." Csarnó supports faculty in using AI but is conflicted about it. They model respectful disagreement. Both agree that teaching without AI can't mean teaching the way we used to: faculty need to know what AI can do and how students use it, including as companions and therapists.</dd>
+<dt>Framework</dt><dd>Meet the needs students turn to AI for, without AI. Personalization: choice, reflection, relationships, office hours, peer review. Non-judgmental help: say out loud that you are a resource. Availability: peer review, online resources. Intercultural support. Also reduce the temptation to misuse it: explain your reasons, build community, use real-world problems, give frequent low-stakes assignments (high stakes push students to AI), require drafts, and reward risk-taking. Teach AI literacy even in no-AI courses.</dd>
+<dt>Research cited</dt><dd>AI feedback on essays changed with randomly assigned ethnicity and gender (Latino writers were told to work on English; women were told to be more likable). Georgetown research: college essays since 2022 have richer vocabulary but fewer distinct ideas. Dewsbury's intro biology study: covering 25% less content to build community gave equal final exam scores and slightly better results in the next course.</dd>
+</dl>
+<div class="pitch"><b>For the pitch:</b> use this to answer skeptical colleagues. Even here, the argument is for AI literacy, and Georgetown still has an enterprise Gemini license and a staff position for AI.</div>
+<div class="files">File: Teaching Without AI.docx</div>
+</div>
+
+</main>
+</body>
+</html>

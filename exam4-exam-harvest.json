@@ -1,0 +1,796 @@
+[
+  {
+    "requested": "Exam 4",
+    "captureMethod": "Imported from Exam 4 review map: exam4-review-harvest.json + examGroups in exam4-review-map-state.json",
+    "capturedAt": "2026-11-06T18:51:33Z",
+    "questionIds": [
+      "4.9.13",
+      "4.9.22",
+      "4.9.17",
+      "4.9.26",
+      "4.9.29",
+      "4.9.31",
+      "4.9.35",
+      "4.9.51",
+      "5.1.24",
+      "5.1.33",
+      "5.1.29",
+      "5.2.22",
+      "5.2.40",
+      "5.2.41",
+      "5.2.43",
+      "5.2.53",
+      "5.2.55",
+      "5.3.28",
+      "5.3.39",
+      "5.3.33",
+      "5.3.36",
+      "5.3.24",
+      "5.3.46",
+      "5.3.42",
+      "5.3.50",
+      "5.3.77",
+      "5.4.27",
+      "5.5.17",
+      "5.5.20",
+      "5.5.22",
+      "5.5.24",
+      "5.5.25",
+      "5.5.44",
+      "5.5.48",
+      "5.5.51",
+      "5.5.79",
+      "5.5.81"
+    ],
+    "capturedQuestionIds": [
+      "4.9.13",
+      "4.9.22",
+      "4.9.17",
+      "4.9.26",
+      "4.9.29",
+      "4.9.31",
+      "4.9.35",
+      "4.9.51",
+      "5.1.24",
+      "5.1.33",
+      "5.1.29",
+      "5.2.22",
+      "5.2.40",
+      "5.2.41",
+      "5.2.43",
+      "5.2.53",
+      "5.2.55",
+      "5.3.28",
+      "5.3.39",
+      "5.3.33",
+      "5.3.36",
+      "5.3.24",
+      "5.3.46",
+      "5.3.42",
+      "5.3.50",
+      "5.3.77",
+      "5.4.27",
+      "5.5.17",
+      "5.5.20",
+      "5.5.22",
+      "5.5.24",
+      "5.5.25",
+      "5.5.44",
+      "5.5.48",
+      "5.5.51",
+      "5.5.79",
+      "5.5.81"
+    ],
+    "missingQuestionIds": [],
+    "unexpectedQuestionIds": [],
+    "coverage": {
+      "captured": 37,
+      "expected": 37
+    },
+    "problems": [
+      {
+        "printOrder": 1,
+        "questionId": "4.9.13",
+        "summary": "Find all antiderivatives of $f(x)=4\\sin x+5$.",
+        "fullText": "Find all the antiderivatives of the following function.\n\n$$f(x)=4\\sin x+5$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Find all the antiderivatives of the following function.\n\n$$f(x)=4\\sin x+5$$"
+          }
+        ],
+        "prompt": "Find all antiderivatives of $f(x)=4\\sin x+5$.",
+        "expr": "",
+        "objective": "Find all antiderivatives of a function.",
+        "poolOrder": "1",
+        "difficulty": "",
+        "estimatedTime": "",
+        "latex": true
+      },
+      {
+        "printOrder": 2,
+        "questionId": "4.9.22",
+        "summary": "Find all antiderivatives of $G(t)=7$; check by differentiating.",
+        "fullText": "Find all the antiderivatives of the following function. Check your work by taking the derivative.\n\n$$G(t)=7$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Find all the antiderivatives of the following function. Check your work by taking the derivative.\n\n$$G(t)=7$$"
+          }
+        ],
+        "prompt": "Find all antiderivatives of $G(t)=7$; check by differentiating.",
+        "expr": "",
+        "objective": "Find all antiderivatives of a function.",
+        "poolOrder": "1",
+        "difficulty": "",
+        "estimatedTime": "",
+        "latex": true
+      },
+      {
+        "printOrder": 3,
+        "questionId": "4.9.17",
+        "summary": "Find all antiderivatives of $f(y)=-\\dfrac{16}{y^{17}}$.",
+        "fullText": "Find all the antiderivatives for the following function.\n\n$$f(y)=-\\dfrac{16}{y^{17}}$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Find all the antiderivatives for the following function.\n\n$$f(y)=-\\dfrac{16}{y^{17}}$$"
+          }
+        ],
+        "prompt": "Find all antiderivatives of $f(y)=-\\dfrac{16}{y^{17}}$.",
+        "expr": "",
+        "objective": "Find all antiderivatives of a function.",
+        "poolOrder": "2",
+        "difficulty": "",
+        "estimatedTime": "",
+        "latex": true
+      },
+      {
+        "printOrder": 4,
+        "questionId": "4.9.26",
+        "summary": "Evaluate $\\displaystyle\\int\\left(\\dfrac{6}{t^{2}}+9t^{3}\\right)\\,dt$.",
+        "fullText": "Determine the following indefinite integral.\n\n$$\\int\\left(\\dfrac{6}{t^{2}}+9t^{3}\\right)\\,dt$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Determine the following indefinite integral.\n\n$$\\int\\left(\\dfrac{6}{t^{2}}+9t^{3}\\right)\\,dt$$"
+          }
+        ],
+        "prompt": "Evaluate $\\displaystyle\\int\\left(\\dfrac{6}{t^{2}}+9t^{3}\\right)\\,dt$.",
+        "expr": "",
+        "objective": "Determine the indefinite integrals of a function.",
+        "poolOrder": "2",
+        "difficulty": "",
+        "estimatedTime": "",
+        "latex": true
+      },
+      {
+        "printOrder": 5,
+        "questionId": "4.9.29",
+        "summary": "Evaluate $\\displaystyle\\int\\bigl(3x^{1/3}+4x^{-2/3}+9\\bigr)\\,dx$.",
+        "fullText": "Determine the following indefinite integral. Check your work by differentiation.\n\n$$\\int\\left(3x^{1/3}+4x^{-2/3}+9\\right)\\,dx$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Determine the following indefinite integral. Check your work by differentiation.\n\n$$\\int\\left(3x^{1/3}+4x^{-2/3}+9\\right)\\,dx$$"
+          }
+        ],
+        "prompt": "Evaluate $\\displaystyle\\int\\bigl(3x^{1/3}+4x^{-2/3}+9\\bigr)\\,dx$.",
+        "expr": "",
+        "objective": "Determine the indefinite integrals of a function.",
+        "poolOrder": "3",
+        "difficulty": "",
+        "estimatedTime": "",
+        "latex": true
+      },
+      {
+        "printOrder": 6,
+        "questionId": "4.9.31",
+        "summary": "Evaluate $\\displaystyle\\int(4x+1)(7-x)\\,dx$.",
+        "fullText": "Determine the following indefinite integral.\n\n$$\\int(4x+1)(7-x)\\,dx$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Determine the following indefinite integral.\n\n$$\\int(4x+1)(7-x)\\,dx$$"
+          }
+        ],
+        "prompt": "Evaluate $\\displaystyle\\int(4x+1)(7-x)\\,dx$.",
+        "expr": "",
+        "objective": "Determine the indefinite integrals of a function.",
+        "poolOrder": "4",
+        "difficulty": "",
+        "estimatedTime": "",
+        "latex": true
+      },
+      {
+        "printOrder": 7,
+        "questionId": "4.9.35",
+        "summary": "Evaluate $\\displaystyle\\int\\dfrac{3x^{4}-6x^{3}}{x^{2}}\\,dx$.",
+        "fullText": "Determine the following indefinite integral.\n\n$$\\int\\dfrac{3x^{4}-6x^{3}}{x^{2}}\\,dx$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Determine the following indefinite integral.\n\n$$\\int\\dfrac{3x^{4}-6x^{3}}{x^{2}}\\,dx$$"
+          }
+        ],
+        "prompt": "Evaluate $\\displaystyle\\int\\dfrac{3x^{4}-6x^{3}}{x^{2}}\\,dx$.",
+        "expr": "",
+        "objective": "Determine the indefinite integrals of a function.",
+        "poolOrder": "5",
+        "difficulty": "",
+        "estimatedTime": "",
+        "latex": true
+      },
+      {
+        "printOrder": 8,
+        "questionId": "4.9.51",
+        "summary": "Evaluate $\\displaystyle\\int\\dfrac{1}{6y}\\,dy$.",
+        "fullText": "Determine the following indefinite integral.\n\n$$\\int\\dfrac{1}{6y}\\,dy$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Determine the following indefinite integral.\n\n$$\\int\\dfrac{1}{6y}\\,dy$$"
+          }
+        ],
+        "prompt": "Evaluate $\\displaystyle\\int\\dfrac{1}{6y}\\,dy$.",
+        "expr": "",
+        "objective": "Determine the indefinite integrals of a function.",
+        "poolOrder": "6",
+        "difficulty": "",
+        "estimatedTime": "",
+        "latex": true
+      },
+      {
+        "printOrder": 9,
+        "questionId": "5.1.24",
+        "summary": "Left and right Riemann sums for $f(x)=\\dfrac{3}{x}$ on $[1,5]$, $n=4$.",
+        "fullText": "Use the figures to calculate the left and right Riemann sums for $f$ on the given interval and for the given value of $n$.\n\n$$f(x)=\\dfrac{3}{x}\\quad\\text{on }[1,5];\\quad n=4$$\n\na. The left Riemann sum for $f$\n\nb. The right Riemann sum for $f$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Use the figures to calculate the left and right Riemann sums for $f$ on the given interval and for the given value of $n$.\n\n$$f(x)=\\dfrac{3}{x}\\quad\\text{on }[1,5];\\quad n=4$$\n\na. The left Riemann sum for $f$\n\nb. The right Riemann sum for $f$"
+          }
+        ],
+        "prompt": "Left and right Riemann sums for $f(x)=\\dfrac{3}{x}$ on $[1,5]$, $n=4$.",
+        "expr": "",
+        "objective": "Illustrate, calculate, and compare left, right, and midpoint Riemann sums for functions.",
+        "poolOrder": "7",
+        "difficulty": "",
+        "estimatedTime": "",
+        "latex": true
+      },
+      {
+        "printOrder": 10,
+        "questionId": "5.1.33",
+        "summary": "Midpoint Riemann sum for $f(x)=10+x^{2}$ on $[0,10]$, $n=5$.",
+        "fullText": "Approximate the area of the region bounded by the graph of\n\n$$f(x)=10+x^{2}$$\n\nand the $x$-axis on $[0,10]$ with $n=5$ subintervals. Use the midpoint of each subinterval to determine the height of each rectangle.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Approximate the area of the region bounded by the graph of\n\n$$f(x)=10+x^{2}$$\n\nand the $x$-axis on $[0,10]$ with $n=5$ subintervals. Use the midpoint of each subinterval to determine the height of each rectangle."
+          }
+        ],
+        "prompt": "Midpoint Riemann sum for $f(x)=10+x^{2}$ on $[0,10]$, $n=5$.",
+        "expr": "",
+        "objective": "Illustrate, calculate, and compare left, right, and midpoint Riemann sums for functions.",
+        "poolOrder": "7",
+        "difficulty": "",
+        "estimatedTime": "",
+        "latex": true
+      },
+      {
+        "printOrder": 11,
+        "questionId": "5.1.29",
+        "summary": "Riemann sums for $f(x)=3x^{2}+2$ on $[1,3]$, $n=4$.",
+        "fullText": "Complete the following steps for the given function, interval, and value of $n$.\n\n$$f(x)=3x^{2}+2\\quad\\text{on }[1,3];\\quad n=4$$\n\na. Sketch the graph of the function on the given interval.\n\nb. Calculate $\\Delta x$ and the grid points $x_{0},x_{1},\\ldots,x_{n}$.\n\nc. Illustrate the left and right Riemann sums, and determine which underestimates and which overestimates the area under the curve.\n\nd. Calculate the left and right Riemann sums.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Complete the following steps for the given function, interval, and value of $n$.\n\n$$f(x)=3x^{2}+2\\quad\\text{on }[1,3];\\quad n=4$$\n\na. Sketch the graph of the function on the given interval.\n\nb. Calculate $\\Delta x$ and the grid points $x_{0},x_{1},\\ldots,x_{n}$.\n\nc. Illustrate the left and right Riemann sums, and determine which underestimates and which overestimates the area under the curve.\n\nd. Calculate the left and right Riemann sums."
+          }
+        ],
+        "prompt": "Riemann sums for $f(x)=3x^{2}+2$ on $[1,3]$, $n=4$.",
+        "expr": "",
+        "objective": "Illustrate, calculate, and compare left, right, and midpoint Riemann sums for functions.",
+        "poolOrder": "8",
+        "difficulty": "",
+        "estimatedTime": "",
+        "latex": true
+      },
+      {
+        "printOrder": 12,
+        "questionId": "5.2.22",
+        "summary": "Net area for $f(x)=12-3x^{2}$ on $[0,4]$ with $n=4$.",
+        "fullText": "The following function is positive and negative on the given interval.\n\n$$f(x)=12-3x^{2}\\quad\\text{on }[0,4]$$\n\na. Sketch the function on the interval.\n\nb. Approximate the net area bounded by the graph of $f$ and the $x$-axis using a left, right, and midpoint Riemann sum with $n=4$.\n\nc. Use the sketch to show which intervals of $[0,4]$ make positive and negative contributions to the net area.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "The following function is positive and negative on the given interval.\n\n$$f(x)=12-3x^{2}\\quad\\text{on }[0,4]$$\n\na. Sketch the function on the interval.\n\nb. Approximate the net area bounded by the graph of $f$ and the $x$-axis using a left, right, and midpoint Riemann sum with $n=4$.\n\nc. Use the sketch to show which intervals of $[0,4]$ make positive and negative contributions to the net area."
+          }
+        ],
+        "prompt": "Net area for $f(x)=12-3x^{2}$ on $[0,4]$ with $n=4$.",
+        "expr": "",
+        "objective": "Sketch the graph of a curve and approximate the net area using Riemann sums.",
+        "poolOrder": "8",
+        "difficulty": "",
+        "estimatedTime": "",
+        "latex": true
+      },
+      {
+        "printOrder": 13,
+        "questionId": "5.2.40",
+        "summary": "Geometry: $\\displaystyle\\int_{-6}^{1}(2x+4)\\,dx$.",
+        "fullText": "Use geometry (not Riemann sums) to evaluate the definite integral. Sketch the graph of the integrand, show the region in question, and interpret your result.\n\n$$\\int_{-6}^{1}(2x+4)\\,dx$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Use geometry (not Riemann sums) to evaluate the definite integral. Sketch the graph of the integrand, show the region in question, and interpret your result.\n\n$$\\int_{-6}^{1}(2x+4)\\,dx$$"
+          }
+        ],
+        "prompt": "Geometry: $\\displaystyle\\int_{-6}^{1}(2x+4)\\,dx$.",
+        "expr": "",
+        "objective": "Sketch the graph of an integrand and use geometry to evaluate the definite integral.",
+        "poolOrder": "9",
+        "difficulty": "",
+        "estimatedTime": "",
+        "latex": true
+      },
+      {
+        "printOrder": 14,
+        "questionId": "5.2.41",
+        "summary": "Geometry: $\\displaystyle\\int_{-3}^{2}(-3|x|)\\,dx$.",
+        "fullText": "Use geometry (not Riemann sums) to evaluate the definite integral. Sketch the graph of the integrand, show the region in question, and interpret your result.\n\n$$\\int_{-3}^{2}\\bigl(-3|x|\\bigr)\\,dx$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Use geometry (not Riemann sums) to evaluate the definite integral. Sketch the graph of the integrand, show the region in question, and interpret your result.\n\n$$\\int_{-3}^{2}\\bigl(-3|x|\\bigr)\\,dx$$"
+          }
+        ],
+        "prompt": "Geometry: $\\displaystyle\\int_{-3}^{2}(-3|x|)\\,dx$.",
+        "expr": "",
+        "objective": "Sketch the graph of an integrand and use geometry to evaluate the definite integral.",
+        "poolOrder": "9",
+        "difficulty": "",
+        "estimatedTime": "",
+        "latex": true
+      },
+      {
+        "printOrder": 15,
+        "questionId": "5.2.43",
+        "summary": "Geometry: $\\displaystyle\\int_{-4}^{0}\\sqrt{16-x^{2}}\\,dx$.",
+        "fullText": "Use geometry (not Riemann sums) to evaluate the definite integral. Sketch the graph of the integrand, show the region in question, and interpret your result.\n\n$$\\int_{-4}^{0}\\sqrt{16-x^{2}}\\,dx$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Use geometry (not Riemann sums) to evaluate the definite integral. Sketch the graph of the integrand, show the region in question, and interpret your result.\n\n$$\\int_{-4}^{0}\\sqrt{16-x^{2}}\\,dx$$"
+          }
+        ],
+        "prompt": "Geometry: $\\displaystyle\\int_{-4}^{0}\\sqrt{16-x^{2}}\\,dx$.",
+        "expr": "",
+        "objective": "Sketch the graph of an integrand and use geometry to evaluate the definite integral.",
+        "poolOrder": "9",
+        "difficulty": "",
+        "estimatedTime": "",
+        "latex": true
+      },
+      {
+        "printOrder": 16,
+        "questionId": "5.2.53",
+        "summary": "Integral properties given $\\int_{3}^{5}f=4$, $\\int_{5}^{8}f=-7$, $\\int_{5}^{8}g=1$.",
+        "fullText": "Suppose\n\n$$\\int_{3}^{5}f(x)\\,dx=4,\\qquad\\int_{5}^{8}f(x)\\,dx=-7,\\qquad\\int_{5}^{8}g(x)\\,dx=1.$$\n\nEvaluate:\n\na. $\\displaystyle\\int_{3}^{5}7f(x)\\,dx$\n\nb. $\\displaystyle\\int_{5}^{8}-2g(x)\\,dx$\n\nc. $\\displaystyle\\int_{5}^{8}\\bigl[5f(x)-g(x)\\bigr]\\,dx$\n\nd. $\\displaystyle\\int_{8}^{5}\\bigl[f(x)+3g(x)\\bigr]\\,dx$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Suppose\n\n$$\\int_{3}^{5}f(x)\\,dx=4,\\qquad\\int_{5}^{8}f(x)\\,dx=-7,\\qquad\\int_{5}^{8}g(x)\\,dx=1.$$\n\nEvaluate:\n\na. $\\displaystyle\\int_{3}^{5}7f(x)\\,dx$\n\nb. $\\displaystyle\\int_{5}^{8}-2g(x)\\,dx$\n\nc. $\\displaystyle\\int_{5}^{8}\\bigl[5f(x)-g(x)\\bigr]\\,dx$\n\nd. $\\displaystyle\\int_{8}^{5}\\bigl[f(x)+3g(x)\\bigr]\\,dx$"
+          }
+        ],
+        "prompt": "Integral properties given $\\int_{3}^{5}f=4$, $\\int_{5}^{8}f=-7$, $\\int_{5}^{8}g=1$.",
+        "expr": "",
+        "objective": "Evaluate definite integrals using properties of definite integrals.",
+        "poolOrder": "10",
+        "difficulty": "",
+        "estimatedTime": "",
+        "latex": true
+      },
+      {
+        "printOrder": 17,
+        "questionId": "5.2.55",
+        "summary": "Integral properties on $[2,8]$ for $f$ and $g$.",
+        "fullText": "Consider two functions $f$ and $g$ on $[2,8]$ such that\n\n$$\\int_{2}^{8}f(x)\\,dx=15,\\quad\\int_{2}^{8}g(x)\\,dx=6,\\quad\\int_{4}^{8}f(x)\\,dx=7,\\quad\\int_{2}^{4}g(x)\\,dx=4.$$\n\nEvaluate:\n\na. $\\displaystyle\\int_{2}^{4}9f(x)\\,dx$\n\nb. $\\displaystyle\\int_{2}^{8}\\bigl(f(x)-g(x)\\bigr)\\,dx$\n\nc. $\\displaystyle\\int_{2}^{4}\\bigl(f(x)-g(x)\\bigr)\\,dx$\n\nd. $\\displaystyle\\int_{4}^{8}\\bigl(g(x)-f(x)\\bigr)\\,dx$\n\ne. $\\displaystyle\\int_{4}^{8}5g(x)\\,dx$\n\nf. $\\displaystyle\\int_{4}^{2}6f(x)\\,dx$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Consider two functions $f$ and $g$ on $[2,8]$ such that\n\n$$\\int_{2}^{8}f(x)\\,dx=15,\\quad\\int_{2}^{8}g(x)\\,dx=6,\\quad\\int_{4}^{8}f(x)\\,dx=7,\\quad\\int_{2}^{4}g(x)\\,dx=4.$$\n\nEvaluate:\n\na. $\\displaystyle\\int_{2}^{4}9f(x)\\,dx$\n\nb. $\\displaystyle\\int_{2}^{8}\\bigl(f(x)-g(x)\\bigr)\\,dx$\n\nc. $\\displaystyle\\int_{2}^{4}\\bigl(f(x)-g(x)\\bigr)\\,dx$\n\nd. $\\displaystyle\\int_{4}^{8}\\bigl(g(x)-f(x)\\bigr)\\,dx$\n\ne. $\\displaystyle\\int_{4}^{8}5g(x)\\,dx$\n\nf. $\\displaystyle\\int_{4}^{2}6f(x)\\,dx$"
+          }
+        ],
+        "prompt": "Integral properties on $[2,8]$ for $f$ and $g$.",
+        "expr": "",
+        "objective": "Evaluate definite integrals using properties of definite integrals.",
+        "poolOrder": "10",
+        "difficulty": "",
+        "estimatedTime": "",
+        "latex": true
+      },
+      {
+        "printOrder": 18,
+        "questionId": "5.3.28",
+        "summary": "FTC: $\\displaystyle\\int_{1/2}^{2}\\left(2-\\dfrac{2}{x^{2}}\\right)\\,dx$.",
+        "fullText": "Evaluate the following integral using the Fundamental Theorem of Calculus. Sketch the graph of the integrand and shade the region whose net area you have found.\n\n$$\\int_{1/2}^{2}\\left(2-\\dfrac{2}{x^{2}}\\right)\\,dx$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Evaluate the following integral using the Fundamental Theorem of Calculus. Sketch the graph of the integrand and shade the region whose net area you have found.\n\n$$\\int_{1/2}^{2}\\left(2-\\dfrac{2}{x^{2}}\\right)\\,dx$$"
+          }
+        ],
+        "prompt": "FTC: $\\displaystyle\\int_{1/2}^{2}\\left(2-\\dfrac{2}{x^{2}}\\right)\\,dx$.",
+        "expr": "",
+        "objective": "Evaluate definite integrals using the Fundamental Theorem of Calculus.",
+        "poolOrder": "11",
+        "difficulty": "",
+        "estimatedTime": "",
+        "latex": true
+      },
+      {
+        "printOrder": 19,
+        "questionId": "5.3.39",
+        "summary": "FTC: $\\displaystyle\\int_{1/4}^{1}(t^{-3}-8)\\,dt$.",
+        "fullText": "Evaluate the following integral using the Fundamental Theorem of Calculus.\n\n$$\\int_{1/4}^{1}\\bigl(t^{-3}-8\\bigr)\\,dt$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Evaluate the following integral using the Fundamental Theorem of Calculus.\n\n$$\\int_{1/4}^{1}\\bigl(t^{-3}-8\\bigr)\\,dt$$"
+          }
+        ],
+        "prompt": "FTC: $\\displaystyle\\int_{1/4}^{1}(t^{-3}-8)\\,dt$.",
+        "expr": "",
+        "objective": "Evaluate definite integrals using the Fundamental Theorem of Calculus.",
+        "poolOrder": "11",
+        "difficulty": "",
+        "estimatedTime": "",
+        "latex": true
+      },
+      {
+        "printOrder": 20,
+        "questionId": "5.3.33",
+        "summary": "Evaluate $\\displaystyle\\int_{1}^{4}\\bigl(6x+\\sqrt{x}\\bigr)\\,dx$.",
+        "fullText": "Evaluate the integral.\n\n$$\\int_{1}^{4}\\bigl(6x+\\sqrt{x}\\bigr)\\,dx$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Evaluate the integral.\n\n$$\\int_{1}^{4}\\bigl(6x+\\sqrt{x}\\bigr)\\,dx$$"
+          }
+        ],
+        "prompt": "Evaluate $\\displaystyle\\int_{1}^{4}\\bigl(6x+\\sqrt{x}\\bigr)\\,dx$.",
+        "expr": "",
+        "objective": "Evaluate definite integrals using the Fundamental Theorem of Calculus.",
+        "poolOrder": "12",
+        "difficulty": "",
+        "estimatedTime": "",
+        "latex": true
+      },
+      {
+        "printOrder": 21,
+        "questionId": "5.3.36",
+        "summary": "FTC: $\\displaystyle\\int_{1}^{16}\\dfrac{2+7\\sqrt{t}}{\\sqrt{t}}\\,dt$.",
+        "fullText": "Evaluate the following integral using the Fundamental Theorem of Calculus.\n\n$$\\int_{1}^{16}\\dfrac{2+7\\sqrt{t}}{\\sqrt{t}}\\,dt$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Evaluate the following integral using the Fundamental Theorem of Calculus.\n\n$$\\int_{1}^{16}\\dfrac{2+7\\sqrt{t}}{\\sqrt{t}}\\,dt$$"
+          }
+        ],
+        "prompt": "FTC: $\\displaystyle\\int_{1}^{16}\\dfrac{2+7\\sqrt{t}}{\\sqrt{t}}\\,dt$.",
+        "expr": "",
+        "objective": "Evaluate definite integrals using the Fundamental Theorem of Calculus.",
+        "poolOrder": "12",
+        "difficulty": "",
+        "estimatedTime": "",
+        "latex": true
+      },
+      {
+        "printOrder": 22,
+        "questionId": "5.3.24",
+        "summary": "FTC: $\\displaystyle\\int_{\\pi/2}^{\\pi}(\\sin x+\\cos x)\\,dx$.",
+        "fullText": "Evaluate the following integral using the Fundamental Theorem of Calculus. Explain why the result is consistent with the figure.\n\n$$\\int_{\\pi/2}^{\\pi}(\\sin x+\\cos x)\\,dx$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Evaluate the following integral using the Fundamental Theorem of Calculus. Explain why the result is consistent with the figure.\n\n$$\\int_{\\pi/2}^{\\pi}(\\sin x+\\cos x)\\,dx$$"
+          }
+        ],
+        "prompt": "FTC: $\\displaystyle\\int_{\\pi/2}^{\\pi}(\\sin x+\\cos x)\\,dx$.",
+        "expr": "",
+        "objective": "Evaluate definite integrals using the Fundamental Theorem of Calculus.",
+        "poolOrder": "13",
+        "difficulty": "",
+        "estimatedTime": "",
+        "latex": true
+      },
+      {
+        "printOrder": 23,
+        "questionId": "5.3.46",
+        "summary": "FTC: $\\displaystyle\\int_{-5\\pi/2}^{5\\pi/2}(\\cos x-4)\\,dx$.",
+        "fullText": "Evaluate the following integral using the Fundamental Theorem of Calculus.\n\n$$\\int_{-5\\pi/2}^{5\\pi/2}(\\cos x-4)\\,dx$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Evaluate the following integral using the Fundamental Theorem of Calculus.\n\n$$\\int_{-5\\pi/2}^{5\\pi/2}(\\cos x-4)\\,dx$$"
+          }
+        ],
+        "prompt": "FTC: $\\displaystyle\\int_{-5\\pi/2}^{5\\pi/2}(\\cos x-4)\\,dx$.",
+        "expr": "",
+        "objective": "Evaluate definite integrals using the Fundamental Theorem of Calculus.",
+        "poolOrder": "13",
+        "difficulty": "",
+        "estimatedTime": "",
+        "latex": true
+      },
+      {
+        "printOrder": 24,
+        "questionId": "5.3.42",
+        "summary": "FTC: $\\displaystyle\\int_{0}^{\\sqrt{3}/2}\\dfrac{5}{\\sqrt{1-x^{2}}}\\,dx$.",
+        "fullText": "Use the Fundamental Theorem of Calculus to evaluate the following definite integral.\n\n$$\\int_{0}^{\\sqrt{3}/2}\\dfrac{5}{\\sqrt{1-x^{2}}}\\,dx$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Use the Fundamental Theorem of Calculus to evaluate the following definite integral.\n\n$$\\int_{0}^{\\sqrt{3}/2}\\dfrac{5}{\\sqrt{1-x^{2}}}\\,dx$$"
+          }
+        ],
+        "prompt": "FTC: $\\displaystyle\\int_{0}^{\\sqrt{3}/2}\\dfrac{5}{\\sqrt{1-x^{2}}}\\,dx$.",
+        "expr": "",
+        "objective": "Evaluate definite integrals using the Fundamental Theorem of Calculus.",
+        "poolOrder": "14",
+        "difficulty": "",
+        "estimatedTime": "",
+        "latex": true
+      },
+      {
+        "printOrder": 25,
+        "questionId": "5.3.50",
+        "summary": "Evaluate $\\dfrac{1}{5}\\displaystyle\\int_{0}^{\\ln 9}e^{x}\\,dx$.",
+        "fullText": "Evaluate the following definite integral using the Fundamental Theorem of Calculus.\n\n$$\\dfrac{1}{5}\\int_{0}^{\\ln 9}e^{x}\\,dx$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Evaluate the following definite integral using the Fundamental Theorem of Calculus.\n\n$$\\dfrac{1}{5}\\int_{0}^{\\ln 9}e^{x}\\,dx$$"
+          }
+        ],
+        "prompt": "Evaluate $\\dfrac{1}{5}\\displaystyle\\int_{0}^{\\ln 9}e^{x}\\,dx$.",
+        "expr": "",
+        "objective": "Evaluate definite integrals using the Fundamental Theorem of Calculus.",
+        "poolOrder": "14",
+        "difficulty": "",
+        "estimatedTime": "",
+        "latex": true
+      },
+      {
+        "printOrder": 26,
+        "questionId": "5.3.77",
+        "summary": "Simplify $\\dfrac{d}{dx}\\displaystyle\\int_{3}^{x^{3}}\\dfrac{1}{p^{2}}\\,dp$.",
+        "fullText": "Simplify the following expression.\n\n$$\\dfrac{d}{dx}\\int_{3}^{x^{3}}\\dfrac{1}{p^{2}}\\,dp$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Simplify the following expression.\n\n$$\\dfrac{d}{dx}\\int_{3}^{x^{3}}\\dfrac{1}{p^{2}}\\,dp$$"
+          }
+        ],
+        "prompt": "Simplify $\\dfrac{d}{dx}\\displaystyle\\int_{3}^{x^{3}}\\dfrac{1}{p^{2}}\\,dp$.",
+        "expr": "",
+        "objective": "Evaluate derivatives of definite integrals.",
+        "poolOrder": "15",
+        "difficulty": "",
+        "estimatedTime": "",
+        "latex": true
+      },
+      {
+        "printOrder": 27,
+        "questionId": "5.4.27",
+        "summary": "Average value of $f(x)=\\dfrac{3}{x^{2}+1}$ on $[-1,1]$.",
+        "fullText": "Find the average value of the following function over the given interval. Draw a graph of the function and indicate the average value.\n\n$$f(x)=\\dfrac{3}{x^{2}+1}\\quad\\text{on }[-1,1]$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Find the average value of the following function over the given interval. Draw a graph of the function and indicate the average value.\n\n$$f(x)=\\dfrac{3}{x^{2}+1}\\quad\\text{on }[-1,1]$$"
+          }
+        ],
+        "prompt": "Average value of $f(x)=\\dfrac{3}{x^{2}+1}$ on $[-1,1]$.",
+        "expr": "",
+        "objective": "Find average values of functions over given intervals.",
+        "poolOrder": "16",
+        "difficulty": "",
+        "estimatedTime": "",
+        "latex": true
+      },
+      {
+        "printOrder": 28,
+        "questionId": "5.5.17",
+        "summary": "Substitution: $\\displaystyle\\int 2x(x^{2}+18)^{7}\\,dx$.",
+        "fullText": "Use a change of variables or the table of general integration formulas to evaluate the following indefinite integral. Check your work by differentiating.\n\n$$\\int 2x\\,(x^{2}+18)^{7}\\,dx$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Use a change of variables or the table of general integration formulas to evaluate the following indefinite integral. Check your work by differentiating.\n\n$$\\int 2x\\,(x^{2}+18)^{7}\\,dx$$"
+          }
+        ],
+        "prompt": "Substitution: $\\displaystyle\\int 2x(x^{2}+18)^{7}\\,dx$.",
+        "expr": "",
+        "objective": "Evaluate indefinite integrals using substitution when the substitution is not given.",
+        "poolOrder": "17",
+        "difficulty": "",
+        "estimatedTime": "",
+        "latex": true
+      },
+      {
+        "printOrder": 29,
+        "questionId": "5.5.20",
+        "summary": "Substitution: $\\displaystyle\\int\\dfrac{(\\sqrt{x}+1)^{7}}{2\\sqrt{x}}\\,dx$.",
+        "fullText": "Use a change of variables or the table to evaluate the following indefinite integral.\n\n$$\\int\\dfrac{(\\sqrt{x}+1)^{7}}{2\\sqrt{x}}\\,dx$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Use a change of variables or the table to evaluate the following indefinite integral.\n\n$$\\int\\dfrac{(\\sqrt{x}+1)^{7}}{2\\sqrt{x}}\\,dx$$"
+          }
+        ],
+        "prompt": "Substitution: $\\displaystyle\\int\\dfrac{(\\sqrt{x}+1)^{7}}{2\\sqrt{x}}\\,dx$.",
+        "expr": "",
+        "objective": "Evaluate indefinite integrals using substitution when the substitution is not given.",
+        "poolOrder": "18",
+        "difficulty": "",
+        "estimatedTime": "",
+        "latex": true
+      },
+      {
+        "printOrder": 30,
+        "questionId": "5.5.22",
+        "summary": "Substitution: $\\displaystyle\\int\\dfrac{1}{4x-3}\\,dx$.",
+        "fullText": "Use a change of variables or the table of general integration formulas to evaluate the following indefinite integral. Check your work by differentiating.\n\n$$\\int\\dfrac{1}{4x-3}\\,dx$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Use a change of variables or the table of general integration formulas to evaluate the following indefinite integral. Check your work by differentiating.\n\n$$\\int\\dfrac{1}{4x-3}\\,dx$$"
+          }
+        ],
+        "prompt": "Substitution: $\\displaystyle\\int\\dfrac{1}{4x-3}\\,dx$.",
+        "expr": "",
+        "objective": "Evaluate indefinite integrals using substitution when the substitution is not given.",
+        "poolOrder": "19",
+        "difficulty": "",
+        "estimatedTime": "",
+        "latex": true
+      },
+      {
+        "printOrder": 31,
+        "questionId": "5.5.24",
+        "summary": "Substitution: $\\displaystyle\\int\\cos^{8}\\theta\\sin\\theta\\,d\\theta$.",
+        "fullText": "Use a change of variables or the table of general integration formulas to evaluate the following indefinite integral. Check your work by differentiating.\n\n$$\\int\\cos^{8}\\theta\\,\\sin\\theta\\,d\\theta$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Use a change of variables or the table of general integration formulas to evaluate the following indefinite integral. Check your work by differentiating.\n\n$$\\int\\cos^{8}\\theta\\,\\sin\\theta\\,d\\theta$$"
+          }
+        ],
+        "prompt": "Substitution: $\\displaystyle\\int\\cos^{8}\\theta\\sin\\theta\\,d\\theta$.",
+        "expr": "",
+        "objective": "Evaluate indefinite integrals using substitution when the substitution is not given.",
+        "poolOrder": "20",
+        "difficulty": "",
+        "estimatedTime": "",
+        "latex": true
+      },
+      {
+        "printOrder": 32,
+        "questionId": "5.5.25",
+        "summary": "Substitution: $\\displaystyle\\int\\dfrac{1}{\\sqrt{324-81x^{2}}}\\,dx$.",
+        "fullText": "Use a change of variables or the table of general integration formulas to evaluate the following indefinite integral. Check your work by differentiating.\n\n$$\\int\\dfrac{1}{\\sqrt{324-81x^{2}}}\\,dx$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Use a change of variables or the table of general integration formulas to evaluate the following indefinite integral. Check your work by differentiating.\n\n$$\\int\\dfrac{1}{\\sqrt{324-81x^{2}}}\\,dx$$"
+          }
+        ],
+        "prompt": "Substitution: $\\displaystyle\\int\\dfrac{1}{\\sqrt{324-81x^{2}}}\\,dx$.",
+        "expr": "",
+        "objective": "Evaluate indefinite integrals using substitution when the substitution is not given.",
+        "poolOrder": "21",
+        "difficulty": "",
+        "estimatedTime": "",
+        "latex": true
+      },
+      {
+        "printOrder": 33,
+        "questionId": "5.5.44",
+        "summary": "Substitution: $\\displaystyle\\int\\dfrac{e^{7x}}{e^{7x}+9}\\,dx$.",
+        "fullText": "Use a change of variables or the table of general integration formulas to evaluate the following indefinite integral. Check your work by differentiating.\n\n$$\\int\\dfrac{e^{7x}}{e^{7x}+9}\\,dx$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Use a change of variables or the table of general integration formulas to evaluate the following indefinite integral. Check your work by differentiating.\n\n$$\\int\\dfrac{e^{7x}}{e^{7x}+9}\\,dx$$"
+          }
+        ],
+        "prompt": "Substitution: $\\displaystyle\\int\\dfrac{e^{7x}}{e^{7x}+9}\\,dx$.",
+        "expr": "",
+        "objective": "Evaluate indefinite integrals using substitution when the substitution is not given.",
+        "poolOrder": "22",
+        "difficulty": "",
+        "estimatedTime": "",
+        "latex": true
+      },
+      {
+        "printOrder": 34,
+        "questionId": "5.5.48",
+        "summary": "Definite: $\\displaystyle\\int_{0}^{1}\\dfrac{2x}{(x^{2}+3)^{2}}\\,dx$.",
+        "fullText": "Use a change of variables or the table to evaluate the following definite integral.\n\n$$\\int_{0}^{1}\\dfrac{2x}{(x^{2}+3)^{2}}\\,dx$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Use a change of variables or the table to evaluate the following definite integral.\n\n$$\\int_{0}^{1}\\dfrac{2x}{(x^{2}+3)^{2}}\\,dx$$"
+          }
+        ],
+        "prompt": "Definite: $\\displaystyle\\int_{0}^{1}\\dfrac{2x}{(x^{2}+3)^{2}}\\,dx$.",
+        "expr": "",
+        "objective": "Evaluate definite integrals using substitution.",
+        "poolOrder": "23",
+        "difficulty": "",
+        "estimatedTime": "",
+        "latex": true
+      },
+      {
+        "printOrder": 35,
+        "questionId": "5.5.51",
+        "summary": "Definite: $\\displaystyle\\int_{-\\pi/2}^{\\pi/2}\\sin^{2}x\\cos x\\,dx$.",
+        "fullText": "Use a change of variables or the table to evaluate the following definite integral.\n\n$$\\int_{-\\pi/2}^{\\pi/2}\\sin^{2}x\\,\\cos x\\,dx$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Use a change of variables or the table to evaluate the following definite integral.\n\n$$\\int_{-\\pi/2}^{\\pi/2}\\sin^{2}x\\,\\cos x\\,dx$$"
+          }
+        ],
+        "prompt": "Definite: $\\displaystyle\\int_{-\\pi/2}^{\\pi/2}\\sin^{2}x\\cos x\\,dx$.",
+        "expr": "",
+        "objective": "Evaluate definite integrals using substitution.",
+        "poolOrder": "24",
+        "difficulty": "",
+        "estimatedTime": "",
+        "latex": true
+      },
+      {
+        "printOrder": 36,
+        "questionId": "5.5.79",
+        "summary": "Evaluate $\\displaystyle\\int\\dfrac{x}{\\sqrt{x-11}}\\,dx$.",
+        "fullText": "Evaluate the following integral.\n\n$$\\int\\dfrac{x}{\\sqrt{x-11}}\\,dx$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Evaluate the following integral.\n\n$$\\int\\dfrac{x}{\\sqrt{x-11}}\\,dx$$"
+          }
+        ],
+        "prompt": "Evaluate $\\displaystyle\\int\\dfrac{x}{\\sqrt{x-11}}\\,dx$.",
+        "expr": "",
+        "objective": "Evaluate integrals using substitution when additional steps are also needed.",
+        "poolOrder": "25",
+        "difficulty": "",
+        "estimatedTime": "",
+        "latex": true
+      },
+      {
+        "printOrder": 37,
+        "questionId": "5.5.81",
+        "summary": "Evaluate $\\displaystyle\\int\\dfrac{x}{\\sqrt[3]{x+2}}\\,dx$.",
+        "fullText": "Find the indefinite integral.\n\n$$\\int\\dfrac{x}{\\sqrt[3]{x+2}}\\,dx$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Find the indefinite integral.\n\n$$\\int\\dfrac{x}{\\sqrt[3]{x+2}}\\,dx$$"
+          }
+        ],
+        "prompt": "Evaluate $\\displaystyle\\int\\dfrac{x}{\\sqrt[3]{x+2}}\\,dx$.",
+        "expr": "",
+        "objective": "Evaluate integrals using substitution when additional steps are also needed.",
+        "poolOrder": "25",
+        "difficulty": "",
+        "estimatedTime": "",
+        "latex": true
+      }
+    ]
+  }
+]

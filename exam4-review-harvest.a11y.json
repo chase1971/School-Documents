@@ -1,0 +1,1319 @@
+[
+  {
+    "requested": "Exam IV Review",
+    "problems": [
+      {
+        "questionId": "4.9.13",
+        "objective": "Find all antiderivatives of a function.",
+        "summary": "Find all the antiderivatives of the following function.",
+        "fullText": "1.\nPart 1\nFind all the antiderivatives of the following function.\n\u200bf(x)\nequals\n=\n4 sine x plus 5\n4sinx+5\nPart 1\nThe antiderivatives of \u200bf(x)\nequals\n=\n4 sine x plus 5\n4sinx+5 are \u200bF(x)\nequals\n=\n.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "1."
+          },
+          {
+            "label": "Part 1",
+            "text": "Find all the antiderivatives of the following function.\n\u200bf(x)\nequals\n=\n4 sine x plus 5\n4sinx+5"
+          },
+          {
+            "label": "Part 1",
+            "text": "The antiderivatives of \u200bf(x)\nequals\n=\n4 sine x plus 5\n4sinx+5 are \u200bF(x)\nequals\n=\n."
+          }
+        ],
+        "prompt": "Find all the antiderivatives of the following function.",
+        "expr": ""
+      },
+      {
+        "questionId": "4.9.17",
+        "objective": "Find all antiderivatives of a function.",
+        "summary": "Find all the antiderivatives for the following function.",
+        "fullText": "2.\nPart 1\nFind all the antiderivatives for the following function.\n\u200bf(y)\nequals\n=\nnegative StartFraction 16 Over y Superscript 17 EndFraction\n\u2212\n16\ny17\nPart 1\nThe antiderivatives of \u200bf(y)\nequals\n=\nnegative StartFraction 16 Over y Superscript 17 EndFraction\n\u2212\n16\ny17\nare \u200bF(y)\nequals\n=\n.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "2."
+          },
+          {
+            "label": "Part 1",
+            "text": "Find all the antiderivatives for the following function.\n\u200bf(y)\nequals\n=\nnegative StartFraction 16 Over y Superscript 17 EndFraction\n\u2212\n16\ny17"
+          },
+          {
+            "label": "Part 1",
+            "text": "The antiderivatives of \u200bf(y)\nequals\n=\nnegative StartFraction 16 Over y Superscript 17 EndFraction\n\u2212\n16\ny17\nare \u200bF(y)\nequals\n=\n."
+          }
+        ],
+        "prompt": "Find all the antiderivatives for the following function.",
+        "expr": ""
+      },
+      {
+        "questionId": "4.9.22",
+        "objective": "Find all antiderivatives of a function.",
+        "summary": "Find all the antiderivatives of the following function. Check your work by taking the deriva\u2026",
+        "fullText": "3.\nPart 1\nFind all the antiderivatives of the following function. Check your work by taking the derivative.\n\u200bG(t)\nequals\n=\n7\n7\nPart 1",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "3."
+          },
+          {
+            "label": "Part 1",
+            "text": "Find all the antiderivatives of the following function. Check your work by taking the derivative.\n\u200bG(t)\nequals\n=\n7\n7"
+          },
+          {
+            "label": "Part 1",
+            "text": ""
+          }
+        ],
+        "prompt": "Find all the antiderivatives of the following function. Check your work by taking the deriva\u2026",
+        "expr": ""
+      },
+      {
+        "questionId": "4.9.26",
+        "objective": "Determine the indefinite integrals of a function.",
+        "summary": "Determine the following indefinite integral.",
+        "fullText": "4.\nPart 1\nDetermine the following indefinite integral.\nIntegral from nothing to nothing left parenthesis StartFraction 6 Over t squared EndFraction plus 9 t cubed right parenthesis font size decreased by 3 dt\n\u222b\n6\nt2\n+9t3\u00a0dt\nPart 1\nIntegral from nothing to nothing left parenthesis StartFraction 6 Over t squared EndFraction plus 9 t cubed right parenthesis font size decreased by 3 dt\n\u222b\n6\nt2\n+9t3\u00a0dt\nequals\n=",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "4."
+          },
+          {
+            "label": "Part 1",
+            "text": "Determine the following indefinite integral.\nIntegral from nothing to nothing left parenthesis StartFraction 6 Over t squared EndFraction plus 9 t cubed right parenthesis font size decreased by 3 dt\n\u222b\n6\nt2\n+9t3\u00a0dt"
+          },
+          {
+            "label": "Part 1",
+            "text": "Integral from nothing to nothing left parenthesis StartFraction 6 Over t squared EndFraction plus 9 t cubed right parenthesis font size decreased by 3 dt\n\u222b\n6\nt2\n+9t3\u00a0dt\nequals\n="
+          }
+        ],
+        "prompt": "Determine the following indefinite integral.",
+        "expr": ""
+      },
+      {
+        "questionId": "4.9.29",
+        "objective": "Determine the indefinite integrals of a function.",
+        "summary": "Determine the following indefinite integral. Check your work by differentiation.",
+        "fullText": "5.\nPart 1\nDetermine the following indefinite integral. Check your work by differentiation.\nIntegral left parenthesis 3 x Superscript one third Baseline plus 4 x Superscript negative two thirds Baseline plus 9 font size decreased by 1 right parenthesis dx\n\u222b3x\n1\n3\n+4x\u2212\n2\n3\n+9\u00a0dx\nPart 1\nIntegral left parenthesis 3 x Superscript one third Baseline plus 4 x Superscript negative two thirds Baseline plus 9 font size decreased by 1 right parenthesis dx\n\u222b3x\n1\n3\n+4x\u2212\n2\n3\n+9\u00a0dx\nequals\n=",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "5."
+          },
+          {
+            "label": "Part 1",
+            "text": "Determine the following indefinite integral. Check your work by differentiation.\nIntegral left parenthesis 3 x Superscript one third Baseline plus 4 x Superscript negative two thirds Baseline plus 9 font size decreased by 1 right parenthesis dx\n\u222b3x\n1\n3\n+4x\u2212\n2\n3\n+9\u00a0dx"
+          },
+          {
+            "label": "Part 1",
+            "text": "Integral left parenthesis 3 x Superscript one third Baseline plus 4 x Superscript negative two thirds Baseline plus 9 font size decreased by 1 right parenthesis dx\n\u222b3x\n1\n3\n+4x\u2212\n2\n3\n+9\u00a0dx\nequals\n="
+          }
+        ],
+        "prompt": "Determine the following indefinite integral. Check your work by differentiation.",
+        "expr": ""
+      },
+      {
+        "questionId": "4.9.31",
+        "objective": "Determine the indefinite integrals of a function.",
+        "summary": "Determine the following indefinite integral.",
+        "fullText": "6.\nPart 1\nDetermine the following indefinite integral.\nIntegral from nothing to nothing left parenthesis 4 x plus 1 right parenthesis left parenthesis 7 minus x right parenthesis dx\n\u222b(4x+1)(7\u2212x)\u00a0dx\nPart 1\nIntegral from nothing to nothing left parenthesis 4 x plus 1 right parenthesis left parenthesis 7 minus x right parenthesis dx\n\u222b(4x+1)(7\u2212x)\u00a0dx\nequals\n=",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "6."
+          },
+          {
+            "label": "Part 1",
+            "text": "Determine the following indefinite integral.\nIntegral from nothing to nothing left parenthesis 4 x plus 1 right parenthesis left parenthesis 7 minus x right parenthesis dx\n\u222b(4x+1)(7\u2212x)\u00a0dx"
+          },
+          {
+            "label": "Part 1",
+            "text": "Integral from nothing to nothing left parenthesis 4 x plus 1 right parenthesis left parenthesis 7 minus x right parenthesis dx\n\u222b(4x+1)(7\u2212x)\u00a0dx\nequals\n="
+          }
+        ],
+        "prompt": "Determine the following indefinite integral.",
+        "expr": ""
+      },
+      {
+        "questionId": "4.9.35",
+        "objective": "Determine the indefinite integrals of a function.",
+        "summary": "Determine the following indefinite integral.",
+        "fullText": "7.\nPart 1\nDetermine the following indefinite integral.\nIntegral from nothing to nothing StartFraction 3 x Superscript 4 Baseline minus 6 x cubed Over x squared EndFraction font size decreased by 3 dx\n\u222b\n3x4\u22126x3\nx2\ndx\nPart 1\nIntegral from nothing to nothing StartFraction 3 x Superscript 4 Baseline minus 6 x cubed Over x squared EndFraction font size decreased by 3 dx\n\u222b\n3x4\u22126x3\nx2\ndx\nequals\n=",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "7."
+          },
+          {
+            "label": "Part 1",
+            "text": "Determine the following indefinite integral.\nIntegral from nothing to nothing StartFraction 3 x Superscript 4 Baseline minus 6 x cubed Over x squared EndFraction font size decreased by 3 dx\n\u222b\n3x4\u22126x3\nx2\ndx"
+          },
+          {
+            "label": "Part 1",
+            "text": "Integral from nothing to nothing StartFraction 3 x Superscript 4 Baseline minus 6 x cubed Over x squared EndFraction font size decreased by 3 dx\n\u222b\n3x4\u22126x3\nx2\ndx\nequals\n="
+          }
+        ],
+        "prompt": "Determine the following indefinite integral.",
+        "expr": ""
+      },
+      {
+        "questionId": "4.9.51",
+        "objective": "Determine the indefinite integrals of a function.",
+        "summary": "Determine the following indefinite integral.",
+        "fullText": "8.\nPart 1\nDetermine the following indefinite integral.\nIntegral from nothing to nothing StartFraction 1 Over 6 y EndFraction font size decreased by 3 dy\n\u222b\n1\n6y\ndy\nPart 1\nIntegral from nothing to nothing StartFraction 1 Over 6 y EndFraction font size decreased by 3 dy\n\u222b\n1\n6y\ndy\nequals\n=",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "8."
+          },
+          {
+            "label": "Part 1",
+            "text": "Determine the following indefinite integral.\nIntegral from nothing to nothing StartFraction 1 Over 6 y EndFraction font size decreased by 3 dy\n\u222b\n1\n6y\ndy"
+          },
+          {
+            "label": "Part 1",
+            "text": "Integral from nothing to nothing StartFraction 1 Over 6 y EndFraction font size decreased by 3 dy\n\u222b\n1\n6y\ndy\nequals\n="
+          }
+        ],
+        "prompt": "Determine the following indefinite integral.",
+        "expr": ""
+      },
+      {
+        "questionId": "5.1.24",
+        "objective": "Illustrate, calculate, and compare left, right, and midpoint Riemann sums for functions.",
+        "summary": "Use the figures to calculate the left and right Riemann sums for f on the given interval and\u2026",
+        "fullText": "9.\nPart 1\nUse the figures to calculate the left and right Riemann sums for f on the given interval and for the given value of n.\n\u200bf(x)\nequals\n=\nStartFraction 3 Over x EndFraction\n3\nx\non\u200b [1,5]; n\nequals\n=4\n0\n1\n2\n3\n4\n5\n3\nx\ny\nfont size decreased by 3 f left parenthesis x right parenthesis equals StartFraction 3 Over x EndFraction\nf(x)=\n3\nx\nA coordinate system has a horizontal x-axis labeled from 0 to 5 in increments of 1 and a vertical y-axis labeled from 0 to 3 in increments of 3. The graph of f(x) equals StartFraction 3 Over x EndFraction is a concave up curve that falls from left to right, starting at (1, 3) and ending at (5, 0.6). Four shaded 1-unit-wide rectangles of different heights are spaced evenly along the x-axis between 1 and 5 with no gaps. In each rectangle, the bottom side is on the x-axis and the top left corner is on the graph of f(x).\n0\n1\n2\n3\n4\n5\n3\nx\ny\nfont size decreased by 3 f left parenthesis x right parenthesis equals StartFraction 3 Over x EndFraction\nf(x)=\n3\nx\nA coordinate system has a horizontal x-axis labeled from 0 to 5 in increments of 1 and a vertical y-axis labeled from 0 to 3 in increments of 3. The graph of f(x) equals StartFraction 3 Over x EndFraction is a concave up curve that falls from left to right, starting at (1, 3) and ending at (5, 0.6). Four shaded 1-unit-wide rectangles of different heights are spaced evenly along the x-axis between 1 and 5 with no gaps. In each rectangle, the bottom side is on the x-axis and the top right corner is on the graph of f(x).\nPart 1\nThe left Riemann sum for f is\n. \u200b(Simplify your\u200b answer.)\nPart 2\nThe right Riemann sum for f is\n. \u200b(Simplify your\u200b answer.)",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "9."
+          },
+          {
+            "label": "Part 1",
+            "text": "Use the figures to calculate the left and right Riemann sums for f on the given interval and for the given value of n.\n\u200bf(x)\nequals\n=\nStartFraction 3 Over x EndFraction\n3\nx\non\u200b [1,5]; n\nequals\n=4\n0\n1\n2\n3\n4\n5\n3\nx\ny\nfont size decreased by 3 f left parenthesis x right parenthesis equals StartFraction 3 Over x EndFraction\nf(x)=\n3\nx\nA coordinate system has a horizontal x-axis labeled from 0 to 5 in increments of 1 and a vertical y-axis labeled from 0 to 3 in increments of 3. The graph of f(x) equals StartFraction 3 Over x EndFraction is a concave up curve that falls from left to right, starting at (1, 3) and ending at (5, 0.6). Four shaded 1-unit-wide rectangles of different heights are spaced evenly along the x-axis between 1 and 5 with no gaps. In each rectangle, the bottom side is on the x-axis and the top left corner is on the graph of f(x).\n0\n1\n2\n3\n4\n5\n3\nx\ny\nfont size decreased by 3 f left parenthesis x right parenthesis equals StartFraction 3 Over x EndFraction\nf(x)=\n3\nx\nA coordinate system has a horizontal x-axis labeled from 0 to 5 in increments of 1 and a vertical y-axis labeled from 0 to 3 in increments of 3. The graph of f(x) equals StartFraction 3 Over x EndFraction is a concave up curve that falls from left to right, starting at (1, 3) and ending at (5, 0.6). Four shaded 1-unit-wide rectangles of different heights are spaced evenly along the x-axis between 1 and 5 with no gaps. In each rectangle, the bottom side is on the x-axis and the top right corner is on the graph of f(x)."
+          },
+          {
+            "label": "Part 1",
+            "text": "The left Riemann sum for f is\n. \u200b(Simplify your\u200b answer.)"
+          },
+          {
+            "label": "Part 2",
+            "text": "The right Riemann sum for f is\n. \u200b(Simplify your\u200b answer.)"
+          }
+        ],
+        "prompt": "Use the figures to calculate the left and right Riemann sums for f on the given interval and\u2026",
+        "expr": "f(x)="
+      },
+      {
+        "questionId": "5.1.29",
+        "objective": "Illustrate, calculate, and compare left, right, and midpoint Riemann sums for functions.",
+        "summary": "Complete the following steps for the given\u200b function, interval, and value of n.",
+        "fullText": "10.\nPart 1\nComplete the following steps for the given\u200b function, interval, and value of n.\na. Sketch the graph of the function on the given interval.\nb. Calculate\nUpper Delta x\n\u0394x and the grid points\nx 0, x 1, ..., x Subscript n\nx0,\u00a0x1,\u00a0...,\u00a0xn.\nc. Illustrate the left and right Riemann\u200b sums, and determine which Riemann sum underestimates and which sum overestimates the area under the curve.\nd. Calculate the left and right Riemann sums.\n\u200bf(x)\nequals\n=\n3 x squared plus 2\n3x2+2 on \u200b[\n1\n1\u200b,\n3\n3\u200b]; n\nequals\n=\n4\n4\nPart 1\na. Sketch the graph of \u200bf(x)\nequals\n=\n3 x squared plus 2\n3x2+2 on the interval \u200b[\n1\n1\u200b,\n3\n3\u200b]. Choose the correct graph.\nA.\n0\n1\n2\n3\n4\n5\n0\n10\n20\n30\nx\ny\nA coordinate system has a horizontal x-axis labeled from 0 to 5 in increments 1 and a vertical y-axis labeled from 0 to 30 in increments of 10. A smooth, concave up curve starts at the point (1, 5) and rises from left to right, ending at the point (3, 29). All coordinates are approximate.\nB.\n0\n1\n2\n3\n4\n5\n0\n10\n20\n30\nx\ny\nA coordinate system has a horizontal x-axis labeled from 0 to 5 in increments 1 and a vertical y-axis labeled from 0 to 30 in increments of 10. A smooth, concave down curve starts at the point (1, 5) and rises from left to right, ending at the point (3, 29). All coordinates are approximate.\nC.\n0\n1\n2\n3\n4\n5\n0\n5\n10\n15\nx\ny\nA coordinate system has a horizontal x-axis labeled from 0 to 5 in increments 1 and a vertical y-axis labeled from 0 to 15 in increments of 5. A smooth, concave up curve starts at the point (1, 3) and rises from left to right, ending at the point (3, 15). All coordinates are approximate.\nD.\n0\n1\n2\n3\n4\n5\n0\n5\n10\n15\nx\ny\nA coordinate system has a horizontal x-axis labeled from 0 to 5 in increments 1 and a vertical y-axis labeled from 0 to 15 in increments of 5. A smooth, concave down curve starts at the point (1, 3) and rises from left to right, ending at the point (3, 15). All coordinates are approximate.\nPart 2\nb.\nUpper Delta x\n\u0394x\nequals\n=\n\u200b(Simplify your\u200b answer.)\nPart 3\nList the grid points.\n\u200b(Use a comma to separate answers as\u200b needed.)\nPart 4\nc. Illustrate the left Riemann sum. Choose the correct graph.\nA.\n0\n1\n2\n3\n4\n5\n0\n10\n20\n30\nx\ny\nA coordinate system has a horizontal x-axis labeled from 0 to 5 in increments 1 and a vertical y-axis labeled from 0 to 30 in increments of 10. A smooth, concave down curve starts at the point (1, 5) and rises from left to right, ending at the point (3, 29). A rectangle of width one half is drawn such that its bottom side is on the x-axis between 1 and 1.5, and the upper left corner of the rectangle is on the curve at (1, 5). Three more rectangles are drawn in a similar way, except that their upper left corners lie on the curve at (1.5, 13.25), (2, 20), and (2.5, 25.25) respectively. All coordinates are approximate.\nB.\n0\n1\n2\n3\n4\n5\n0\n10\n20\n30\nx\ny\nA coordinate system has a horizontal x-axis labeled from 0 to 5 in increments 1 and a vertical y-axis labeled from 0 to 30 in increments of 10. A smooth, concave down curve starts at the point (1, 5) and rises from left to right, ending at the point (3, 29). A rectangle of width one half is drawn such that its bottom side is on the x-axis between 1 and 1.5, and the upper right corner of the rectangle is on the curve at (1.5, 13.25). Three more rectangles are drawn in a similar way, except that their upper right corners lie on the curve at (2, 20), (2.5, 25.25), and (3, 29) respectively. All coordinates are approximate.\nC.\n0\n1\n2\n3\n4\n5\n0\n10\n20\n30\nx\ny\nA coordinate system has a horizontal x-axis labeled from 0 to 5 in increments 1 and a vertical y-axis labeled from 0 to 30 in increments of 10. A smooth, concave up curve starts at the point (1, 5) and rises from left to right, ending at the point (3, 29). A rectangle of width one half is drawn such that its bottom side is on the x-axis between 1 and 1.5, and the upper left corner of the rectangle is on the curve at (1, 5). Three more rectangles are drawn in a similar way, except that their upper left corners lie on the curve at (1.5, 8.75), (2, 14), and (2.5, 20.75) respectively. All coordinates are approximate.\nD.\n0\n1\n2\n3\n4\n5\n0\n10\n20\n30\nx\ny\nA coordinate system has a horizontal x-axis labeled from 0 to 5 in increments 1 and a vertical y-axis labeled from 0 to 30 in increments of 10. A smooth, concave up curve starts at the point (1, 5) and rises from left to right, ending at the point (3, 29). A rectangle of width one half is drawn such that its bottom side is on the x-axis between 1 and 1.5, and the upper right corner of the rectangle is on the curve at (1.5, 8.75). Three more rectangles are drawn in a similar way, except that their upper right corners lie on the curve at (2, 14), (2.5, 20.75), and (3, 29) respectively. All coordinates are approximate.\nPart 5\nIllustrate the right Riemann sum. Choose the correct graph.\nA.\n0\n1\n2\n3\n4\n5\n0\n10\n20\n30\nx\ny\nA coordinate system has a horizontal x-axis labeled from 0 to 5 in increments 1 and a vertical y-axis labeled from 0 to 30 in increments of 10. A smooth, concave up curve starts at the point (1, 5) and rises from left to right, ending at the point (3, 29). A rectangle of width one half is drawn such that its bottom side is on the x-axis between 1 and 1.5, and the upper right corner of the rectangle is on the curve at (1.5, 8.75). Three more rectangles are drawn in a similar way, except that their upper right corners lie on the curve at (2, 14), (2.5, 20.75), and (3, 29) respectively. All coordinates are approximate.\nB.\n0\n1\n2\n3\n4\n5\n0\n10\n20\n30\nx\ny\nA coordinate system has a horizontal x-axis labeled from 0 to 5 in increments 1 and a vertical y-axis labeled from 0 to 30 in increments of 10. A smooth, concave up curve starts at the point (1, 5) and rises from left to right, ending at the point (3, 29). A rectangle of width one half is drawn such that its bottom side is on the x-axis between 1 and 1.5, and the upper left corner of the rectangle is on the curve at (1, 5). Three more rectangles are drawn in a similar way, except that their upper left corners lie on the curve at (1.5, 8.75), (2, 14), and (2.5, 20.75) respectively. All coordinates are approximate.\nC.\n0\n1\n2\n3\n4\n5\n0\n10\n20\n30\nx\ny\nA coordinate system has a horizontal x-axis labeled from 0 to 5 in increments 1 and a vertical y-axis labeled from 0 to 30 in increments of 10. A smooth, concave down curve starts at the point (1, 5) and rises from left to right, ending at the point (3, 29). A rectangle of width one half is drawn such that its bottom side is on the x-axis between 1 and 1.5, and the upper left corner of the rectangle is on the curve at (1, 5). Three more rectangles are drawn in a similar way, except that their upper left corners lie on the curve at (1.5, 13.25), (2, 20), and (2.5, 25.25) respectively. All coordinates are approximate.\nD.\n0\n1\n2\n3\n4\n5\n0\n10\n20\n30\nx\ny\nA coordinate system has a horizontal x-axis labeled from 0 to 5 in increments 1 and a vertical y-axis labeled from 0 to 30 in increments of 10. A smooth, concave down curve starts at the point (1, 5) and rises from left to right, ending at the point (3, 29). A rectangle of width one half is drawn such that its bottom side is on the x-axis between 1 and 1.5, and the upper right corner of the rectangle is on the curve at (1.5, 13.25). Three more rectangles are drawn in a similar way, except that their upper right corners lie on the curve at (2, 20), (2.5, 25.25), and (3, 29) respectively. All coordinates are approximate.\nPart 6\nThe left Riemann sum (1)\nthe area and the right Riemann sum (2)\nthe area.\nPart 7\nd. The left Riemann sum is\n. \u200b(Simplify your\u200b answer.)\nPart 8\nThe right Riemann sum is\n. \u200b(Simplify your\u200b answer.)\n(1)\noverestimates\nunderestimates\n(2)\noverestimates\nunderestimates",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "10."
+          },
+          {
+            "label": "Part 1",
+            "text": "Complete the following steps for the given\u200b function, interval, and value of n."
+          },
+          {
+            "label": "a. Sketch the graph of the function on the given interval.",
+            "text": ""
+          },
+          {
+            "label": "b. Calculate",
+            "text": "Upper Delta x\n\u0394x and the grid points\nx 0, x 1, ..., x Subscript n\nx0,\u00a0x1,\u00a0...,\u00a0xn."
+          },
+          {
+            "label": "c. Illustrate the left and right Riemann\u200b sums, and determine which Riemann sum underestimates and which sum overestimates the area under the curve.",
+            "text": ""
+          },
+          {
+            "label": "d. Calculate the left and right Riemann sums.",
+            "text": "\u200bf(x)\nequals\n=\n3 x squared plus 2\n3x2+2 on \u200b[\n1\n1\u200b,\n3\n3\u200b]; n\nequals\n=\n4\n4"
+          },
+          {
+            "label": "Part 1",
+            "text": ""
+          },
+          {
+            "label": "a. Sketch the graph of \u200bf(x)",
+            "text": "equals\n=\n3 x squared plus 2\n3x2+2 on the interval \u200b[\n1\n1\u200b,\n3\n3\u200b]. Choose the correct graph."
+          },
+          {
+            "label": "A.",
+            "text": "0\n1\n2\n3\n4\n5\n0\n10\n20\n30\nx\ny\nA coordinate system has a horizontal x-axis labeled from 0 to 5 in increments 1 and a vertical y-axis labeled from 0 to 30 in increments of 10. A smooth, concave up curve starts at the point (1, 5) and rises from left to right, ending at the point (3, 29). All coordinates are approximate."
+          },
+          {
+            "label": "B.",
+            "text": "0\n1\n2\n3\n4\n5\n0\n10\n20\n30\nx\ny\nA coordinate system has a horizontal x-axis labeled from 0 to 5 in increments 1 and a vertical y-axis labeled from 0 to 30 in increments of 10. A smooth, concave down curve starts at the point (1, 5) and rises from left to right, ending at the point (3, 29). All coordinates are approximate."
+          },
+          {
+            "label": "C.",
+            "text": "0\n1\n2\n3\n4\n5\n0\n5\n10\n15\nx\ny\nA coordinate system has a horizontal x-axis labeled from 0 to 5 in increments 1 and a vertical y-axis labeled from 0 to 15 in increments of 5. A smooth, concave up curve starts at the point (1, 3) and rises from left to right, ending at the point (3, 15). All coordinates are approximate."
+          },
+          {
+            "label": "D.",
+            "text": "0\n1\n2\n3\n4\n5\n0\n5\n10\n15\nx\ny\nA coordinate system has a horizontal x-axis labeled from 0 to 5 in increments 1 and a vertical y-axis labeled from 0 to 15 in increments of 5. A smooth, concave down curve starts at the point (1, 3) and rises from left to right, ending at the point (3, 15). All coordinates are approximate."
+          },
+          {
+            "label": "Part 2",
+            "text": ""
+          },
+          {
+            "label": "b.",
+            "text": "Upper Delta x\n\u0394x\nequals\n=\n\u200b(Simplify your\u200b answer.)"
+          },
+          {
+            "label": "Part 3",
+            "text": "List the grid points.\n\u200b(Use a comma to separate answers as\u200b needed.)"
+          },
+          {
+            "label": "Part 4",
+            "text": ""
+          },
+          {
+            "label": "c. Illustrate the left Riemann sum. Choose the correct graph.",
+            "text": ""
+          },
+          {
+            "label": "A.",
+            "text": "0\n1\n2\n3\n4\n5\n0\n10\n20\n30\nx\ny\nA coordinate system has a horizontal x-axis labeled from 0 to 5 in increments 1 and a vertical y-axis labeled from 0 to 30 in increments of 10. A smooth, concave down curve starts at the point (1, 5) and rises from left to right, ending at the point (3, 29). A rectangle of width one half is drawn such that its bottom side is on the x-axis between 1 and 1.5, and the upper left corner of the rectangle is on the curve at (1, 5). Three more rectangles are drawn in a similar way, except that their upper left corners lie on the curve at (1.5, 13.25), (2, 20), and (2.5, 25.25) respectively. All coordinates are approximate."
+          },
+          {
+            "label": "B.",
+            "text": "0\n1\n2\n3\n4\n5\n0\n10\n20\n30\nx\ny\nA coordinate system has a horizontal x-axis labeled from 0 to 5 in increments 1 and a vertical y-axis labeled from 0 to 30 in increments of 10. A smooth, concave down curve starts at the point (1, 5) and rises from left to right, ending at the point (3, 29). A rectangle of width one half is drawn such that its bottom side is on the x-axis between 1 and 1.5, and the upper right corner of the rectangle is on the curve at (1.5, 13.25). Three more rectangles are drawn in a similar way, except that their upper right corners lie on the curve at (2, 20), (2.5, 25.25), and (3, 29) respectively. All coordinates are approximate."
+          },
+          {
+            "label": "C.",
+            "text": "0\n1\n2\n3\n4\n5\n0\n10\n20\n30\nx\ny\nA coordinate system has a horizontal x-axis labeled from 0 to 5 in increments 1 and a vertical y-axis labeled from 0 to 30 in increments of 10. A smooth, concave up curve starts at the point (1, 5) and rises from left to right, ending at the point (3, 29). A rectangle of width one half is drawn such that its bottom side is on the x-axis between 1 and 1.5, and the upper left corner of the rectangle is on the curve at (1, 5). Three more rectangles are drawn in a similar way, except that their upper left corners lie on the curve at (1.5, 8.75), (2, 14), and (2.5, 20.75) respectively. All coordinates are approximate."
+          },
+          {
+            "label": "D.",
+            "text": "0\n1\n2\n3\n4\n5\n0\n10\n20\n30\nx\ny\nA coordinate system has a horizontal x-axis labeled from 0 to 5 in increments 1 and a vertical y-axis labeled from 0 to 30 in increments of 10. A smooth, concave up curve starts at the point (1, 5) and rises from left to right, ending at the point (3, 29). A rectangle of width one half is drawn such that its bottom side is on the x-axis between 1 and 1.5, and the upper right corner of the rectangle is on the curve at (1.5, 8.75). Three more rectangles are drawn in a similar way, except that their upper right corners lie on the curve at (2, 14), (2.5, 20.75), and (3, 29) respectively. All coordinates are approximate."
+          },
+          {
+            "label": "Part 5",
+            "text": "Illustrate the right Riemann sum. Choose the correct graph."
+          },
+          {
+            "label": "A.",
+            "text": "0\n1\n2\n3\n4\n5\n0\n10\n20\n30\nx\ny\nA coordinate system has a horizontal x-axis labeled from 0 to 5 in increments 1 and a vertical y-axis labeled from 0 to 30 in increments of 10. A smooth, concave up curve starts at the point (1, 5) and rises from left to right, ending at the point (3, 29). A rectangle of width one half is drawn such that its bottom side is on the x-axis between 1 and 1.5, and the upper right corner of the rectangle is on the curve at (1.5, 8.75). Three more rectangles are drawn in a similar way, except that their upper right corners lie on the curve at (2, 14), (2.5, 20.75), and (3, 29) respectively. All coordinates are approximate."
+          },
+          {
+            "label": "B.",
+            "text": "0\n1\n2\n3\n4\n5\n0\n10\n20\n30\nx\ny\nA coordinate system has a horizontal x-axis labeled from 0 to 5 in increments 1 and a vertical y-axis labeled from 0 to 30 in increments of 10. A smooth, concave up curve starts at the point (1, 5) and rises from left to right, ending at the point (3, 29). A rectangle of width one half is drawn such that its bottom side is on the x-axis between 1 and 1.5, and the upper left corner of the rectangle is on the curve at (1, 5). Three more rectangles are drawn in a similar way, except that their upper left corners lie on the curve at (1.5, 8.75), (2, 14), and (2.5, 20.75) respectively. All coordinates are approximate."
+          },
+          {
+            "label": "C.",
+            "text": "0\n1\n2\n3\n4\n5\n0\n10\n20\n30\nx\ny\nA coordinate system has a horizontal x-axis labeled from 0 to 5 in increments 1 and a vertical y-axis labeled from 0 to 30 in increments of 10. A smooth, concave down curve starts at the point (1, 5) and rises from left to right, ending at the point (3, 29). A rectangle of width one half is drawn such that its bottom side is on the x-axis between 1 and 1.5, and the upper left corner of the rectangle is on the curve at (1, 5). Three more rectangles are drawn in a similar way, except that their upper left corners lie on the curve at (1.5, 13.25), (2, 20), and (2.5, 25.25) respectively. All coordinates are approximate."
+          },
+          {
+            "label": "D.",
+            "text": "0\n1\n2\n3\n4\n5\n0\n10\n20\n30\nx\ny\nA coordinate system has a horizontal x-axis labeled from 0 to 5 in increments 1 and a vertical y-axis labeled from 0 to 30 in increments of 10. A smooth, concave down curve starts at the point (1, 5) and rises from left to right, ending at the point (3, 29). A rectangle of width one half is drawn such that its bottom side is on the x-axis between 1 and 1.5, and the upper right corner of the rectangle is on the curve at (1.5, 13.25). Three more rectangles are drawn in a similar way, except that their upper right corners lie on the curve at (2, 20), (2.5, 25.25), and (3, 29) respectively. All coordinates are approximate."
+          },
+          {
+            "label": "Part 6",
+            "text": "The left Riemann sum (1)\nthe area and the right Riemann sum (2)\nthe area."
+          },
+          {
+            "label": "Part 7",
+            "text": ""
+          },
+          {
+            "label": "d. The left Riemann sum is",
+            "text": ". \u200b(Simplify your\u200b answer.)"
+          },
+          {
+            "label": "Part 8",
+            "text": "The right Riemann sum is\n. \u200b(Simplify your\u200b answer.)\n(1)\noverestimates\nunderestimates\n(2)\noverestimates\nunderestimates"
+          }
+        ],
+        "prompt": "Complete the following steps for the given\u200b function, interval, and value of n.",
+        "expr": ""
+      },
+      {
+        "questionId": "5.1.33",
+        "objective": "Illustrate, calculate, and compare left, right, and midpoint Riemann sums for functions.",
+        "summary": "Approximate the area of the region bounded by the graph of",
+        "fullText": "11.\nPart 1\nApproximate the area of the region bounded by the graph of\nf left parenthesis x right parenthesis equals 10 plus x squared\nf(x)=10+x2 and the\u200b x-axis on \u200b[\n0\n0\u200b,\n10\n10\u200b] with n\nequals\n=\n5\n5 subintervals. Use the midpoint of each subinterval to determine the height of each rectangle\u200b (see figure).\n0\n2\n4\n6\n8\n10\n0\n40\n80\n120\n160\nx\ny\nf left parenthesis x right parenthesis equals 10 plus x squared\nf(x)=10+x2\nA coordinate system has a horizontal x-axis labeled from 0 to 10 in increments of 2 and a vertical y-axis labeled from 0 to 160 in increments of 20. A smooth, concave up curve labeled f left parenthesis x right parenthesis equals 10 plus x squared starts at the point (0, 10) and rises from left to right to (10, 110). A rectangle of width 2 is drawn such that its bottom side is on the x-axis between 0 and 2 and the midpoint of the top side of the rectangle is on the curve at (1, 11). Four more rectangles are drawn in a similar way, except that the midpoint of their top sides lie on the curve at (3, 19), (5, 35), (7, 59), and (9, 91), respectively. All coordinates are approximate.\nPart 1\nThe approximate area of the region is\n.\n\u200b(Simplify your\u200b answer.)",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "11."
+          },
+          {
+            "label": "Part 1",
+            "text": "Approximate the area of the region bounded by the graph of\nf left parenthesis x right parenthesis equals 10 plus x squared\nf(x)=10+x2 and the\u200b x-axis on \u200b[\n0\n0\u200b,\n10\n10\u200b] with n\nequals\n=\n5\n5 subintervals. Use the midpoint of each subinterval to determine the height of each rectangle\u200b (see figure).\n0\n2\n4\n6\n8\n10\n0\n40\n80\n120\n160\nx\ny\nf left parenthesis x right parenthesis equals 10 plus x squared\nf(x)=10+x2\nA coordinate system has a horizontal x-axis labeled from 0 to 10 in increments of 2 and a vertical y-axis labeled from 0 to 160 in increments of 20. A smooth, concave up curve labeled f left parenthesis x right parenthesis equals 10 plus x squared starts at the point (0, 10) and rises from left to right to (10, 110). A rectangle of width 2 is drawn such that its bottom side is on the x-axis between 0 and 2 and the midpoint of the top side of the rectangle is on the curve at (1, 11). Four more rectangles are drawn in a similar way, except that the midpoint of their top sides lie on the curve at (3, 19), (5, 35), (7, 59), and (9, 91), respectively. All coordinates are approximate."
+          },
+          {
+            "label": "Part 1",
+            "text": "The approximate area of the region is\n.\n\u200b(Simplify your\u200b answer.)"
+          }
+        ],
+        "prompt": "Approximate the area of the region bounded by the graph of",
+        "expr": "f(x)=10+x2 and the\u200b x-axis on \u200b["
+      },
+      {
+        "questionId": "5.2.22",
+        "objective": "Sketch the graph of a curve and approximate the net area using Riemann sums.",
+        "summary": "The following function is positive and negative on the given interval.",
+        "fullText": "12.\nPart 1\nThe following function is positive and negative on the given interval.\n\u200bf(x)\nequals\n=\n12\n12\nminus\n\u2212\n3\n3x\nsquared\n2\u200b; \u200b[0,4]\na.\nSketch the function on the interval.\nb.\nApproximate the net area bounded by the graph of f and the\u200b x-axis on the interval using a\u200b left, right, and midpoint Riemann sum with n\nequals\n=4.\nc.\nUse the sketch in part\u200b (a) to show which intervals of\u200b [0,4] make positive and negative contributions to the net area.\nPart 1\na. Choose the correct graph.\nA.\n0\n8\n-24\n48\nx\ny\nA coordinate system has a horizontal x-axis labeled from 0 to 8 in increments of 1 and a vertical y-axis labeled from negative 24 to 48 in increments of 12. A smooth curve starts at (0, negative 12) and rises concave up to the point (4, 36), passing through the x-axis at the point (2, 0).\nB.\n-4\n4\n-18\n18\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 4 to 4 in increments of 1 and a vertical y-axis labeled from negative 18 to 18 in increments of 3. A smooth curve starts at (negative 2, 0), rises concave down to a maximum at (0, 12), and then falls concave down to the point (2, 0), passing through the x dash axis at the points left parenthesis negative 2, 0 right parenthesis and left parenthesis 2, 0 right parenthesis .\nC.\n0\n8\n-48\n24\nx\ny\nA coordinate system has a horizontal x-axis labeled from 0 to 8 in increments of 1 and a vertical y-axis labeled from negative 48 to 24 in increments of 12. A smooth curve starts at (0, 12) and falls concave down to the point (4, negative 36), passing through the x-axis at the point (2, 0).\nD.\n0\n8\n-18\n18\nx\ny\nA coordinate system has a horizontal x-axis labeled from 0 to 8 in increments of 1 and a vertical y-axis labeled from negative 18 to 18 in increments of 3. A smooth curve starts at (0, 18) and falls concave down through the point (2, 2), passing through the x-axis at the point (2.06, 0).\nPart 2\nb. The net\u200b area, approximated using the left Riemann\u200b sum, is\n.\nPart 3\nThe net\u200b area, approximated using the right Riemann\u200b sum, is\n.\nPart 4\nThe net\u200b area, approximated using the midpoint Riemann\u200b sum, is\n.\nPart 5\nc. Which intervals of\u200b [0,4] make positive and negative contributions to the net\u200b area? Choose the correct answer.\nA.\nPositive contributions on \u200b(\n1\n1\u200b,4]; negative contributions on \u200b[0,\n1\n1\u200b)\nB.\nPositive contributions on \u200b(\n2\n2\u200b,4]; negative contributions on \u200b[0,\n2\n2\u200b)\nC.\nPositive contributions on \u200b[0,\n2\n2\u200b); negative contributions on \u200b(\n2\n2\u200b,4]\nD.\nPositive contributions on \u200b[0,\n1\n1\u200b); negative contributions on \u200b(\n1\n1\u200b,4]",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "12."
+          },
+          {
+            "label": "Part 1",
+            "text": "The following function is positive and negative on the given interval.\n\u200bf(x)\nequals\n=\n12\n12\nminus\n\u2212\n3\n3x\nsquared\n2\u200b; \u200b[0,4]"
+          },
+          {
+            "label": "a.",
+            "text": "Sketch the function on the interval."
+          },
+          {
+            "label": "b.",
+            "text": "Approximate the net area bounded by the graph of f and the\u200b x-axis on the interval using a\u200b left, right, and midpoint Riemann sum with n\nequals\n=4."
+          },
+          {
+            "label": "c.",
+            "text": "Use the sketch in part\u200b (a) to show which intervals of\u200b [0,4] make positive and negative contributions to the net area."
+          },
+          {
+            "label": "Part 1",
+            "text": ""
+          },
+          {
+            "label": "a. Choose the correct graph.",
+            "text": ""
+          },
+          {
+            "label": "A.",
+            "text": "0\n8\n-24\n48\nx\ny\nA coordinate system has a horizontal x-axis labeled from 0 to 8 in increments of 1 and a vertical y-axis labeled from negative 24 to 48 in increments of 12. A smooth curve starts at (0, negative 12) and rises concave up to the point (4, 36), passing through the x-axis at the point (2, 0)."
+          },
+          {
+            "label": "B.",
+            "text": "-4\n4\n-18\n18\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 4 to 4 in increments of 1 and a vertical y-axis labeled from negative 18 to 18 in increments of 3. A smooth curve starts at (negative 2, 0), rises concave down to a maximum at (0, 12), and then falls concave down to the point (2, 0), passing through the x dash axis at the points left parenthesis negative 2, 0 right parenthesis and left parenthesis 2, 0 right parenthesis ."
+          },
+          {
+            "label": "C.",
+            "text": "0\n8\n-48\n24\nx\ny\nA coordinate system has a horizontal x-axis labeled from 0 to 8 in increments of 1 and a vertical y-axis labeled from negative 48 to 24 in increments of 12. A smooth curve starts at (0, 12) and falls concave down to the point (4, negative 36), passing through the x-axis at the point (2, 0)."
+          },
+          {
+            "label": "D.",
+            "text": "0\n8\n-18\n18\nx\ny\nA coordinate system has a horizontal x-axis labeled from 0 to 8 in increments of 1 and a vertical y-axis labeled from negative 18 to 18 in increments of 3. A smooth curve starts at (0, 18) and falls concave down through the point (2, 2), passing through the x-axis at the point (2.06, 0)."
+          },
+          {
+            "label": "Part 2",
+            "text": ""
+          },
+          {
+            "label": "b. The net\u200b area, approximated using the left Riemann\u200b sum, is",
+            "text": "."
+          },
+          {
+            "label": "Part 3",
+            "text": "The net\u200b area, approximated using the right Riemann\u200b sum, is\n."
+          },
+          {
+            "label": "Part 4",
+            "text": "The net\u200b area, approximated using the midpoint Riemann\u200b sum, is\n."
+          },
+          {
+            "label": "Part 5",
+            "text": ""
+          },
+          {
+            "label": "c. Which intervals of\u200b [0,4] make positive and negative contributions to the net\u200b area? Choose the correct answer.",
+            "text": ""
+          },
+          {
+            "label": "A.",
+            "text": "Positive contributions on \u200b(\n1\n1\u200b,4]; negative contributions on \u200b[0,\n1\n1\u200b)"
+          },
+          {
+            "label": "B.",
+            "text": "Positive contributions on \u200b(\n2\n2\u200b,4]; negative contributions on \u200b[0,\n2\n2\u200b)"
+          },
+          {
+            "label": "C.",
+            "text": "Positive contributions on \u200b[0,\n2\n2\u200b); negative contributions on \u200b(\n2\n2\u200b,4]"
+          },
+          {
+            "label": "D.",
+            "text": "Positive contributions on \u200b[0,\n1\n1\u200b); negative contributions on \u200b(\n1\n1\u200b,4]"
+          }
+        ],
+        "prompt": "The following function is positive and negative on the given interval.",
+        "expr": ""
+      },
+      {
+        "questionId": "5.2.40",
+        "objective": "Sketch the graph of an integrand and use geometry to evaluate the definite integral.",
+        "summary": "Use geometry\u200b (not Riemann\u200b sums) to evaluate the definite integral. Sketch the graph of the\u2026",
+        "fullText": "13.\nPart 1\nUse geometry\u200b (not Riemann\u200b sums) to evaluate the definite integral. Sketch the graph of the\u200b integrand, show the region in\u200b question, and interpret your result.\nIntegral from negative 6 to 1 left parenthesis 2 x plus 4 right parenthesis dx\n\u222b\n\u22126\n1\n(2x+4)dx\nPart 1\nChoose the correct graph below.\nA.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 1. A line rises from left to right with a slope of 1 and a y-intercept of (0, 4). The region below the line and above the x-axis is shaded.\nB.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 1. A line rises from left to right with a slope of 2 and a y-intercept of (0, 4). A vertical dashed line crosses the x-axis at negative 6, and another vertical dashed line crosses the x-axis at 1. The region below the x-axis, above and to the left of the rising line, and to the right of the dashed line at negative 6 is shaded. The region above the x-axis, below and to the right of the rising line, and to the left of the dashed line at 1 is shaded.\nC.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 1. A line rises from left to right with a slope of 2 and a y-intercept of (0, 4). The region below the line and above the x-axis is shaded.\nD.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 1. A line rises from left to right with a slope of 1 and a y-intercept of (0, 4). A vertical dashed line crosses the x-axis at 1. The region above the x-axis, below and to the right of the rising line, and to the left of the dashed line at 1 is shaded.\nPart 2\nThe value of the definite integral\nIntegral from negative 6 to 1 left parenthesis 2 x plus 4 right parenthesis dx\n\u222b\n\u22126\n1\n(2x+4)dx as determined by the area under the graph of the integrand is\n. \u200b(Simplify your\u200b answer.)",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "13."
+          },
+          {
+            "label": "Part 1",
+            "text": "Use geometry\u200b (not Riemann\u200b sums) to evaluate the definite integral. Sketch the graph of the\u200b integrand, show the region in\u200b question, and interpret your result.\nIntegral from negative 6 to 1 left parenthesis 2 x plus 4 right parenthesis dx\n\u222b\n\u22126\n1\n(2x+4)dx"
+          },
+          {
+            "label": "Part 1",
+            "text": "Choose the correct graph below."
+          },
+          {
+            "label": "A.",
+            "text": "-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 1. A line rises from left to right with a slope of 1 and a y-intercept of (0, 4). The region below the line and above the x-axis is shaded."
+          },
+          {
+            "label": "B.",
+            "text": "-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 1. A line rises from left to right with a slope of 2 and a y-intercept of (0, 4). A vertical dashed line crosses the x-axis at negative 6, and another vertical dashed line crosses the x-axis at 1. The region below the x-axis, above and to the left of the rising line, and to the right of the dashed line at negative 6 is shaded. The region above the x-axis, below and to the right of the rising line, and to the left of the dashed line at 1 is shaded."
+          },
+          {
+            "label": "C.",
+            "text": "-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 1. A line rises from left to right with a slope of 2 and a y-intercept of (0, 4). The region below the line and above the x-axis is shaded."
+          },
+          {
+            "label": "D.",
+            "text": "-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 1. A line rises from left to right with a slope of 1 and a y-intercept of (0, 4). A vertical dashed line crosses the x-axis at 1. The region above the x-axis, below and to the right of the rising line, and to the left of the dashed line at 1 is shaded."
+          },
+          {
+            "label": "Part 2",
+            "text": "The value of the definite integral\nIntegral from negative 6 to 1 left parenthesis 2 x plus 4 right parenthesis dx\n\u222b\n\u22126\n1\n(2x+4)dx as determined by the area under the graph of the integrand is\n. \u200b(Simplify your\u200b answer.)"
+          }
+        ],
+        "prompt": "Use geometry\u200b (not Riemann\u200b sums) to evaluate the definite integral. Sketch the graph of the\u2026",
+        "expr": ""
+      },
+      {
+        "questionId": "5.2.41",
+        "objective": "Sketch the graph of an integrand and use geometry to evaluate the definite integral.",
+        "summary": "Use geometry\u200b (not Riemann\u200b sums) to evaluate the definite integral. Sketch the graph of the\u2026",
+        "fullText": "14.\nPart 1\nUse geometry\u200b (not Riemann\u200b sums) to evaluate the definite integral. Sketch the graph of the\u200b integrand, show the region in\u200b question, and interpret your result.\nIntegral from negative 3 to 2 left parenthesis negative 3 StartAbsoluteValue x EndAbsoluteValue right parenthesis dx\n\u222b\n\u22123\n2\n(\u22123x)dx\nPart 1\nChoose the correct graph below.\nA.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 1. V-shaped graph opens downward from a vertex at (0, 0) and passes through (negative 1, negative 3) and (1, negative 3). A vertical dashed line crosses the x-axis at negative 3, and another vertical dashed line crosses the x-axis at 2. The region below the V-shaped graph and between the two dashed lines is shaded.\nB.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 1. V-shaped graph opens upward from a vertex at (0, 0) and passes through (negative 1, 3) and (1, 3). A vertical dashed line crosses the x-axis at negative 3, and another vertical dashed line crosses the x-axis at 2. The region above the V-shaped graph and between the two dashed lines is shaded.\nC.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 1. V-shaped graph opens upward from a vertex at (0, 0) and passes through (negative 1, 3) and (1, 3). A vertical dashed line crosses the x-axis at negative 3, and another vertical dashed line crosses the x-axis at 2. The two regions below the V-shaped graph, above the x-axis, and between the two dashed lines are shaded.\nD.\n-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 1. V-shaped graph opens downward from a vertex at (0, 0) and passes through (negative 1, negative 3) and (1, negative 3). A vertical dashed line crosses the x-axis at negative 3, and another vertical dashed line crosses the x-axis at 2. The two regions above the V-shaped graph, below the x-axis, and between the two dashed lines are shaded.\nPart 2\nThe value of the definite integral\nIntegral from negative 3 to 2 left parenthesis negative 3 StartAbsoluteValue x EndAbsoluteValue right parenthesis dx\n\u222b\n\u22123\n2\n(\u22123x)dx as determined by the area under the graph of the integrand is\n. \u200b(Simplify your\u200b answer.)",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "14."
+          },
+          {
+            "label": "Part 1",
+            "text": "Use geometry\u200b (not Riemann\u200b sums) to evaluate the definite integral. Sketch the graph of the\u200b integrand, show the region in\u200b question, and interpret your result.\nIntegral from negative 3 to 2 left parenthesis negative 3 StartAbsoluteValue x EndAbsoluteValue right parenthesis dx\n\u222b\n\u22123\n2\n(\u22123x)dx"
+          },
+          {
+            "label": "Part 1",
+            "text": "Choose the correct graph below."
+          },
+          {
+            "label": "A.",
+            "text": "-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 1. V-shaped graph opens downward from a vertex at (0, 0) and passes through (negative 1, negative 3) and (1, negative 3). A vertical dashed line crosses the x-axis at negative 3, and another vertical dashed line crosses the x-axis at 2. The region below the V-shaped graph and between the two dashed lines is shaded."
+          },
+          {
+            "label": "B.",
+            "text": "-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 1. V-shaped graph opens upward from a vertex at (0, 0) and passes through (negative 1, 3) and (1, 3). A vertical dashed line crosses the x-axis at negative 3, and another vertical dashed line crosses the x-axis at 2. The region above the V-shaped graph and between the two dashed lines is shaded."
+          },
+          {
+            "label": "C.",
+            "text": "-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 1. V-shaped graph opens upward from a vertex at (0, 0) and passes through (negative 1, 3) and (1, 3). A vertical dashed line crosses the x-axis at negative 3, and another vertical dashed line crosses the x-axis at 2. The two regions below the V-shaped graph, above the x-axis, and between the two dashed lines are shaded."
+          },
+          {
+            "label": "D.",
+            "text": "-10\n10\n-10\n10\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 10 to 10 in increments of 1 and a vertical y-axis labeled from negative 10 to 10 in increments of 1. V-shaped graph opens downward from a vertex at (0, 0) and passes through (negative 1, negative 3) and (1, negative 3). A vertical dashed line crosses the x-axis at negative 3, and another vertical dashed line crosses the x-axis at 2. The two regions above the V-shaped graph, below the x-axis, and between the two dashed lines are shaded."
+          },
+          {
+            "label": "Part 2",
+            "text": "The value of the definite integral\nIntegral from negative 3 to 2 left parenthesis negative 3 StartAbsoluteValue x EndAbsoluteValue right parenthesis dx\n\u222b\n\u22123\n2\n(\u22123x)dx as determined by the area under the graph of the integrand is\n. \u200b(Simplify your\u200b answer.)"
+          }
+        ],
+        "prompt": "Use geometry\u200b (not Riemann\u200b sums) to evaluate the definite integral. Sketch the graph of the\u2026",
+        "expr": ""
+      },
+      {
+        "questionId": "5.2.43",
+        "objective": "Sketch the graph of an integrand and use geometry to evaluate the definite integral.",
+        "summary": "Use geometry\u200b (not Riemann\u200b sums) to evaluate the definite integral. Sketch the graph of the\u2026",
+        "fullText": "15.\nPart 1\nUse geometry\u200b (not Riemann\u200b sums) to evaluate the definite integral. Sketch the graph of the\u200b integrand, show the region in\u200b question, and interpret your result.\nIntegral from negative 4 to 0 StartRoot 16 minus x squared EndRoot dx\n\u222b\n\u22124\n0\n16\u2212x2dx\nPart 1\nChoose the correct graph below.\nA.\n-6\n6\n-6\n6\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 6 to 6 in increments of 1 and a vertical y-axis labeled from negative 6 to 6 in increments of 1. The lower half of a circle is graphed such that it starts at (negative 4, 0), passes through (0, negative 4), and ends at (4, 0). A vertical dashed line crosses the x-axis at negative 4, and another vertical dashed line crosses the x-axis at 0. The region above the semicircle, below the x-axis, and between the two dashed lines is shaded.\nB.\n-6\n6\n-6\n6\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 6 to 6 in increments of 1 and a vertical y-axis labeled from negative 6 to 6 in increments of 1. The upper half of a circle is graphed such that it starts at (negative 4, 0), passes through (0, 4), and ends at (4, 0). A vertical dashed line crosses the x-axis at negative 4, and another vertical dashed line crosses the x-axis at 0. The region below the semicircle, above the x-axis, and between the two dashed lines is shaded.\nC.\n-6\n6\n-6\n6\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 6 to 6 in increments of 1 and a vertical y-axis labeled from negative 6 to 6 in increments of 1. A curve rises from left to right at an increasing rate, passing through the points (negative 6, negative 4.7), (0, negative 4), and (6, negative 3.2). A vertical dashed line crosses the x-axis at negative 4, and another vertical dashed line crosses the x-axis at 0. The region above the curve, below the x-axis, and between the two dashed lines is shaded. All coordinates are approximate.\nD.\n-6\n6\n-6\n6\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 6 to 6 in increments of 1 and a vertical y-axis labeled from negative 6 to 6 in increments of 1. A curve falls from left to right at an increasing rate, passing through the points (negative 6, 4.7), (0, 4), and (6, 3.2). A vertical dashed line crosses the x-axis at negative 4, and another vertical dashed line crosses the x-axis at 0. The region below the curve, above the x-axis, and between the two dashed lines is shaded. All coordinates are approximate.\nPart 2\nThe value of the definite integral\nIntegral from negative 4 to 0 StartRoot 16 minus x squared EndRoot dx\n\u222b\n\u22124\n0\n16\u2212x2dx as determined by the area under the graph of the integrand is\n.\n\u200b(Simplify your answer. Type an exact\u200b answer, using\npi\n\u03c0 as needed. Use integers or fractions for any numbers in the\u200b expression.)",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "15."
+          },
+          {
+            "label": "Part 1",
+            "text": "Use geometry\u200b (not Riemann\u200b sums) to evaluate the definite integral. Sketch the graph of the\u200b integrand, show the region in\u200b question, and interpret your result.\nIntegral from negative 4 to 0 StartRoot 16 minus x squared EndRoot dx\n\u222b\n\u22124\n0\n16\u2212x2dx"
+          },
+          {
+            "label": "Part 1",
+            "text": "Choose the correct graph below."
+          },
+          {
+            "label": "A.",
+            "text": "-6\n6\n-6\n6\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 6 to 6 in increments of 1 and a vertical y-axis labeled from negative 6 to 6 in increments of 1. The lower half of a circle is graphed such that it starts at (negative 4, 0), passes through (0, negative 4), and ends at (4, 0). A vertical dashed line crosses the x-axis at negative 4, and another vertical dashed line crosses the x-axis at 0. The region above the semicircle, below the x-axis, and between the two dashed lines is shaded."
+          },
+          {
+            "label": "B.",
+            "text": "-6\n6\n-6\n6\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 6 to 6 in increments of 1 and a vertical y-axis labeled from negative 6 to 6 in increments of 1. The upper half of a circle is graphed such that it starts at (negative 4, 0), passes through (0, 4), and ends at (4, 0). A vertical dashed line crosses the x-axis at negative 4, and another vertical dashed line crosses the x-axis at 0. The region below the semicircle, above the x-axis, and between the two dashed lines is shaded."
+          },
+          {
+            "label": "C.",
+            "text": "-6\n6\n-6\n6\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 6 to 6 in increments of 1 and a vertical y-axis labeled from negative 6 to 6 in increments of 1. A curve rises from left to right at an increasing rate, passing through the points (negative 6, negative 4.7), (0, negative 4), and (6, negative 3.2). A vertical dashed line crosses the x-axis at negative 4, and another vertical dashed line crosses the x-axis at 0. The region above the curve, below the x-axis, and between the two dashed lines is shaded. All coordinates are approximate."
+          },
+          {
+            "label": "D.",
+            "text": "-6\n6\n-6\n6\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 6 to 6 in increments of 1 and a vertical y-axis labeled from negative 6 to 6 in increments of 1. A curve falls from left to right at an increasing rate, passing through the points (negative 6, 4.7), (0, 4), and (6, 3.2). A vertical dashed line crosses the x-axis at negative 4, and another vertical dashed line crosses the x-axis at 0. The region below the curve, above the x-axis, and between the two dashed lines is shaded. All coordinates are approximate."
+          },
+          {
+            "label": "Part 2",
+            "text": "The value of the definite integral\nIntegral from negative 4 to 0 StartRoot 16 minus x squared EndRoot dx\n\u222b\n\u22124\n0\n16\u2212x2dx as determined by the area under the graph of the integrand is\n.\n\u200b(Simplify your answer. Type an exact\u200b answer, using\npi\n\u03c0 as needed. Use integers or fractions for any numbers in the\u200b expression.)"
+          }
+        ],
+        "prompt": "Use geometry\u200b (not Riemann\u200b sums) to evaluate the definite integral. Sketch the graph of the\u2026",
+        "expr": ""
+      },
+      {
+        "questionId": "5.2.53",
+        "objective": "Evaluate definite integrals using properties of definite integrals.",
+        "summary": "Integral from 3 to 5 f left parenthesis x right parenthesis dx",
+        "fullText": "16.\nPart 1\nSuppose\nIntegral from 3 to 5 f left parenthesis x right parenthesis dx\n\u222b\n3\n5\nf(x)dx\nequals\n=\n4\n4\u200b,\nIntegral from 5 to 8 f left parenthesis x right parenthesis dx\n\u222b\n5\n8\nf(x)dx\nequals\n=\nnegative 7\n\u22127\u200b, and\nIntegral from 5 to 8 g left parenthesis x right parenthesis dx\n\u222b\n5\n8\ng(x)dx\nequals\n=\n1\n1. Evaluate the integrals in parts a\ndash\n\u2013 d.\nPart 1\na.\nIntegral from 3 to 5 7 f left parenthesis x right parenthesis dx\n\u222b\n3\n5\n7f(x)dx\nequals\n=\n\u200b(Simplify your\u200b answer.)\nPart 2\nb.\nIntegral from 5 to 8 minus 2 g left parenthesis x right parenthesis dx\n\u222b\n5\n8\n\u22122g(x)dx\nequals\n=\n\u200b(Simplify your\u200b answer.)\nPart 3\nc.\nIntegral from 5 to 8 left bracket 5 f left parenthesis x right parenthesis minus g left parenthesis x right parenthesis right bracket dx\n\u222b\n5\n8\n[5f(x)\u2212g(x)]dx\nequals\n=\n\u200b(Simplify your\u200b answer.)\nPart 4\nd.\nIntegral from 8 to 5 left bracket f left parenthesis x right parenthesis plus 3 g left parenthesis x right parenthesis right bracket dx\n\u222b\n8\n5\n[f(x)+3g(x)]dx\nequals\n=\n\u200b(Simplify your\u200b answer.)",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "16."
+          },
+          {
+            "label": "Part 1",
+            "text": "Suppose\nIntegral from 3 to 5 f left parenthesis x right parenthesis dx\n\u222b\n3\n5\nf(x)dx\nequals\n=\n4\n4\u200b,\nIntegral from 5 to 8 f left parenthesis x right parenthesis dx\n\u222b\n5\n8\nf(x)dx\nequals\n=\nnegative 7\n\u22127\u200b, and\nIntegral from 5 to 8 g left parenthesis x right parenthesis dx\n\u222b\n5\n8\ng(x)dx\nequals\n=\n1\n1. Evaluate the integrals in parts a\ndash\n\u2013 d."
+          },
+          {
+            "label": "Part 1",
+            "text": ""
+          },
+          {
+            "label": "a.",
+            "text": "Integral from 3 to 5 7 f left parenthesis x right parenthesis dx\n\u222b\n3\n5\n7f(x)dx\nequals\n=\n\u200b(Simplify your\u200b answer.)"
+          },
+          {
+            "label": "Part 2",
+            "text": ""
+          },
+          {
+            "label": "b.",
+            "text": "Integral from 5 to 8 minus 2 g left parenthesis x right parenthesis dx\n\u222b\n5\n8\n\u22122g(x)dx\nequals\n=\n\u200b(Simplify your\u200b answer.)"
+          },
+          {
+            "label": "Part 3",
+            "text": ""
+          },
+          {
+            "label": "c.",
+            "text": "Integral from 5 to 8 left bracket 5 f left parenthesis x right parenthesis minus g left parenthesis x right parenthesis right bracket dx\n\u222b\n5\n8\n[5f(x)\u2212g(x)]dx\nequals\n=\n\u200b(Simplify your\u200b answer.)"
+          },
+          {
+            "label": "Part 4",
+            "text": ""
+          },
+          {
+            "label": "d.",
+            "text": "Integral from 8 to 5 left bracket f left parenthesis x right parenthesis plus 3 g left parenthesis x right parenthesis right bracket dx\n\u222b\n8\n5\n[f(x)+3g(x)]dx\nequals\n=\n\u200b(Simplify your\u200b answer.)"
+          }
+        ],
+        "prompt": "Integral from 3 to 5 f left parenthesis x right parenthesis dx",
+        "expr": ""
+      },
+      {
+        "questionId": "5.2.55",
+        "objective": "Evaluate definite integrals using properties of definite integrals.",
+        "summary": "Consider two functions f and g on \u200b[",
+        "fullText": "17.\nPart 1\nConsider two functions f and g on \u200b[\n2\n2\u200b,\n8\n8\u200b] such that\nIntegral from 2 to 8 f left parenthesis x right parenthesis dx\n\u222b\n2\n8\nf(x)dx\nequals\n=\n15\n15\u200b,\nIntegral from 2 to 8 g left parenthesis x right parenthesis dx\n\u222b\n2\n8\ng(x)dx\nequals\n=\n6\n6\u200b,\nIntegral from 4 to 8 f left parenthesis x right parenthesis dx\n\u222b\n4\n8\nf(x)dx\nequals\n=\n7\n7\u200b, and\nIntegral from 2 to 4 g left parenthesis x right parenthesis dx\n\u222b\n2\n4\ng(x)dx\nequals\n=\n4\n4.  Evaluate the following integrals.\nPart 1\na.\nIntegral from 2 to 4 9 f left parenthesis x right parenthesis dx\n\u222b\n2\n4\n9f(x)dx\nequals\n=\n\u200b(Simplify your\u200b answer.)\nPart 2\nb.\nIntegral from 2 to 8 left parenthesis f left parenthesis x right parenthesis minus g left parenthesis x right parenthesis right parenthesis dx\n\u222b\n2\n8\n(f(x)\u2212g(x))dx\nequals\n=\n\u200b(Simplify your\u200b answer.)\nPart 3\nc.\nIntegral from 2 to 4 left parenthesis f left parenthesis x right parenthesis minus g left parenthesis x right parenthesis right parenthesis dx\n\u222b\n2\n4\n(f(x)\u2212g(x))dx\nequals\n=\n\u200b(Simplify your\u200b answer.)\nPart 4\nd.\nIntegral from 4 to 8 left parenthesis g left parenthesis x right parenthesis minus f left parenthesis x right parenthesis right parenthesis dx\n\u222b\n4\n8\n(g(x)\u2212f(x))dx\nequals\n=\n\u200b(Simplify your\u200b answer.)\nPart 5\ne.\nIntegral from 4 to 8 5 g left parenthesis x right parenthesis dx\n\u222b\n4\n8\n5g(x)dx\nequals\n=\n\u200b(Simplify your\u200b answer.)\nPart 6\nf.\nIntegral from 4 to 2 6 f left parenthesis x right parenthesis dx\n\u222b\n4\n2\n6f(x)dx\nequals\n=\n\u200b(Simplify your\u200b answer.)",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "17."
+          },
+          {
+            "label": "Part 1",
+            "text": "Consider two functions f and g on \u200b[\n2\n2\u200b,\n8\n8\u200b] such that\nIntegral from 2 to 8 f left parenthesis x right parenthesis dx\n\u222b\n2\n8\nf(x)dx\nequals\n=\n15\n15\u200b,\nIntegral from 2 to 8 g left parenthesis x right parenthesis dx\n\u222b\n2\n8\ng(x)dx\nequals\n=\n6\n6\u200b,\nIntegral from 4 to 8 f left parenthesis x right parenthesis dx\n\u222b\n4\n8\nf(x)dx\nequals\n=\n7\n7\u200b, and\nIntegral from 2 to 4 g left parenthesis x right parenthesis dx\n\u222b\n2\n4\ng(x)dx\nequals\n=\n4\n4.  Evaluate the following integrals."
+          },
+          {
+            "label": "Part 1",
+            "text": ""
+          },
+          {
+            "label": "a.",
+            "text": "Integral from 2 to 4 9 f left parenthesis x right parenthesis dx\n\u222b\n2\n4\n9f(x)dx\nequals\n=\n\u200b(Simplify your\u200b answer.)"
+          },
+          {
+            "label": "Part 2",
+            "text": ""
+          },
+          {
+            "label": "b.",
+            "text": "Integral from 2 to 8 left parenthesis f left parenthesis x right parenthesis minus g left parenthesis x right parenthesis right parenthesis dx\n\u222b\n2\n8\n(f(x)\u2212g(x))dx\nequals\n=\n\u200b(Simplify your\u200b answer.)"
+          },
+          {
+            "label": "Part 3",
+            "text": ""
+          },
+          {
+            "label": "c.",
+            "text": "Integral from 2 to 4 left parenthesis f left parenthesis x right parenthesis minus g left parenthesis x right parenthesis right parenthesis dx\n\u222b\n2\n4\n(f(x)\u2212g(x))dx\nequals\n=\n\u200b(Simplify your\u200b answer.)"
+          },
+          {
+            "label": "Part 4",
+            "text": ""
+          },
+          {
+            "label": "d.",
+            "text": "Integral from 4 to 8 left parenthesis g left parenthesis x right parenthesis minus f left parenthesis x right parenthesis right parenthesis dx\n\u222b\n4\n8\n(g(x)\u2212f(x))dx\nequals\n=\n\u200b(Simplify your\u200b answer.)"
+          },
+          {
+            "label": "Part 5",
+            "text": ""
+          },
+          {
+            "label": "e.",
+            "text": "Integral from 4 to 8 5 g left parenthesis x right parenthesis dx\n\u222b\n4\n8\n5g(x)dx\nequals\n=\n\u200b(Simplify your\u200b answer.)"
+          },
+          {
+            "label": "Part 6",
+            "text": ""
+          },
+          {
+            "label": "f.",
+            "text": "Integral from 4 to 2 6 f left parenthesis x right parenthesis dx\n\u222b\n4\n2\n6f(x)dx\nequals\n=\n\u200b(Simplify your\u200b answer.)"
+          }
+        ],
+        "prompt": "Consider two functions f and g on \u200b[",
+        "expr": ""
+      },
+      {
+        "questionId": "5.3.25",
+        "objective": "Evaluate definite integrals using the Fundamental Theorem of Calculus.",
+        "summary": "Evaluate the following integral using the Fundamental Theorem of Calculus. Sketch the graph \u2026",
+        "fullText": "18.\nPart 1\nEvaluate the following integral using the Fundamental Theorem of Calculus. Sketch the graph of the integrand and shade the region whose net area you have found.\nIntegral from negative 5 to 2 left parenthesis x squared plus 3 x minus 10 right parenthesis dx\n\u222b\n\u22125\n2\nx2+3x\u221210\u00a0dx\nPart 1\nIntegral from negative 5 to 2 left parenthesis x squared plus 3 x minus 10 right parenthesis dx\n\u222b\n\u22125\n2\nx2+3x\u221210\u00a0dx\nequals\n=\n\u200b(Simplify your\u200b answer.)\nPart 2\nChoose the correct graph.\nA.\n-8\n8\n-16\n16\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 8 to 8 in increments of 1 and a vertical y-axis labeled from negative 16 to 16 in increments of 2. A parabola opens upward from (negative 0.8, negative 11.1) and passes through (negative 3.1, 0) and (1.6, 0). The region above the parabola and below the x-axis is shaded. All coordinates are approximate.\nB.\n-8\n8\n-16\n16\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 8 to 8 in increments of 1 and a vertical y-axis labeled from negative 16 to 16 in increments of 2. A parabola opens upward from (negative 1.5, negative 12.3) and passes through (negative 5, 0) and (2, 0). The region above the parabola and below the x-axis is shaded. All coordinates are approximate.\nC.\n-8\n8\n-16\n16\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 8 to 8 in increments of 1 and a vertical y-axis labeled from negative 16 to 16 in increments of 2. A parabola opens upward from (negative 0.8, 11.1) and passes through (negative 3.1, 0) and (1.6, 0). The region below the parabola and above the x-axis is shaded. All coordinates are approximate.\nD.\n-8\n8\n-16\n16\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 8 to 8 in increments of 1 and a vertical y-axis labeled from negative 16 to 16 in increments of 2. A parabola opens downward from (negative 1.5, 12.3) and passes through (negative 5, 0) and (2, 0). The region below the parabola and above the x-axis is shaded. All coordinates are approximate.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "18."
+          },
+          {
+            "label": "Part 1",
+            "text": "Evaluate the following integral using the Fundamental Theorem of Calculus. Sketch the graph of the integrand and shade the region whose net area you have found.\nIntegral from negative 5 to 2 left parenthesis x squared plus 3 x minus 10 right parenthesis dx\n\u222b\n\u22125\n2\nx2+3x\u221210\u00a0dx"
+          },
+          {
+            "label": "Part 1",
+            "text": "Integral from negative 5 to 2 left parenthesis x squared plus 3 x minus 10 right parenthesis dx\n\u222b\n\u22125\n2\nx2+3x\u221210\u00a0dx\nequals\n=\n\u200b(Simplify your\u200b answer.)"
+          },
+          {
+            "label": "Part 2",
+            "text": "Choose the correct graph."
+          },
+          {
+            "label": "A.",
+            "text": "-8\n8\n-16\n16\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 8 to 8 in increments of 1 and a vertical y-axis labeled from negative 16 to 16 in increments of 2. A parabola opens upward from (negative 0.8, negative 11.1) and passes through (negative 3.1, 0) and (1.6, 0). The region above the parabola and below the x-axis is shaded. All coordinates are approximate."
+          },
+          {
+            "label": "B.",
+            "text": "-8\n8\n-16\n16\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 8 to 8 in increments of 1 and a vertical y-axis labeled from negative 16 to 16 in increments of 2. A parabola opens upward from (negative 1.5, negative 12.3) and passes through (negative 5, 0) and (2, 0). The region above the parabola and below the x-axis is shaded. All coordinates are approximate."
+          },
+          {
+            "label": "C.",
+            "text": "-8\n8\n-16\n16\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 8 to 8 in increments of 1 and a vertical y-axis labeled from negative 16 to 16 in increments of 2. A parabola opens upward from (negative 0.8, 11.1) and passes through (negative 3.1, 0) and (1.6, 0). The region below the parabola and above the x-axis is shaded. All coordinates are approximate."
+          },
+          {
+            "label": "D.",
+            "text": "-8\n8\n-16\n16\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 8 to 8 in increments of 1 and a vertical y-axis labeled from negative 16 to 16 in increments of 2. A parabola opens downward from (negative 1.5, 12.3) and passes through (negative 5, 0) and (2, 0). The region below the parabola and above the x-axis is shaded. All coordinates are approximate."
+          }
+        ],
+        "prompt": "Evaluate the following integral using the Fundamental Theorem of Calculus. Sketch the graph \u2026",
+        "expr": ""
+      },
+      {
+        "questionId": "5.3.33",
+        "objective": "Evaluate definite integrals using the Fundamental Theorem of Calculus.",
+        "summary": "Integral from 1 to 4 left parenthesis 6 x plus StartRoot x EndRoot right parenthesis dx",
+        "fullText": "19.\nPart 1\nEvaluate the integral.\nIntegral from 1 to 4 left parenthesis 6 x plus StartRoot x EndRoot right parenthesis dx\n\u222b\n1\n4\n6x+\nxdx\nPart 1\nIntegral from 1 to 4 left parenthesis 6 x plus StartRoot x EndRoot right parenthesis dx\n\u222b\n1\n4\n6x+\nxdx\nequals\n=\n\u200b(Type an exact\u200b answer.)",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "19."
+          },
+          {
+            "label": "Part 1",
+            "text": "Evaluate the integral.\nIntegral from 1 to 4 left parenthesis 6 x plus StartRoot x EndRoot right parenthesis dx\n\u222b\n1\n4\n6x+\nxdx"
+          },
+          {
+            "label": "Part 1",
+            "text": "Integral from 1 to 4 left parenthesis 6 x plus StartRoot x EndRoot right parenthesis dx\n\u222b\n1\n4\n6x+\nxdx\nequals\n=\n\u200b(Type an exact\u200b answer.)"
+          }
+        ],
+        "prompt": "Integral from 1 to 4 left parenthesis 6 x plus StartRoot x EndRoot right parenthesis dx",
+        "expr": ""
+      },
+      {
+        "questionId": "5.3.41",
+        "objective": "Evaluate definite integrals using the Fundamental Theorem of Calculus.",
+        "summary": "Evaluate the following integral using the Fundamental Theorem of Calculus.",
+        "fullText": "20.\nPart 1\nEvaluate the following integral using the Fundamental Theorem of Calculus.\nIntegral from 4 to 12 left parenthesis 4 minus x right parenthesis left parenthesis x minus 12 right parenthesis dx\n\u222b\n4\n12\n(4\u2212x)(x\u221212)\u00a0dx\nPart 1\nIntegral from 4 to 12 left parenthesis 4 minus x right parenthesis left parenthesis x minus 12 right parenthesis dx\n\u222b\n4\n12\n(4\u2212x)(x\u221212)\u00a0dx\nequals\n=\n\u200b(Type an exact\u200b answer.)",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "20."
+          },
+          {
+            "label": "Part 1",
+            "text": "Evaluate the following integral using the Fundamental Theorem of Calculus.\nIntegral from 4 to 12 left parenthesis 4 minus x right parenthesis left parenthesis x minus 12 right parenthesis dx\n\u222b\n4\n12\n(4\u2212x)(x\u221212)\u00a0dx"
+          },
+          {
+            "label": "Part 1",
+            "text": "Integral from 4 to 12 left parenthesis 4 minus x right parenthesis left parenthesis x minus 12 right parenthesis dx\n\u222b\n4\n12\n(4\u2212x)(x\u221212)\u00a0dx\nequals\n=\n\u200b(Type an exact\u200b answer.)"
+          }
+        ],
+        "prompt": "Evaluate the following integral using the Fundamental Theorem of Calculus.",
+        "expr": ""
+      },
+      {
+        "questionId": "5.3.42",
+        "objective": "Evaluate definite integrals using the Fundamental Theorem of Calculus.",
+        "summary": "Use the Fundamental Theorem of Calculus to evaluate the following definite integral.",
+        "fullText": "21.\nPart 1\nUse the Fundamental Theorem of Calculus to evaluate the following definite integral.\nIntegral from 0 to StartFraction StartRoot 3 EndRoot Over 2 EndFraction StartFraction 5 dx Over StartRoot 1 minus x squared EndRoot EndFraction\n\u222b\n0\n3\n2\n5\u00a0dx\n1\u2212x2\nPart 1\nIntegral from 0 to StartFraction StartRoot 3 EndRoot Over 2 EndFraction StartFraction 5 dx Over StartRoot 1 minus x squared EndRoot EndFraction\n\u222b\n0\n3\n2\n5\u00a0dx\n1\u2212x2\nequals\n=\n\u200b(Type an exact\u200b answer.)",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "21."
+          },
+          {
+            "label": "Part 1",
+            "text": "Use the Fundamental Theorem of Calculus to evaluate the following definite integral.\nIntegral from 0 to StartFraction StartRoot 3 EndRoot Over 2 EndFraction StartFraction 5 dx Over StartRoot 1 minus x squared EndRoot EndFraction\n\u222b\n0\n3\n2\n5\u00a0dx\n1\u2212x2"
+          },
+          {
+            "label": "Part 1",
+            "text": "Integral from 0 to StartFraction StartRoot 3 EndRoot Over 2 EndFraction StartFraction 5 dx Over StartRoot 1 minus x squared EndRoot EndFraction\n\u222b\n0\n3\n2\n5\u00a0dx\n1\u2212x2\nequals\n=\n\u200b(Type an exact\u200b answer.)"
+          }
+        ],
+        "prompt": "Use the Fundamental Theorem of Calculus to evaluate the following definite integral.",
+        "expr": ""
+      },
+      {
+        "questionId": "5.3.50",
+        "objective": "Evaluate definite integrals using the Fundamental Theorem of Calculus.",
+        "summary": "Evaluate the following definite integral using the Fundamental Theorem of Calculus.",
+        "fullText": "22.\nPart 1\nEvaluate the following definite integral using the Fundamental Theorem of Calculus.\none fifth Integral from 0 to ln 9 e Superscript x Baseline dx\n1\n5\n\u222b\n0\nln9\nexdx\nPart 1\none fifth Integral from 0 to ln 9 e Superscript x Baseline dx\n1\n5\n\u222b\n0\nln9\nexdx\nequals\n=\n\u200b(Type an integer or a simplified\u200b fraction.)",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "22."
+          },
+          {
+            "label": "Part 1",
+            "text": "Evaluate the following definite integral using the Fundamental Theorem of Calculus.\none fifth Integral from 0 to ln 9 e Superscript x Baseline dx\n1\n5\n\u222b\n0\nln9\nexdx"
+          },
+          {
+            "label": "Part 1",
+            "text": "one fifth Integral from 0 to ln 9 e Superscript x Baseline dx\n1\n5\n\u222b\n0\nln9\nexdx\nequals\n=\n\u200b(Type an integer or a simplified\u200b fraction.)"
+          }
+        ],
+        "prompt": "Evaluate the following definite integral using the Fundamental Theorem of Calculus.",
+        "expr": ""
+      },
+      {
+        "questionId": "5.3.69",
+        "objective": "Find areas bounded by functions.",
+        "summary": "Find the area of the region bounded by the graph of f and the\u200b x-axis on the given interval.",
+        "fullText": "23.\nPart 1\nFind the area of the region bounded by the graph of f and the\u200b x-axis on the given interval.\n\u200bf(x)\nequals\n=\nStartFraction 3 Over x EndFraction\n3\nx\non \u200b[\nminus\n\u2212\n5\n5\u200b,\nminus\n\u2212\u200b1]\nPart 1\nThe area of the region is\n.\n\u200b(Type an exact\u200b answer.)",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "23."
+          },
+          {
+            "label": "Part 1",
+            "text": "Find the area of the region bounded by the graph of f and the\u200b x-axis on the given interval.\n\u200bf(x)\nequals\n=\nStartFraction 3 Over x EndFraction\n3\nx\non \u200b[\nminus\n\u2212\n5\n5\u200b,\nminus\n\u2212\u200b1]"
+          },
+          {
+            "label": "Part 1",
+            "text": "The area of the region is\n.\n\u200b(Type an exact\u200b answer.)"
+          }
+        ],
+        "prompt": "Find the area of the region bounded by the graph of f and the\u200b x-axis on the given interval.",
+        "expr": ""
+      },
+      {
+        "questionId": "5.3.77",
+        "objective": "Evaluate derivatives of definite integrals.",
+        "summary": "Simplify the following expression.",
+        "fullText": "24.\nPart 1\nSimplify the following expression.\nStartFraction d Over dx EndFraction Integral from 3 to x cubed StartFraction dp Over p squared EndFraction\nd\ndx\n\u222b\n3\nx3\ndp\np2\nPart 1\nStartFraction d Over dx EndFraction Integral from 3 to x cubed StartFraction dp Over p squared EndFraction\nd\ndx\n\u222b\n3\nx3\ndp\np2\nequals\n=",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "24."
+          },
+          {
+            "label": "Part 1",
+            "text": "Simplify the following expression.\nStartFraction d Over dx EndFraction Integral from 3 to x cubed StartFraction dp Over p squared EndFraction\nd\ndx\n\u222b\n3\nx3\ndp\np2"
+          },
+          {
+            "label": "Part 1",
+            "text": "StartFraction d Over dx EndFraction Integral from 3 to x cubed StartFraction dp Over p squared EndFraction\nd\ndx\n\u222b\n3\nx3\ndp\np2\nequals\n="
+          }
+        ],
+        "prompt": "Simplify the following expression.",
+        "expr": ""
+      },
+      {
+        "questionId": "5.3.24",
+        "objective": "Evaluate definite integrals using the Fundamental Theorem of Calculus.",
+        "summary": "Evaluate the following integral using the Fundamental Theorem of Calculus. Explain why the r\u2026",
+        "fullText": "25.\nPart 1\nEvaluate the following integral using the Fundamental Theorem of Calculus. Explain why the result is consistent with the figure.\nIntegral from StartFraction pi Over 2 EndFraction to pi left parenthesis sine x plus cosine x right parenthesis dx\n\u222b\n\u03c0\n2\n\u03c0\n(sinx+cosx)\u00a0dx\n-2\n2\nx\ny\nnegative StartFraction pi Over 4 EndFraction\n\u2212\n\u03c0\n4\nStartFraction 3 pi Over 4 EndFraction\n3\u03c0\n4\nStartFraction 7 pi Over 4 EndFraction\n7\u03c0\n4\nStartFraction pi Over 2 EndFraction\n\u03c0\n2\npi\n\u03c0\ny equals sine x plus cosine x\ny=sinx+cosx\nA coordinate system has a horizontal x-axis labeled at negative StartFraction pi Over 4 EndFraction, StartFraction pi Over 2 EndFraction, StartFraction 3 pi Over 4 EndFraction, pi, and StartFraction 7 pi Over 4 EndFraction and a vertical y-axis labeled from negative 2 to 2 in increments of 1. From left to right, a smooth curve labeled y equals sine x plus cosine x starts at (negative StartFraction pi Over 4 EndFraction, 0), rises through the point (0, 1) to a maximum in quadrant 1, falls through the point (StartFraction 3 pi Over 4 EndFraction, 0) to a minimum in quadrant 4, and then rises to the point (StartFraction 7 pi Over 4 EndFraction, 0). The part of the curve to the left of x equals StartFraction 3 pi Over 4 EndFraction has the same shape as the part of the curve to the right of x equals StartFraction 3 pi Over 4 EndFraction. The region above the x-axis, below the curve, and between x equals StartFraction pi Over 2 EndFraction and x equals StartFraction 3 pi Over 4 EndFraction is shaded. The region below the x-axis, above the curve, and between x equals StartFraction 3 pi Over 4 EndFraction and x equals pi is also shaded.\nPart 1\nIntegral from StartFraction pi Over 2 EndFraction to pi left parenthesis sine x plus cosine x right parenthesis dx\n\u222b\n\u03c0\n2\n\u03c0\n(sinx+cosx)\u00a0dx\nequals\n=\n\u200b(Type an exact\u200b answer.)\nPart 2\nThe result is consistent with the figure because the shaded area that lies below the\u200b x-axis appears to be (1)\nthe shaded area that lies above the\u200b x-axis, which means it makes sense for the value of the integral to be (2)\n(1)\ngreater than\nless than\nequal to\n(2)\nzero.\npositive.\nnegative.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "25."
+          },
+          {
+            "label": "Part 1",
+            "text": "Evaluate the following integral using the Fundamental Theorem of Calculus. Explain why the result is consistent with the figure.\nIntegral from StartFraction pi Over 2 EndFraction to pi left parenthesis sine x plus cosine x right parenthesis dx\n\u222b\n\u03c0\n2\n\u03c0\n(sinx+cosx)\u00a0dx\n-2\n2\nx\ny\nnegative StartFraction pi Over 4 EndFraction\n\u2212\n\u03c0\n4\nStartFraction 3 pi Over 4 EndFraction\n3\u03c0\n4\nStartFraction 7 pi Over 4 EndFraction\n7\u03c0\n4\nStartFraction pi Over 2 EndFraction\n\u03c0\n2\npi\n\u03c0\ny equals sine x plus cosine x\ny=sinx+cosx\nA coordinate system has a horizontal x-axis labeled at negative StartFraction pi Over 4 EndFraction, StartFraction pi Over 2 EndFraction, StartFraction 3 pi Over 4 EndFraction, pi, and StartFraction 7 pi Over 4 EndFraction and a vertical y-axis labeled from negative 2 to 2 in increments of 1. From left to right, a smooth curve labeled y equals sine x plus cosine x starts at (negative StartFraction pi Over 4 EndFraction, 0), rises through the point (0, 1) to a maximum in quadrant 1, falls through the point (StartFraction 3 pi Over 4 EndFraction, 0) to a minimum in quadrant 4, and then rises to the point (StartFraction 7 pi Over 4 EndFraction, 0). The part of the curve to the left of x equals StartFraction 3 pi Over 4 EndFraction has the same shape as the part of the curve to the right of x equals StartFraction 3 pi Over 4 EndFraction. The region above the x-axis, below the curve, and between x equals StartFraction pi Over 2 EndFraction and x equals StartFraction 3 pi Over 4 EndFraction is shaded. The region below the x-axis, above the curve, and between x equals StartFraction 3 pi Over 4 EndFraction and x equals pi is also shaded."
+          },
+          {
+            "label": "Part 1",
+            "text": "Integral from StartFraction pi Over 2 EndFraction to pi left parenthesis sine x plus cosine x right parenthesis dx\n\u222b\n\u03c0\n2\n\u03c0\n(sinx+cosx)\u00a0dx\nequals\n=\n\u200b(Type an exact\u200b answer.)"
+          },
+          {
+            "label": "Part 2",
+            "text": "The result is consistent with the figure because the shaded area that lies below the\u200b x-axis appears to be (1)\nthe shaded area that lies above the\u200b x-axis, which means it makes sense for the value of the integral to be (2)\n(1)\ngreater than\nless than\nequal to\n(2)\nzero.\npositive.\nnegative."
+          }
+        ],
+        "prompt": "Evaluate the following integral using the Fundamental Theorem of Calculus. Explain why the r\u2026",
+        "expr": "y=sinx+cosx"
+      },
+      {
+        "questionId": "5.3.28",
+        "objective": "Evaluate definite integrals using the Fundamental Theorem of Calculus.",
+        "summary": "Evaluate the following integral using the Fundamental Theorem of Calculus. Sketch the graph \u2026",
+        "fullText": "26.\nPart 1\nEvaluate the following integral using the Fundamental Theorem of Calculus. Sketch the graph of the integrand and shade the region whose net area you have found.\nIntegral from one half to 2 left parenthesis 2 minus StartFraction 2 Over x squared EndFraction right parenthesis dx\n\u222b\n1\n2\n2\n2\u2212\n2\nx2\ndx\nPart 1\nIntegral from one half to 2 left parenthesis 2 minus StartFraction 2 Over x squared EndFraction right parenthesis dx\n\u222b\n1\n2\n2\n2\u2212\n2\nx2\ndx\nequals\n=\n\u200b(Simplify your\u200b answer.)\nPart 2\nChoose the correct graph.\nA.\n1\n2\n6\n-1.5\nx\ny\nfont size decreased by 2 Superscript Baseline 1 divided by 2 Superscript\n1/2\nA coordinate system has a horizontal x-axis with tick marks at one half, 1, and 2 and a vertical y-axis with tick marks at negative 1.5 and 6. From left to right, a curve falls concave up, passing through (one half, 6), (1, 0), and (2, negative 1.5). As x approaches 0 from the right, the curve rises toward infinity. The region below the x-axis and above the curve between x equals 1 and x equals 2 is shaded.\nB.\n1\n2\n-6\n1.5\nx\ny\nfont size decreased by 2 Superscript Baseline 1 divided by 2 Superscript\n1/2\nA coordinate system has a horizontal x-axis with tick marks at one half, 1, and 2 and a vertical y-axis with tick marks at negative 6 and 1.5. From left to right, a curve rises concave down, passing through (one half, negative 6), (1, 0), and (2, 1.5). As x approaches 0 from the right, the curve falls toward negative infinity. The region below the x-axis and above the curve between x equals one half and x equals 1 is shaded. The region above the x-axis and below the curve between x equals 1 and x equals 2 is also shaded.\nC.\n1\n2\n-6\n1.5\nx\ny\nfont size decreased by 2 Superscript Baseline 1 divided by 2 Superscript\n1/2\nA coordinate system has a horizontal x-axis with tick marks at one half, 1, and 2 and a vertical y-axis with tick marks at negative 6 and 1.5. From left to right, a curve rises concave down, passing through (one half, negative 6), (1, 0), and (2, 1.5). As x approaches 0 from the right, the curve falls toward negative infinity. The region below the x-axis and above the curve between the y-axis and x equals 1 is shaded. The region above the x-axis and below the curve between x equals 1 and x equals 2 is also shaded.\nD.\n1\n2\n-6\n1.5\nx\ny\nfont size decreased by 2 Superscript Baseline 1 divided by 2 Superscript\n1/2\nA coordinate system has a horizontal x-axis with tick marks at one half, 1, and 2 and a vertical y-axis with tick marks at negative 6 and 1.5. From left to right, a curve rises concave down, passing through (one half, negative 6), (1, 0), and (2, 1.5). As x approaches 0 from the right, the curve falls toward negative infinity. The region above the x-axis and below the curve between x equals 1 and x equals 2 is shaded.\nE.\n1\n2\n6\n-1.5\nx\ny\nfont size decreased by 2 Superscript Baseline 1 divided by 2 Superscript\n1/2\nA coordinate system has a horizontal x-axis with tick marks at one half, 1, and 2 and a vertical y-axis with tick marks at negative 1.5 and 6. From left to right, a curve falls concave up, passing through (one half, 6), (1, 0), and (2, negative 1.5). As x approaches 0 from the right, the curve rises toward infinity. The region above the x-axis and below the curve between the y-axis and x equals 1 is shaded. The region below the x-axis and above the curve between x equals 1 and x equals 2 is also shaded.\nF.\n1\n2\n6\n-1.5\nx\ny\nfont size decreased by 2 Superscript Baseline 1 divided by 2 Superscript\n1/2\nA coordinate system has a horizontal x-axis with tick marks at one half, 1, and 2 and a vertical y-axis with tick marks at negative 1.5 and 6. From left to right, a curve falls concave up, passing through (one half, 6), (1, 0), and (2, negative 1.5). As x approaches 0 from the right, the curve rises toward infinity. The region above the x-axis and below the curve between x equals one half and x equals 1 is shaded. The region below the x-axis and above the curve between x equals 1 and x equals 2 is also shaded.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "26."
+          },
+          {
+            "label": "Part 1",
+            "text": "Evaluate the following integral using the Fundamental Theorem of Calculus. Sketch the graph of the integrand and shade the region whose net area you have found.\nIntegral from one half to 2 left parenthesis 2 minus StartFraction 2 Over x squared EndFraction right parenthesis dx\n\u222b\n1\n2\n2\n2\u2212\n2\nx2\ndx"
+          },
+          {
+            "label": "Part 1",
+            "text": "Integral from one half to 2 left parenthesis 2 minus StartFraction 2 Over x squared EndFraction right parenthesis dx\n\u222b\n1\n2\n2\n2\u2212\n2\nx2\ndx\nequals\n=\n\u200b(Simplify your\u200b answer.)"
+          },
+          {
+            "label": "Part 2",
+            "text": "Choose the correct graph."
+          },
+          {
+            "label": "A.",
+            "text": "1\n2\n6\n-1.5\nx\ny\nfont size decreased by 2 Superscript Baseline 1 divided by 2 Superscript\n1/2\nA coordinate system has a horizontal x-axis with tick marks at one half, 1, and 2 and a vertical y-axis with tick marks at negative 1.5 and 6. From left to right, a curve falls concave up, passing through (one half, 6), (1, 0), and (2, negative 1.5). As x approaches 0 from the right, the curve rises toward infinity. The region below the x-axis and above the curve between x equals 1 and x equals 2 is shaded."
+          },
+          {
+            "label": "B.",
+            "text": "1\n2\n-6\n1.5\nx\ny\nfont size decreased by 2 Superscript Baseline 1 divided by 2 Superscript\n1/2\nA coordinate system has a horizontal x-axis with tick marks at one half, 1, and 2 and a vertical y-axis with tick marks at negative 6 and 1.5. From left to right, a curve rises concave down, passing through (one half, negative 6), (1, 0), and (2, 1.5). As x approaches 0 from the right, the curve falls toward negative infinity. The region below the x-axis and above the curve between x equals one half and x equals 1 is shaded. The region above the x-axis and below the curve between x equals 1 and x equals 2 is also shaded."
+          },
+          {
+            "label": "C.",
+            "text": "1\n2\n-6\n1.5\nx\ny\nfont size decreased by 2 Superscript Baseline 1 divided by 2 Superscript\n1/2\nA coordinate system has a horizontal x-axis with tick marks at one half, 1, and 2 and a vertical y-axis with tick marks at negative 6 and 1.5. From left to right, a curve rises concave down, passing through (one half, negative 6), (1, 0), and (2, 1.5). As x approaches 0 from the right, the curve falls toward negative infinity. The region below the x-axis and above the curve between the y-axis and x equals 1 is shaded. The region above the x-axis and below the curve between x equals 1 and x equals 2 is also shaded."
+          },
+          {
+            "label": "D.",
+            "text": "1\n2\n-6\n1.5\nx\ny\nfont size decreased by 2 Superscript Baseline 1 divided by 2 Superscript\n1/2\nA coordinate system has a horizontal x-axis with tick marks at one half, 1, and 2 and a vertical y-axis with tick marks at negative 6 and 1.5. From left to right, a curve rises concave down, passing through (one half, negative 6), (1, 0), and (2, 1.5). As x approaches 0 from the right, the curve falls toward negative infinity. The region above the x-axis and below the curve between x equals 1 and x equals 2 is shaded."
+          },
+          {
+            "label": "E.",
+            "text": "1\n2\n6\n-1.5\nx\ny\nfont size decreased by 2 Superscript Baseline 1 divided by 2 Superscript\n1/2\nA coordinate system has a horizontal x-axis with tick marks at one half, 1, and 2 and a vertical y-axis with tick marks at negative 1.5 and 6. From left to right, a curve falls concave up, passing through (one half, 6), (1, 0), and (2, negative 1.5). As x approaches 0 from the right, the curve rises toward infinity. The region above the x-axis and below the curve between the y-axis and x equals 1 is shaded. The region below the x-axis and above the curve between x equals 1 and x equals 2 is also shaded."
+          },
+          {
+            "label": "F.",
+            "text": "1\n2\n6\n-1.5\nx\ny\nfont size decreased by 2 Superscript Baseline 1 divided by 2 Superscript\n1/2\nA coordinate system has a horizontal x-axis with tick marks at one half, 1, and 2 and a vertical y-axis with tick marks at negative 1.5 and 6. From left to right, a curve falls concave up, passing through (one half, 6), (1, 0), and (2, negative 1.5). As x approaches 0 from the right, the curve rises toward infinity. The region above the x-axis and below the curve between x equals one half and x equals 1 is shaded. The region below the x-axis and above the curve between x equals 1 and x equals 2 is also shaded."
+          }
+        ],
+        "prompt": "Evaluate the following integral using the Fundamental Theorem of Calculus. Sketch the graph \u2026",
+        "expr": ""
+      },
+      {
+        "questionId": "5.3.36",
+        "objective": "Evaluate definite integrals using the Fundamental Theorem of Calculus.",
+        "summary": "Evaluate the following integral using the Fundamental Theorem of Calculus.",
+        "fullText": "27.\nPart 1\nEvaluate the following integral using the Fundamental Theorem of Calculus.\nIntegral from 1 to 16 StartFraction 2 plus 7 StartRoot t EndRoot Over StartRoot t EndRoot EndFraction dt\n\u222b\n1\n16\n2+7\nt\nt\ndt\nPart 1\nIntegral from 1 to 16 StartFraction 2 plus 7 StartRoot t EndRoot Over StartRoot t EndRoot EndFraction dt\n\u222b\n1\n16\n2+7\nt\nt\ndt\nequals\n=\n\u200b(Type an exact\u200b answer.)",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "27."
+          },
+          {
+            "label": "Part 1",
+            "text": "Evaluate the following integral using the Fundamental Theorem of Calculus.\nIntegral from 1 to 16 StartFraction 2 plus 7 StartRoot t EndRoot Over StartRoot t EndRoot EndFraction dt\n\u222b\n1\n16\n2+7\nt\nt\ndt"
+          },
+          {
+            "label": "Part 1",
+            "text": "Integral from 1 to 16 StartFraction 2 plus 7 StartRoot t EndRoot Over StartRoot t EndRoot EndFraction dt\n\u222b\n1\n16\n2+7\nt\nt\ndt\nequals\n=\n\u200b(Type an exact\u200b answer.)"
+          }
+        ],
+        "prompt": "Evaluate the following integral using the Fundamental Theorem of Calculus.",
+        "expr": ""
+      },
+      {
+        "questionId": "5.3.37",
+        "objective": "Evaluate definite integrals using the Fundamental Theorem of Calculus.",
+        "summary": "Use the Fundamental Theorem of Calculus to evaluate the following definite integral.",
+        "fullText": "28.\nPart 1\nUse the Fundamental Theorem of Calculus to evaluate the following definite integral.\nIntegral from negative 3 to 1 left parenthesis 5 x cubed plus 6 right parenthesis dx\n\u222b\n\u22123\n1\n5x3+6\u00a0dx\nPart 1\nIntegral from negative 3 to 1 left parenthesis 5 x cubed plus 6 right parenthesis dx\n\u222b\n\u22123\n1\n5x3+6\u00a0dx\nequals\n=\n\u200b(Type an exact\u200b answer.)",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "28."
+          },
+          {
+            "label": "Part 1",
+            "text": "Use the Fundamental Theorem of Calculus to evaluate the following definite integral.\nIntegral from negative 3 to 1 left parenthesis 5 x cubed plus 6 right parenthesis dx\n\u222b\n\u22123\n1\n5x3+6\u00a0dx"
+          },
+          {
+            "label": "Part 1",
+            "text": "Integral from negative 3 to 1 left parenthesis 5 x cubed plus 6 right parenthesis dx\n\u222b\n\u22123\n1\n5x3+6\u00a0dx\nequals\n=\n\u200b(Type an exact\u200b answer.)"
+          }
+        ],
+        "prompt": "Use the Fundamental Theorem of Calculus to evaluate the following definite integral.",
+        "expr": ""
+      },
+      {
+        "questionId": "5.3.39",
+        "objective": "Evaluate definite integrals using the Fundamental Theorem of Calculus.",
+        "summary": "Evaluate the following integral using the Fundamental Theorem of Calculus.",
+        "fullText": "29.\nPart 1\nEvaluate the following integral using the Fundamental Theorem of Calculus.\nIntegral from one fourth to 1 left parenthesis t Superscript negative 3 Baseline minus 8 right parenthesis dt\n\u222b\n1\n4\n1\nt\u22123\u22128\u00a0dt\nPart 1\nIntegral from one fourth to 1 left parenthesis t Superscript negative 3 Baseline minus 8 right parenthesis dt\n\u222b\n1\n4\n1\nt\u22123\u22128\u00a0dt\nequals\n=\n\u200b(Type an exact\u200b answer.)",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "29."
+          },
+          {
+            "label": "Part 1",
+            "text": "Evaluate the following integral using the Fundamental Theorem of Calculus.\nIntegral from one fourth to 1 left parenthesis t Superscript negative 3 Baseline minus 8 right parenthesis dt\n\u222b\n1\n4\n1\nt\u22123\u22128\u00a0dt"
+          },
+          {
+            "label": "Part 1",
+            "text": "Integral from one fourth to 1 left parenthesis t Superscript negative 3 Baseline minus 8 right parenthesis dt\n\u222b\n1\n4\n1\nt\u22123\u22128\u00a0dt\nequals\n=\n\u200b(Type an exact\u200b answer.)"
+          }
+        ],
+        "prompt": "Evaluate the following integral using the Fundamental Theorem of Calculus.",
+        "expr": ""
+      },
+      {
+        "questionId": "5.3.46",
+        "objective": "Evaluate definite integrals using the Fundamental Theorem of Calculus.",
+        "summary": "Evaluate the following integral using the Fundamental Theorem of Calculus.",
+        "fullText": "30.\nPart 1\nEvaluate the following integral using the Fundamental Theorem of Calculus.\nIntegral from negative 5 pi divided by 2 to 5 pi divided by 2 left parenthesis cosine x minus 4 right parenthesis dx\n\u222b\n\u22125\u03c0/2\n5\u03c0/2\n(cosx\u22124)\u00a0dx\nPart 1\nIntegral from negative 5 pi divided by 2 to 5 pi divided by 2 left parenthesis cosine x minus 4 right parenthesis dx\n\u222b\n\u22125\u03c0/2\n5\u03c0/2\n(cosx\u22124)\u00a0dx\nequals\n=\n\u200b(Type an exact\u200b answer.)",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "30."
+          },
+          {
+            "label": "Part 1",
+            "text": "Evaluate the following integral using the Fundamental Theorem of Calculus.\nIntegral from negative 5 pi divided by 2 to 5 pi divided by 2 left parenthesis cosine x minus 4 right parenthesis dx\n\u222b\n\u22125\u03c0/2\n5\u03c0/2\n(cosx\u22124)\u00a0dx"
+          },
+          {
+            "label": "Part 1",
+            "text": "Integral from negative 5 pi divided by 2 to 5 pi divided by 2 left parenthesis cosine x minus 4 right parenthesis dx\n\u222b\n\u22125\u03c0/2\n5\u03c0/2\n(cosx\u22124)\u00a0dx\nequals\n=\n\u200b(Type an exact\u200b answer.)"
+          }
+        ],
+        "prompt": "Evaluate the following integral using the Fundamental Theorem of Calculus.",
+        "expr": ""
+      },
+      {
+        "questionId": "5.4.17",
+        "objective": "Use symmetry to evaluate definite integrals.",
+        "summary": "Use symmetry to evaluate the following integral.",
+        "fullText": "31.\nPart 1\nUse symmetry to evaluate the following integral.\nIntegral from negative 9 to 9 left parenthesis 9 plus x plus x squared plus x cubed right parenthesis dx\n\u222b\n\u22129\n9\n9+x+x2+x3\u00a0dx\nPart 1\nIntegral from negative 9 to 9 left parenthesis 9 plus x plus x squared plus x cubed right parenthesis dx\n\u222b\n\u22129\n9\n9+x+x2+x3\u00a0dx\nequals\n=\n\u200b(Type an integer or a simplified\u200b fraction.)",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "31."
+          },
+          {
+            "label": "Part 1",
+            "text": "Use symmetry to evaluate the following integral.\nIntegral from negative 9 to 9 left parenthesis 9 plus x plus x squared plus x cubed right parenthesis dx\n\u222b\n\u22129\n9\n9+x+x2+x3\u00a0dx"
+          },
+          {
+            "label": "Part 1",
+            "text": "Integral from negative 9 to 9 left parenthesis 9 plus x plus x squared plus x cubed right parenthesis dx\n\u222b\n\u22129\n9\n9+x+x2+x3\u00a0dx\nequals\n=\n\u200b(Type an integer or a simplified\u200b fraction.)"
+          }
+        ],
+        "prompt": "Use symmetry to evaluate the following integral.",
+        "expr": ""
+      },
+      {
+        "questionId": "5.4.27",
+        "objective": "Find average values of functions over given intervals.",
+        "summary": "Find the average value of the following function over the given interval. Draw a graph of th\u2026",
+        "fullText": "32.\nPart 1\nFind the average value of the following function over the given interval. Draw a graph of the function and indicate the average value.\n\u200bf(x)\nequals\n=\nStartFraction 3 Over x squared plus 1 EndFraction\n3\nx2+1\n\u200b;\nleft bracket negative 1,1 right bracket\n[\u22121,1]\nPart 1\nThe average value of the function \u200bf(x)\nequals\n=\nStartFraction 3 Over x squared plus 1 EndFraction\n3\nx2+1\non the interval\nleft bracket negative 1,1 right bracket\n[\u22121,1] is\nf overbar\nf\nequals\n=\n.\n\u200b(Simplify your answer. Use integers or fractions for any numbers in the expression. Type an exact\u200b answer, using\npi\n\u03c0 as\u200b needed.)\nPart 2\nChoose the correct graph of\u200b f(x) with the correct average value\nf overbar\nf below.\nA.\n-2\n2\n-1\n1\nx\ny\nf overbar\nf\nf(x)\nA coordinate system has a horizontal x-axis labeled from negative 2 to 2 in increments of 0.4, and a vertical y-axis labeled from negative 1.000 to ~1.000 in increments of 0.2. A smooth curve labeled f(x) rises from left to right at an increasing rate through (negative 1.2, negative 0.88) and (negative 0.4, negative 0.38) to the origin, and then rises from left to right at a decreasing rate through (0.4, 0.38) and (1.2, 0.88). A horizontal dashed line labeled f overbar crosses the y-axis at 0. All coordinates are approximate.\nB.\n-2\n2\n0\n3\nx\ny\nf overbar\nf\nf(x)\nA coordinate system has a horizontal x-axis labeled from negative 2 to 2 in increments of 0.4, and a vertical y-axis labeled from 0 to 3 in increments of 0.3. A smooth curve labeled f(x) starts at the point (negative 2, 2.4) and falls from left to right through (negative 0.8, 1.17) to a minimum at (0, 0), and then rises from left to right through (0.8, 1.17), ending at the point (2, 2.4). A horizontal dashed line labeled f overbar crosses the y-axis at StartFraction 3 pi Over 4 EndFraction. All coordinates are approximate.\nC.\n-2\n2\n-1\n1\nx\ny\nf overbar\nf\nf(x)\nA coordinate system has a horizontal x-axis labeled from negative 2 to 2 in increments of 0.4, and a vertical y-axis labeled from negative 1.000 to ~1.000 in increments of 0.2. A smooth curve labeled f(x) rises from left to right at a decreasing rate through (negative 0.8, negative 0.51), becomes horizontal at (0, 0), and then rises from left to right at an increasing rate through (0.8, 0.51). A horizontal dashed line labeled f overbar crosses the y-axis at 0. All coordinates are approximate.\nD.\n-2\n2\n0\n3\nx\ny\nf overbar\nf\nf(x)\nA coordinate system has a horizontal x-axis labeled from negative 2 to 2 in increments of 0.4, and a vertical y-axis labeled from 0 to 3 in increments of 0.3. A smooth curve labeled f(x) starts at the point (negative 2, 0.6) and rises from left to right through (negative 0.8, 1.83) to a maximum at (0, 3), and then falls from left to right through (0.8, 1.83), ending at the point (2, 0.6). A horizontal dashed line labeled f overbar crosses the y-axis at StartFraction 3 pi Over 4 EndFraction. All coordinates are approximate.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "32."
+          },
+          {
+            "label": "Part 1",
+            "text": "Find the average value of the following function over the given interval. Draw a graph of the function and indicate the average value.\n\u200bf(x)\nequals\n=\nStartFraction 3 Over x squared plus 1 EndFraction\n3\nx2+1\n\u200b;\nleft bracket negative 1,1 right bracket\n[\u22121,1]"
+          },
+          {
+            "label": "Part 1",
+            "text": "The average value of the function \u200bf(x)\nequals\n=\nStartFraction 3 Over x squared plus 1 EndFraction\n3\nx2+1\non the interval\nleft bracket negative 1,1 right bracket\n[\u22121,1] is\nf overbar\nf\nequals\n=\n.\n\u200b(Simplify your answer. Use integers or fractions for any numbers in the expression. Type an exact\u200b answer, using\npi\n\u03c0 as\u200b needed.)"
+          },
+          {
+            "label": "Part 2",
+            "text": "Choose the correct graph of\u200b f(x) with the correct average value\nf overbar\nf below."
+          },
+          {
+            "label": "A.",
+            "text": "-2\n2\n-1\n1\nx\ny\nf overbar\nf\nf(x)\nA coordinate system has a horizontal x-axis labeled from negative 2 to 2 in increments of 0.4, and a vertical y-axis labeled from negative 1.000 to ~1.000 in increments of 0.2. A smooth curve labeled f(x) rises from left to right at an increasing rate through (negative 1.2, negative 0.88) and (negative 0.4, negative 0.38) to the origin, and then rises from left to right at a decreasing rate through (0.4, 0.38) and (1.2, 0.88). A horizontal dashed line labeled f overbar crosses the y-axis at 0. All coordinates are approximate."
+          },
+          {
+            "label": "B.",
+            "text": "-2\n2\n0\n3\nx\ny\nf overbar\nf\nf(x)\nA coordinate system has a horizontal x-axis labeled from negative 2 to 2 in increments of 0.4, and a vertical y-axis labeled from 0 to 3 in increments of 0.3. A smooth curve labeled f(x) starts at the point (negative 2, 2.4) and falls from left to right through (negative 0.8, 1.17) to a minimum at (0, 0), and then rises from left to right through (0.8, 1.17), ending at the point (2, 2.4). A horizontal dashed line labeled f overbar crosses the y-axis at StartFraction 3 pi Over 4 EndFraction. All coordinates are approximate."
+          },
+          {
+            "label": "C.",
+            "text": "-2\n2\n-1\n1\nx\ny\nf overbar\nf\nf(x)\nA coordinate system has a horizontal x-axis labeled from negative 2 to 2 in increments of 0.4, and a vertical y-axis labeled from negative 1.000 to ~1.000 in increments of 0.2. A smooth curve labeled f(x) rises from left to right at a decreasing rate through (negative 0.8, negative 0.51), becomes horizontal at (0, 0), and then rises from left to right at an increasing rate through (0.8, 0.51). A horizontal dashed line labeled f overbar crosses the y-axis at 0. All coordinates are approximate."
+          },
+          {
+            "label": "D.",
+            "text": "-2\n2\n0\n3\nx\ny\nf overbar\nf\nf(x)\nA coordinate system has a horizontal x-axis labeled from negative 2 to 2 in increments of 0.4, and a vertical y-axis labeled from 0 to 3 in increments of 0.3. A smooth curve labeled f(x) starts at the point (negative 2, 0.6) and rises from left to right through (negative 0.8, 1.83) to a maximum at (0, 3), and then falls from left to right through (0.8, 1.83), ending at the point (2, 0.6). A horizontal dashed line labeled f overbar crosses the y-axis at StartFraction 3 pi Over 4 EndFraction. All coordinates are approximate."
+          }
+        ],
+        "prompt": "Find the average value of the following function over the given interval. Draw a graph of th\u2026",
+        "expr": ""
+      },
+      {
+        "questionId": "5.5.17",
+        "objective": "Evaluate indefinite integrals using substitution when the substitution is not given.",
+        "summary": "Use a change of variables or the table of general integration formulas to evaluate the follo\u2026",
+        "fullText": "33.\nPart 1\nUse a change of variables or the table of general integration formulas to evaluate the following indefinite integral. Check your work by differentiating.\nIntegral from nothing to nothing 2 x left parenthesis x squared plus 18 right parenthesis Superscript 7 Baseline dx\n\u222b2xx2+187\u00a0dx\n1 Click the icon to view the table of general integration formulas.\nPart 1\nIntegral from nothing to nothing 2 x left parenthesis x squared plus 18 right parenthesis Superscript 7 Baseline dx\n\u222b2xx2+187\u00a0dx\nequals\n=\n1: General Integration Formulas\nIntegral from nothing to nothing cosine ax dx equals StartFraction 1 Over a EndFraction sine ax plus Upper C\n\u222bcosax\u00a0dx=\n1\na\nsinax+C\nIntegral from nothing to nothing sine ax dx equals negative StartFraction 1 Over a EndFraction cosine ax plus Upper C\n\u222bsin\u00a0ax\u00a0dx=\u2212\n1\na\ncosax+C\nIntegral from nothing to nothing secant squared ax dx equals StartFraction 1 Over a EndFraction tangent ax plus Upper C\n\u222bsec2\u00a0ax\u00a0dx=\n1\na\ntan\u00a0ax+C\nIntegral from nothing to nothing cosecant squared ax dx equals negative StartFraction 1 Over a EndFraction cotangent ax plus Upper C\n\u222bcsc2\u00a0ax\u00a0dx=\u2212\n1\na\ncot\u00a0ax+C\nIntegral from nothing to nothing secant ax tangent ax dx equals StartFraction 1 Over a EndFraction secant ax plus Upper C\n\u222bsec\u00a0axtan\u00a0ax\u00a0dx=\n1\na\nsec\u00a0ax+C\nIntegral from nothing to nothing cosecant ax cotangent ax dx equals negative StartFraction 1 Over a EndFraction cosecant ax plus Upper C\n\u222bcsc\u00a0axcot\u00a0ax\u00a0dx=\u2212\n1\na\ncsc\u00a0ax+C\nIntegral from nothing to nothing e Superscript ax Baseline dx equals StartFraction 1 Over a EndFraction e Superscript ax Baseline plus Upper C\n\u222beaxdx=\n1\na\neax+C\nIntegral from nothing to nothing b Superscript x Baseline dx equals StartFraction 1 Over ln b EndFraction b Superscript x Baseline plus Upper C, b greater than 0, b not equals 1\n\u222bbxdx=\n1\nlnb\nbx+C,\u00a0b>0,\u00a0\u00a0b\u22601\nIntegral from nothing to nothing StartFraction dx Over a squared plus x squared EndFraction equals StartFraction 1 Over a EndFraction tangent Superscript negative 1 Baseline StartFraction x Over a EndFraction plus Upper C\n\u222b\ndx\na2+x2\n=\n1\na\ntan\u22121\nx\na\n+C\nIntegral from nothing to nothing StartFraction dx Over StartRoot a squared minus x squared EndRoot EndFraction equals sine Superscript negative 1 Baseline StartFraction x Over a EndFraction plus Upper C, a greater than 0\n\u222b\ndx\na2\u2212x2\n=sin\u22121\nx\na\n+C,\u00a0a>0\nIntegral from nothing to nothing StartFraction dx Over x StartRoot x squared minus a squared EndRoot EndFraction equals StartFraction 1 Over a EndFraction secant Superscript negative 1 Baseline StartAbsoluteValue StartFraction x Over a EndFraction EndAbsoluteValue plus Upper C, a greater than 0\n\u222b\ndx\nx\nx2\u2212a2\n=\n1\na\nsec\u22121\nx\na\n+C,\u00a0a>0",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "33."
+          },
+          {
+            "label": "Part 1",
+            "text": "Use a change of variables or the table of general integration formulas to evaluate the following indefinite integral. Check your work by differentiating.\nIntegral from nothing to nothing 2 x left parenthesis x squared plus 18 right parenthesis Superscript 7 Baseline dx\n\u222b2xx2+187\u00a0dx\n1 Click the icon to view the table of general integration formulas."
+          },
+          {
+            "label": "Part 1",
+            "text": "Integral from nothing to nothing 2 x left parenthesis x squared plus 18 right parenthesis Superscript 7 Baseline dx\n\u222b2xx2+187\u00a0dx\nequals\n=\n1: General Integration Formulas\nIntegral from nothing to nothing cosine ax dx equals StartFraction 1 Over a EndFraction sine ax plus Upper C\n\u222bcosax\u00a0dx=\n1\na\nsinax+C\nIntegral from nothing to nothing sine ax dx equals negative StartFraction 1 Over a EndFraction cosine ax plus Upper C\n\u222bsin\u00a0ax\u00a0dx=\u2212\n1\na\ncosax+C\nIntegral from nothing to nothing secant squared ax dx equals StartFraction 1 Over a EndFraction tangent ax plus Upper C\n\u222bsec2\u00a0ax\u00a0dx=\n1\na\ntan\u00a0ax+C\nIntegral from nothing to nothing cosecant squared ax dx equals negative StartFraction 1 Over a EndFraction cotangent ax plus Upper C\n\u222bcsc2\u00a0ax\u00a0dx=\u2212\n1\na\ncot\u00a0ax+C\nIntegral from nothing to nothing secant ax tangent ax dx equals StartFraction 1 Over a EndFraction secant ax plus Upper C\n\u222bsec\u00a0axtan\u00a0ax\u00a0dx=\n1\na\nsec\u00a0ax+C\nIntegral from nothing to nothing cosecant ax cotangent ax dx equals negative StartFraction 1 Over a EndFraction cosecant ax plus Upper C\n\u222bcsc\u00a0axcot\u00a0ax\u00a0dx=\u2212\n1\na\ncsc\u00a0ax+C\nIntegral from nothing to nothing e Superscript ax Baseline dx equals StartFraction 1 Over a EndFraction e Superscript ax Baseline plus Upper C\n\u222beaxdx=\n1\na\neax+C\nIntegral from nothing to nothing b Superscript x Baseline dx equals StartFraction 1 Over ln b EndFraction b Superscript x Baseline plus Upper C, b greater than 0, b not equals 1\n\u222bbxdx=\n1\nlnb\nbx+C,\u00a0b>0,\u00a0\u00a0b\u22601\nIntegral from nothing to nothing StartFraction dx Over a squared plus x squared EndFraction equals StartFraction 1 Over a EndFraction tangent Superscript negative 1 Baseline StartFraction x Over a EndFraction plus Upper C\n\u222b\ndx\na2+x2\n=\n1\na\ntan\u22121\nx\na\n+C\nIntegral from nothing to nothing StartFraction dx Over StartRoot a squared minus x squared EndRoot EndFraction equals sine Superscript negative 1 Baseline StartFraction x Over a EndFraction plus Upper C, a greater than 0\n\u222b\ndx\na2\u2212x2\n=sin\u22121\nx\na\n+C,\u00a0a>0\nIntegral from nothing to nothing StartFraction dx Over x StartRoot x squared minus a squared EndRoot EndFraction equals StartFraction 1 Over a EndFraction secant Superscript negative 1 Baseline StartAbsoluteValue StartFraction x Over a EndFraction EndAbsoluteValue plus Upper C, a greater than 0\n\u222b\ndx\nx\nx2\u2212a2\n=\n1\na\nsec\u22121\nx\na\n+C,\u00a0a>0"
+          }
+        ],
+        "prompt": "Use a change of variables or the table of general integration formulas to evaluate the follo\u2026",
+        "expr": "\u222bcosax\u00a0dx="
+      },
+      {
+        "questionId": "5.5.20",
+        "objective": "Evaluate indefinite integrals using substitution when the substitution is not given.",
+        "summary": "Use a change of variables or the table to evaluate the following indefinite integral.",
+        "fullText": "34.\nPart 1\nUse a change of variables or the table to evaluate the following indefinite integral.\nIntegral from nothing to nothing StartFraction left parenthesis StartRoot x EndRoot plus 1 right parenthesis Superscript 7 Over 2 StartRoot x EndRoot EndFraction dx\n\u222b\nx+17\n2\nx\ndx\n2 Click the icon to view the table of general integration formulas.\nPart 1\nIntegral from nothing to nothing StartFraction left parenthesis StartRoot x EndRoot plus 1 right parenthesis Superscript 7 Over 2 StartRoot x EndRoot EndFraction dx\n\u222b\nx+17\n2\nx\ndx\nequals\n=\n2: General Integration Formulas\nIntegral from nothing to nothing cosine ax dx equals StartFraction 1 Over a EndFraction sine ax plus Upper C\n\u222bcosax\u00a0dx=\n1\na\nsinax+C\nIntegral from nothing to nothing sine ax dx equals negative StartFraction 1 Over a EndFraction cosine ax plus Upper C\n\u222bsin\u00a0ax\u00a0dx=\u2212\n1\na\ncosax+C\nIntegral from nothing to nothing secant squared ax dx equals StartFraction 1 Over a EndFraction tangent ax plus Upper C\n\u222bsec2\u00a0ax\u00a0dx=\n1\na\ntan\u00a0ax+C\nIntegral from nothing to nothing cosecant squared ax dx equals negative StartFraction 1 Over a EndFraction cotangent ax plus Upper C\n\u222bcsc2\u00a0ax\u00a0dx=\u2212\n1\na\ncot\u00a0ax+C\nIntegral from nothing to nothing secant ax tangent ax dx equals StartFraction 1 Over a EndFraction secant ax plus Upper C\n\u222bsec\u00a0axtan\u00a0ax\u00a0dx=\n1\na\nsec\u00a0ax+C\nIntegral from nothing to nothing cosecant ax cotangent ax dx equals negative StartFraction 1 Over a EndFraction cosecant ax plus Upper C\n\u222bcsc\u00a0axcot\u00a0ax\u00a0dx=\u2212\n1\na\ncsc\u00a0ax+C\nIntegral from nothing to nothing e Superscript ax Baseline dx equals StartFraction 1 Over a EndFraction e Superscript ax Baseline plus Upper C\n\u222beaxdx=\n1\na\neax+C\nIntegral from nothing to nothing b Superscript x Baseline dx equals StartFraction 1 Over ln b EndFraction b Superscript x Baseline plus Upper C, b greater than 0, b not equals 1\n\u222bbxdx=\n1\nlnb\nbx+C,\u00a0b>0,\u00a0\u00a0b\u22601\nIntegral from nothing to nothing StartFraction dx Over a squared plus x squared EndFraction equals StartFraction 1 Over a EndFraction tangent Superscript negative 1 Baseline StartFraction x Over a EndFraction plus Upper C\n\u222b\ndx\na2+x2\n=\n1\na\ntan\u22121\nx\na\n+C\nIntegral from nothing to nothing StartFraction dx Over StartRoot a squared minus x squared EndRoot EndFraction equals sine Superscript negative 1 Baseline StartFraction x Over a EndFraction plus Upper C, a greater than 0\n\u222b\ndx\na2\u2212x2\n=sin\u22121\nx\na\n+C,\u00a0a>0\nIntegral from nothing to nothing StartFraction dx Over x StartRoot x squared minus a squared EndRoot EndFraction equals StartFraction 1 Over a EndFraction secant Superscript negative 1 Baseline StartAbsoluteValue StartFraction x Over a EndFraction EndAbsoluteValue plus Upper C, a greater than 0\n\u222b\ndx\nx\nx2\u2212a2\n=\n1\na\nsec\u22121\nx\na\n+C,\u00a0a>0",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "34."
+          },
+          {
+            "label": "Part 1",
+            "text": "Use a change of variables or the table to evaluate the following indefinite integral.\nIntegral from nothing to nothing StartFraction left parenthesis StartRoot x EndRoot plus 1 right parenthesis Superscript 7 Over 2 StartRoot x EndRoot EndFraction dx\n\u222b\nx+17\n2\nx\ndx\n2 Click the icon to view the table of general integration formulas."
+          },
+          {
+            "label": "Part 1",
+            "text": "Integral from nothing to nothing StartFraction left parenthesis StartRoot x EndRoot plus 1 right parenthesis Superscript 7 Over 2 StartRoot x EndRoot EndFraction dx\n\u222b\nx+17\n2\nx\ndx\nequals\n=\n2: General Integration Formulas\nIntegral from nothing to nothing cosine ax dx equals StartFraction 1 Over a EndFraction sine ax plus Upper C\n\u222bcosax\u00a0dx=\n1\na\nsinax+C\nIntegral from nothing to nothing sine ax dx equals negative StartFraction 1 Over a EndFraction cosine ax plus Upper C\n\u222bsin\u00a0ax\u00a0dx=\u2212\n1\na\ncosax+C\nIntegral from nothing to nothing secant squared ax dx equals StartFraction 1 Over a EndFraction tangent ax plus Upper C\n\u222bsec2\u00a0ax\u00a0dx=\n1\na\ntan\u00a0ax+C\nIntegral from nothing to nothing cosecant squared ax dx equals negative StartFraction 1 Over a EndFraction cotangent ax plus Upper C\n\u222bcsc2\u00a0ax\u00a0dx=\u2212\n1\na\ncot\u00a0ax+C\nIntegral from nothing to nothing secant ax tangent ax dx equals StartFraction 1 Over a EndFraction secant ax plus Upper C\n\u222bsec\u00a0axtan\u00a0ax\u00a0dx=\n1\na\nsec\u00a0ax+C\nIntegral from nothing to nothing cosecant ax cotangent ax dx equals negative StartFraction 1 Over a EndFraction cosecant ax plus Upper C\n\u222bcsc\u00a0axcot\u00a0ax\u00a0dx=\u2212\n1\na\ncsc\u00a0ax+C\nIntegral from nothing to nothing e Superscript ax Baseline dx equals StartFraction 1 Over a EndFraction e Superscript ax Baseline plus Upper C\n\u222beaxdx=\n1\na\neax+C\nIntegral from nothing to nothing b Superscript x Baseline dx equals StartFraction 1 Over ln b EndFraction b Superscript x Baseline plus Upper C, b greater than 0, b not equals 1\n\u222bbxdx=\n1\nlnb\nbx+C,\u00a0b>0,\u00a0\u00a0b\u22601\nIntegral from nothing to nothing StartFraction dx Over a squared plus x squared EndFraction equals StartFraction 1 Over a EndFraction tangent Superscript negative 1 Baseline StartFraction x Over a EndFraction plus Upper C\n\u222b\ndx\na2+x2\n=\n1\na\ntan\u22121\nx\na\n+C\nIntegral from nothing to nothing StartFraction dx Over StartRoot a squared minus x squared EndRoot EndFraction equals sine Superscript negative 1 Baseline StartFraction x Over a EndFraction plus Upper C, a greater than 0\n\u222b\ndx\na2\u2212x2\n=sin\u22121\nx\na\n+C,\u00a0a>0\nIntegral from nothing to nothing StartFraction dx Over x StartRoot x squared minus a squared EndRoot EndFraction equals StartFraction 1 Over a EndFraction secant Superscript negative 1 Baseline StartAbsoluteValue StartFraction x Over a EndFraction EndAbsoluteValue plus Upper C, a greater than 0\n\u222b\ndx\nx\nx2\u2212a2\n=\n1\na\nsec\u22121\nx\na\n+C,\u00a0a>0"
+          }
+        ],
+        "prompt": "Use a change of variables or the table to evaluate the following indefinite integral.",
+        "expr": "\u222bcosax\u00a0dx="
+      },
+      {
+        "questionId": "5.5.22",
+        "objective": "Evaluate indefinite integrals using substitution when the substitution is not given.",
+        "summary": "Use a change of variables or the table of general integration formulas to evaluate the follo\u2026",
+        "fullText": "35.\nPart 1\nUse a change of variables or the table of general integration formulas to evaluate the following indefinite integral. Check your work by differentiating.\nIntegral from nothing to nothing StartFraction 1 Over 4 x minus 3 EndFraction dx\n\u222b\n1\n4x\u22123\ndx\n3 Click the icon to view the table of general integration formulas.\nPart 1\nIntegral from nothing to nothing StartFraction 1 Over 4 x minus 3 EndFraction dx\n\u222b\n1\n4x\u22123\ndx\nequals\n=\n\u200b(Use parentheses to clearly denote the argument of each\u200b function.)\n3: General Integration Formulas\nIntegral from nothing to nothing cosine ax dx equals StartFraction 1 Over a EndFraction sine ax plus Upper C\n\u222bcosax\u00a0dx=\n1\na\nsinax+C\nIntegral from nothing to nothing sine ax dx equals negative StartFraction 1 Over a EndFraction cosine ax plus Upper C\n\u222bsinax\u00a0dx=\u2212\n1\na\ncosax\u00a0+C\nIntegral from nothing to nothing secant squared ax dx equals StartFraction 1 Over a EndFraction tangent ax plus Upper C\n\u222bsec2ax\u00a0dx=\n1\na\ntanax+C\nIntegral from nothing to nothing cosecant squared ax dx equals negative StartFraction 1 Over a EndFraction cotangent ax plus Upper C\n\u222bcsc2ax\u00a0dx=\u2212\n1\na\ncotax+C\nIntegral from nothing to nothing secant ax tangent ax dx equals StartFraction 1 Over a EndFraction secant ax plus Upper C\n\u222bsecaxtanax\u00a0dx=\n1\na\nsecax+C\nIntegral from nothing to nothing cosecant ax cotangent ax dx equals negative StartFraction 1 Over a EndFraction cosecant ax plus Upper C\n\u222bcscax\u00a0cotax\u00a0dx=\u2212\n1\na\ncscax+C\nIntegral from nothing to nothing e Superscript ax Baseline dx equals StartFraction 1 Over a EndFraction e Superscript ax Baseline plus Upper C\n\u222beaxdx=\n1\na\neax+C\nIntegral from nothing to nothing b Superscript x Baseline dx equals StartFraction 1 Over ln b EndFraction b Superscript x Baseline plus Upper C, b greater than 0, b not equals 1\n\u222bbxdx=\n1\nlnb\nbx+C,\u00a0b>0,\u00a0\u00a0b\u22601\nIntegral from nothing to nothing StartFraction dx Over a squared plus x squared EndFraction equals StartFraction 1 Over a EndFraction tangent Superscript negative 1 Baseline StartFraction x Over a EndFraction plus Upper C\n\u222b\ndx\na2+x2\n=\n1\na\ntan\u22121\nx\na\n+C\nIntegral from nothing to nothing StartFraction dx Over StartRoot a squared minus x squared EndRoot EndFraction equals sine Superscript negative 1 Baseline StartFraction x Over a EndFraction plus Upper C, a greater than 0\n\u222b\ndx\na2\u2212x2\n=sin\u22121\nx\na\n+C,\u00a0a>0\nIntegral from nothing to nothing StartFraction dx Over x StartRoot x squared minus a squared EndRoot EndFraction equals StartFraction 1 Over a EndFraction secant Superscript negative 1 Baseline StartAbsoluteValue StartFraction x Over a EndFraction EndAbsoluteValue plus Upper C, a greater than 0\n\u222b\ndx\nx\nx2\u2212a2\n=\n1\na\nsec\u22121\nx\na\n+C,\u00a0a>0",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "35."
+          },
+          {
+            "label": "Part 1",
+            "text": "Use a change of variables or the table of general integration formulas to evaluate the following indefinite integral. Check your work by differentiating.\nIntegral from nothing to nothing StartFraction 1 Over 4 x minus 3 EndFraction dx\n\u222b\n1\n4x\u22123\ndx\n3 Click the icon to view the table of general integration formulas."
+          },
+          {
+            "label": "Part 1",
+            "text": "Integral from nothing to nothing StartFraction 1 Over 4 x minus 3 EndFraction dx\n\u222b\n1\n4x\u22123\ndx\nequals\n=\n\u200b(Use parentheses to clearly denote the argument of each\u200b function.)\n3: General Integration Formulas\nIntegral from nothing to nothing cosine ax dx equals StartFraction 1 Over a EndFraction sine ax plus Upper C\n\u222bcosax\u00a0dx=\n1\na\nsinax+C\nIntegral from nothing to nothing sine ax dx equals negative StartFraction 1 Over a EndFraction cosine ax plus Upper C\n\u222bsinax\u00a0dx=\u2212\n1\na\ncosax\u00a0+C\nIntegral from nothing to nothing secant squared ax dx equals StartFraction 1 Over a EndFraction tangent ax plus Upper C\n\u222bsec2ax\u00a0dx=\n1\na\ntanax+C\nIntegral from nothing to nothing cosecant squared ax dx equals negative StartFraction 1 Over a EndFraction cotangent ax plus Upper C\n\u222bcsc2ax\u00a0dx=\u2212\n1\na\ncotax+C\nIntegral from nothing to nothing secant ax tangent ax dx equals StartFraction 1 Over a EndFraction secant ax plus Upper C\n\u222bsecaxtanax\u00a0dx=\n1\na\nsecax+C\nIntegral from nothing to nothing cosecant ax cotangent ax dx equals negative StartFraction 1 Over a EndFraction cosecant ax plus Upper C\n\u222bcscax\u00a0cotax\u00a0dx=\u2212\n1\na\ncscax+C\nIntegral from nothing to nothing e Superscript ax Baseline dx equals StartFraction 1 Over a EndFraction e Superscript ax Baseline plus Upper C\n\u222beaxdx=\n1\na\neax+C\nIntegral from nothing to nothing b Superscript x Baseline dx equals StartFraction 1 Over ln b EndFraction b Superscript x Baseline plus Upper C, b greater than 0, b not equals 1\n\u222bbxdx=\n1\nlnb\nbx+C,\u00a0b>0,\u00a0\u00a0b\u22601\nIntegral from nothing to nothing StartFraction dx Over a squared plus x squared EndFraction equals StartFraction 1 Over a EndFraction tangent Superscript negative 1 Baseline StartFraction x Over a EndFraction plus Upper C\n\u222b\ndx\na2+x2\n=\n1\na\ntan\u22121\nx\na\n+C\nIntegral from nothing to nothing StartFraction dx Over StartRoot a squared minus x squared EndRoot EndFraction equals sine Superscript negative 1 Baseline StartFraction x Over a EndFraction plus Upper C, a greater than 0\n\u222b\ndx\na2\u2212x2\n=sin\u22121\nx\na\n+C,\u00a0a>0\nIntegral from nothing to nothing StartFraction dx Over x StartRoot x squared minus a squared EndRoot EndFraction equals StartFraction 1 Over a EndFraction secant Superscript negative 1 Baseline StartAbsoluteValue StartFraction x Over a EndFraction EndAbsoluteValue plus Upper C, a greater than 0\n\u222b\ndx\nx\nx2\u2212a2\n=\n1\na\nsec\u22121\nx\na\n+C,\u00a0a>0"
+          }
+        ],
+        "prompt": "Use a change of variables or the table of general integration formulas to evaluate the follo\u2026",
+        "expr": "\u222bcosax\u00a0dx="
+      },
+      {
+        "questionId": "5.5.25",
+        "objective": "Evaluate indefinite integrals using substitution when the substitution is not given.",
+        "summary": "Use a change of variables or the table of general integration formulas to evaluate the follo\u2026",
+        "fullText": "36.\nPart 1\nUse a change of variables or the table of general integration formulas to evaluate the following indefinite integral. Check your work by differentiating.\nIntegral from nothing to nothing StartFraction dx Over StartRoot 324 minus 81 x squared EndRoot EndFraction\n\u222b\ndx\n324\u221281x2\n4 Click the icon to view the table of general integration formulas.\nPart 1\nIntegral from nothing to nothing StartFraction dx Over StartRoot 324 minus 81 x squared EndRoot EndFraction\n\u222b\ndx\n324\u221281x2\nequals\n=\n4: General Integration Formulas\nIntegral from nothing to nothing cosine ax dx equals StartFraction 1 Over a EndFraction sine ax plus Upper C\n\u222bcosax\u00a0dx=\n1\na\nsinax+C\nIntegral from nothing to nothing sine ax dx equals negative StartFraction 1 Over a EndFraction cosine ax plus Upper C\n\u222bsinax\u00a0dx=\u2212\n1\na\ncosax\u00a0+C\nIntegral from nothing to nothing secant squared ax dx equals StartFraction 1 Over a EndFraction tangent ax plus Upper C\n\u222bsec2ax\u00a0dx=\n1\na\ntanax+C\nIntegral from nothing to nothing cosecant squared ax dx equals negative StartFraction 1 Over a EndFraction cotangent ax plus Upper C\n\u222bcsc2ax\u00a0dx=\u2212\n1\na\ncotax+C\nIntegral from nothing to nothing secant ax tangent ax dx equals StartFraction 1 Over a EndFraction secant ax plus Upper C\n\u222bsecaxtanax\u00a0dx=\n1\na\nsecax+C\nIntegral from nothing to nothing cosecant ax cotangent ax dx equals negative StartFraction 1 Over a EndFraction cosecant ax plus Upper C\n\u222bcscax\u00a0cotax\u00a0dx=\u2212\n1\na\ncscax+C\nIntegral from nothing to nothing e Superscript ax Baseline dx equals StartFraction 1 Over a EndFraction e Superscript ax Baseline plus Upper C\n\u222beaxdx=\n1\na\neax+C\nIntegral from nothing to nothing b Superscript x Baseline dx equals StartFraction 1 Over ln b EndFraction b Superscript x Baseline plus Upper C, b greater than 0, b not equals 1\n\u222bbxdx=\n1\nlnb\nbx+C,\u00a0b>0,\u00a0\u00a0b\u22601\nIntegral from nothing to nothing StartFraction dx Over a squared plus x squared EndFraction equals StartFraction 1 Over a EndFraction tangent Superscript negative 1 Baseline StartFraction x Over a EndFraction plus Upper C\n\u222b\ndx\na2+x2\n=\n1\na\ntan\u22121\nx\na\n+C\nIntegral from nothing to nothing StartFraction dx Over StartRoot a squared minus x squared EndRoot EndFraction equals sine Superscript negative 1 Baseline StartFraction x Over a EndFraction plus Upper C, a greater than 0\n\u222b\ndx\na2\u2212x2\n=sin\u22121\nx\na\n+C,\u00a0a>0\nIntegral from nothing to nothing StartFraction dx Over x StartRoot x squared minus a squared EndRoot EndFraction equals StartFraction 1 Over a EndFraction secant Superscript negative 1 Baseline StartAbsoluteValue StartFraction x Over a EndFraction EndAbsoluteValue plus Upper C, a greater than 0\n\u222b\ndx\nx\nx2\u2212a2\n=\n1\na\nsec\u22121\nx\na\n+C,\u00a0a>0",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "36."
+          },
+          {
+            "label": "Part 1",
+            "text": "Use a change of variables or the table of general integration formulas to evaluate the following indefinite integral. Check your work by differentiating.\nIntegral from nothing to nothing StartFraction dx Over StartRoot 324 minus 81 x squared EndRoot EndFraction\n\u222b\ndx\n324\u221281x2\n4 Click the icon to view the table of general integration formulas."
+          },
+          {
+            "label": "Part 1",
+            "text": "Integral from nothing to nothing StartFraction dx Over StartRoot 324 minus 81 x squared EndRoot EndFraction\n\u222b\ndx\n324\u221281x2\nequals\n=\n4: General Integration Formulas\nIntegral from nothing to nothing cosine ax dx equals StartFraction 1 Over a EndFraction sine ax plus Upper C\n\u222bcosax\u00a0dx=\n1\na\nsinax+C\nIntegral from nothing to nothing sine ax dx equals negative StartFraction 1 Over a EndFraction cosine ax plus Upper C\n\u222bsinax\u00a0dx=\u2212\n1\na\ncosax\u00a0+C\nIntegral from nothing to nothing secant squared ax dx equals StartFraction 1 Over a EndFraction tangent ax plus Upper C\n\u222bsec2ax\u00a0dx=\n1\na\ntanax+C\nIntegral from nothing to nothing cosecant squared ax dx equals negative StartFraction 1 Over a EndFraction cotangent ax plus Upper C\n\u222bcsc2ax\u00a0dx=\u2212\n1\na\ncotax+C\nIntegral from nothing to nothing secant ax tangent ax dx equals StartFraction 1 Over a EndFraction secant ax plus Upper C\n\u222bsecaxtanax\u00a0dx=\n1\na\nsecax+C\nIntegral from nothing to nothing cosecant ax cotangent ax dx equals negative StartFraction 1 Over a EndFraction cosecant ax plus Upper C\n\u222bcscax\u00a0cotax\u00a0dx=\u2212\n1\na\ncscax+C\nIntegral from nothing to nothing e Superscript ax Baseline dx equals StartFraction 1 Over a EndFraction e Superscript ax Baseline plus Upper C\n\u222beaxdx=\n1\na\neax+C\nIntegral from nothing to nothing b Superscript x Baseline dx equals StartFraction 1 Over ln b EndFraction b Superscript x Baseline plus Upper C, b greater than 0, b not equals 1\n\u222bbxdx=\n1\nlnb\nbx+C,\u00a0b>0,\u00a0\u00a0b\u22601\nIntegral from nothing to nothing StartFraction dx Over a squared plus x squared EndFraction equals StartFraction 1 Over a EndFraction tangent Superscript negative 1 Baseline StartFraction x Over a EndFraction plus Upper C\n\u222b\ndx\na2+x2\n=\n1\na\ntan\u22121\nx\na\n+C\nIntegral from nothing to nothing StartFraction dx Over StartRoot a squared minus x squared EndRoot EndFraction equals sine Superscript negative 1 Baseline StartFraction x Over a EndFraction plus Upper C, a greater than 0\n\u222b\ndx\na2\u2212x2\n=sin\u22121\nx\na\n+C,\u00a0a>0\nIntegral from nothing to nothing StartFraction dx Over x StartRoot x squared minus a squared EndRoot EndFraction equals StartFraction 1 Over a EndFraction secant Superscript negative 1 Baseline StartAbsoluteValue StartFraction x Over a EndFraction EndAbsoluteValue plus Upper C, a greater than 0\n\u222b\ndx\nx\nx2\u2212a2\n=\n1\na\nsec\u22121\nx\na\n+C,\u00a0a>0"
+          }
+        ],
+        "prompt": "Use a change of variables or the table of general integration formulas to evaluate the follo\u2026",
+        "expr": "\u222bcosax\u00a0dx="
+      },
+      {
+        "questionId": "5.5.48",
+        "objective": "Evaluate definite integrals using substitution.",
+        "summary": "Use a change of variables or the table to evaluate the following definite integral.",
+        "fullText": "37.\nPart 1\nUse a change of variables or the table to evaluate the following definite integral.\nIntegral from 0 to 1\n\u222b\n0\n1\nStartFraction 2 x Over left parenthesis x squared plus 3 right parenthesis squared EndFraction\n2x\nx2+32\ndx\n5 Click to view the table of general integration formulas.\nPart 1\nIntegral from 0 to 1\n\u222b\n0\n1\nStartFraction 2 x Over left parenthesis x squared plus 3 right parenthesis squared EndFraction\n2x\nx2+32\ndx\nequals\n=\n\u200b(Type an exact\u200b answer.)\n5: General Integration Formulas\nIntegral from nothing to nothing cosine ax dx equals StartFraction 1 Over a EndFraction sine ax plus Upper C\n\u222bcosax\u00a0dx=\n1\na\nsinax+C\nIntegral from nothing to nothing sine ax dx equals negative StartFraction 1 Over a EndFraction cosine ax plus Upper C\n\u222bsinax\u00a0dx=\u2212\n1\na\ncosax\u00a0+C\nIntegral from nothing to nothing secant squared ax dx equals StartFraction 1 Over a EndFraction tangent ax plus Upper C\n\u222bsec2ax\u00a0dx=\n1\na\ntanax+C\nIntegral from nothing to nothing cosecant squared ax dx equals negative StartFraction 1 Over a EndFraction cotangent ax plus Upper C\n\u222bcsc2ax\u00a0dx=\u2212\n1\na\ncotax+C\nIntegral from nothing to nothing secant ax tangent ax dx equals StartFraction 1 Over a EndFraction secant ax plus Upper C\n\u222bsecaxtanax\u00a0dx=\n1\na\nsecax+C\nIntegral from nothing to nothing cosecant ax cotangent ax dx equals negative StartFraction 1 Over a EndFraction cosecant ax plus Upper C\n\u222bcscax\u00a0cotax\u00a0dx=\u2212\n1\na\ncscax+C\nIntegral from nothing to nothing e Superscript ax Baseline dx equals StartFraction 1 Over a EndFraction e Superscript ax Baseline plus Upper C\n\u222beaxdx=\n1\na\neax+C\nIntegral from nothing to nothing b Superscript x Baseline dx equals StartFraction 1 Over ln b EndFraction b Superscript x Baseline plus Upper C, b greater than 0, b not equals 1\n\u222bbxdx=\n1\nlnb\nbx+C,\u00a0b>0,\u00a0\u00a0b\u22601\nIntegral from nothing to nothing StartFraction dx Over a squared plus x squared EndFraction equals StartFraction 1 Over a EndFraction tangent Superscript negative 1 Baseline StartFraction x Over a EndFraction plus Upper C\n\u222b\ndx\na2+x2\n=\n1\na\ntan\u22121\nx\na\n+C\nIntegral from nothing to nothing StartFraction dx Over StartRoot a squared minus x squared EndRoot EndFraction equals sine Superscript negative 1 Baseline StartFraction x Over a EndFraction plus Upper C, a greater than 0\n\u222b\ndx\na2\u2212x2\n=sin\u22121\nx\na\n+C,\u00a0a>0\nIntegral from nothing to nothing StartFraction dx Over x StartRoot x squared minus a squared EndRoot EndFraction equals StartFraction 1 Over a EndFraction secant Superscript negative 1 Baseline StartAbsoluteValue StartFraction x Over a EndFraction EndAbsoluteValue plus Upper C, a greater than 0\n\u222b\ndx\nx\nx2\u2212a2\n=\n1\na\nsec\u22121\nx\na\n+C,\u00a0a>0",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "37."
+          },
+          {
+            "label": "Part 1",
+            "text": "Use a change of variables or the table to evaluate the following definite integral.\nIntegral from 0 to 1\n\u222b\n0\n1\nStartFraction 2 x Over left parenthesis x squared plus 3 right parenthesis squared EndFraction\n2x\nx2+32\ndx\n5 Click to view the table of general integration formulas."
+          },
+          {
+            "label": "Part 1",
+            "text": "Integral from 0 to 1\n\u222b\n0\n1\nStartFraction 2 x Over left parenthesis x squared plus 3 right parenthesis squared EndFraction\n2x\nx2+32\ndx\nequals\n=\n\u200b(Type an exact\u200b answer.)\n5: General Integration Formulas\nIntegral from nothing to nothing cosine ax dx equals StartFraction 1 Over a EndFraction sine ax plus Upper C\n\u222bcosax\u00a0dx=\n1\na\nsinax+C\nIntegral from nothing to nothing sine ax dx equals negative StartFraction 1 Over a EndFraction cosine ax plus Upper C\n\u222bsinax\u00a0dx=\u2212\n1\na\ncosax\u00a0+C\nIntegral from nothing to nothing secant squared ax dx equals StartFraction 1 Over a EndFraction tangent ax plus Upper C\n\u222bsec2ax\u00a0dx=\n1\na\ntanax+C\nIntegral from nothing to nothing cosecant squared ax dx equals negative StartFraction 1 Over a EndFraction cotangent ax plus Upper C\n\u222bcsc2ax\u00a0dx=\u2212\n1\na\ncotax+C\nIntegral from nothing to nothing secant ax tangent ax dx equals StartFraction 1 Over a EndFraction secant ax plus Upper C\n\u222bsecaxtanax\u00a0dx=\n1\na\nsecax+C\nIntegral from nothing to nothing cosecant ax cotangent ax dx equals negative StartFraction 1 Over a EndFraction cosecant ax plus Upper C\n\u222bcscax\u00a0cotax\u00a0dx=\u2212\n1\na\ncscax+C\nIntegral from nothing to nothing e Superscript ax Baseline dx equals StartFraction 1 Over a EndFraction e Superscript ax Baseline plus Upper C\n\u222beaxdx=\n1\na\neax+C\nIntegral from nothing to nothing b Superscript x Baseline dx equals StartFraction 1 Over ln b EndFraction b Superscript x Baseline plus Upper C, b greater than 0, b not equals 1\n\u222bbxdx=\n1\nlnb\nbx+C,\u00a0b>0,\u00a0\u00a0b\u22601\nIntegral from nothing to nothing StartFraction dx Over a squared plus x squared EndFraction equals StartFraction 1 Over a EndFraction tangent Superscript negative 1 Baseline StartFraction x Over a EndFraction plus Upper C\n\u222b\ndx\na2+x2\n=\n1\na\ntan\u22121\nx\na\n+C\nIntegral from nothing to nothing StartFraction dx Over StartRoot a squared minus x squared EndRoot EndFraction equals sine Superscript negative 1 Baseline StartFraction x Over a EndFraction plus Upper C, a greater than 0\n\u222b\ndx\na2\u2212x2\n=sin\u22121\nx\na\n+C,\u00a0a>0\nIntegral from nothing to nothing StartFraction dx Over x StartRoot x squared minus a squared EndRoot EndFraction equals StartFraction 1 Over a EndFraction secant Superscript negative 1 Baseline StartAbsoluteValue StartFraction x Over a EndFraction EndAbsoluteValue plus Upper C, a greater than 0\n\u222b\ndx\nx\nx2\u2212a2\n=\n1\na\nsec\u22121\nx\na\n+C,\u00a0a>0"
+          }
+        ],
+        "prompt": "Use a change of variables or the table to evaluate the following definite integral.",
+        "expr": "\u222bcosax\u00a0dx="
+      },
+      {
+        "questionId": "5.5.51",
+        "objective": "Evaluate definite integrals using substitution.",
+        "summary": "Use a change of variables or the table to evaluate the following definite integral.",
+        "fullText": "38.\nPart 1\nUse a change of variables or the table to evaluate the following definite integral.\nIntegral from negative StartFraction pi Over 2 EndFraction to StartFraction pi Over 2 EndFraction sine squared x cosine x dx\n\u222b\n\u2212\n\u03c0\n2\n\u03c0\n2\nsin2xcosx\u00a0dx\n6 Click to view the table of general integration formulas.\nPart 1\nIntegral from negative StartFraction pi Over 2 EndFraction to StartFraction pi Over 2 EndFraction sine squared x cosine x dx\n\u222b\n\u2212\n\u03c0\n2\n\u03c0\n2\nsin2xcosx\u00a0dx\nequals\n=\n\u200b(Type an exact\u200b answer.)\n6: General Integration Formulas\nIntegral from nothing to nothing cosine ax dx equals StartFraction 1 Over a EndFraction sine ax plus Upper C\n\u222bcosax\u00a0dx=\n1\na\nsinax+C\nIntegral from nothing to nothing sine ax dx equals negative StartFraction 1 Over a EndFraction cosine ax plus Upper C\n\u222bsinax\u00a0dx=\u2212\n1\na\ncosax\u00a0+C\nIntegral from nothing to nothing secant squared ax dx equals StartFraction 1 Over a EndFraction tangent ax plus Upper C\n\u222bsec2ax\u00a0dx=\n1\na\ntanax+C\nIntegral from nothing to nothing cosecant squared ax dx equals negative StartFraction 1 Over a EndFraction cotangent ax plus Upper C\n\u222bcsc2ax\u00a0dx=\u2212\n1\na\ncotax+C\nIntegral from nothing to nothing secant ax tangent ax dx equals StartFraction 1 Over a EndFraction secant ax plus Upper C\n\u222bsecaxtanax\u00a0dx=\n1\na\nsecax+C\nIntegral from nothing to nothing cosecant ax cotangent ax dx equals negative StartFraction 1 Over a EndFraction cosecant ax plus Upper C\n\u222bcscaxcotax\u00a0dx=\u2212\n1\na\ncscax+C\nIntegral from nothing to nothing e Superscript ax Baseline dx equals StartFraction 1 Over a EndFraction e Superscript ax Baseline plus Upper C\n\u222beax\u00a0dx=\n1\na\neax+C\nIntegral from nothing to nothing b Superscript x Baseline dx equals StartFraction 1 Over ln b EndFraction b Superscript x Baseline plus Upper C, b greater than 0, b not equals 1\n\u222bbx\u00a0dx=\n1\nlnb\nbx+C,\u00a0b>0,\u00a0\u00a0b\u22601\nIntegral from nothing to nothing StartFraction dx Over a squared plus x squared EndFraction equals StartFraction 1 Over a EndFraction tangent Superscript negative 1 Baseline StartFraction x Over a EndFraction plus Upper C\n\u222b\ndx\na2+x2\n=\n1\na\ntan\u22121\nx\na\n+C\nIntegral from nothing to nothing StartFraction dx Over StartRoot a squared minus x squared EndRoot EndFraction equals sine Superscript negative 1 Baseline StartFraction x Over a EndFraction plus Upper C, a greater than 0\n\u222b\ndx\na2\u2212x2\n=sin\u22121\nx\na\n+C,\u00a0a>0\nIntegral from nothing to nothing StartFraction dx Over x StartRoot x squared minus a squared EndRoot EndFraction equals StartFraction 1 Over a EndFraction secant Superscript negative 1 Baseline StartAbsoluteValue StartFraction x Over a EndFraction EndAbsoluteValue plus Upper C, a greater than 0\n\u222b\ndx\nx\nx2\u2212a2\n=\n1\na\nsec\u22121\nx\na\n+C,\u00a0a>0",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "38."
+          },
+          {
+            "label": "Part 1",
+            "text": "Use a change of variables or the table to evaluate the following definite integral.\nIntegral from negative StartFraction pi Over 2 EndFraction to StartFraction pi Over 2 EndFraction sine squared x cosine x dx\n\u222b\n\u2212\n\u03c0\n2\n\u03c0\n2\nsin2xcosx\u00a0dx\n6 Click to view the table of general integration formulas."
+          },
+          {
+            "label": "Part 1",
+            "text": "Integral from negative StartFraction pi Over 2 EndFraction to StartFraction pi Over 2 EndFraction sine squared x cosine x dx\n\u222b\n\u2212\n\u03c0\n2\n\u03c0\n2\nsin2xcosx\u00a0dx\nequals\n=\n\u200b(Type an exact\u200b answer.)\n6: General Integration Formulas\nIntegral from nothing to nothing cosine ax dx equals StartFraction 1 Over a EndFraction sine ax plus Upper C\n\u222bcosax\u00a0dx=\n1\na\nsinax+C\nIntegral from nothing to nothing sine ax dx equals negative StartFraction 1 Over a EndFraction cosine ax plus Upper C\n\u222bsinax\u00a0dx=\u2212\n1\na\ncosax\u00a0+C\nIntegral from nothing to nothing secant squared ax dx equals StartFraction 1 Over a EndFraction tangent ax plus Upper C\n\u222bsec2ax\u00a0dx=\n1\na\ntanax+C\nIntegral from nothing to nothing cosecant squared ax dx equals negative StartFraction 1 Over a EndFraction cotangent ax plus Upper C\n\u222bcsc2ax\u00a0dx=\u2212\n1\na\ncotax+C\nIntegral from nothing to nothing secant ax tangent ax dx equals StartFraction 1 Over a EndFraction secant ax plus Upper C\n\u222bsecaxtanax\u00a0dx=\n1\na\nsecax+C\nIntegral from nothing to nothing cosecant ax cotangent ax dx equals negative StartFraction 1 Over a EndFraction cosecant ax plus Upper C\n\u222bcscaxcotax\u00a0dx=\u2212\n1\na\ncscax+C\nIntegral from nothing to nothing e Superscript ax Baseline dx equals StartFraction 1 Over a EndFraction e Superscript ax Baseline plus Upper C\n\u222beax\u00a0dx=\n1\na\neax+C\nIntegral from nothing to nothing b Superscript x Baseline dx equals StartFraction 1 Over ln b EndFraction b Superscript x Baseline plus Upper C, b greater than 0, b not equals 1\n\u222bbx\u00a0dx=\n1\nlnb\nbx+C,\u00a0b>0,\u00a0\u00a0b\u22601\nIntegral from nothing to nothing StartFraction dx Over a squared plus x squared EndFraction equals StartFraction 1 Over a EndFraction tangent Superscript negative 1 Baseline StartFraction x Over a EndFraction plus Upper C\n\u222b\ndx\na2+x2\n=\n1\na\ntan\u22121\nx\na\n+C\nIntegral from nothing to nothing StartFraction dx Over StartRoot a squared minus x squared EndRoot EndFraction equals sine Superscript negative 1 Baseline StartFraction x Over a EndFraction plus Upper C, a greater than 0\n\u222b\ndx\na2\u2212x2\n=sin\u22121\nx\na\n+C,\u00a0a>0\nIntegral from nothing to nothing StartFraction dx Over x StartRoot x squared minus a squared EndRoot EndFraction equals StartFraction 1 Over a EndFraction secant Superscript negative 1 Baseline StartAbsoluteValue StartFraction x Over a EndFraction EndAbsoluteValue plus Upper C, a greater than 0\n\u222b\ndx\nx\nx2\u2212a2\n=\n1\na\nsec\u22121\nx\na\n+C,\u00a0a>0"
+          }
+        ],
+        "prompt": "Use a change of variables or the table to evaluate the following definite integral.",
+        "expr": "\u222bcosax\u00a0dx="
+      },
+      {
+        "questionId": "5.5.24",
+        "objective": "Evaluate indefinite integrals using substitution when the substitution is not given.",
+        "summary": "Use a change of variables or the table of general integration formulas to evaluate the follo\u2026",
+        "fullText": "39.\nPart 1\nUse a change of variables or the table of general integration formulas to evaluate the following indefinite integral. Check your work by differentiating.\nIntegral from nothing to nothing cosine Superscript 8 Baseline theta sine theta d theta\n\u222bcos8\u03b8sin\u03b8\u00a0d\u03b8\n7 Click the icon to view the table of general integration formulas.\nPart 1\nIntegral from nothing to nothing cosine Superscript 8 Baseline theta sine theta d theta\n\u222bcos8\u03b8sin\u03b8\u00a0d\u03b8\nequals\n=\n7: General Integration Formulas\nIntegral from nothing to nothing cosine ax dx equals StartFraction 1 Over a EndFraction sine ax plus Upper C\n\u222bcosax\u00a0dx=\n1\na\nsinax+C\nIntegral from nothing to nothing sine ax dx equals negative StartFraction 1 Over a EndFraction cosine ax plus Upper C\n\u222bsinax\u00a0dx=\u2212\n1\na\ncosax\u00a0+C\nIntegral from nothing to nothing secant squared ax dx equals StartFraction 1 Over a EndFraction tangent ax plus Upper C\n\u222bsec2ax\u00a0dx=\n1\na\ntanax+C\nIntegral from nothing to nothing cosecant squared ax dx equals negative StartFraction 1 Over a EndFraction cotangent ax plus Upper C\n\u222bcsc2ax\u00a0dx=\u2212\n1\na\ncotax+C\nIntegral from nothing to nothing secant ax tangent ax dx equals StartFraction 1 Over a EndFraction secant ax plus Upper C\n\u222bsecaxtanax\u00a0dx=\n1\na\nsecax+C\nIntegral from nothing to nothing cosecant ax cotangent ax dx equals negative StartFraction 1 Over a EndFraction cosecant ax plus Upper C\n\u222bcscax\u00a0cotax\u00a0dx=\u2212\n1\na\ncscax+C\nIntegral from nothing to nothing e Superscript ax Baseline dx equals StartFraction 1 Over a EndFraction e Superscript ax Baseline plus Upper C\n\u222beaxdx=\n1\na\neax+C\nIntegral from nothing to nothing b Superscript x Baseline dx equals StartFraction 1 Over ln b EndFraction b Superscript x Baseline plus Upper C, b greater than 0, b not equals 1\n\u222bbxdx=\n1\nlnb\nbx+C,\u00a0b>0,\u00a0\u00a0b\u22601\nIntegral from nothing to nothing StartFraction dx Over a squared plus x squared EndFraction equals StartFraction 1 Over a EndFraction tangent Superscript negative 1 Baseline StartFraction x Over a EndFraction plus Upper C\n\u222b\ndx\na2+x2\n=\n1\na\ntan\u22121\nx\na\n+C\nIntegral from nothing to nothing StartFraction dx Over StartRoot a squared minus x squared EndRoot EndFraction equals sine Superscript negative 1 Baseline StartFraction x Over a EndFraction plus Upper C, a greater than 0\n\u222b\ndx\na2\u2212x2\n=sin\u22121\nx\na\n+C,\u00a0a>0\nIntegral from nothing to nothing StartFraction dx Over x StartRoot x squared minus a squared EndRoot EndFraction equals StartFraction 1 Over a EndFraction secant Superscript negative 1 Baseline StartAbsoluteValue StartFraction x Over a EndFraction EndAbsoluteValue plus Upper C, a greater than 0\n\u222b\ndx\nx\nx2\u2212a2\n=\n1\na\nsec\u22121\nx\na\n+C,\u00a0a>0",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "39."
+          },
+          {
+            "label": "Part 1",
+            "text": "Use a change of variables or the table of general integration formulas to evaluate the following indefinite integral. Check your work by differentiating.\nIntegral from nothing to nothing cosine Superscript 8 Baseline theta sine theta d theta\n\u222bcos8\u03b8sin\u03b8\u00a0d\u03b8\n7 Click the icon to view the table of general integration formulas."
+          },
+          {
+            "label": "Part 1",
+            "text": "Integral from nothing to nothing cosine Superscript 8 Baseline theta sine theta d theta\n\u222bcos8\u03b8sin\u03b8\u00a0d\u03b8\nequals\n=\n7: General Integration Formulas\nIntegral from nothing to nothing cosine ax dx equals StartFraction 1 Over a EndFraction sine ax plus Upper C\n\u222bcosax\u00a0dx=\n1\na\nsinax+C\nIntegral from nothing to nothing sine ax dx equals negative StartFraction 1 Over a EndFraction cosine ax plus Upper C\n\u222bsinax\u00a0dx=\u2212\n1\na\ncosax\u00a0+C\nIntegral from nothing to nothing secant squared ax dx equals StartFraction 1 Over a EndFraction tangent ax plus Upper C\n\u222bsec2ax\u00a0dx=\n1\na\ntanax+C\nIntegral from nothing to nothing cosecant squared ax dx equals negative StartFraction 1 Over a EndFraction cotangent ax plus Upper C\n\u222bcsc2ax\u00a0dx=\u2212\n1\na\ncotax+C\nIntegral from nothing to nothing secant ax tangent ax dx equals StartFraction 1 Over a EndFraction secant ax plus Upper C\n\u222bsecaxtanax\u00a0dx=\n1\na\nsecax+C\nIntegral from nothing to nothing cosecant ax cotangent ax dx equals negative StartFraction 1 Over a EndFraction cosecant ax plus Upper C\n\u222bcscax\u00a0cotax\u00a0dx=\u2212\n1\na\ncscax+C\nIntegral from nothing to nothing e Superscript ax Baseline dx equals StartFraction 1 Over a EndFraction e Superscript ax Baseline plus Upper C\n\u222beaxdx=\n1\na\neax+C\nIntegral from nothing to nothing b Superscript x Baseline dx equals StartFraction 1 Over ln b EndFraction b Superscript x Baseline plus Upper C, b greater than 0, b not equals 1\n\u222bbxdx=\n1\nlnb\nbx+C,\u00a0b>0,\u00a0\u00a0b\u22601\nIntegral from nothing to nothing StartFraction dx Over a squared plus x squared EndFraction equals StartFraction 1 Over a EndFraction tangent Superscript negative 1 Baseline StartFraction x Over a EndFraction plus Upper C\n\u222b\ndx\na2+x2\n=\n1\na\ntan\u22121\nx\na\n+C\nIntegral from nothing to nothing StartFraction dx Over StartRoot a squared minus x squared EndRoot EndFraction equals sine Superscript negative 1 Baseline StartFraction x Over a EndFraction plus Upper C, a greater than 0\n\u222b\ndx\na2\u2212x2\n=sin\u22121\nx\na\n+C,\u00a0a>0\nIntegral from nothing to nothing StartFraction dx Over x StartRoot x squared minus a squared EndRoot EndFraction equals StartFraction 1 Over a EndFraction secant Superscript negative 1 Baseline StartAbsoluteValue StartFraction x Over a EndFraction EndAbsoluteValue plus Upper C, a greater than 0\n\u222b\ndx\nx\nx2\u2212a2\n=\n1\na\nsec\u22121\nx\na\n+C,\u00a0a>0"
+          }
+        ],
+        "prompt": "Use a change of variables or the table of general integration formulas to evaluate the follo\u2026",
+        "expr": "\u222bcosax\u00a0dx="
+      },
+      {
+        "questionId": "5.5.44",
+        "objective": "Evaluate indefinite integrals using substitution when the substitution is not given.",
+        "summary": "Use a change of variables or the table of general integration formulas to evaluate the follo\u2026",
+        "fullText": "40.\nPart 1\nUse a change of variables or the table of general integration formulas to evaluate the following indefinite integral. Check your work by differentiating.\nIntegral from nothing to nothing StartFraction e Superscript 7 x Over e Superscript 7 x Baseline plus 9 EndFraction dx\n\u222b\ne7x\ne7x+9\ndx\n8 Click the icon to view the table of general integration formulas.\nPart 1\nIntegral from nothing to nothing StartFraction e Superscript 7 x Over e Superscript 7 x Baseline plus 9 EndFraction dx\n\u222b\ne7x\ne7x+9\ndx\nequals\n=\n\u200b(Use parentheses to clearly denote the argument of each\u200b function.)\n8: General Integration Formulas\nIntegral from nothing to nothing cosine ax dx equals StartFraction 1 Over a EndFraction sine ax plus Upper C\n\u222bcosax\u00a0dx=\n1\na\nsinax+C\nIntegral from nothing to nothing sine ax dx equals negative StartFraction 1 Over a EndFraction cosine ax plus Upper C\n\u222bsinax\u00a0dx=\u2212\n1\na\ncosax\u00a0+C\nIntegral from nothing to nothing secant squared ax dx equals StartFraction 1 Over a EndFraction tangent ax plus Upper C\n\u222bsec2ax\u00a0dx=\n1\na\ntanax+C\nIntegral from nothing to nothing cosecant squared ax dx equals negative StartFraction 1 Over a EndFraction cotangent ax plus Upper C\n\u222bcsc2ax\u00a0dx=\u2212\n1\na\ncotax+C\nIntegral from nothing to nothing secant ax tangent ax dx equals StartFraction 1 Over a EndFraction secant ax plus Upper C\n\u222bsecaxtanax\u00a0dx=\n1\na\nsecax+C\nIntegral from nothing to nothing cosecant ax cotangent ax dx equals negative StartFraction 1 Over a EndFraction cosecant ax plus Upper C\n\u222bcscax\u00a0cotax\u00a0dx=\u2212\n1\na\ncscax+C\nIntegral from nothing to nothing e Superscript ax Baseline dx equals StartFraction 1 Over a EndFraction e Superscript ax Baseline plus Upper C\n\u222beaxdx=\n1\na\neax+C\nIntegral from nothing to nothing b Superscript x Baseline dx equals StartFraction 1 Over ln b EndFraction b Superscript x Baseline plus Upper C, b greater than 0, b not equals 1\n\u222bbxdx=\n1\nlnb\nbx+C,\u00a0b>0,\u00a0\u00a0b\u22601\nIntegral from nothing to nothing StartFraction dx Over a squared plus x squared EndFraction equals StartFraction 1 Over a EndFraction tangent Superscript negative 1 Baseline StartFraction x Over a EndFraction plus Upper C\n\u222b\ndx\na2+x2\n=\n1\na\ntan\u22121\nx\na\n+C\nIntegral from nothing to nothing StartFraction dx Over StartRoot a squared minus x squared EndRoot EndFraction equals sine Superscript negative 1 Baseline StartFraction x Over a EndFraction plus Upper C, a greater than 0\n\u222b\ndx\na2\u2212x2\n=sin\u22121\nx\na\n+C,\u00a0a>0\nIntegral from nothing to nothing StartFraction dx Over x StartRoot x squared minus a squared EndRoot EndFraction equals StartFraction 1 Over a EndFraction secant Superscript negative 1 Baseline StartAbsoluteValue StartFraction x Over a EndFraction EndAbsoluteValue plus Upper C, a greater than 0\n\u222b\ndx\nx\nx2\u2212a2\n=\n1\na\nsec\u22121\nx\na\n+C,\u00a0a>0",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "40."
+          },
+          {
+            "label": "Part 1",
+            "text": "Use a change of variables or the table of general integration formulas to evaluate the following indefinite integral. Check your work by differentiating.\nIntegral from nothing to nothing StartFraction e Superscript 7 x Over e Superscript 7 x Baseline plus 9 EndFraction dx\n\u222b\ne7x\ne7x+9\ndx\n8 Click the icon to view the table of general integration formulas."
+          },
+          {
+            "label": "Part 1",
+            "text": "Integral from nothing to nothing StartFraction e Superscript 7 x Over e Superscript 7 x Baseline plus 9 EndFraction dx\n\u222b\ne7x\ne7x+9\ndx\nequals\n=\n\u200b(Use parentheses to clearly denote the argument of each\u200b function.)\n8: General Integration Formulas\nIntegral from nothing to nothing cosine ax dx equals StartFraction 1 Over a EndFraction sine ax plus Upper C\n\u222bcosax\u00a0dx=\n1\na\nsinax+C\nIntegral from nothing to nothing sine ax dx equals negative StartFraction 1 Over a EndFraction cosine ax plus Upper C\n\u222bsinax\u00a0dx=\u2212\n1\na\ncosax\u00a0+C\nIntegral from nothing to nothing secant squared ax dx equals StartFraction 1 Over a EndFraction tangent ax plus Upper C\n\u222bsec2ax\u00a0dx=\n1\na\ntanax+C\nIntegral from nothing to nothing cosecant squared ax dx equals negative StartFraction 1 Over a EndFraction cotangent ax plus Upper C\n\u222bcsc2ax\u00a0dx=\u2212\n1\na\ncotax+C\nIntegral from nothing to nothing secant ax tangent ax dx equals StartFraction 1 Over a EndFraction secant ax plus Upper C\n\u222bsecaxtanax\u00a0dx=\n1\na\nsecax+C\nIntegral from nothing to nothing cosecant ax cotangent ax dx equals negative StartFraction 1 Over a EndFraction cosecant ax plus Upper C\n\u222bcscax\u00a0cotax\u00a0dx=\u2212\n1\na\ncscax+C\nIntegral from nothing to nothing e Superscript ax Baseline dx equals StartFraction 1 Over a EndFraction e Superscript ax Baseline plus Upper C\n\u222beaxdx=\n1\na\neax+C\nIntegral from nothing to nothing b Superscript x Baseline dx equals StartFraction 1 Over ln b EndFraction b Superscript x Baseline plus Upper C, b greater than 0, b not equals 1\n\u222bbxdx=\n1\nlnb\nbx+C,\u00a0b>0,\u00a0\u00a0b\u22601\nIntegral from nothing to nothing StartFraction dx Over a squared plus x squared EndFraction equals StartFraction 1 Over a EndFraction tangent Superscript negative 1 Baseline StartFraction x Over a EndFraction plus Upper C\n\u222b\ndx\na2+x2\n=\n1\na\ntan\u22121\nx\na\n+C\nIntegral from nothing to nothing StartFraction dx Over StartRoot a squared minus x squared EndRoot EndFraction equals sine Superscript negative 1 Baseline StartFraction x Over a EndFraction plus Upper C, a greater than 0\n\u222b\ndx\na2\u2212x2\n=sin\u22121\nx\na\n+C,\u00a0a>0\nIntegral from nothing to nothing StartFraction dx Over x StartRoot x squared minus a squared EndRoot EndFraction equals StartFraction 1 Over a EndFraction secant Superscript negative 1 Baseline StartAbsoluteValue StartFraction x Over a EndFraction EndAbsoluteValue plus Upper C, a greater than 0\n\u222b\ndx\nx\nx2\u2212a2\n=\n1\na\nsec\u22121\nx\na\n+C,\u00a0a>0"
+          }
+        ],
+        "prompt": "Use a change of variables or the table of general integration formulas to evaluate the follo\u2026",
+        "expr": "\u222bcosax\u00a0dx="
+      },
+      {
+        "questionId": "5.5.79",
+        "objective": "Evaluate integrals using substitution when additional steps are also needed.",
+        "summary": "Evaluate the following integral.",
+        "fullText": "41.\nPart 1\nEvaluate the following integral.\nIntegral from nothing to nothing StartFraction x Over StartRoot x minus 11 EndRoot EndFraction dx\n\u222b\nx\nx\u221211\ndx\n9 Click to view the table of general integration formulas.\nPart 1\nIntegral from nothing to nothing StartFraction x Over StartRoot x minus 11 EndRoot EndFraction dx\n\u222b\nx\nx\u221211\ndx\nequals\n=\n9: General Integration Formulas\nIntegral from nothing to nothing cosine ax dx equals StartFraction 1 Over a EndFraction sine ax plus Upper C\n\u222bcosax\u00a0dx=\n1\na\nsinax+C\nIntegral from nothing to nothing sine ax dx equals negative StartFraction 1 Over a EndFraction cosine ax plus Upper C\n\u222bsinax\u00a0dx=\u2212\n1\na\ncosax\u00a0+C\nIntegral from nothing to nothing secant squared ax dx equals StartFraction 1 Over a EndFraction tangent ax plus Upper C\n\u222bsec2ax\u00a0dx=\n1\na\ntanax+C\nIntegral from nothing to nothing cosecant squared ax dx equals negative StartFraction 1 Over a EndFraction cotangent ax plus Upper C\n\u222bcsc2ax\u00a0dx=\u2212\n1\na\ncotax+C\nIntegral from nothing to nothing secant ax tangent ax dx equals StartFraction 1 Over a EndFraction secant ax plus Upper C\n\u222bsecaxtanax\u00a0dx=\n1\na\nsecax+C\nIntegral from nothing to nothing cosecant ax cotangent ax dx equals negative StartFraction 1 Over a EndFraction cosecant ax plus Upper C\n\u222bcscax\u00a0cotax\u00a0dx=\u2212\n1\na\ncscax+C\nIntegral from nothing to nothing e Superscript ax Baseline dx equals StartFraction 1 Over a EndFraction e Superscript ax Baseline plus Upper C\n\u222beaxdx=\n1\na\neax+C\nIntegral from nothing to nothing b Superscript x Baseline dx equals StartFraction 1 Over ln b EndFraction b Superscript x Baseline plus Upper C, b greater than 0, b not equals 1\n\u222bbxdx=\n1\nlnb\nbx+C,\u00a0b>0,\u00a0\u00a0b\u22601\nIntegral from nothing to nothing StartFraction dx Over a squared plus x squared EndFraction equals StartFraction 1 Over a EndFraction tangent Superscript negative 1 Baseline StartFraction x Over a EndFraction plus Upper C\n\u222b\ndx\na2+x2\n=\n1\na\ntan\u22121\nx\na\n+C\nIntegral from nothing to nothing StartFraction dx Over StartRoot a squared minus x squared EndRoot EndFraction equals sine Superscript negative 1 Baseline StartFraction x Over a EndFraction plus Upper C, a greater than 0\n\u222b\ndx\na2\u2212x2\n=sin\u22121\nx\na\n+C,\u00a0a>0\nIntegral from nothing to nothing StartFraction dx Over x StartRoot x squared minus a squared EndRoot EndFraction equals StartFraction 1 Over a EndFraction secant Superscript negative 1 Baseline StartAbsoluteValue StartFraction x Over a EndFraction EndAbsoluteValue plus Upper C, a greater than 0\n\u222b\ndx\nx\nx2\u2212a2\n=\n1\na\nsec\u22121\nx\na\n+C,\u00a0a>0",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "41."
+          },
+          {
+            "label": "Part 1",
+            "text": "Evaluate the following integral.\nIntegral from nothing to nothing StartFraction x Over StartRoot x minus 11 EndRoot EndFraction dx\n\u222b\nx\nx\u221211\ndx\n9 Click to view the table of general integration formulas."
+          },
+          {
+            "label": "Part 1",
+            "text": "Integral from nothing to nothing StartFraction x Over StartRoot x minus 11 EndRoot EndFraction dx\n\u222b\nx\nx\u221211\ndx\nequals\n=\n9: General Integration Formulas\nIntegral from nothing to nothing cosine ax dx equals StartFraction 1 Over a EndFraction sine ax plus Upper C\n\u222bcosax\u00a0dx=\n1\na\nsinax+C\nIntegral from nothing to nothing sine ax dx equals negative StartFraction 1 Over a EndFraction cosine ax plus Upper C\n\u222bsinax\u00a0dx=\u2212\n1\na\ncosax\u00a0+C\nIntegral from nothing to nothing secant squared ax dx equals StartFraction 1 Over a EndFraction tangent ax plus Upper C\n\u222bsec2ax\u00a0dx=\n1\na\ntanax+C\nIntegral from nothing to nothing cosecant squared ax dx equals negative StartFraction 1 Over a EndFraction cotangent ax plus Upper C\n\u222bcsc2ax\u00a0dx=\u2212\n1\na\ncotax+C\nIntegral from nothing to nothing secant ax tangent ax dx equals StartFraction 1 Over a EndFraction secant ax plus Upper C\n\u222bsecaxtanax\u00a0dx=\n1\na\nsecax+C\nIntegral from nothing to nothing cosecant ax cotangent ax dx equals negative StartFraction 1 Over a EndFraction cosecant ax plus Upper C\n\u222bcscax\u00a0cotax\u00a0dx=\u2212\n1\na\ncscax+C\nIntegral from nothing to nothing e Superscript ax Baseline dx equals StartFraction 1 Over a EndFraction e Superscript ax Baseline plus Upper C\n\u222beaxdx=\n1\na\neax+C\nIntegral from nothing to nothing b Superscript x Baseline dx equals StartFraction 1 Over ln b EndFraction b Superscript x Baseline plus Upper C, b greater than 0, b not equals 1\n\u222bbxdx=\n1\nlnb\nbx+C,\u00a0b>0,\u00a0\u00a0b\u22601\nIntegral from nothing to nothing StartFraction dx Over a squared plus x squared EndFraction equals StartFraction 1 Over a EndFraction tangent Superscript negative 1 Baseline StartFraction x Over a EndFraction plus Upper C\n\u222b\ndx\na2+x2\n=\n1\na\ntan\u22121\nx\na\n+C\nIntegral from nothing to nothing StartFraction dx Over StartRoot a squared minus x squared EndRoot EndFraction equals sine Superscript negative 1 Baseline StartFraction x Over a EndFraction plus Upper C, a greater than 0\n\u222b\ndx\na2\u2212x2\n=sin\u22121\nx\na\n+C,\u00a0a>0\nIntegral from nothing to nothing StartFraction dx Over x StartRoot x squared minus a squared EndRoot EndFraction equals StartFraction 1 Over a EndFraction secant Superscript negative 1 Baseline StartAbsoluteValue StartFraction x Over a EndFraction EndAbsoluteValue plus Upper C, a greater than 0\n\u222b\ndx\nx\nx2\u2212a2\n=\n1\na\nsec\u22121\nx\na\n+C,\u00a0a>0"
+          }
+        ],
+        "prompt": "Evaluate the following integral.",
+        "expr": "\u222bcosax\u00a0dx="
+      },
+      {
+        "questionId": "5.5.81",
+        "objective": "Evaluate integrals using substitution when additional steps are also needed.",
+        "summary": "Integral from nothing to nothing StartFraction x Over RootIndex 3 StartRoot x plus 2 EndRoot\u2026",
+        "fullText": "42.\nPart 1\nFind the indefinite integral.\nIntegral from nothing to nothing StartFraction x Over RootIndex 3 StartRoot x plus 2 EndRoot EndFraction dx\n\u222b\nx\n3\nx+2\ndx\nPart 1\nIntegral from nothing to nothing StartFraction x Over RootIndex 3 StartRoot x plus 2 EndRoot EndFraction dx\n\u222b\nx\n3\nx+2\ndx\nequals\n=",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "42."
+          },
+          {
+            "label": "Part 1",
+            "text": "Find the indefinite integral.\nIntegral from nothing to nothing StartFraction x Over RootIndex 3 StartRoot x plus 2 EndRoot EndFraction dx\n\u222b\nx\n3\nx+2\ndx"
+          },
+          {
+            "label": "Part 1",
+            "text": "Integral from nothing to nothing StartFraction x Over RootIndex 3 StartRoot x plus 2 EndRoot EndFraction dx\n\u222b\nx\n3\nx+2\ndx\nequals\n="
+          }
+        ],
+        "prompt": "Integral from nothing to nothing StartFraction x Over RootIndex 3 StartRoot x plus 2 EndRoot\u2026",
+        "expr": ""
+      }
+    ]
+  }
+]

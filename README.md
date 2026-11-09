@@ -78,15 +78,25 @@ Requires `node scripts/serve-programs-docs.js` from Programs if links fail.
 
 **Sync flow:** edit on one PC → **Download state for GitHub** → replace `exam2-review-map-state.json` in this folder → commit & push → on the other PC pull → **Load from GitHub file** (or first visit auto-loads when the browser has no local state).
 
-## Exam 4 map (skeleton)
+## Exam 4 map (Exam IV Review harvested)
 
 | File | Role |
 |---|---|
-| `exam4-homework-map.html` | Empty shell — same four tabs as Exam 3, no harvest data yet |
+| `exam4-homework-map.html` | Page — Review / By skill / Exam tabs |
+| `exam4-homework-map-data.js` | Generated from review harvest |
+| `exam4-skill-groups.json` | Antiderivative skill taxonomy (edit this) |
+| `exam4-skill-groups.js` | Generated from the JSON |
+| `exam4-map-state.js` | Exam pool localStorage + Download/Load |
+| `exam4-review-map-state.json` | Saved `examGroups` (commit to sync machines) |
+| `exam4-homework-map-app.js` | Tab UI, Add to Exam, KaTeX |
+| `exam4-review-harvest.json` | Cleaned Exam IV Review problem text (LaTeX) |
+| `exam4-review-harvest.a11y.json` | Raw print a11y backup |
 
 **Local link:** [http://127.0.0.1:8765/exam4-homework-map.html](http://127.0.0.1:8765/exam4-homework-map.html)
 
-When Exam 4 homework exists in Pearson, copy the Exam 3 file set and harvest scripts per `docs/school-exam-map-html.md`.
+**Add to Exam:** on Review or By skill, click **Add to Exam** (becomes **Remove from Exam**). Right panel and Exam tab show pools. Sync: **Download state for GitHub** → replace `exam4-review-map-state.json` → commit → other machine **Load from GitHub file**.
+
+**Harvest (2026-11-05):** Macro App MCP print harvest of **Exam IV Review** (42 questions). Homework and Pearson Exam 4 pool harvests still pending.
 
 ## Factoring handout (guess-and-check double bubble)
 

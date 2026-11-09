@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Final Exam Review Bank</title>
+  <style>
+    :root {
+      --bg: #0f1419;
+      --surface: #1a2332;
+      --surface2: #243044;
+      --text: #e8eef4;
+      --muted: #9db0c4;
+      --accent: #5eb8ff;
+      --accent2: #7ee787;
+      --warn: #f0b429;
+      --border: #3d5166;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Segoe UI", system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+      font-size: 18px;
+    }
+    .wrap { max-width: 1280px; margin: 0 auto; padding: 1.5rem 1.25rem 3rem; }
+    h1 { font-size: 1.85rem; margin: 0 0 0.35rem; }
+    .subtitle { color: var(--muted); margin: 0 0 1rem; }
+    .back-link {
+      display: inline-block;
+      min-height: 48px;
+      line-height: 48px;
+      margin-bottom: 0.75rem;
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .sync-bar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      align-items: center;
+      margin-bottom: 1rem;
+    }
+    .btn-sync {
+      min-height: 48px;
+      padding: 0.55rem 0.95rem;
+      border: 2px solid var(--accent2);
+      border-radius: 10px;
+      background: rgba(126, 231, 135, 0.12);
+      color: var(--text);
+      font: inherit;
+      font-weight: 700;
+      cursor: pointer;
+    }
+    .btn-sync.secondary { border-color: var(--border); background: var(--surface); }
+    #sync-status { color: var(--muted); font-size: 0.92rem; }
+    .view-tabs, .sort-tabs {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+      margin-bottom: 0.85rem;
+    }
+    .view-tab, .sort-tab {
+      min-height: 48px;
+      padding: 0.45rem 0.85rem;
+      border: 2px solid var(--border);
+      border-radius: 10px;
+      background: var(--surface);
+      color: var(--muted);
+      font: inherit;
+      font-weight: 700;
+      cursor: pointer;
+    }
+    .view-tab.active, .sort-tab.active {
+      background: #1e3350;
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+    .columns {
+      display: grid;
+      grid-template-columns: 1.35fr 1fr;
+      gap: 1rem;
+      align-items: start;
+    }
+    @media (max-width: 960px) {
+      .columns { grid-template-columns: 1fr; }
+    }
+    .panel {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      overflow: hidden;
+    }
+    .panel-head {
+      padding: 0.85rem 1rem;
+      background: var(--surface2);
+      border-bottom: 1px solid var(--border);
+      font-weight: 700;
+    }
+    .panel-head span { color: var(--muted); font-weight: 600; font-size: 0.95rem; }
+    .panel-body { padding: 0.65rem 0.75rem 0.85rem; }
+    .section { border: 1px solid var(--border); border-radius: 8px; margin-bottom: 0.65rem; overflow: hidden; }
+    .section.open .section-body { display: block; }
+    .section-head-row { display: flex; flex-wrap: wrap; gap: 0.4rem; align-items: center; background: var(--surface2); }
+    .section-toggle {
+      flex: 1;
+      min-width: 180px;
+      display: flex;
+      justify-content: space-between;
+      gap: 0.75rem;
+      align-items: center;
+      background: transparent;
+      border: 0;
+      color: var(--text);
+      padding: 0.7rem 0.85rem;
+      cursor: pointer;
+      text-align: left;
+      font-size: 1rem;
+    }
+    .section-count { color: var(--muted); font-weight: 600; font-size: 0.92rem; }
+    .section-body { display: none; padding: 0 0.55rem 0.75rem; }
+    .skill-hint { color: var(--muted); font-size: 0.88rem; padding: 0 0.85rem 0.45rem; }
+    .q-row { border-top: 1px solid var(--border); }
+    .q-row.on-exam { background: rgba(126, 231, 135, 0.06); }
+    .q-row.is-pool-target { outline: 2px solid var(--warn); outline-offset: -2px; }
+    .q-toggle {
+      width: 100%;
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: 0.35rem 0.85rem;
+      min-height: 52px;
+      padding: 0.7rem 0.85rem;
+      background: transparent;
+      border: 0;
+      color: inherit;
+      text-align: left;
+      cursor: pointer;
+      font-size: 1rem;
+    }
+    .q-toggle:hover, .q-toggle:focus-visible { background: var(--surface2); outline: none; }
+    .qid { font-weight: 700; color: var(--accent); white-space: nowrap; }
+    .q-summary { color: var(--text); }
+    .q-obj { grid-column: 2; color: var(--muted); font-size: 0.92rem; }
+    .q-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+      padding: 0 0.75rem 0.65rem;
+    }
+    .btn-exam-action {
+      min-height: 44px;
+      padding: 0.45rem 0.85rem;
+      border: 2px solid var(--accent);
+      border-radius: 10px;
+      background: rgba(94, 184, 255, 0.12);
+      color: var(--text);
+      font: inherit;
+      font-weight: 700;
+      cursor: pointer;
+    }
+    .btn-exam-action.is-on-exam {
+      border-color: var(--accent2);
+      background: rgba(126, 231, 135, 0.14);
+    }
+    .btn-exam-action.is-selected {
+      border-color: var(--warn);
+      background: rgba(240, 180, 41, 0.18);
+    }
+    .pool-actions { display: flex; flex-wrap: wrap; gap: 0.35rem; padding: 0 0.5rem 0.45rem; }
+    .q-body {
+      display: none;
+      padding: 0 0.85rem 0.9rem;
+      border-top: 1px solid var(--border);
+      white-space: pre-wrap;
+      font-size: 0.98rem;
+    }
+    .q-row.open .q-body { display: block; }
+    .empty-msg { color: var(--muted); padding: 0.75rem; }
+    .footer { margin-top: 1.5rem; font-size: 0.88rem; color: var(--muted); }
+    .footer a { color: var(--accent); }
+    .hidden { display: none !important; }
+    .id-list { list-style: none; margin: 0; padding: 0; columns: 2; column-gap: 1.5rem; }
+    .id-list li {
+      font-size: 1.35rem;
+      font-weight: 700;
+      padding: 0.3rem 0.5rem;
+      border-bottom: 1px solid var(--border);
+      break-inside: avoid;
+    }
+    .q-body .katex-display { margin: 0.65rem 0; overflow-x: auto; }
+    .q-summary .katex { font-size: 0.95em; }
+  </style>
+  <link rel="stylesheet" href="node_modules/katex/dist/katex.min.css">
+</head>
+<body>
+  <div class="wrap">
+    <a class="back-link" href="index.html">← All exam maps</a>
+    <h1>Final Exam Review Bank</h1>
+    <p class="subtitle">
+      Browse each unit exam by skill or Pearson pool. Add problems into Final Review, then pool them there.
+    </p>
+
+    <div class="sync-bar">
+      <button type="button" class="btn-sync" id="btn-load-repo">Load from repo</button>
+      <button type="button" class="btn-sync secondary" id="btn-download-state">Download state</button>
+      <label class="btn-sync secondary" style="display:inline-flex;align-items:center;cursor:pointer;">
+        Import
+        <input type="file" id="import-state-file" accept="application/json,.json" hidden>
+      </label>
+      <span id="sync-status"></span>
+    </div>
+
+    <div class="view-tabs" role="tablist" aria-label="Bank source" id="exam-tabs"></div>
+    <div class="sort-tabs hidden" role="tablist" aria-label="Sort mode" id="sort-tabs">
+      <button type="button" class="sort-tab active" data-sort="skill">By skill</button>
+      <button type="button" class="sort-tab" data-sort="pool">By Pearson pool</button>
+      <button type="button" class="sort-tab" data-sort="all">All (flat)</button>
+    </div>
+
+    <div class="columns" id="exam-layout">
+      <div class="panel">
+        <div class="panel-head" id="panel-head">Exam <span id="head-count">— loading</span></div>
+        <div class="panel-body" id="bank-root"></div>
+      </div>
+      <div class="panel">
+        <div class="panel-head">Final Review <span id="side-count">— 0 pools</span></div>
+        <div class="panel-body" id="side-root"></div>
+      </div>
+    </div>
+
+    <div class="panel hidden" id="final-only-layout">
+      <div class="panel-head" id="final-panel-head">Final Review <span id="final-head-count">— loading</span></div>
+      <div class="panel-body" id="final-root"></div>
+    </div>
+
+    <div class="columns hidden" id="ids-layout">
+      <div class="panel">
+        <div class="panel-head" id="ids-review-head">Final Review IDs <span></span></div>
+        <div class="panel-body"><ul class="id-list" id="ids-review-root"></ul></div>
+      </div>
+      <div class="panel">
+        <div class="panel-head" id="ids-exam-head">Final Exam IDs <span></span></div>
+        <div class="panel-body"><ul class="id-list" id="ids-exam-root"></ul></div>
+      </div>
+    </div>
+
+    <p class="footer">
+      <a href="index.html">Exam maps index</a>
+      · Add to Final Review makes a new pool. Add to Pool, then Add here to combine.
+    </p>
+  </div>
+
+  <script src="final-exam-review-map-data.js"></script>
+  <script src="final-exam-review-map-state.js"></script>
+  <script defer src="node_modules/katex/dist/katex.min.js"></script>
+  <script defer src="node_modules/katex/dist/contrib/auto-render.min.js"></script>
+  <script defer src="final-exam-review-map-app.js"></script>
+</body>
+</html>

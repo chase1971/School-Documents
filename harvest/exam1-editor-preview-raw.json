@@ -1,0 +1,670 @@
+{
+  "poolList": [
+    {
+      "poolOrder": "1",
+      "questionId": "2.2.15",
+      "objective": "Find limits from a graph.",
+      "estimatedTime": "1m 22s"
+    },
+    {
+      "poolOrder": "2",
+      "questionId": "2.2.17",
+      "objective": "Find limits from a graph.",
+      "estimatedTime": "2m 23s"
+    },
+    {
+      "poolOrder": "2",
+      "questionId": "2.2.18",
+      "objective": "Find limits from a graph.",
+      "estimatedTime": "2m 36s"
+    },
+    {
+      "poolOrder": "3",
+      "questionId": "2.3.22",
+      "objective": "Evaluate two-sided limits using limit laws and theorems.",
+      "estimatedTime": "38s"
+    },
+    {
+      "poolOrder": "3",
+      "questionId": "2.3.27",
+      "objective": "Evaluate two-sided limits using limit laws and theorems.",
+      "estimatedTime": "1m 43s"
+    },
+    {
+      "poolOrder": "4",
+      "questionId": "2.3.35",
+      "objective": "Evaluate two-sided limits using limit laws and theorems.",
+      "estimatedTime": "1m 31s"
+    },
+    {
+      "poolOrder": "4",
+      "questionId": "2.3.47",
+      "objective": "Evaluate two-sided limits using limit laws and theorems.",
+      "estimatedTime": "2m 5s"
+    },
+    {
+      "poolOrder": "5",
+      "questionId": "2.3.74",
+      "objective": "Evaluate one-sided limits using limit laws and theorems.",
+      "estimatedTime": "2m 43s"
+    },
+    {
+      "poolOrder": "6",
+      "questionId": "2.3.39-Setup & Solve",
+      "objective": "Evaluate two-sided limits using limit laws and theorems.",
+      "estimatedTime": "3m 28s"
+    },
+    {
+      "poolOrder": "7",
+      "questionId": "2.3.40-Setup & Solve",
+      "objective": "Evaluate two-sided limits using limit laws and theorems.",
+      "estimatedTime": "3m 16s"
+    },
+    {
+      "poolOrder": "8",
+      "questionId": "2.3.41-Setup & Solve",
+      "objective": "Evaluate two-sided limits using limit laws and theorems.",
+      "estimatedTime": "1m 51s"
+    },
+    {
+      "poolOrder": "8",
+      "questionId": "2.3.47-Setup & Solve",
+      "objective": "Evaluate two-sided limits using limit laws and theorems.",
+      "estimatedTime": "2m 17s"
+    },
+    {
+      "poolOrder": "9",
+      "questionId": "2.4.25",
+      "objective": "Evaluate limits analytically.",
+      "estimatedTime": "2m 7s"
+    },
+    {
+      "poolOrder": "9",
+      "questionId": "2.4.47",
+      "objective": "Find vertical asymptotes.",
+      "estimatedTime": "2m 54s"
+    },
+    {
+      "poolOrder": "10",
+      "questionId": "2.4.35-Setup & Solve",
+      "objective": "Evaluate limits analytically.",
+      "estimatedTime": "1m 51s"
+    },
+    {
+      "poolOrder": "10",
+      "questionId": "2.4.45-Setup & Solve",
+      "objective": "Find vertical asymptotes.",
+      "estimatedTime": "4m 16s"
+    },
+    {
+      "poolOrder": "11",
+      "questionId": "2.4.33-Setup & Solve",
+      "objective": "Evaluate limits analytically.",
+      "estimatedTime": "1m 21s"
+    },
+    {
+      "poolOrder": "12",
+      "questionId": "2.5.9",
+      "objective": "Evaluate limits at infinity.",
+      "estimatedTime": "52s"
+    },
+    {
+      "poolOrder": "13",
+      "questionId": "2.5.21",
+      "objective": "Evaluate limits at infinity.",
+      "estimatedTime": "58s"
+    },
+    {
+      "poolOrder": "14",
+      "questionId": "2.5.39",
+      "objective": "Find horizontal and vertical asymptotes of functions.",
+      "estimatedTime": "1m 56s"
+    },
+    {
+      "poolOrder": "14",
+      "questionId": "2.5.41",
+      "objective": "Find horizontal and vertical asymptotes of functions.",
+      "estimatedTime": "1m 32s"
+    },
+    {
+      "poolOrder": "15",
+      "questionId": "2.5.12",
+      "objective": "Evaluate limits at infinity.",
+      "estimatedTime": "1m 8s"
+    },
+    {
+      "poolOrder": "15",
+      "questionId": "2.5.25",
+      "objective": "Evaluate limits at infinity.",
+      "estimatedTime": "1m 16s"
+    },
+    {
+      "poolOrder": "16",
+      "questionId": "2.5.28",
+      "objective": "Evaluate limits at infinity.",
+      "estimatedTime": "1m 9s"
+    },
+    {
+      "poolOrder": "17",
+      "questionId": "2.5.29",
+      "objective": "Evaluate limits at infinity.",
+      "estimatedTime": "1m 53s"
+    },
+    {
+      "poolOrder": "17",
+      "questionId": "2.5.31",
+      "objective": "Evaluate limits at infinity.",
+      "estimatedTime": "1m 48s"
+    },
+    {
+      "poolOrder": "18",
+      "questionId": "2.6.23",
+      "objective": "Determine if functions are continuous at given values.",
+      "estimatedTime": "1m 40s"
+    },
+    {
+      "poolOrder": "19",
+      "questionId": "2.6.28",
+      "objective": "Find points of discontinuity or intervals of continuity.",
+      "estimatedTime": "1m 30s"
+    },
+    {
+      "poolOrder": "19",
+      "questionId": "2.6.30",
+      "objective": "Find points of discontinuity or intervals of continuity.",
+      "estimatedTime": "1m 37s"
+    },
+    {
+      "poolOrder": "20",
+      "questionId": "2.7.11",
+      "objective": "Determine delta values associated with the precise definition of a limit.",
+      "estimatedTime": "2m 16s"
+    },
+    {
+      "poolOrder": "20",
+      "questionId": "2.7.12",
+      "objective": "Determine delta values associated with the precise definition of a limit.",
+      "estimatedTime": "2m 37s"
+    },
+    {
+      "poolOrder": "21",
+      "questionId": "3.2.35",
+      "objective": "Find derivatives of functions using limits.",
+      "estimatedTime": "2m 9s"
+    },
+    {
+      "poolOrder": "21",
+      "questionId": "3.2.36",
+      "objective": "Find derivatives of functions using limits.",
+      "estimatedTime": "2m 24s"
+    },
+    {
+      "poolOrder": "22",
+      "questionId": "3.2.37",
+      "objective": "Find derivatives of functions using limits.",
+      "estimatedTime": "3m 7s"
+    },
+    {
+      "poolOrder": "22",
+      "questionId": "3.2.38",
+      "objective": "Find derivatives of functions using limits.",
+      "estimatedTime": "2m 44s"
+    },
+    {
+      "poolOrder": "23",
+      "questionId": "3.2.39",
+      "objective": "Find derivatives of functions using limits.",
+      "estimatedTime": "3m 13s"
+    },
+    {
+      "poolOrder": "24",
+      "questionId": "3.1.34",
+      "objective": "Use limit definitions to find equations of tangent lines.",
+      "estimatedTime": "2m 6s"
+    },
+    {
+      "poolOrder": "25",
+      "questionId": "3.1.37",
+      "objective": "Use limit definitions to find equations of tangent lines.",
+      "estimatedTime": "2m 50s"
+    },
+    {
+      "poolOrder": "25",
+      "questionId": "3.1.39",
+      "objective": "Use limit definitions to find equations of tangent lines.",
+      "estimatedTime": "3m 22s"
+    }
+  ],
+  "count": 39,
+  "results": [
+    {
+      "previewIndex": "1",
+      "previewTotal": "39",
+      "questionId": "2.2.15",
+      "objective": "Find limits from a graph.",
+      "difficulty": "Moderate",
+      "estimatedTime": "1m 22s",
+      "stem": "Part 1\nUse the graph of f in the figure to find the following values or state that they do not exist. If a limit does not\u200b exist, explain why.\na. \nf left parenthesis 1 right parenthesis\nf(1)\nb. \nModifyingBelow lim With font size decreased by 1 x right arrow 1 Superscript minus f left parenthesis x right parenthesis\nlim\nx\u21921\u2212\nf(x)\nc. \nModifyingBelow lim With font size decreased by 1 x right arrow 1 Superscript plus f left parenthesis x right parenthesis\nlim\nx\u21921+\nf(x)\nd. \nModifyingBelow lim With font size decreased by 1 x right arrow 1 f left parenthesis x right parenthesis\nlim\nx\u21921\n\u00a0f(x)\n\t\n-2\n3\n-4\n6\n-2\n3\n-4\n6\nx\ny\nnbsp y equals f left parenthesis x right parenthesis\n\u00a0y=f(x)\nA coordinate plane has a horizontal x-axis labeled from negative 4 to 6 in increments of 1 and a vertical y-axis labeled from negative 4 to 6 in increments of 1. The graph of a function labeled y equals f(x) has two smooth curves. One starts at (negative 2.5, 3) and passes through (0, 1.8) to a closed endpoint at (1, 3). The other starts at an open endpoint at (1, 2) and passes through (2, 1.3) to (4.3, 3.5). All coordinates are approximate.\nQuestion content area bottom\nPart 1\na. Find the function value. Select the correct choice\u200b and, if\u200b necessary, fill in the answer box within your choice.\nA.\nf left parenthesis 1 right parenthesis equals\nf(1)=\nenter your response here\n \u200b(Type an integer or a\u200b fraction.)\nB.\nThe value of \u200bf(\n1\n1\u200b) is undefined.\nPart 2\nb. Find the limit. Select the correct choice\u200b and, if\u200b necessary, fill in the answer box within your choice.\nA.\nModifyingBelow lim With font size decreased by 1 x right arrow 1 Superscript minus f left parenthesis x right parenthesis equals\nlim\nx\u21921\u2212\nf(x)=\nenter your response here\n \u200b(Type an integer or a\u200b fraction.)\nB.\nThe limit does not exist because f is not defined for all x near \n1\n1 with x\nless than\n<\n1\n1.\nPart 3\nc. Find the limit. Select the correct choice\u200b and, if\u200b necessary, fill in the answer box within your choice.\nA.\nModifyingBelow lim With font size decreased by 1 x right arrow 1 Superscript plus f left parenthesis x right parenthesis equals\nlim\nx\u21921+\nf(x)=\nenter your response here\n \u200b(Type an integer or a\u200b fraction.)\nB.\nThe limit does not exist because f is not defined for all x near \n1\n1 with x\ngreater than\n>\n1\n1.\nPart 4\nd. Find the limit. Select the correct choice\u200b and, if\u200b necessary, fill in the answer box within your choice.\nA.\nModifyingBelow lim With font size decreased by 1 x right arrow 1 f left parenthesis x right parenthesis equals\nlim\nx\u21921\n\u00a0f(x)=\nenter your response here\n \u200b(Type an integer or a\u200b fraction.)\nB.\nThe limit does not exist because \nModifyingBelow lim With font size decreased by 1 x right arrow 1 Superscript minus f left parenthesis x right parenthesis\nlim\nx\u21921\u2212\nf(x)\nnot equals\n\u2260\nModifyingBelow lim With font size decreased by 1 x right arrow 1 Superscript plus f left parenthesis x right parenthesis\nlim\nx\u21921+\nf(x).\ninput field 1Select the correct choice and, if necessary, fill in the answer box within your choice.input field 2Select the correct choice and, if necessary, fill in the answer box within your choice.input field 3Select the correct choice and, if necessary, fill in the answer box within your choice.input field 4Select the correct choice and, if necessary, fill in the answer box within your choice.",
+      "poolOrder": "1",
+      "listObjective": "Find limits from a graph."
+    },
+    {
+      "previewIndex": "2",
+      "previewTotal": "39",
+      "questionId": "2.2.17",
+      "objective": "Find limits from a graph.",
+      "difficulty": "Moderate",
+      "estimatedTime": "2m 23s",
+      "stem": "Part 1\nUse the graph of f to complete parts \u200b(a) through \u200b(l). If a limit does not\u200b exist, explain why.\n-1\n1\n2\n3\n4\n5\n-3\n-2\n-1\n1\n2\n3\n4\n5\n6\n7\n8\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 1 to 5 in increments of 1 and a vertical y-axis labeled from negative 3 to 8 in increments of 1. From left to right, a graph consists of the following: a ray that falls through (0, 2) to an open circle at (1, negative 1), a closed circle at (1, 0), a line segment that rises from the open circle at (1, negative 1) to an open circle at (3, 3), a closed circle at (3, negative 1), and a ray that rises from an open circle at (3, negative 2) through (4, negative 1).\nQuestion content area bottom\nPart 1\n\u200b(a) Find \u200bf(\n1\n1\u200b). Select the correct choice\u200b below, and fill in the answer box if necessary.\nA.\n\u200bf(\n1\n1\u200b)\nequals\n=\nenter your response here\n\u200b(Type an integer or a\u200b fraction.)\nB.\nThe value of \u200bf(\n1\n1\u200b) is undefined.\nPart 2\n\u200b(b) Find \nModifyingBelow lim With x right arrow 1 Superscript minus f left parenthesis x right parenthesis\nlim\nx\u21921\u2212\nf(x). Select the correct choice\u200b below, and fill in the answer box if necessary.\nA.\nModifyingBelow lim With x right arrow 1 Superscript minus f left parenthesis x right parenthesis\nlim\nx\u21921\u2212\nf(x)\nequals\n=\nenter your response here\n\u200b(Type an integer or a\u200b fraction.)\nB.\nThe limit does not exist because\u200b f(x) is not defined for all x\nless than\n<\n1\n1.\nPart 3\n\u200b(c) Find \nModifyingBelow lim With x right arrow 1 Superscript plus f left parenthesis x right parenthesis\nlim\nx\u21921+\nf(x). Select the correct choice\u200b below, and fill in the answer box if necessary.\nA.\nModifyingBelow lim With x right arrow 1 Superscript plus f left parenthesis x right parenthesis\nlim\nx\u21921+\nf(x)\nequals\n=\nenter your response here\n\u200b(Type an integer or a\u200b fraction.)\nB.\nThe limit does not exist because\u200b f(x) is not defined for all x\ngreater than\n>\n1\n1.\nPart 4\n\u200b(d) Find \nModifyingBelow lim With x right arrow 1 f left parenthesis x right parenthesis\nlim\nx\u21921\nf(x). Select the correct choice\u200b below, and fill in the answer box if necessary.\nA.\nModifyingBelow lim With x right arrow 1 f left parenthesis x right parenthesis\nlim\nx\u21921\nf(x)\nequals\n=\nenter your response here\n\u200b(Type an integer or a\u200b fraction.)\nB.\nThe limit does not exist because \nModifyingBelow lim With x right arrow 1 Superscript minus f left parenthesis x right parenthesis\nlim\nx\u21921\u2212\nf(x)\nnot equals\n\u2260\nModifyingBelow lim With x right arrow 1 Superscript plus f left parenthesis x right parenthesis\nlim\nx\u21921+\nf(x).\nPart 5\n\u200b(e) Find \u200bf(\n3\n3\u200b). Select the correct choice\u200b below, and fill in the answer box if necessary.\nA.\n\u200bf(\n3\n3\u200b)\nequals\n=\nenter your response here\n\u200b(Type an integer or a\u200b fraction.)\nB.\nThe value of \u200bf(\n3\n3\u200b) is undefined.\nPart 6\n\u200b(f) Find \nModifyingBelow lim With x right arrow 3 Superscript minus f left parenthesis x right parenthesis\nlim\nx\u21923\u2212\nf(x). Select the correct choice\u200b below, and fill in the answer box if necessary.\nA.\nModifyingBelow lim With x right arrow 3 Superscript minus f left parenthesis x right parenthesis\nlim\nx\u21923\u2212\nf(x)\nequals\n=\nenter your response here\n\u200b(Type an integer or a\u200b fraction.)\nB.\nThe limit does not exist because\u200b f(x) is not defined for all x\nless than\n<\n3\n3.\nPart 7\n\u200b(g) Find \nModifyingBelow lim With x right arrow 3 Superscript plus f left parenthesis x right parenthesis\nlim\nx\u21923+\nf(x). Select the correct choice\u200b below, and fill in the answer box if necessary.\nA.\nModifyingBelow lim With x right arrow 3 Superscript plus f left parenthesis x right parenthesis\nlim\nx\u21923+\nf(x)\nequals\n=\nenter your response here\n\u200b(Type an integer or a\u200b fraction.)\nB.\nThe limit does not exist because\u200b f(x) is not defined for all x\ngreater than\n>\n3\n3.\nPart 8\n\u200b(h) Find \nModifyingBelow lim With x right arrow 3 f left parenthesis x right parenthesis\nlim\nx\u21923\nf(x). Select the correct choice\u200b below, and fill in the answer box if necessary.\nA.\nModifyingBelow lim With x right arrow 3 f left parenthesis x right parenthesis\nlim\nx\u21923\nf(x)\nequals\n=\nenter your response here\n\u200b(Type an integer or a\u200b fraction.)\nB.\nThe limit does not exist because \nModifyingBelow lim With x right arrow 3 Superscript minus f left parenthesis x right parenthesis\nlim\nx\u21923\u2212\nf(x)\nnot equals\n\u2260\nModifyingBelow lim With x right arrow 3 Superscript plus f left parenthesis x right parenthesis\nlim\nx\u21923+\nf(x).\nPart 9\n\u200b(i) Find \u200bf(\n2\n2\u200b). Select the correct choice\u200b below, and fill in the answer box if necessary.\nA.\n\u200bf(\n2\n2\u200b)\nequals\n=\nenter your response here\n\u200b(Type an integer or a\u200b fraction.)\nB.\nThe value \u200bf(\n2\n2\u200b) is undefined.\nPart 10\n\u200b(j) Find \nModifyingBelow lim With x right arrow 2 Superscript minus f left parenthesis x right parenthesis\nlim\nx\u21922\u2212\nf(x). Select the correct choice\u200b below, and fill in the answer box if necessary.\nA.\nModifyingBelow lim With x right arrow 2 Superscript minus f left parenthesis x right parenthesis\nlim\nx\u21922\u2212\nf(x)\nequals\n=\nenter your response here\n\u200b(Type an integer or a\u200b fraction.)\nB.\nThe limit does not exist because\u200b f(x) is not defined for all x\nless than\n<\n2\n2.\nPart 11\n\u200b(k) Find \nModifyingBelow lim With x right arrow 2 Superscript plus f left parenthesis x right parenthesis\nlim\nx\u21922+\nf(x). Select the correct choice\u200b below, and fill in the answer box if necessary.\nA.\nModifyingBelow lim With x right arrow 2 Superscript plus f left parenthesis x right parenthesis\nlim\nx\u21922+\nf(x)\nequals\n=\nenter your response here\n\u200b(Type an integer or a\u200b fraction.)\nB.\nThe limit does not exist because\u200b f(x) is not defined for all x\ngreater than\n>\n2\n2.\nPart 12\n\u200b(l) Find \nModifyingBelow lim With x right arrow 2 f left parenthesis x right parenthesis\nlim\nx\u21922\nf(x). Select the correct choice\u200b below, and fill in the answer box if necessary.\nA.\nModifyingBelow lim With x right arrow 2 f left parenthesis x right parenthesis\nlim\nx\u21922\nf(x)\nequals\n=\nenter your response here\n\u200b(Type an integer or a\u200b fraction.)\nB.\nThe limit does not exist because \nModifyingBelow lim With x right arrow 2 Superscript minus f left parenthesis x right parenthesis\nlim\nx\u21922\u2212\nf(x)\nnot equals\n\u2260\nModifyingBelow lim With x right arrow 2 Superscript plus f left parenthesis x right parenthesis\nlim\nx\u21922+\nf(x).\ninput field 1Select the correct choice below, and fill in the answer box if necessary.input field 2Select the correct choice below, and fill in the answer box if necessary.input field 3Select the correct choice below, and fill in the answer box if necessary.input field 4Select the correct choice below, and fill in the answer box if necessary.input field 5Select the correct choice below, and fill in the answer box if necessary.input field 6Select the correct choice below, and fill in the answer box if necessary.input field 7Select the correct choice below, and fill in the answer box if necessary.input field 8Select the correct choice below, and fill in the answer box if necessary.input field 9Select the correct choice below, and fill in the answer box if necessary.input field 10Select the correct choice below, and fill in the answer box if necessary.input field 11Select the correct choice below, and fill in the answer box if necessary.input field 12Select the correct choice below, and fill in the answer box if necessary.",
+      "poolOrder": "2",
+      "listObjective": "Find limits from a graph."
+    },
+    {
+      "previewIndex": "3",
+      "previewTotal": "39",
+      "questionId": "2.2.18",
+      "objective": "Find limits from a graph.",
+      "difficulty": "Moderate",
+      "estimatedTime": "2m 36s",
+      "stem": "Part 1\nUse the graph of g in the figure to find the following values or state that they do not exist. If a limit does not\u200b exist, explain why.\na.\u200b g(\n1\n1\u200b)\n\t\nb. \nModifyingBelow lim With x right arrow 1 Superscript minus g left parenthesis x right parenthesis\nlim\nx\u21921\u2212\ng(x)\n\t\nc. \nModifyingBelow lim With x right arrow 1 Superscript plus g left parenthesis x right parenthesis\nlim\nx\u21921+\ng(x)\n\n\nd. \nModifyingBelow lim With x right arrow 1 g left parenthesis x right parenthesis\nlim\nx\u21921\n\u00a0g(x)\n\t\ne.\u200b g(\n2\n2\u200b)\n\t\nf. \nModifyingBelow lim With x right arrow 2 Superscript minus g left parenthesis x right parenthesis\nlim\nx\u21922\u2212\ng(x)\n\n\ng. \nModifyingBelow lim With x right arrow 2 Superscript plus g left parenthesis x right parenthesis\nlim\nx\u21922+\ng(x)\n\t\nh.\u200b g(\n3\n3\u200b)\n\t\ni. \nModifyingBelow lim With x right arrow 3 g left parenthesis x right parenthesis\nlim\nx\u21923\ng(x)\n\t\n0\n2\n4\n0\n3\n6\nx\ny\nfont size decreased by 2 y equals g left parenthesis x right parenthesis\ny=g(x)\nA coordinate system has a horizontal x-axis labeled from 0 to 4 in increments of 0.5 and a vertical y-axis labeled from 0 to 6 in increments of 1. From left to right, the graph of a function labeled y equals g(x) consists of the following: a ray that rises through (0, 0) to an open circle at (1, 2); a horizontal line segment that extends from a closed circle at (1, 4) to an open circle at (2, 4); and a smooth curve that rises at a decreasing rate from a closed circle at (2, 1) to (3, 2), then falls at an increasing rate through (4, 1).\nQuestion content area bottom\nPart 1\na. Select the correct answer\u200b and, if\u200b necessary, fill in the answer box within your choice.\nA.\n\u200bg(\n1\n1\u200b)\nequals\n=\nenter your response here\n \u200b(Type an integer or a\u200b decimal.)\nB.\nThe value \u200bg(\n1\n1\u200b) does not exist because g is not defined at x\nequals\n=\n1\n1.\nPart 2\nb. Select the correct answer\u200b and, if\u200b necessary, fill in the answer box within your choice.\nA.\nModifyingBelow lim With x right arrow 1 Superscript minus g left parenthesis x right parenthesis\nlim\nx\u21921\u2212\ng(x)\nequals\n=\nenter your response here\n \u200b(Type an integer or a\u200b decimal.)\nB.\nThe limit does not exist because g is not defined for all x near \n1\n1 \nwith x less than 1\nwith\u00a0x<1.\nPart 3\nc. Select the correct answer\u200b and, if\u200b necessary, fill in the answer box within your choice.\nA.\nModifyingBelow lim With x right arrow 1 Superscript plus g left parenthesis x right parenthesis\nlim\nx\u21921+\ng(x)\nequals\n=\nenter your response here\n \u200b(Type an integer or a\u200b decimal.)\nB.\nThe limit does not exist because g is not defined for all x near \n1\n1 \nwith x greater than 1\nwith\u00a0x>1.\nPart 4\nd. Select the correct answer\u200b and, if\u200b necessary, fill in the answer box within your choice.\nA.\nModifyingBelow lim With x right arrow 1 g left parenthesis x right parenthesis\nlim\nx\u21921\n\u00a0g(x)\nequals\n=\nenter your response here\n \u200b(Type an integer or a\u200b decimal.)\nB.\nThe limit does not exist because \nModifyingBelow lim With x right arrow 1 Superscript plus g left parenthesis x right parenthesis\nlim\nx\u21921+\ng(x)\nnot equals\n\u2260\nModifyingBelow lim With x right arrow 1 Superscript minus g left parenthesis x right parenthesis\nlim\nx\u21921\u2212\ng(x).\nPart 5\ne. Select the correct answer\u200b and, if\u200b necessary, fill in the answer box within your choice.\nA.\n\u200bg(\n2\n2\u200b)\nequals\n=\nenter your response here\n \u200b(Type an integer or a\u200b decimal.)\nB.\nThe value \u200bg(\n2\n2\u200b) does not exist because g is not defined at x\nequals\n=\n2\n2.\nPart 6\nf. Select the correct answer\u200b and, if\u200b necessary, fill in the answer box within your choice.\nA.\nModifyingBelow lim With x right arrow 2 Superscript minus g left parenthesis x right parenthesis\nlim\nx\u21922\u2212\ng(x)\nequals\n=\nenter your response here\n \u200b(Type an integer or a\u200b decimal.)\nB.\nThe limit does not exist because g is not defined for all x near \n2\n2 \nwith x less than 2\nwith\u00a0x<2.\nPart 7\ng. Select the correct answer\u200b and, if\u200b necessary, fill in the answer box within your choice.\nA.\nModifyingBelow lim With x right arrow 2 Superscript plus g left parenthesis x right parenthesis\nlim\nx\u21922+\ng(x)\nequals\n=\nenter your response here\n \u200b(Type an integer or a\u200b decimal.)\nB.\nThe limit does not exist because g is not defined for all x near \n1\n1 \nwith x greater than 2\nwith\u00a0x>2.\nPart 8\nh. Select the correct answer\u200b and, if\u200b necessary, fill in the answer box within your choice.\nA.\n\u200bg(\n3\n3\u200b)\nequals\n=\nenter your response here\n \u200b(Type an integer or a\u200b decimal.)\nB.\nThe value \u200bg(\n3\n3\u200b) does not exist because g is not defined at x\nequals\n=\n3\n3.\nPart 9\ni. Select the correct answer\u200b and, if\u200b necessary, fill in the answer box within your choice.\nA.\nModifyingBelow lim With x right arrow 3 g left parenthesis x right parenthesis\nlim\nx\u21923\ng(x)\nequals\n=\nenter your response here\n \u200b(Type an integer or a\u200b decimal.)\nB.\nThe limit does not exist because \nModifyingBelow lim With x right arrow 3 Superscript plus g left parenthesis x right parenthesis\nlim\nx\u21923+\ng(x)\nnot equals\n\u2260\nModifyingBelow lim With x right arrow 3 Superscript minus g left parenthesis x right parenthesis\nlim\nx\u21923\u2212\ng(x).\ninput field 1Select the correct answer and, if necessary, fill in the answer box within your choice.input field 2Select the correct answer and, if necessary, fill in the answer box within your choice.input field 3Select the correct answer and, if necessary, fill in the answer box within your choice.input field 4Select the correct answer and, if necessary, fill in the answer box within your choice.input field 5Select the correct answer and, if necessary, fill in the answer box within your choice.input field 6Select the correct answer and, if necessary, fill in the answer box within your choice.input field 7Select the correct answer and, if necessary, fill in the answer box within your choice.input field 8Select the correct answer and, if necessary, fill in the answer box within your choice.input field 9Select the correct answer and, if necessary, fill in the answer box within your choice.",
+      "poolOrder": "2",
+      "listObjective": "Find limits from a graph."
+    },
+    {
+      "previewIndex": "4",
+      "previewTotal": "39",
+      "questionId": "2.3.22",
+      "objective": "Evaluate two-sided limits using limit laws and theorems.",
+      "difficulty": "Easy",
+      "estimatedTime": "38s",
+      "stem": "Part 1\nFind the following limit or state that it does not exist.\nModifyingBelow lim With x right arrow minus 3 1\nlim\nx\u2192\u22123\n1\nQuestion content area bottom\nPart 1\nSelect the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nModifyingBelow lim With x right arrow minus 3 1\nlim\nx\u2192\u22123\n1\nequals\n=\nenter your response here\n \u200b(Simplify your\u200b answer.)\nB.\nThe limit does not exist.\nModifyingBelow lim With x right arrow minus 3 1Select the correct choice below and, if necessary, fill in the answer box to complete your choice.",
+      "poolOrder": "3",
+      "listObjective": "Evaluate two-sided limits using limit laws and theorems."
+    },
+    {
+      "previewIndex": "5",
+      "previewTotal": "39",
+      "questionId": "2.3.27",
+      "objective": "Evaluate two-sided limits using limit laws and theorems.",
+      "difficulty": "Moderate",
+      "estimatedTime": "1m 43s",
+      "stem": "Part 1\nFind the following limit or state that it does not exist.\nModifyingBelow lim With b right arrow 3 StartFraction 8 b Over StartRoot 5 b plus 1 EndRoot minus 1 EndFraction\nlim\nb\u21923\n\u00a0\n8b\n5b+1\u22121\nQuestion content area bottom\nPart 1\nSelect the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nModifyingBelow lim With b right arrow 3 StartFraction 8 b Over StartRoot 5 b plus 1 EndRoot minus 1 EndFraction\nlim\nb\u21923\n\u00a0\n8b\n5b+1\u22121\nequals\n=\nenter your response here\n \u200b(Simplify your\u200b answer.)\nB.\nThe limit does not exist.\nModifyingBelow lim With b right arrow 3 StartFraction 8 b Over StartRoot 5 b plus 1 EndRoot minus 1 EndFractionSelect the correct choice below and, if necessary, fill in the answer box to complete your choice.",
+      "poolOrder": "3",
+      "listObjective": "Evaluate two-sided limits using limit laws and theorems."
+    },
+    {
+      "previewIndex": "6",
+      "previewTotal": "39",
+      "questionId": "2.3.35",
+      "objective": "Evaluate two-sided limits using limit laws and theorems.",
+      "difficulty": "Moderate",
+      "estimatedTime": "1m 31s",
+      "stem": "Part 1\nFind the following limit or state that it does not exist.\nModifyingBelow lim With x right arrow 19 StartFraction x squared minus 361 Over 19 minus x EndFraction\nlim\nx\u219219\nx2\u2212361\n19\u2212x\nQuestion content area bottom\nPart 1\nSelect the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nModifyingBelow lim With x right arrow 19 StartFraction x squared minus 361 Over 19 minus x EndFraction\nlim\nx\u219219\nx2\u2212361\n19\u2212x\nequals\n=\nenter your response here\n \u200b(Type an exact\u200b answer.)\nB.\nThe limit does not exist.\nModifyingBelow lim With x right arrow 19 StartFraction x squared minus 361 Over 19 minus x EndFractionSelect the correct choice below and, if necessary, fill in the answer box to complete your choice.",
+      "poolOrder": "4",
+      "listObjective": "Evaluate two-sided limits using limit laws and theorems."
+    },
+    {
+      "previewIndex": "7",
+      "previewTotal": "39",
+      "questionId": "2.3.47",
+      "objective": "Evaluate two-sided limits using limit laws and theorems.",
+      "difficulty": "Moderate",
+      "estimatedTime": "2m 5s",
+      "stem": "Part 1\nFind the following limit or state that it does not exist.\nModifyingBelow lim With h right arrow 0 StartFraction StartRoot 289 plus h EndRoot minus 17 Over h EndFraction\nlim\nh\u21920\n289+h\u221217\nh\nQuestion content area bottom\nPart 1\nSelect the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nModifyingBelow lim With h right arrow 0 StartFraction StartRoot 289 plus h EndRoot minus 17 Over h EndFraction\nlim\nh\u21920\n289+h\u221217\nh\nequals\n=\nenter your response here\n \u200b(Type an exact\u200b answer.)\nB.\nThe limit does not exist.\nModifyingBelow lim With h right arrow 0 StartFraction StartRoot 289 plus h EndRoot minus 17 Over h EndFractionSelect the correct choice below and, if necessary, fill in the answer box to complete your choice.",
+      "poolOrder": "4",
+      "listObjective": "Evaluate two-sided limits using limit laws and theorems."
+    },
+    {
+      "previewIndex": "8",
+      "previewTotal": "39",
+      "questionId": "2.3.74",
+      "objective": "Evaluate one-sided limits using limit laws and theorems.",
+      "difficulty": "Moderate",
+      "estimatedTime": "2m 43s",
+      "stem": "Part 1\nFor the function\u200b g(x) shown\u200b below, compute the following limits or state that they do not exist.\ng left parenthesis x right parenthesis equals left brace Start 3 By 2 Matrix 1st Row 1st Column 0 2nd Column if x less than or equals minus 5 2nd Row 1st Column StartRoot 25 minus x squared EndRoot 2nd Column if minus 5 less than x less than 5 3rd Row 1st Column 3 x 2nd Column if x greater than or equals 5 EndMatrix\ng(x)=0\tif\u00a0x\u2264\u22125\n\n25\u2212x2\tif\u00a0\u22125<x<5\n3x\tif\u00a0x\u22655\na. \nModifyingBelow lim With x right arrow minus 5 Superscript minus g left parenthesis x right parenthesis\nlim\nx\u2192\u22125\u2212\ng(x)\u2003\u2003b. \nModifyingBelow lim With x right arrow minus 5 Superscript plus g left parenthesis x right parenthesis\nlim\nx\u2192\u22125+\ng(x) c. \nModifyingBelow lim With x right arrow minus 5 g left parenthesis x right parenthesis\nlim\nx\u2192\u22125\ng(x)\u2003\u2003d. \nModifyingBelow lim With x right arrow 5 Superscript minus g left parenthesis x right parenthesis\nlim\nx\u21925\u2212\ng(x)\u2003\u2003e. \nModifyingBelow lim With x right arrow 5 Superscript plus g left parenthesis x right parenthesis\nlim\nx\u21925+\ng(x)\u2003\u2003\u2003f. \nModifyingBelow lim With x right arrow 5 g left parenthesis x right parenthesis\nlim\nx\u21925\ng(x)\nQuestion content area bottom\nPart 1\na. Find \nModifyingBelow lim With x right arrow minus 5 Superscript minus g left parenthesis x right parenthesis\nlim\nx\u2192\u22125\u2212\ng(x). Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nModifyingBelow lim With x right arrow minus 5 Superscript minus g left parenthesis x right parenthesis equals enter your response here\nModifyingBelow lim With x right arrow minus 5 Superscript minus g left parenthesis x right parenthesis\nlim\nx\u2192\u22125\u2212\ng(x)\nequals\n=\nenter your response here\n \nB.\nThe limit does not exist.\nPart 2\nb. Find \nModifyingBelow lim With x right arrow minus 5 Superscript plus g left parenthesis x right parenthesis\nlim\nx\u2192\u22125+\ng(x). Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nModifyingBelow lim With x right arrow minus 5 Superscript plus g left parenthesis x right parenthesis equals enter your response here\nModifyingBelow lim With x right arrow minus 5 Superscript plus g left parenthesis x right parenthesis\nlim\nx\u2192\u22125+\ng(x)\nequals\n=\nenter your response here\nB.\nThe limit does not exist.\nPart 3\nc. Find \nModifyingBelow lim With x right arrow minus 5 g left parenthesis x right parenthesis\nlim\nx\u2192\u22125\ng(x). Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nModifyingBelow lim With x right arrow minus 5 g left parenthesis x right parenthesis equals enter your response here\nModifyingBelow lim With x right arrow minus 5 g left parenthesis x right parenthesis\nlim\nx\u2192\u22125\ng(x)\nequals\n=\nenter your response here\n\u2003\u2003\nB.\nThe limit does not exist.\nPart 4\nd. Find \nModifyingBelow lim With x right arrow 5 Superscript minus g left parenthesis x right parenthesis\nlim\nx\u21925\u2212\ng(x). Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nModifyingBelow lim With x right arrow 5 Superscript minus g left parenthesis x right parenthesis equals enter your response here\nModifyingBelow lim With x right arrow 5 Superscript minus g left parenthesis x right parenthesis\nlim\nx\u21925\u2212\ng(x)\nequals\n=\nenter your response here\n \nB.\nThe limit does not exist.\nPart 5\ne. Find \nModifyingBelow lim With x right arrow 5 Superscript plus g left parenthesis x right parenthesis\nlim\nx\u21925+\ng(x). Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nModifyingBelow lim With x right arrow 5 Superscript plus g left parenthesis x right parenthesis equals enter your response here\nModifyingBelow lim With x right arrow 5 Superscript plus g left parenthesis x right parenthesis\nlim\nx\u21925+\ng(x)\nequals\n=\nenter your response here\nB.\nThe limit does not exist.\nPart 6\nf. Find \nModifyingBelow lim With x right arrow 5 g left parenthesis x right parenthesis\nlim\nx\u21925\ng(x). Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nModifyingBelow lim With x right arrow 5 g left parenthesis x right parenthesis equals enter your response here\nModifyingBelow lim With x right arrow 5 g left parenthesis x right parenthesis\nlim\nx\u21925\ng(x)\nequals\n=\nenter your response here\nB.\nThe limit does not exist.\nModifyingBelow lim With x right arrow 5 Superscript plus g left parenthesis x right parenthesis f. ModifyingBelow lim With x right arrow 5 g left parenthesis x right parenthesisSelect the correct choice below and, if necessary, fill in the answer box to complete your choice.input field 2Select the correct choice below and, if necessary, fill in the answer box to complete your choice.input field 3Select the correct choice below and, if necessary, fill in the answer box to complete your choice.input field 4Select the correct choice below and, if necessary, fill in the answer box to complete your choice.input field 5Select the correct choice below and, if necessary, fill in the answer box to complete your choice.input field 6Select the correct choice below and, if necessary, fill in the answer box to complete your choice.",
+      "poolOrder": "5",
+      "listObjective": "Evaluate one-sided limits using limit laws and theorems."
+    },
+    {
+      "previewIndex": "9",
+      "previewTotal": "39",
+      "questionId": "2.3.39-Setup & Solve",
+      "objective": "Evaluate two-sided limits using limit laws and theorems.",
+      "difficulty": "Moderate",
+      "estimatedTime": "3m 28s",
+      "stem": "Part 1\nFind the following limit or state that it does not exist.\nModifyingBelow lim With x right arrow minus 1 StartFraction 3 left parenthesis 2 x minus 4 right parenthesis squared minus 108 Over x plus 1 EndFraction\nlim\nx\u2192\u22121\n3(2x\u22124)2\u2212108\nx+1\nQuestion content area bottom\nPart 1\nReplace the limit with an equivalent limit that can be evaluated by direct substitution.\nModifyingBelow lim With x right arrow minus 1 StartFraction 3 left parenthesis 2 x minus 4 right parenthesis squared minus 108 Over x plus 1 EndFraction\nlim\nx\u2192\u22121\n3(2x\u22124)2\u2212108\nx+1\nequals\n=\nModifyingBelow lim With x right arrow minus 1 left parenthesis nothing right parenthesis\nlim\nx\u2192\u22121\nenter your response here\n \u200b(Type an expression. Simplify your\u200b answer.)\nPart 2\nEvaluate the\u200b limit, if possible. Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nModifyingBelow lim With x right arrow minus 1 StartFraction 3 left parenthesis 2 x minus 4 right parenthesis squared minus 108 Over x plus 1 EndFraction\nlim\nx\u2192\u22121\n3(2x\u22124)2\u2212108\nx+1\nequals\n=\nenter your response here\n \u200b(Type an exact\u200b answer.)\nB.\nThe limit does not exist.\nModifyingBelow lim With x right arrow minus 1 StartFraction 3 left parenthesis 2 x minus 4 right parenthesis squared minus 108 Over x plus 1 EndFraction)Select the correct choice below and, if necessary, fill in the answer box to complete your choice.",
+      "poolOrder": "6",
+      "listObjective": "Evaluate two-sided limits using limit laws and theorems."
+    },
+    {
+      "previewIndex": "10",
+      "previewTotal": "39",
+      "questionId": "2.3.40-Setup & Solve",
+      "objective": "Evaluate two-sided limits using limit laws and theorems.",
+      "difficulty": "Moderate",
+      "estimatedTime": "3m 16s",
+      "stem": "Part 1\nFind the following limit or state that it does not exist.\nModifyingBelow lim With h right arrow 0 StartStartFraction StartFraction 1 Over 4 plus h EndFraction minus one fourth OverOver h EndEndFraction\nlim\nh\u21920\n1\n4+h\n\u2212\n1\n4\nh\nQuestion content area bottom\nPart 1\nReplace the limit with an equivalent limit that can be evaluated by direct substitution.\nModifyingBelow lim With h right arrow 0 StartStartFraction StartFraction 1 Over 4 plus h EndFraction minus one fourth OverOver h EndEndFraction\nlim\nh\u21920\n1\n4+h\n\u2212\n1\n4\nh\nequals\n=\nModifyingBelow lim With h right arrow 0 left parenthesis nothing right parenthesis\nlim\nh\u21920\nenter your response here\n \u200b(Type an expression. Simplify your\u200b answer.)\nPart 2\nEvaluate the\u200b limit, if possible. Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nModifyingBelow lim With h right arrow 0 StartStartFraction StartFraction 1 Over 4 plus h EndFraction minus one fourth OverOver h EndEndFraction\nlim\nh\u21920\n1\n4+h\n\u2212\n1\n4\nh\nequals\n=\nenter your response here\n \u200b(Type an exact\u200b answer.)\nB.\nThe limit does not exist.\nModifyingBelow lim With h right arrow 0 StartStartFraction StartFraction 1 Over 4 plus h EndFraction minus one fourth OverOver h EndEndFraction)Select the correct choice below and, if necessary, fill in the answer box to complete your choice.",
+      "poolOrder": "7",
+      "listObjective": "Evaluate two-sided limits using limit laws and theorems."
+    },
+    {
+      "previewIndex": "11",
+      "previewTotal": "39",
+      "questionId": "2.3.41-Setup & Solve",
+      "objective": "Evaluate two-sided limits using limit laws and theorems.",
+      "difficulty": "Moderate",
+      "estimatedTime": "1m 51s",
+      "stem": "Part 1\nFind the following limit or state that it does not exist.\nModifyingBelow lim With x right arrow 361 StartFraction StartRoot x EndRoot minus 19 Over x minus 361 EndFraction\nlim\nx\u2192361\nx\u221219\nx\u2212361\nQuestion content area bottom\nPart 1\nReplace the limit with an equivalent limit that can be evaluated by direct substitution.\nModifyingBelow lim With x right arrow 361 StartFraction StartRoot x EndRoot minus 19 Over x minus 361 EndFraction\nlim\nx\u2192361\nx\u221219\nx\u2212361\nequals\n=\nModifyingBelow lim With x right arrow 361 left parenthesis nothing right parenthesis\nlim\nx\u2192361\nenter your response here\n \u200b(Type an expression. Simplify your\u200b answer.)\nPart 2\nEvaluate the\u200b limit, if possible. Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nModifyingBelow lim With x right arrow 361 StartFraction StartRoot x EndRoot minus 19 Over x minus 361 EndFraction\nlim\nx\u2192361\nx\u221219\nx\u2212361\nequals\n=\nenter your response here\n \u200b(Type an exact\u200b answer.)\nB.\nThe limit does not exist.\nModifyingBelow lim With x right arrow 361 StartFraction StartRoot x EndRoot minus 19 Over x minus 361 EndFraction)Select the correct choice below and, if necessary, fill in the answer box to complete your choice.",
+      "poolOrder": "8",
+      "listObjective": "Evaluate two-sided limits using limit laws and theorems."
+    },
+    {
+      "previewIndex": "12",
+      "previewTotal": "39",
+      "questionId": "2.3.47-Setup & Solve",
+      "objective": "Evaluate two-sided limits using limit laws and theorems.",
+      "difficulty": "Moderate",
+      "estimatedTime": "2m 17s",
+      "stem": "Part 1\nFind the following limit or state that it does not exist.\nModifyingBelow lim With h right arrow 0 StartFraction StartRoot 256 plus h EndRoot minus 16 Over h EndFraction\nlim\nh\u21920\n256+h\u221216\nh\nQuestion content area bottom\nPart 1\nReplace the limit with an equivalent limit that can be evaluated by direct substitution.\nModifyingBelow lim With h right arrow 0 StartFraction StartRoot 256 plus h EndRoot minus 16 Over h EndFraction\nlim\nh\u21920\n256+h\u221216\nh\nequals\n=\nModifyingBelow lim With h right arrow 0 left parenthesis nothing right parenthesis\nlim\nh\u21920\nenter your response here\n \u200b(Type an expression. Simplify your\u200b answer.)\nPart 2\nEvaluate the\u200b limit, if possible. Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nModifyingBelow lim With h right arrow 0 StartFraction StartRoot 256 plus h EndRoot minus 16 Over h EndFraction\nlim\nh\u21920\n256+h\u221216\nh\nequals\n=\nenter your response here\n \u200b(Type an exact\u200b answer.)\nB.\nThe limit does not exist.\nModifyingBelow lim With h right arrow 0 StartFraction StartRoot 256 plus h EndRoot minus 16 Over h EndFraction)Select the correct choice below and, if necessary, fill in the answer box to complete your choice.",
+      "poolOrder": "8",
+      "listObjective": "Evaluate two-sided limits using limit laws and theorems."
+    },
+    {
+      "previewIndex": "13",
+      "previewTotal": "39",
+      "questionId": "2.4.25",
+      "objective": "Evaluate limits analytically.",
+      "difficulty": "Moderate",
+      "estimatedTime": "2m 7s",
+      "stem": "Part 1\nDetermine the following limits.\na. \nModifyingBelow lim With x right arrow minus 4 Superscript minus StartFraction left parenthesis x minus 1 right parenthesis left parenthesis x minus 4 right parenthesis Over x plus 4 EndFraction\nlim\nx\u2192\u22124\u2212\n\u00a0\n(x\u22121)(x\u22124)\nx+4\n\u2003\u2003\u2003\u2003\u2003b. \nModifyingBelow lim With x right arrow minus 4 Superscript plus StartFraction left parenthesis x minus 1 right parenthesis left parenthesis x minus 4 right parenthesis Over x plus 4 EndFraction\nlim\nx\u2192\u22124+\n\u00a0\n(x\u22121)(x\u22124)\nx+4\n\u2003\u2003\u2003\u2003\u2003c. \nModifyingBelow lim With x right arrow minus 4 StartFraction left parenthesis x minus 1 right parenthesis left parenthesis x minus 4 right parenthesis Over x plus 4 EndFraction\nlim\nx\u2192\u22124\n\u00a0\n(x\u22121)(x\u22124)\nx+4\nQuestion content area bottom\nPart 1\na. Select the correct choice\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nModifyingBelow lim With x right arrow minus 4 Superscript minus StartFraction left parenthesis x minus 1 right parenthesis left parenthesis x minus 4 right parenthesis Over x plus 4 EndFraction\nlim\nx\u2192\u22124\u2212\n\u00a0\n(x\u22121)(x\u22124)\nx+4\nequals\n=\nenter your response here\n \u200b(Simplify your\u200b answer.)\nB.\nThe limit does not exist and is neither \ninfinity\n\u221e nor \nminus\n\u2212\ninfinity\n\u221e.\nPart 2\nb. Select the correct choice\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nModifyingBelow lim With x right arrow minus 4 Superscript plus StartFraction left parenthesis x minus 1 right parenthesis left parenthesis x minus 4 right parenthesis Over x plus 4 EndFraction\nlim\nx\u2192\u22124+\n\u00a0\n(x\u22121)(x\u22124)\nx+4\nequals\n=\nenter your response here\n \u200b(Simplify your\u200b answer.)\nB.\nThe limit does not exist and is neither \ninfinity\n\u221e nor \nminus\n\u2212\ninfinity\n\u221e.\nPart 3\nc. Select the correct choice\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nModifyingBelow lim With x right arrow minus 4 StartFraction left parenthesis x minus 1 right parenthesis left parenthesis x minus 4 right parenthesis Over x plus 4 EndFraction\nlim\nx\u2192\u22124\n\u00a0\n(x\u22121)(x\u22124)\nx+4\nequals\n=\nenter your response here\n \u200b(Simplify your\u200b answer.)\nB.\nThe limit does not exist and is neither \ninfinity\n\u221e nor \nminus\n\u2212\ninfinity\n\u221e.\nModifyingBelow lim With x right arrow minus 4 Superscript plus StartFraction left parenthesis x minus 1 right parenthesis left parenthesis x minus 4 right parenthesis Over x plus 4 EndFraction c. ModifyingBelow lim With x right arrow minus 4 StartFraction left parenthesis x minus 1 right parenthesis left parenthesis x minus 4 right parenthesis Over x plus 4 EndFractionSelect the correct choice and, if necessary, fill in the answer box to complete your choice.input field 2Select the correct choice and, if necessary, fill in the answer box to complete your choice.input field 3Select the correct choice and, if necessary, fill in the answer box to complete your choice.",
+      "poolOrder": "9",
+      "listObjective": "Evaluate limits analytically."
+    },
+    {
+      "previewIndex": "14",
+      "previewTotal": "39",
+      "questionId": "2.4.47",
+      "objective": "Find vertical asymptotes.",
+      "difficulty": "Moderate",
+      "estimatedTime": "2m 54s",
+      "stem": "Part 1\nFind all vertical\u200b asymptotes, x\nequals\n=\u200ba, of the following function. For each value of\u200b a, evaluate \nModifyingBelow lim With x right arrow a Superscript plus f left parenthesis x right parenthesis\nlim\nx\u2192a+\nf(x)\u200b, \nModifyingBelow lim With x right arrow a Superscript minus f left parenthesis x right parenthesis\nlim\nx\u2192a\u2212\nf(x)\u200b, and \nModifyingBelow lim With x right arrow a f left parenthesis x right parenthesis\nlim\nx\u2192a\nf(x). Use \ninfinity\n\u221e or \nminus\n\u2212\ninfinity\n\u221e when appropriate.\nf left parenthesis x right parenthesis equals StartFraction x squared minus 9 x plus 14 Over x squared minus 6 x plus 8 EndFraction\nf(x)=\nx2\u22129x+14\nx2\u22126x+8\nQuestion content area bottom\nPart 1\nSelect the correct choice\u200b below, and fill in the answer box if necessary.\nA.\nThe vertical asymptote is x\nequals\n=\nenter your response here\n. The limits at this vertical asymptote are \nModifyingBelow lim With x right arrow a Superscript plus f left parenthesis x right parenthesis\nlim\nx\u2192a+\nf(x)\nequals\n=\nenter your response here\n\u200b, \nModifyingBelow lim With x right arrow a Superscript minus f left parenthesis x right parenthesis\nlim\nx\u2192a\u2212\nf(x)\nequals\n=\nenter your response here\n\u200b, and \nModifyingBelow lim With x right arrow a f left parenthesis x right parenthesis\nlim\nx\u2192a\nf(x) does not exist and is neither \ninfinity\n\u221e nor \nminus\n\u2212\ninfinity\n\u221e.\nB.\nThe vertical asymptote is x\nequals\n=\nenter your response here\n. The limits at this vertical asymptote are \nModifyingBelow lim With x right arrow a Superscript plus f left parenthesis x right parenthesis\nlim\nx\u2192a+\nf(x)\nequals\n=\nenter your response here\n\u200b, \nModifyingBelow lim With x right arrow a Superscript minus f left parenthesis x right parenthesis\nlim\nx\u2192a\u2212\nf(x)\nequals\n=\nenter your response here\n\u200b, and \nModifyingBelow lim With x right arrow a f left parenthesis x right parenthesis\nlim\nx\u2192a\nf(x)\nequals\n=\nenter your response here\n.\nC.\nThere is no vertical asymptote.\nf left parenthesis x right parenthesis equals StartFraction x squared minus 9 x plus 14 Over x squared minus 6 x plus 8 EndFractionf left parenthesis x right parenthesis equals StartFraction x squared minus 9 x plus 14 Over x squared minus 6 x plus 8 EndFractionf left parenthesis x right parenthesis equals StartFraction x squared minus 9 x plus 14 Over x squared minus 6 x plus 8 EndFractionf left parenthesis x right parenthesis equals StartFraction x squared minus 9 x plus 14 Over x squared minus 6 x plus 8 EndFractionf left parenthesis x right parenthesis equals StartFraction x squared minus 9 x plus 14 Over x squared minus 6 x plus 8 EndFractionf left parenthesis x right parenthesis equals StartFraction x squared minus 9 x plus 14 Over x squared minus 6 x plus 8 EndFractionf left parenthesis x right parenthesis equals StartFraction x squared minus 9 x plus 14 Over x squared minus 6 x plus 8 EndFractionSelect the correct choice below, and fill in the answer box if necessary.",
+      "poolOrder": "9",
+      "listObjective": "Find vertical asymptotes."
+    },
+    {
+      "previewIndex": "15",
+      "previewTotal": "39",
+      "questionId": "2.4.35-Setup & Solve",
+      "objective": "Evaluate limits analytically.",
+      "difficulty": "Hard",
+      "estimatedTime": "1m 51s",
+      "stem": "Part 1\nDetermine the following\u200b limit, using \ninfinity\n\u221e or \nminus\n\u2212\ninfinity\n\u221e when\u200b appropriate, or state that it does not exist.\nModifyingBelow lim With x right arrow 1 Superscript plus StartFraction x squared minus 7 x plus 12 Over x minus 1 EndFraction\nlim\nx\u21921+\nx2\u22127x+12\nx\u22121\nQuestion content area bottom\nPart 1\nSimplify the expression inside the\u200b limit, if possible. Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nModifyingBelow lim With x right arrow 1 Superscript plus StartFraction x squared minus 7 x plus 12 Over x minus 1 EndFraction equals ModifyingBelow lim With x right arrow 1 Superscript plus nothing\nModifyingBelow lim With x right arrow 1 Superscript plus StartFraction x squared minus 7 x plus 12 Over x minus 1 EndFraction\nlim\nx\u21921+\nx2\u22127x+12\nx\u22121\nequals\n=\nModifyingBelow lim With x right arrow 1 Superscript plus nothing\nlim\nx\u21921+\nenter your response here\nB.\nThe expression inside the limit cannot be simplified. \nPart 2\n\u200bNow, evaluate the limit. Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nModifyingBelow lim With x right arrow 1 Superscript plus StartFraction x squared minus 7 x plus 12 Over x minus 1 EndFraction\nlim\nx\u21921+\nx2\u22127x+12\nx\u22121\nequals\n=\nenter your response here\n \u200b(Simplify your\u200b answer.)\nB.\nThe limit does not exist and is neither \ninfinity\n\u221e nor \nminus\n\u2212\ninfinity\n\u221e.\nModifyingBelow lim With x right arrow 1 Superscript plus StartFraction x squared minus 7 x plus 12 Over x minus 1 EndFractionSelect the correct choice below and, if necessary, fill in the answer box to complete your choice.input field 2Select the correct choice below and, if necessary, fill in the answer box to complete your choice.",
+      "poolOrder": "10",
+      "listObjective": "Evaluate limits analytically."
+    },
+    {
+      "previewIndex": "16",
+      "previewTotal": "39",
+      "questionId": "2.4.45-Setup & Solve",
+      "objective": "Find vertical asymptotes.",
+      "difficulty": "Hard",
+      "estimatedTime": "4m 16s",
+      "stem": "Part 1\nAnalyze the following limits and find the vertical asymptotes of \u200bf(x)\nequals\n=\nStartFraction x minus 1 Over x squared minus 1 EndFraction\nx\u22121\nx2\u22121\n.\na. \nModifyingBelow lim With x right arrow 1 f left parenthesis x right parenthesis\nlim\nx\u21921\nf(x)\n\t\nb. \nModifyingBelow lim With x right arrow minus 1 Superscript minus f left parenthesis x right parenthesis\nlim\nx\u2192\u22121\u2212\nf(x)\n\t\nc. \nModifyingBelow lim With x right arrow minus 1 Superscript plus f left parenthesis x right parenthesis\nlim\nx\u2192\u22121+\nf(x)\nQuestion content area bottom\nPart 1\na. Rewrite the given limit in a way that can be evaluated using direct substitution.\nModifyingBelow lim With x right arrow 1 StartFraction x minus 1 Over x squared minus 1 EndFraction\nlim\nx\u21921\nx\u22121\nx2\u22121\nequals\n=\nModifyingBelow lim With x right arrow 1 left parenthesis nothing right parenthesis\nlim\nx\u21921\nenter your response here\n \u200b(Simplify your\u200b answer.)\nPart 2\n\u200bNow, evaluate the limit. Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nModifyingBelow lim With x right arrow 1 f left parenthesis x right parenthesis\nlim\nx\u21921\nf(x)\nequals\n=\nenter your response here\n \u200b(Simplify your\u200b answer.)\nB.\nThe limit does not exist and is neither \ninfinity\n\u221e nor \nminus\n\u2212\ninfinity\n\u221e.\nPart 3\nb. Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nModifyingBelow lim With x right arrow minus 1 Superscript minus f left parenthesis x right parenthesis\nlim\nx\u2192\u22121\u2212\nf(x)\nequals\n=\nenter your response here\n \u200b(Simplify your\u200b answer.)\nB.\nThe limit does not exist and is neither \ninfinity\n\u221e nor \nminus\n\u2212\ninfinity\n\u221e.\nPart 4\nc. Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nModifyingBelow lim With x right arrow minus 1 Superscript plus f left parenthesis x right parenthesis\nlim\nx\u2192\u22121+\nf(x)\nequals\n=\nenter your response here\n \u200b(Simplify your\u200b answer.)\nB.\nThe limit does not exist and is neither \ninfinity\n\u221e nor \nminus\n\u2212\ninfinity\n\u221e.\nPart 5\nWhere are the vertical asymptotes of the\u200b function, if any\u200b exist? Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nThe vertical\u200b asymptote(s) occur(s) at x\nequals\n=\nenter your response here\n. \n\u200b(Use a comma to separate answers as needed. Type an integer or a simplified\u200b fraction.)\nB.\nThere are no vertical asymptotes.\nAnalyze the following limits and find the vertical asymptotes of f(x)StartFraction x minus 1 Over x squared minus 1 EndFraction.)Select the correct choice below and, if necessary, fill in the answer box to complete your choice.input field 3Select the correct choice below and, if necessary, fill in the answer box to complete your choice.input field 4Select the correct choice below and, if necessary, fill in the answer box to complete your choice.input field 5Select the correct choice below and, if necessary, fill in the answer box to complete your choice.",
+      "poolOrder": "10",
+      "listObjective": "Find vertical asymptotes."
+    },
+    {
+      "previewIndex": "17",
+      "previewTotal": "39",
+      "questionId": "2.4.33-Setup & Solve",
+      "objective": "Evaluate limits analytically.",
+      "difficulty": "Moderate",
+      "estimatedTime": "1m 21s",
+      "stem": "Part 1\nDetermine the following\u200b limit, using \ninfinity\n\u221e or \nminus\n\u2212\ninfinity\n\u221e when\u200b appropriate, or state that it does not exist.\nModifyingBelow lim With x right arrow 0 StartFraction x Superscript 6 Baseline minus 6 x Superscript 5 Over x Superscript 5 EndFraction\nlim\nx\u21920\nx6\u22126x5\nx5\nQuestion content area bottom\nPart 1\nSimplify the expression inside the\u200b limit, if possible. Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nModifyingBelow lim With x right arrow 0 StartFraction x Superscript 6 Baseline minus 6 x Superscript 5 Over x Superscript 5 EndFraction equals ModifyingBelow lim With x right arrow 0 left parenthesis nothing right parenthesis\nModifyingBelow lim With x right arrow 0 StartFraction x Superscript 6 Baseline minus 6 x Superscript 5 Over x Superscript 5 EndFraction\nlim\nx\u21920\nx6\u22126x5\nx5\nequals\n=\nModifyingBelow lim With x right arrow 0 left parenthesis nothing right parenthesis\nlim\nx\u21920\n\u00a0\nenter your response here\nB.\nThe expression inside the limit cannot be simplified. \nPart 2\n\u200bNow, evaluate the limit. Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nModifyingBelow lim With x right arrow 0 StartFraction x Superscript 6 Baseline minus 6 x Superscript 5 Over x Superscript 5 EndFraction\nlim\nx\u21920\nx6\u22126x5\nx5\nequals\n=\nenter your response here\n \u200b(Type an integer or a simplified\u200b fraction.)\nB.\nThe limit does not exist and is neither \ninfinity\n\u221e nor \nminus\n\u2212\ninfinity\n\u221e.\nModifyingBelow lim With x right arrow 0 StartFraction x Superscript 6 Baseline minus 6 x Superscript 5 Over x Superscript 5 EndFractionSelect the correct choice below and, if necessary, fill in the answer box to complete your choice.input field 2Select the correct choice below and, if necessary, fill in the answer box to complete your choice.",
+      "poolOrder": "11",
+      "listObjective": "Evaluate limits analytically."
+    },
+    {
+      "previewIndex": "18",
+      "previewTotal": "39",
+      "questionId": "2.5.9",
+      "objective": "Evaluate limits at infinity.",
+      "difficulty": "Easy",
+      "estimatedTime": "52s",
+      "stem": "Part 1\nEvaluate the following limit.\nModifyingBelow lim With x right arrow infinity left parenthesis 5 plus StartFraction 8 Over x squared EndFraction right parenthesis\nlim\nx\u2192\u221e\n5+\n8\nx2\nQuestion content area bottom\nPart 1\nSelect the correct choice\u200b and, if\u200b necessary, fill in the answer box within your choice.\nA.\nModifyingBelow lim With x right arrow infinity left parenthesis 5 plus StartFraction 8 Over x squared EndFraction right parenthesis\nlim\nx\u2192\u221e\n5+\n8\nx2\nequals\n=\nenter your response here\n \u200b(Type an integer or a simplified\u200b fraction.)\nB.\nThe limit does not exist and is neither \nminus\n\u2212\ninfinity\n\u221e nor \ninfinity\n\u221e.\nModifyingBelow lim With x right arrow infinity left parenthesis 5 plus StartFraction 8 Over x squared EndFraction right parenthesisSelect the correct choice and, if necessary, fill in the answer box within your choice.",
+      "poolOrder": "12",
+      "listObjective": "Evaluate limits at infinity."
+    },
+    {
+      "previewIndex": "19",
+      "previewTotal": "39",
+      "questionId": "2.5.21",
+      "objective": "Evaluate limits at infinity.",
+      "difficulty": "Moderate",
+      "estimatedTime": "58s",
+      "stem": "Part 1\nDetermine the following limit.\nModifyingBelow lim With x right arrow infinity left parenthesis 4 x Superscript 5 Baseline minus 5 x Superscript 4 Baseline plus 1 right parenthesis\nlim\nx\u2192\u221e\n4x5\u22125x4+1\nQuestion content area bottom\nPart 1\nSelect the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nModifyingBelow lim With x right arrow infinity left parenthesis 4 x Superscript 5 Baseline minus 5 x Superscript 4 Baseline plus 1 right parenthesis equals enter your response here\nModifyingBelow lim With x right arrow infinity left parenthesis 4 x Superscript 5 Baseline minus 5 x Superscript 4 Baseline plus 1 right parenthesis\nlim\nx\u2192\u221e\n4x5\u22125x4+1\nequals\n= \nenter your response here\nB.\nThe limit does not exist and is neither \nminus\n\u2212\ninfinity\n\u221e nor \ninfinity\n\u221e.\nModifyingBelow lim With x right arrow infinity left parenthesis 4 x Superscript 5 Baseline minus 5 x Superscript 4 Baseline plus 1 right parenthesisSelect the correct choice below and, if necessary, fill in the answer box to complete your choice.",
+      "poolOrder": "13",
+      "listObjective": "Evaluate limits at infinity."
+    },
+    {
+      "previewIndex": "20",
+      "previewTotal": "39",
+      "questionId": "2.5.39",
+      "objective": "Find horizontal and vertical asymptotes of functions.",
+      "difficulty": "Moderate",
+      "estimatedTime": "1m 56s",
+      "stem": "Part 1\nEvaluate \nModifyingBelow lim With x right arrow infinity f left parenthesis x right parenthesis\nlim\nx\u2192\u221e\nf(x) and \nModifyingBelow lim With x right arrow minus infinity f left parenthesis x right parenthesis\nlim\nx\u2192\u2212\u221e\nf(x) for the following function. Then give the horizontal asymptote of f\u200b (if any).\nf left parenthesis x right parenthesis equals StartFraction 16 x squared minus 9 x plus 8 Over 4 x squared plus 1 EndFraction\nf(x)=\n16x2\u22129x+8\n4x2+1\nQuestion content area bottom\nPart 1\nEvaluate \nModifyingBelow lim With x right arrow infinity f left parenthesis x right parenthesis\nlim\nx\u2192\u221e\nf(x). Select the correct choice\u200b and, if\u200b necessary, fill in the answer box to complete your choice. \nA.\nModifyingBelow lim With x right arrow infinity f left parenthesis x right parenthesis\nlim\nx\u2192\u221e\nf(x)\nequals\n=\nenter your response here\n \u200b(Simplify your\u200b answer.)\nB.\nThe limit does not exist and is neither \ninfinity\n\u221e nor \nminus\n\u2212\ninfinity\n\u221e.\nPart 2\nEvaluate \nModifyingBelow lim With x right arrow minus infinity f left parenthesis x right parenthesis\nlim\nx\u2192\u2212\u221e\nf(x). Select the correct choice\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nModifyingBelow lim With x right arrow minus infinity f left parenthesis x right parenthesis\nlim\nx\u2192\u2212\u221e\nf(x)\nequals\n=\nenter your response here\n \u200b(Simplify your\u200b answer.)\nB.\nThe limit does not exist and is neither \ninfinity\n\u221e nor \nminus\n\u2212\ninfinity\n\u221e.\nPart 3\nIdentify the horizontal\u200b asymptote(s). Select the correct choice\u200b and, if\u200b necessary, fill in the answer\u200b box(es) to complete your choice.\nA.\nThe function has two horizontal asymptotes. The top asymptote is \nenter your response here\n and the bottom asymptote is \nenter your response here\n.\n\u200b(Type equations.)\nB.\nThe function has one horizontal\u200b asymptote, \nenter your response here\n.\n\u200b(Type an\u200b equation.)\nC.\nThere function has no horizontal asymptotes.\nf left parenthesis x right parenthesis equals StartFraction 16 x squared minus 9 x plus 8 Over 4 x squared plus 1 EndFractionSelect the correct choice and, if necessary, fill in the answer box to complete your choice.input field 2Select the correct choice and, if necessary, fill in the answer box to complete your choice.input field 3input field 4input field 5Select the correct choice and, if necessary, fill in the answer box(es) to complete your choice.",
+      "poolOrder": "14",
+      "listObjective": "Find horizontal and vertical asymptotes of functions."
+    },
+    {
+      "previewIndex": "21",
+      "previewTotal": "39",
+      "questionId": "2.5.41",
+      "objective": "Find horizontal and vertical asymptotes of functions.",
+      "difficulty": "Moderate",
+      "estimatedTime": "1m 32s",
+      "stem": "Part 1\nDetermine \nModifyingBelow lim With x right arrow infinity\nlim\nx\u2192\u221e\n\u200bf(x) and \nModifyingBelow lim With x right arrow minus infinity\nlim\nx\u2192\u2212\u221e\n\u200bf(x) for the following function. Then give the horizontal asymptotes of\u200b f, if any.\nf left parenthesis x right parenthesis equals StartFraction 2 x Superscript 5 Baseline minus 7 Over x Superscript 6 Baseline plus 5 x Superscript 4 EndFraction\nf(x)=\n2x5\u22127\nx6+5x4\nQuestion content area bottom\nPart 1\nEvaluate \nModifyingBelow lim With x right arrow infinity\nlim\nx\u2192\u221e\n\u200bf(x). Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nModifyingBelow lim With x right arrow infinity\nlim\nx\u2192\u221e\nStartFraction 2 x Superscript 5 Baseline minus 7 Over x Superscript 6 Baseline plus 5 x Superscript 4 EndFraction\n2x5\u22127\nx6+5x4\nequals\n=\nenter your response here\n \u200b(Simplify your\u200b answer.)\nB.\nThe limit does not exist and is neither \ninfinity\n\u221e nor \nminus\n\u2212\ninfinity\n\u221e.\nPart 2\nEvaluate \nModifyingBelow lim With x right arrow minus infinity\nlim\nx\u2192\u2212\u221e\n\u200bf(x). Select the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nModifyingBelow lim With x right arrow minus infinity\nlim\nx\u2192\u2212\u221e\nStartFraction 2 x Superscript 5 Baseline minus 7 Over x Superscript 6 Baseline plus 5 x Superscript 4 EndFraction\n2x5\u22127\nx6+5x4\nequals\n=\nenter your response here\n \u200b(Simplify your\u200b answer.)\nB.\nThe limit does not exist and is neither \ninfinity\n\u221e nor \nminus\n\u2212\ninfinity\n\u221e.\nPart 3\nIdentify the horizontal asymptotes. Select the correct choice below\u200b and, if\u200b necessary, fill in the answer\u200b box(es) to complete your choice.\nA.\nThe function has one horizontal\u200b asymptote, \nenter your response here\n. \n\u200b(Type an\u200b equation.)\nB.\nThe function has two horizontal asymptotes. The top asymptote is \nenter your response here\n and the bottom asymptote is \nenter your response here\n.\n\u200b(Type equations.)\nC.\nThe function has no horizontal asymptotes.\nf left parenthesis x right parenthesis equals StartFraction 2 x Superscript 5 Baseline minus 7 Over x Superscript 6 Baseline plus 5 x Superscript 4 EndFractionSelect the correct choice below and, if necessary, fill in the answer box to complete your choice.input field 2Select the correct choice below and, if necessary, fill in the answer box to complete your choice.input field 3input field 4input field 5Select the correct choice below and, if necessary, fill in the answer box(es) to complete your choice.",
+      "poolOrder": "14",
+      "listObjective": "Find horizontal and vertical asymptotes of functions."
+    },
+    {
+      "previewIndex": "22",
+      "previewTotal": "39",
+      "questionId": "2.5.12",
+      "objective": "Evaluate limits at infinity.",
+      "difficulty": "Moderate",
+      "estimatedTime": "1m 8s",
+      "stem": "Part 1\nDetermine the following limit at infinity.\nModifyingBelow lim With x right arrow infinity\nlim\nx\u2192\u221e\nStartFraction 6 plus 3 x plus 9 x squared Over x squared EndFraction\n6+3x+9x2\nx2\nQuestion content area bottom\nPart 1\nSelect the correct choice below\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nModifyingBelow lim With x right arrow infinity StartFraction 6 plus 3 x plus 9 x squared Over x squared EndFraction equals enter your response here\nModifyingBelow lim With x right arrow infinity\nlim\nx\u2192\u221e\nStartFraction 6 plus 3 x plus 9 x squared Over x squared EndFraction\n6+3x+9x2\nx2\nequals\n=\nenter your response here\nB.\nThe limit does not exist and is neither \nminus\n\u2212\ninfinity\n\u221e nor \ninfinity\n\u221e.\nModifyingBelow lim With x right arrow infinityStartFraction 6 plus 3 x plus 9 x squared Over x squared EndFractionSelect the correct choice below and, if necessary, fill in the answer box to complete your choice.",
+      "poolOrder": "15",
+      "listObjective": "Evaluate limits at infinity."
+    },
+    {
+      "previewIndex": "23",
+      "previewTotal": "39",
+      "questionId": "2.5.25",
+      "objective": "Evaluate limits at infinity.",
+      "difficulty": "Moderate",
+      "estimatedTime": "1m 16s",
+      "stem": "Part 1\nDetermine the following limit.\nModifyingBelow lim With x right arrow infinity\nlim\nx\u2192\u221e\nStartFraction 25 x Superscript 5 Baseline plus 9 x cubed minus 6 x squared Over 20 x Superscript 5 Baseline plus x cubed plus 6 x squared plus 2 EndFraction\n25x5+9x3\u22126x2\n20x5+x3+6x2+2\nQuestion content area bottom\nPart 1\nSelect the correct choice\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nModifyingBelow lim With x right arrow infinity\nlim\nx\u2192\u221e\nStartFraction 25 x Superscript 5 Baseline plus 9 x cubed minus 6 x squared Over 20 x Superscript 5 Baseline plus x cubed plus 6 x squared plus 2 EndFraction\n25x5+9x3\u22126x2\n20x5+x3+6x2+2\nequals\n=\nenter your response here\n \u200b(Simplify your\u200b answer.)\nB.\nThe limit does not exist and is neither \nminus\n\u2212\ninfinity\n\u221e nor \ninfinity\n\u221e.\nModifyingBelow lim With x right arrow infinityStartFraction 25 x Superscript 5 Baseline plus 9 x cubed minus 6 x squared Over 20 x Superscript 5 Baseline plus x cubed plus 6 x squared plus 2 EndFractionSelect the correct choice and, if necessary, fill in the answer box to complete your choice.",
+      "poolOrder": "15",
+      "listObjective": "Evaluate limits at infinity."
+    },
+    {
+      "previewIndex": "24",
+      "previewTotal": "39",
+      "questionId": "2.5.28",
+      "objective": "Evaluate limits at infinity.",
+      "difficulty": "Moderate",
+      "estimatedTime": "1m 9s",
+      "stem": "Part 1\nDetermine the following limit.\nModifyingBelow lim With x right arrow infinity\nlim\nx\u2192\u221e\nStartFraction 3 x Superscript 5 Baseline plus 4 Over 7 x Superscript 6 Baseline plus x Superscript 5 Baseline minus 5 x squared EndFraction\n3x5+4\n7x6+x5\u22125x2\nQuestion content area bottom\nPart 1\nSelect the correct choice\u200b and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nModifyingBelow lim With x right arrow infinity\nlim\nx\u2192\u221e\nStartFraction 3 x Superscript 5 Baseline plus 4 Over 7 x Superscript 6 Baseline plus x Superscript 5 Baseline minus 5 x squared EndFraction\n3x5+4\n7x6+x5\u22125x2\nequals\n=\nenter your response here\n \u200b(Simplify your\u200b answer.)\nB.\nThe limit does not exist and is neither \nminus\n\u2212\ninfinity\n\u221e nor \ninfinity\n\u221e.\nModifyingBelow lim With x right arrow infinityStartFraction 3 x Superscript 5 Baseline plus 4 Over 7 x Superscript 6 Baseline plus x Superscript 5 Baseline minus 5 x squared EndFractionSelect the correct choice and, if necessary, fill in the answer box to complete your choice.",
+      "poolOrder": "16",
+      "listObjective": "Evaluate limits at infinity."
+    },
+    {
+      "previewIndex": "25",
+      "previewTotal": "39",
+      "questionId": "2.5.29",
+      "objective": "Evaluate limits at infinity.",
+      "difficulty": "Moderate",
+      "estimatedTime": "1m 53s",
+      "stem": "Part 1\nDetermine the following limit.\nModifyingBelow lim With w right arrow infinity StartFraction 8 w squared plus 6 w plus 1 Over StartRoot 4 w Superscript 4 Baseline plus 2 w cubed EndRoot EndFraction\nlim\nw\u2192\u221e\n8w2+6w+1\n4w4+2w3\nQuestion content area bottom\nPart 1\nSelect the correct\u200b choice, and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nModifyingBelow lim With w right arrow infinity StartFraction 8 w squared plus 6 w plus 1 Over StartRoot 4 w Superscript 4 Baseline plus 2 w cubed EndRoot EndFraction\nlim\nw\u2192\u221e\n8w2+6w+1\n4w4+2w3\nequals\n=\nenter your response here\n \u200b(Simplify your\u200b answer.)\nB.\nThe limit does not exist and is neither \ninfinity\n\u221e nor \nminus\n\u2212\ninfinity\n\u221e.\nModifyingBelow lim With w right arrow infinity StartFraction 8 w squared plus 6 w plus 1 Over StartRoot 4 w Superscript 4 Baseline plus 2 w cubed EndRoot EndFractionSelect the correct choice, and, if necessary, fill in the answer box to complete your choice.",
+      "poolOrder": "17",
+      "listObjective": "Evaluate limits at infinity."
+    },
+    {
+      "previewIndex": "26",
+      "previewTotal": "39",
+      "questionId": "2.5.31",
+      "objective": "Evaluate limits at infinity.",
+      "difficulty": "Moderate",
+      "estimatedTime": "1m 48s",
+      "stem": "Part 1\nDetermine the following limit.\nModifyingBelow lim With x right arrow minus infinity StartFraction StartRoot 121 x squared plus x EndRoot Over x EndFraction\nlim\nx\u2192\u2212\u221e\n121x2+x\nx\nQuestion content area bottom\nPart 1\nSelect the correct\u200b choice, and, if\u200b necessary, fill in the answer box to complete your choice.\nA.\nModifyingBelow lim With x right arrow minus infinity StartFraction StartRoot 121 x squared plus x EndRoot Over x EndFraction\nlim\nx\u2192\u2212\u221e\n121x2+x\nx\nequals\n=\nenter your response here\n \u200b(Simplify your\u200b answer.)\nB.\nThe limit does not exist and is neither \ninfinity\n\u221e nor \nminus\n\u2212\ninfinity\n\u221e.\nModifyingBelow lim With x right arrow minus infinity StartFraction StartRoot 121 x squared plus x EndRoot Over x EndFractionSelect the correct choice, and, if necessary, fill in the answer box to complete your choice.",
+      "poolOrder": "17",
+      "listObjective": "Evaluate limits at infinity."
+    },
+    {
+      "previewIndex": "27",
+      "previewTotal": "39",
+      "questionId": "2.6.23",
+      "objective": "Determine if functions are continuous at given values.",
+      "difficulty": "Moderate",
+      "estimatedTime": "1m 40s",
+      "stem": "Part 1\nDetermine whether the following function is continuous at a. Use the continuity checklist to justify your answer.\n\u200bf(x)\nequals\n=\nStartFraction 8 x minus 2 Over x squared minus 10 x plus 16 EndFraction\n8x\u22122\nx2\u221210x+16\n\u200b, a\nequals\n=\n2\n2\nQuestion content area bottom\nPart 1\nSelect the correct choice\u200b and, if\u200b necessary, fill in the answer\u200b box(es) to complete your choice.\nA.\nThe function is not continuous at a\nequals\n=\n2\n2 because although \u200bf(\n2\n2\u200b)\nequals\n=\nenter your response here\n is defined and \nModifyingBelow lim With x right arrow 2 f left parenthesis x right parenthesis\nlim\nx\u21922\nf(x)\nequals\n=\nenter your response here\n \u200bexists, \u200bf(\n2\n2\u200b)\nnot equals\n\u2260\nModifyingBelow lim With x right arrow 2 f left parenthesis x right parenthesis\nlim\nx\u21922\nf(x).\nB.\nThe function is continuous at a\nequals\n=\n2\n2 because \nModifyingBelow lim With x right arrow 2 f left parenthesis x right parenthesis\nlim\nx\u21922\nf(x)\nequals\n=\nenter your response here\n exists.\nC.\nThe function is continuous at a\nequals\n=\n2\n2 because \u200bf(\n2\n2\u200b)\nequals\n=\nenter your response here\n is defined.\nD.\nThe function is not continuous at a\nequals\n=\n2\n2 because although \u200bf(\n2\n2\u200b)\nequals\n=\nenter your response here\n is\u200b defined, \nModifyingBelow lim With x right arrow 2 f left parenthesis x right parenthesis\nlim\nx\u21922\nf(x) does not exist.\nE.\nThe function is continuous at a\nequals\n=\n2\n2 because \u200bf(\n2\n2\u200b)\nequals\n=\nenter your response here\n is defined and \nModifyingBelow lim With x right arrow 2 f left parenthesis x right parenthesis\nlim\nx\u21922\nf(x) exists and is equal to \u200bf(\n2\n2\u200b).\nF.\nThe function is not continuous at a\nequals\n=\n2\n2 because \u200bf(\n2\n2\u200b) is not defined.\nf(x)StartFraction 8 x minus 2 Over x squared minus 10 x plus 16 EndFraction, a2f(x)StartFraction 8 x minus 2 Over x squared minus 10 x plus 16 EndFraction, a2f(x)StartFraction 8 x minus 2 Over x squared minus 10 x plus 16 EndFraction, a2f(x)StartFraction 8 x minus 2 Over x squared minus 10 x plus 16 EndFraction, a2f(x)StartFraction 8 x minus 2 Over x squared minus 10 x plus 16 EndFraction, a2f(x)StartFraction 8 x minus 2 Over x squared minus 10 x plus 16 EndFraction, a2Select the correct choice and, if necessary, fill in the answer box(es) to complete your choice.",
+      "poolOrder": "18",
+      "listObjective": "Determine if functions are continuous at given values."
+    },
+    {
+      "previewIndex": "28",
+      "previewTotal": "39",
+      "questionId": "2.6.28",
+      "objective": "Find points of discontinuity or intervals of continuity.",
+      "difficulty": "Moderate",
+      "estimatedTime": "1m 30s",
+      "stem": "Part 1\nDetermine the\u200b interval(s) on which the following function is continuous.\n\u200bf(x)\nequals\n=\nStartFraction x squared minus 8 x plus 15 Over x squared minus 9 EndFraction\nx2\u22128x+15\nx2\u22129\nQuestion content area bottom\nPart 1\nThe function is continuous on the\u200b interval(s) \nenter your response here\n.\n\u200b(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as\u200b needed.)\nThe function is continuous on the interval(s)(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)",
+      "poolOrder": "19",
+      "listObjective": "Find points of discontinuity or intervals of continuity."
+    },
+    {
+      "previewIndex": "29",
+      "previewTotal": "39",
+      "questionId": "2.6.30",
+      "objective": "Find points of discontinuity or intervals of continuity.",
+      "difficulty": "Moderate",
+      "estimatedTime": "1m 37s",
+      "stem": "Part 1\nDetermine the intervals on which the following function is continuous.\n\u200bf(x)\nequals\n=\nStartFraction x plus 2 Over x squared minus 4 EndFraction\nx+2\nx2\u22124\nQuestion content area bottom\nPart 1\nThe function is continuous on the\u200b interval(s) \nenter your response here\n.\n\u200b(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as\u200b needed.)\nThe function is continuous on the interval(s)(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)",
+      "poolOrder": "19",
+      "listObjective": "Find points of discontinuity or intervals of continuity."
+    },
+    {
+      "previewIndex": "30",
+      "previewTotal": "39",
+      "questionId": "2.7.11",
+      "objective": "Determine delta values associated with the precise definition of a limit.",
+      "difficulty": "Hard",
+      "estimatedTime": "2m 16s",
+      "stem": "Part 1\nThe function f in the figure satisfies \nModifyingBelow lim With x right arrow 4 f left parenthesis x right parenthesis equals 8\nlim\u00a0\nx\u21924\nf(x)=8. Determine the largest value of \ndelta\n\u03b4\ngreater than\n>0 satisfying each statement.\n0\n1\n2\n3\n4\n5\n6\n0\n2\n4\n6\n8\n10\n12\nx\ny\ny equals f left parenthesis x right parenthesis\ny=f(x)\nA coordinate system has a horizontal x-axis labeled from 0 to 6 in increments of 1 and a vertical y-axis labeled from 0 to 12 in increments of 1. From left to right, a smooth curve labeled y equals f(x) falls at a decreasing rate through left parenthesis 0,6.2 right parenthesis to left parenthesis 1.3,4.7 right parenthesis, rises at an increasing rate to a closed circle at (4,8), and rises at a decreasing rate through left parenthesis 6,11 right parenthesis. The curve passes through the points (2, 5), (3.5, 7.0), (4.5, 9.0), and (6,11). All coordinates are approximate.\na. If \n0 less than StartAbsoluteValue x minus 4 EndAbsoluteValue less than delta\n0<x\u22124<\u03b4\u200b, then \nStartAbsoluteValue f left parenthesis x right parenthesis minus 8 EndAbsoluteValue less than 3\nf(x)\u22128<3.\nb. If \n0 less than StartAbsoluteValue x minus 4 EndAbsoluteValue less than delta\n0<x\u22124<\u03b4\u200b, then \nStartAbsoluteValue f left parenthesis x right parenthesis minus 8 EndAbsoluteValue less than 1\nf(x)\u22128<1.\nQuestion content area bottom\nPart 1\na. Determine the largest value of \ndelta\n\u03b4\ngreater than\n>0 satisfying the following statement.\nIf \n0 less than StartAbsoluteValue x minus 4 EndAbsoluteValue less than delta\n0<x\u22124<\u03b4\u200b, then \nStartAbsoluteValue f left parenthesis x right parenthesis minus 8 EndAbsoluteValue less than 3\nf(x)\u22128<3.\ndelta\n\u03b4\nequals\n=\nenter your response here\n \u200b(Simplify your\u200b answer.)\nPart 2\nb. Determine the largest value of \ndelta\n\u03b4\ngreater than\n>0 satisfying the following statement.\nIf \n0 less than StartAbsoluteValue x minus 4 EndAbsoluteValue less than delta\n0<x\u22124<\u03b4\u200b, then \nStartAbsoluteValue f left parenthesis x right parenthesis minus 8 EndAbsoluteValue less than 1\nf(x)\u22128<1. \nRound to the nearest half unit.\ndelta\n\u03b4\nequals\n=\nenter your response here\n \u200b(Simplify your\u200b answer.)\nIf 0 less than StartAbsoluteValue x minus 4 EndAbsoluteValue less than delta, then StartAbsoluteValue f left parenthesis x right parenthesis minus 8 EndAbsoluteValue less than 3.(Simplify your answer.)Round to the nearest half unit.(Simplify your answer.)",
+      "poolOrder": "20",
+      "listObjective": "Determine delta values associated with the precise definition of a limit."
+    },
+    {
+      "previewIndex": "31",
+      "previewTotal": "39",
+      "questionId": "2.7.12",
+      "objective": "Determine delta values associated with the precise definition of a limit.",
+      "difficulty": "Hard",
+      "estimatedTime": "2m 37s",
+      "stem": "Part 1\nThe function f in the figure satisfies \nModifyingBelow lim With x right arrow 7 f left parenthesis x right parenthesis equals 6\nlim\nx\u21927\nf(x)=6. Determine the largest value of \ndelta\n\u03b4\ngreater than\n>0 satisfying each statement.\na. If 0\nless than\n<\nStartAbsoluteValue x minus 7 EndAbsoluteValue\nx\u22127\nless than\n<\ndelta\n\u03b4\u200b, then \nStartAbsoluteValue f left parenthesis x right parenthesis minus 6 EndAbsoluteValue\nf(x)\u22126\nless than\n<1.\nb. If 0\nless than\n<\nStartAbsoluteValue x minus 7 EndAbsoluteValue\nx\u22127\nless than\n<\ndelta\n\u03b4\u200b, then \nStartAbsoluteValue f left parenthesis x right parenthesis minus 6 EndAbsoluteValue\nf(x)\u22126\nless than\n<0.5.\n\t\n7\n0\n14\n6\n0\n14\nx\ny\ny equals f left parenthesis x right parenthesis\ny=f(x)\nA coordinate system has a horizontal x-axis from 0 to 14 in increments of 1 and a vertical y-axis from 0 to 14 in increments of 1. From left to right, a smooth curve labeled y equals f(x) passes through the points (4,5), (5,5.5), (9,6.5), and (10,7). A solid dot is plotted on the curve at (7,6).\nQuestion content area bottom\nPart 1\na. \ndelta\n\u03b4\nequals\n=\nenter your response here\nPart 2\nb. \ndelta\n\u03b4\nequals\n=\nenter your response here\na.b.",
+      "poolOrder": "20",
+      "listObjective": "Determine delta values associated with the precise definition of a limit."
+    },
+    {
+      "previewIndex": "32",
+      "previewTotal": "39",
+      "questionId": "3.2.35",
+      "objective": "Find derivatives of functions using limits.",
+      "difficulty": "Moderate",
+      "estimatedTime": "2m 9s",
+      "stem": "Part 1\na. Find the derivative function \nf prime\nf\u2032 for the function f.\nb. Find an equation of the line tangent to the graph of f at\u200b (a,f(a)) for the given value of a.\nf left parenthesis x right parenthesis equals 2 x squared plus 3 x minus 2\nf(x)=2x2+3x\u22122\u200b, a\nequals\n=\nnegative 2\n\u22122\nQuestion content area bottom\nPart 1\na. \nf prime left parenthesis x right parenthesis\nf\u2032(x)\nequals\n=\nenter your response here\nPart 2\nb. y\nequals\n=\nenter your response here\na. f prime left parenthesis x right parenthesisy",
+      "poolOrder": "21",
+      "listObjective": "Find derivatives of functions using limits."
+    },
+    {
+      "previewIndex": "33",
+      "previewTotal": "39",
+      "questionId": "3.2.36",
+      "objective": "Find derivatives of functions using limits.",
+      "difficulty": "Moderate",
+      "estimatedTime": "2m 24s",
+      "stem": "Part 1\na. Find the derivative function \nf prime\nf\u2032 for the following function f.\nb. Find an equation of the line tangent to the graph of f at\u200b (a,f(a)) for the given value of a.\n\u200bf(x)\nequals\n=\n4\n4x\nsquared\n2\nminus\n\u2212\n2\n2x\nplus\n+\n7\n7\u200b; a\nequals\n=\n1\n1\nQuestion content area bottom\nPart 1\na. The derivative function is \nf prime left parenthesis x right parenthesis\nf\u2032(x)\nequals\n=\nenter your response here\n.\nPart 2\nb. An equation of the tangent line is y\nequals\n=\nenter your response here\n.\nThe derivative function is f prime left parenthesis x right parenthesis.An equation of the tangent line is y.",
+      "poolOrder": "21",
+      "listObjective": "Find derivatives of functions using limits."
+    },
+    {
+      "previewIndex": "34",
+      "previewTotal": "39",
+      "questionId": "3.2.37",
+      "objective": "Find derivatives of functions using limits.",
+      "difficulty": "Moderate",
+      "estimatedTime": "3m 7s",
+      "stem": "Part 1\na. Find the derivative function \nf prime\nf\u2032 for the function f.\nb. Determine an equation of the line tangent to the graph of f at\u200b (a,f(a)) for the given value of a.\n\u200bf(x)\nequals\n=\nStartRoot 5 x plus 4 EndRoot\n5x+4\u200b, a\nequals\n=\n9\n9\nQuestion content area bottom\nPart 1\na. \nf prime\nf\u2032\u200b(x)\nequals\n=\nenter your response here\nPart 2\nb. y\nequals\n=\nenter your response here\nf prime(x)y",
+      "poolOrder": "22",
+      "listObjective": "Find derivatives of functions using limits."
+    },
+    {
+      "previewIndex": "35",
+      "previewTotal": "39",
+      "questionId": "3.2.38",
+      "objective": "Find derivatives of functions using limits.",
+      "difficulty": "Moderate",
+      "estimatedTime": "2m 44s",
+      "stem": "Part 1\na. Find the derivative function \nf prime\nf\u2032 for the function f.\nb. Determine an equation of the line tangent to the graph of f at\u200b (a,f(a)) for the given value of a.\n\u200bf(x)\nequals\n=\nStartRoot x plus 6 EndRoot\nx+6\u200b, a\nequals\n=\n10\n10\nQuestion content area bottom\nPart 1\na. \nf prime\nf\u2032\u200b(x)\nequals\n=\nenter your response here\nPart 2\nb. y\nequals\n=\nenter your response here\nf prime(x)y",
+      "poolOrder": "22",
+      "listObjective": "Find derivatives of functions using limits."
+    },
+    {
+      "previewIndex": "36",
+      "previewTotal": "39",
+      "questionId": "3.2.39",
+      "objective": "Find derivatives of functions using limits.",
+      "difficulty": "Moderate",
+      "estimatedTime": "3m 13s",
+      "stem": "Part 1\na. Find the derivative function \nf prime\nf\u2032 for the function f.\nb. Determine an equation of the line tangent to the graph of f at\u200b (a,f(a)) for the given value of a.\n\u200bf(x)\nequals\n=\nStartFraction 6 Over 5 x plus 2 EndFraction\n6\n5x+2\n\u200b, a\nequals\n=\nnegative 1\n\u22121\nQuestion content area bottom\nPart 1\na. \nf prime\nf\u2032\u200b(x)\nequals\n=\nenter your response here\nPart 2\nb. y\nequals\n=\nenter your response here\nf prime(x)y",
+      "poolOrder": "23",
+      "listObjective": "Find derivatives of functions using limits."
+    },
+    {
+      "previewIndex": "37",
+      "previewTotal": "39",
+      "questionId": "3.1.34",
+      "objective": "Use limit definitions to find equations of tangent lines.",
+      "difficulty": "Moderate",
+      "estimatedTime": "2m 6s",
+      "stem": "Part 1\na. For the function and point\u200b below, find \nf prime left parenthesis a right parenthesis\nf\u2032(a).\nb. Determine an equation of the line tangent to the graph of f at\u200b (a,f(a)) for the given value of a.\nf left parenthesis x right parenthesis equals negative 3 x squared\nf(x)=\u22123x2\u200b, a\nequals\n=\nnegative 2\n\u22122\nQuestion content area bottom\nPart 1\na. \nf prime left parenthesis a right parenthesis\nf\u2032(a)\nequals\n=\nenter your response here\n \u200b(Simplify your\u200b answer.)\nPart 2\nb. y\nequals\n=\nenter your response here\na. f prime left parenthesis a right parenthesis(Simplify your answer.)y",
+      "poolOrder": "24",
+      "listObjective": "Use limit definitions to find equations of tangent lines."
+    },
+    {
+      "previewIndex": "38",
+      "previewTotal": "39",
+      "questionId": "3.1.37",
+      "objective": "Use limit definitions to find equations of tangent lines.",
+      "difficulty": "Moderate",
+      "estimatedTime": "2m 50s",
+      "stem": "Part 1\na. For the function and point\u200b below, find \nf prime left parenthesis a right parenthesis\nf\u2032(a).\nb. Determine an equation of the line tangent to the graph of f at\u200b (a,f(a)) for the given value of a.\n\u200bf(x)\nequals\n=\nStartFraction 4 Over StartRoot x EndRoot EndFraction\n4\nx\n\u200b, a\nequals\n=\none ninth\n1\n9\nQuestion content area bottom\nPart 1\na. \nf prime left parenthesis a right parenthesis\nf\u2032(a)\nequals\n=\nenter your response here\nPart 2\nb. y\nequals\n=\nenter your response here\na. f prime left parenthesis a right parenthesisy",
+      "poolOrder": "25",
+      "listObjective": "Use limit definitions to find equations of tangent lines."
+    },
+    {
+      "previewIndex": "39",
+      "previewTotal": "39",
+      "questionId": "3.1.39",
+      "objective": "Use limit definitions to find equations of tangent lines.",
+      "difficulty": "Moderate",
+      "estimatedTime": "3m 22s",
+      "stem": "Part 1\na. For the following\u200b function, find \nf prime\nf\u2032\u200b(a).\nb. Determine an equation of the line tangent to the graph of f at\u200b (a,f(a)) for the given value of a.\n\u200bf(x)\nequals\n=\nStartRoot 7 x plus 4 EndRoot\n7x+4\u200b, a\nequals\n=\n3\n3\nQuestion content area bottom\nPart 1\na. \nf prime\nf\u2032\u200b(a)\nequals\n=\nenter your response here\n \u200b(Simplify your\u200b answer.) \nPart 2\nb. The equation of the line tangent to the graph of f at the given value of a is y\nequals\n=\nenter your response here\n.\nf prime(a)(Simplify your answer.)The equation of the line tangent to the graph of f at the given value of a is y.",
+      "poolOrder": "25",
+      "listObjective": "Use limit definitions to find equations of tangent lines."
+    }
+  ]
+}

@@ -2,6 +2,20 @@
 
 Teaching HTML, exam maps, Pearson harvest artifacts under `School Scrips/School documents/`.
 
+## 2026-11-06 — Final Exam Review bank (Exams 1–2 harvested)
+
+**Repos touched:** `School Scrips/School documents`, `Programs/` root
+
+**Files changed:** `final-exam-review-map.html` (+ app/data), `exam1-exam-harvest.json`, `exam2-exam-harvest.json`, harvest editor raw/post-process scripts, Exam 4 map pool/load/summary work, `index.html`
+
+**What worked:** Traditional Pearson copy + editor Next-loop harvest for Exam 1 (39 Q / 25 pools) and Exam 2 (34 Q / 20 pools); Final Review Bank page with tabs; Exam 4 review map pools, skill groups, part-count badges, re-pool proposal.
+
+**Current state:** Green — Final Review map shows Exams 1–2; Exams 3–4 tabs empty. Pearson copies of Exam 1 and 2 still in Assignment Manager.
+
+**File size flag:** None for new final-map files. Watch `exam4-homework-map-app.js` (~516 after load badges).
+
+**Next session:** see agent docs/momentum-handoffs/latest.md (2026-11-06)
+
 ## 2026-09-03 — Self-contained KaTeX for work-machine pull
 
 **Files changed:** `package.json` (new), `package-lock.json` (new), `.gitignore`, `scripts/factoring-shared.js`, `README.md` (+ pull-at-work section).

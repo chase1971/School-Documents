@@ -1,0 +1,351 @@
+[
+  {
+    "header": {
+      "name": "Exam IV Review",
+      "chapterCoverage": "4-5",
+      "totalPoints": "42",
+      "estimatedTime": "87m 39s+",
+      "difficulty": "Moderate (39), Hard (3)",
+      "historyId": "97040_H_590934006_2"
+    },
+    "rows": [
+      {
+        "order": "1",
+        "questionId": "4.9.13",
+        "objective": "Find all antiderivatives of a function.",
+        "estimatedTime": "1m 6s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "2",
+        "questionId": "4.9.17",
+        "objective": "Find all antiderivatives of a function.",
+        "estimatedTime": "1m 8s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "3",
+        "questionId": "4.9.22",
+        "objective": "Find all antiderivatives of a function.",
+        "estimatedTime": "53s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "4",
+        "questionId": "4.9.26",
+        "objective": "Determine the indefinite integrals of a function.",
+        "estimatedTime": "1m 32s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "5",
+        "questionId": "4.9.29",
+        "objective": "Determine the indefinite integrals of a function.",
+        "estimatedTime": "2m 12s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "6",
+        "questionId": "4.9.31",
+        "objective": "Determine the indefinite integrals of a function.",
+        "estimatedTime": "1m 48s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "7",
+        "questionId": "4.9.35",
+        "objective": "Determine the indefinite integrals of a function.",
+        "estimatedTime": "1m 19s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "8",
+        "questionId": "4.9.51",
+        "objective": "Determine the indefinite integrals of a function.",
+        "estimatedTime": "42s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "9",
+        "questionId": "5.1.24",
+        "objective": "Illustrate, calculate, and compare left, right, and midpoint Riemann sums for functions.",
+        "estimatedTime": "2m 48s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "10",
+        "questionId": "5.1.29",
+        "objective": "Illustrate, calculate, and compare left, right, and midpoint Riemann sums for functions.",
+        "estimatedTime": "5m 40s",
+        "difficulty": "Hard",
+        "points": "1"
+      },
+      {
+        "order": "11",
+        "questionId": "5.1.33",
+        "objective": "Illustrate, calculate, and compare left, right, and midpoint Riemann sums for functions.",
+        "estimatedTime": "2m 9s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "12",
+        "questionId": "5.2.22",
+        "objective": "Sketch the graph of a curve and approximate the net area using Riemann sums.",
+        "estimatedTime": "4m 2s",
+        "difficulty": "Hard",
+        "points": "1"
+      },
+      {
+        "order": "13",
+        "questionId": "5.2.40",
+        "objective": "Sketch the graph of an integrand and use geometry to evaluate the definite integral.",
+        "estimatedTime": "2m 11s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "14",
+        "questionId": "5.2.41",
+        "objective": "Sketch the graph of an integrand and use geometry to evaluate the definite integral.",
+        "estimatedTime": "2m 0s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "15",
+        "questionId": "5.2.43",
+        "objective": "Sketch the graph of an integrand and use geometry to evaluate the definite integral.",
+        "estimatedTime": "1m 50s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "16",
+        "questionId": "5.2.53",
+        "objective": "Evaluate definite integrals using properties of definite integrals.",
+        "estimatedTime": "2m 15s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "17",
+        "questionId": "5.2.55",
+        "objective": "Evaluate definite integrals using properties of definite integrals.",
+        "estimatedTime": "3m 23s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "18",
+        "questionId": "5.3.25",
+        "objective": "Evaluate definite integrals using the Fundamental Theorem of Calculus.",
+        "estimatedTime": "2m 36s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "19",
+        "questionId": "5.3.33",
+        "objective": "Evaluate definite integrals using the Fundamental Theorem of Calculus.",
+        "estimatedTime": "1m 45s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "20",
+        "questionId": "5.3.41",
+        "objective": "Evaluate definite integrals using the Fundamental Theorem of Calculus.",
+        "estimatedTime": "2m 11s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "21",
+        "questionId": "5.3.42",
+        "objective": "Evaluate definite integrals using the Fundamental Theorem of Calculus.",
+        "estimatedTime": "1m 50s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "22",
+        "questionId": "5.3.50",
+        "objective": "Evaluate definite integrals using the Fundamental Theorem of Calculus.",
+        "estimatedTime": "1m 11s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "23",
+        "questionId": "5.3.69",
+        "objective": "Find areas bounded by functions.",
+        "estimatedTime": "1m 46s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "24",
+        "questionId": "5.3.77",
+        "objective": "Evaluate derivatives of definite integrals.",
+        "estimatedTime": "1m 20s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "25",
+        "questionId": "5.3.24",
+        "objective": "Evaluate definite integrals using the Fundamental Theorem of Calculus.",
+        "estimatedTime": "2m 27s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "26",
+        "questionId": "5.3.28",
+        "objective": "Evaluate definite integrals using the Fundamental Theorem of Calculus.",
+        "estimatedTime": "3m 13s",
+        "difficulty": "Hard",
+        "points": "1"
+      },
+      {
+        "order": "27",
+        "questionId": "5.3.36",
+        "objective": "Evaluate definite integrals using the Fundamental Theorem of Calculus.",
+        "estimatedTime": "1m 43s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "28",
+        "questionId": "5.3.37",
+        "objective": "Evaluate definite integrals using the Fundamental Theorem of Calculus.",
+        "estimatedTime": "1m 47s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "29",
+        "questionId": "5.3.39",
+        "objective": "Evaluate definite integrals using the Fundamental Theorem of Calculus.",
+        "estimatedTime": "2m 15s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "30",
+        "questionId": "5.3.46",
+        "objective": "Evaluate definite integrals using the Fundamental Theorem of Calculus.",
+        "estimatedTime": "1m 55s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "31",
+        "questionId": "5.4.17",
+        "objective": "Use symmetry to evaluate definite integrals.",
+        "estimatedTime": "2m 7s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "32",
+        "questionId": "5.4.27",
+        "objective": "Find average values of functions over given intervals.",
+        "estimatedTime": "2m 32s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "33",
+        "questionId": "5.5.17",
+        "objective": "Evaluate indefinite integrals using substitution when the substitution is not given.",
+        "estimatedTime": "1m 38s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "34",
+        "questionId": "5.5.20",
+        "objective": "Evaluate indefinite integrals using substitution when the substitution is not given.",
+        "estimatedTime": "2m 2s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "35",
+        "questionId": "5.5.22",
+        "objective": "Evaluate indefinite integrals using substitution when the substitution is not given.",
+        "estimatedTime": "1m 24s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "36",
+        "questionId": "5.5.25",
+        "objective": "Evaluate indefinite integrals using substitution when the substitution is not given.",
+        "estimatedTime": "2m 3s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "37",
+        "questionId": "5.5.48",
+        "objective": "Evaluate definite integrals using substitution.",
+        "estimatedTime": "2m 1s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "38",
+        "questionId": "5.5.51",
+        "objective": "Evaluate definite integrals using substitution.",
+        "estimatedTime": "2m 20s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "39",
+        "questionId": "5.5.24",
+        "objective": "Evaluate indefinite integrals using substitution when the substitution is not given.",
+        "estimatedTime": "1m 53s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "40",
+        "questionId": "5.5.44",
+        "objective": "Evaluate indefinite integrals using substitution when the substitution is not given.",
+        "estimatedTime": "2m 7s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "41",
+        "questionId": "5.5.79",
+        "objective": "Evaluate integrals using substitution when additional steps are also needed.",
+        "estimatedTime": "2m 5s",
+        "difficulty": "Moderate",
+        "points": "1"
+      },
+      {
+        "order": "42",
+        "questionId": "5.5.81",
+        "objective": "Evaluate integrals using substitution when additional steps are also needed.",
+        "estimatedTime": "2m 30s",
+        "difficulty": "Moderate",
+        "points": "1"
+      }
+    ],
+    "requested": "Exam IV Review"
+  }
+]

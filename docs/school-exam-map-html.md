@@ -1,7 +1,10 @@
 > **You might say:** "build the homework/review/exam HTML map", "school HTML exam map",
-> "homework tab builds the review", "review tab builds the exam"
+> "homework tab builds the review", "review tab builds the exam", "Final Exam Review bank",
+> "pick problems into a final review"
 > **What it is:** A local static HTML tool for turning Pearson homework problems into a
-> review, then turning the review into an exam with pools.
+> review, then turning the review into an exam with pools. The cross-exam Final Review bank
+> is `final-exam-review-map.html` (exam tabs + Final Review pools; skill / Pearson-pool / flat
+> sorts; Add to Final Review).
 
 **Exemplar files**
 

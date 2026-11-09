@@ -2,20 +2,21 @@
 // Source: editor PlayerAddAndRemove harvest; one random draw per pool at test time.
 
 const EXAM3_POOLS = [
-  { pool: 1, questions: ["4.1.23", "4.1.27"] },
-  { pool: 2, questions: ["4.1.49", "4.1.57"] },
-  { pool: 3, questions: ["4.2.21", "4.2.25"] },
-  { pool: 4, questions: ["4.3.39-Setup & Solve", "4.3.40"] },
-  { pool: 5, questions: ["4.3.63", "4.3.65"] },
-  { pool: 6, questions: ["4.3.83", "4.3.85"] },
-  { pool: 7, questions: ["4.4.55"] },
-  { pool: 8, questions: ["4.6.30", "4.6.53"] },
-  { pool: 9, questions: ["4.6.64", "4.6.67"] },
-  { pool: 10, questions: ["4.7.22-Setup & Solve", "4.7.25-Setup & Solve"] },
-  { pool: 11, questions: ["4.8.9", "4.8.10"] },
-  { pool: 12, questions: ["4.9.25", "4.9.35"] },
-  { pool: 13, questions: ["4.9.45", "4.9.47"] },
-  { pool: 14, questions: ["4.9.74", "4.9.91"] },
+  { pool: 1, questions: ["3.8.15", "3.8.24"] },
+  { pool: 2, questions: ["3.11.11", "3.11.17"] },
+  { pool: 3, questions: ["3.11.19"] },
+  { pool: 4, questions: ["4.1.23", "4.1.27"] },
+  { pool: 5, questions: ["4.1.49", "4.1.57"] },
+  { pool: 6, questions: ["4.2.13"] },
+  { pool: 7, questions: ["4.3.39-Setup & Solve", "4.3.40"] },
+  { pool: 8, questions: ["4.3.63", "4.3.65"] },
+  { pool: 9, questions: ["4.3.83", "4.3.85"] },
+  { pool: 10, questions: ["4.5.13"] },
+  { pool: 11, questions: ["+ (4.5) Copy of 4.5.19", "4.5.20"] },
+  { pool: 12, questions: ["4.6.28", "4.6.55"] },
+  { pool: 13, questions: ["4.6.64", "4.6.67"] },
+  { pool: 14, questions: ["4.7.22-Setup & Solve", "4.7.25-Setup & Solve"] },
+  { pool: 15, questions: ["4.8.9", "4.8.10"] },
 ];
 
 const EXAM3_OBJECTIVES = {

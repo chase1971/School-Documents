@@ -1,0 +1,1031 @@
+[
+  {
+    "requested": "Exam 1",
+    "captureMethod": "AM Print \u2192 TDX .singleQuestion (one draw per pool)",
+    "problems": [
+      {
+        "poolOrder": 1,
+        "questionId": "2.2.15",
+        "poolIds": [
+          "2.2.15"
+        ],
+        "objective": "Find limits from a graph.",
+        "summary": "For the function g(x) shown below, compute the following limits or state that they do not exis\u2026",
+        "fullText": "1.\nPart 1\nFor the function g(x) shown below, compute the following limits or state that they do not exist.\ng(x) = 0\tif\u00a0x\u2264 \u2212 5\n25\u2212x2\tif\u00a0\u22125<x<5\n3x\tif\u00a0x\u22655\na.\nlim x -> \u2212 5^(\u2212g) (x)\nx\u2192\u22125\u2212\ng(x)\u2003\u2003b.\nlim x -> \u2212 5^(+ g) (x)\nx\u2192\u22125+\ng(x) c.\nlim x -> \u2212 5 g (x)\nx\u2192\u22125\ng(x)\u2003\u2003d.\nlim x -> 5^(\u2212g) (x)\nx\u21925\u2212\ng(x)\u2003\u2003e.\nlim x -> 5^(+ g) (x)\nx\u21925+\ng(x)\u2003\u2003\u2003f.\nlim x -> 5 g (x)\nx\u21925\ng(x)\nPart 1\na. Find\nlim x -> \u2212 5^(\u2212g) (x)\nx\u2192\u22125\u2212\ng(x). Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> \u2212 5^(\u2212g) (x) = enter your response here\nx\u2192\u22125\u2212\ng(x)\nB.\nThe limit does not exist.\nPart 2\nb. Find\nlim x -> \u2212 5^(+ g) (x)\nx\u2192\u22125+\ng(x). Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> \u2212 5^(+ g) (x) = enter your response here\nx\u2192\u22125+\ng(x)\nB.\nThe limit does not exist.\nPart 3\nc. Find\nlim x -> \u2212 5 g (x)\nx\u2192\u22125\ng(x). Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> \u2212 5 g (x) = enter your response here\nx\u2192\u22125\ng(x)\nB.\nThe limit does not exist.\nPart 4\nd. Find\nlim x -> 5^(\u2212g) (x)\nx\u21925\u2212\ng(x). Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> 5^(\u2212g) (x) = enter your response here\nx\u21925\u2212\ng(x)\nB.\nThe limit does not exist.\nPart 5\ne. Find\nlim x -> 5^(+ g) (x)\nx\u21925+\ng(x). Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> 5^(+ g) (x) = enter your response here\nx\u21925+\ng(x)\nB.\nThe limit does not exist.\nPart 6\nf. Find\nlim x -> 5 g (x)\nx\u21925\ng(x). Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> 5 g (x) = enter your response here\nx\u21925\ng(x)\nB.\nThe limit does not exist.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "1.\nPart 1\nFor the function g(x) shown below, compute the following limits or state that they do not exist.\ng(x) = 0\tif\u00a0x\u2264 \u2212 5\n25\u2212x2\tif\u00a0\u22125<x<5\n3x\tif\u00a0x\u22655"
+          },
+          {
+            "label": "a.",
+            "text": "lim x -> \u2212 5^(\u2212g) (x)\nx\u2192\u22125\u2212\ng(x)\u2003\u2003b.\nlim x -> \u2212 5^(+ g) (x)\nx\u2192\u22125+\ng(x) c.\nlim x -> \u2212 5 g (x)\nx\u2192\u22125\ng(x)\u2003\u2003d.\nlim x -> 5^(\u2212g) (x)\nx\u21925\u2212\ng(x)\u2003\u2003e.\nlim x -> 5^(+ g) (x)\nx\u21925+\ng(x)\u2003\u2003\u2003f.\nlim x -> 5 g (x)\nx\u21925\ng(x)\nPart 1"
+          },
+          {
+            "label": "a.",
+            "text": "Find\nlim x -> \u2212 5^(\u2212g) (x)\nx\u2192\u22125\u2212\ng(x). Select the correct choice below and, if necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "a.",
+            "text": "lim x -> \u2212 5^(\u2212g) (x) = enter your response here\nx\u2192\u22125\u2212\ng(x)"
+          },
+          {
+            "label": "b.",
+            "text": "The limit does not exist.\nPart 2"
+          },
+          {
+            "label": "b.",
+            "text": "Find\nlim x -> \u2212 5^(+ g) (x)\nx\u2192\u22125+\ng(x). Select the correct choice below and, if necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "a.",
+            "text": "lim x -> \u2212 5^(+ g) (x) = enter your response here\nx\u2192\u22125+\ng(x)"
+          },
+          {
+            "label": "b.",
+            "text": "The limit does not exist.\nPart 3"
+          },
+          {
+            "label": "c.",
+            "text": "Find\nlim x -> \u2212 5 g (x)\nx\u2192\u22125\ng(x). Select the correct choice below and, if necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "a.",
+            "text": "lim x -> \u2212 5 g (x) = enter your response here\nx\u2192\u22125\ng(x)"
+          },
+          {
+            "label": "b.",
+            "text": "The limit does not exist.\nPart 4"
+          },
+          {
+            "label": "d.",
+            "text": "Find\nlim x -> 5^(\u2212g) (x)\nx\u21925\u2212\ng(x). Select the correct choice below and, if necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "a.",
+            "text": "lim x -> 5^(\u2212g) (x) = enter your response here\nx\u21925\u2212\ng(x)"
+          },
+          {
+            "label": "b.",
+            "text": "The limit does not exist.\nPart 5"
+          },
+          {
+            "label": "e.",
+            "text": "Find\nlim x -> 5^(+ g) (x)\nx\u21925+\ng(x). Select the correct choice below and, if necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "a.",
+            "text": "lim x -> 5^(+ g) (x) = enter your response here\nx\u21925+\ng(x)"
+          },
+          {
+            "label": "b.",
+            "text": "The limit does not exist.\nPart 6"
+          },
+          {
+            "label": "f.",
+            "text": "Find\nlim x -> 5 g (x)\nx\u21925\ng(x). Select the correct choice below and, if necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "a.",
+            "text": "lim x -> 5 g (x) = enter your response here\nx\u21925\ng(x)"
+          },
+          {
+            "label": "b.",
+            "text": "The limit does not exist."
+          }
+        ],
+        "note": "Print harvest: one drawn alternate per pool. poolIds lists every ID in the pool; questionId is the first."
+      },
+      {
+        "poolOrder": 2,
+        "questionId": "2.2.17",
+        "poolIds": [
+          "2.2.17",
+          "2.2.18"
+        ],
+        "objective": "Find limits from a graph.",
+        "summary": "lim x -> infinity f(x)",
+        "fullText": "2.\nPart 1\nEvaluate\nlim x -> infinity f(x)\nx\u2192\u221e\nf(x) and\nlim x -> \u2212 infinity f(x)\nx\u2192\u2212\u221e\nf(x) for the following function. Then give the horizontal asymptote of f (if any).\nf(x) =\n6x\u00b2 \u2212 7x + 8\n2x\u00b2 + 3\nPart 1\nEvaluate\nlim x -> infinity f(x)\nx\u2192\u221e\nf(x). Select the correct choice and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> infinity f(x)\nx\u2192\u221e\nf(x) = (Simplify your answer.) B. The limit does not exist and is neither infinity \u221e nor \u2212 infinity \u221e.\nPart 2\nEvaluate\nlim x -> \u2212 infinity f(x)\nx\u2192\u2212\u221e\nf(x). Select the correct choice and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> \u2212 infinity f(x)\nx\u2192\u2212\u221e\nf(x) = (Simplify your answer.) B. The limit does not exist and is neither infinity \u221e nor \u2212 infinity \u221e.\nPart 3\nIdentify the horizontal asymptote(s). Select the correct choice and, if necessary, fill in the answer box(es) to complete your choice.\nA.\nThe function has one horizontal asymptote,\n(Type an equation.)\nB.\nThe function has two horizontal asymptotes. The top asymptote is\nand the bottom asymptote is\n(Type equations.)\nC.\nThere function has no horizontal asymptotes.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "2.\nPart 1\nEvaluate\nlim x -> infinity f(x)\nx\u2192\u221e\nf(x) and\nlim x -> \u2212 infinity f(x)\nx\u2192\u2212\u221e\nf(x) for the following function. Then give the horizontal asymptote of f (if any).\nf(x) =\n6x\u00b2 \u2212 7x + 8\n2x\u00b2 + 3\nPart 1\nEvaluate\nlim x -> infinity f(x)\nx\u2192\u221e\nf(x). Select the correct choice and, if necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "a.",
+            "text": "lim x -> infinity f(x)\nx\u2192\u221e\nf(x) = (Simplify your answer.)"
+          },
+          {
+            "label": "b.",
+            "text": "The limit does not exist and is neither\ninfinity\n\u221e nor\ninfinity\n\u221e.\nPart 2\nEvaluate\nlim x -> \u2212 infinity f(x)\nx\u2192\u2212\u221e\nf(x). Select the correct choice and, if necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "a.",
+            "text": "lim x -> \u2212 infinity f(x)\nx\u2192\u2212\u221e\nf(x) = (Simplify your answer.)"
+          },
+          {
+            "label": "b.",
+            "text": "The limit does not exist and is neither\ninfinity\n\u221e nor\ninfinity\n\u221e.\nPart 3\nIdentify the horizontal asymptote(s). Select the correct choice and, if necessary, fill in the answer box(es) to complete your choice."
+          },
+          {
+            "label": "a.",
+            "text": "The function has one horizontal asymptote,\n(Type an equation.)"
+          },
+          {
+            "label": "b.",
+            "text": "The function has two horizontal asymptotes. The top asymptote is\nand the bottom asymptote is\n(Type equations.)"
+          },
+          {
+            "label": "c.",
+            "text": "There function has no horizontal asymptotes."
+          }
+        ],
+        "note": "Print harvest: one drawn alternate per pool. poolIds lists every ID in the pool; questionId is the first."
+      },
+      {
+        "poolOrder": 3,
+        "questionId": "2.3.22",
+        "poolIds": [
+          "2.3.22",
+          "2.3.27"
+        ],
+        "objective": "Evaluate two-sided limits using limit laws and theorems.",
+        "summary": "a. For the function and point below, find",
+        "fullText": "3.\nPart 1\na. For the function and point below, find\nf prime (a)\nf\u2032(a).\nb. Determine an equation of the line tan to the graph of f at (a , f(a)) for the given value of a.\nf(x) = (5)/(\u221a(x))\n, a\none fourth\n(1 , 4)\nPart 1\na.\nf prime (a)\nf\u2032(a)\nPart 2\nb. y",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "3.\nPart 1"
+          },
+          {
+            "label": "a.",
+            "text": "For the function and point below, find\nf prime (a)\nf\u2032(a)."
+          },
+          {
+            "label": "b.",
+            "text": "Determine an equation of the line tan to the graph of f at (a , f(a)) for the given value of a.\nf(x) = (5)/(\u221a(x))\n, a\none fourth\n(1 , 4)\nPart 1"
+          },
+          {
+            "label": "a.",
+            "text": "f prime (a)\nf\u2032(a)\nPart 2"
+          },
+          {
+            "label": "b.",
+            "text": "y"
+          }
+        ],
+        "note": "Print harvest: one drawn alternate per pool. poolIds lists every ID in the pool; questionId is the first."
+      },
+      {
+        "poolOrder": 4,
+        "questionId": "2.3.35",
+        "poolIds": [
+          "2.3.35",
+          "2.3.47"
+        ],
+        "objective": "Evaluate two-sided limits using limit laws and theorems.",
+        "summary": "Evaluate the following limit.",
+        "fullText": "4.\nPart 1\nEvaluate the following limit.\nlim x -> infinity (7 + (11)/(x\u00b2))\nx\u2192\u221e\n7 + 11x\u00b2\nPart 1\nSelect the correct choice and, if necessary, fill in the answer box within your choice.\nA.\nlim x -> infinity (7 + (11)/(x\u00b2))\nx\u2192\u221e\n7 + 11x\u00b2\n(Type an integer or a simplified fraction.)\nB.\nThe limit does not exist and is neither\ninfinity\n\u221e nor\ninfinity\n\u221e.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "4.\nPart 1\nEvaluate the following limit.\nlim x -> infinity (7 + (11)/(x\u00b2))\nx\u2192\u221e\n7 + 11x\u00b2\nPart 1\nSelect the correct choice and, if necessary, fill in the answer box within your choice."
+          },
+          {
+            "label": "a.",
+            "text": "lim x -> infinity (7 + (11)/(x\u00b2))\nx\u2192\u221e\n7 + 11x\u00b2\n(Type an integer or a simplified fraction.)"
+          },
+          {
+            "label": "b.",
+            "text": "The limit does not exist and is neither\ninfinity\n\u221e nor\ninfinity\n\u221e."
+          }
+        ],
+        "note": "Print harvest: one drawn alternate per pool. poolIds lists every ID in the pool; questionId is the first."
+      },
+      {
+        "poolOrder": 5,
+        "questionId": "2.3.74",
+        "poolIds": [
+          "2.3.74"
+        ],
+        "objective": "Evaluate one-sided limits using limit laws and theorems.",
+        "summary": "Find the following limit or state that it does not exist.",
+        "fullText": "5.\nPart 1\nFind the following limit or state that it does not exist.\nlim x -> \u2212 4 6\nx\u2192\u22124\n6\nPart 1\nSelect the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> \u2212 4 6\nx\u2192\u22124\n6\n(Simplify your answer.)\nB.\nThe limit does not exist.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "5.\nPart 1\nFind the following limit or state that it does not exist.\nlim x -> \u2212 4 6\nx\u2192\u22124\n6\nPart 1\nSelect the correct choice below and, if necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "a.",
+            "text": "lim x -> \u2212 4 6\nx\u2192\u22124\n6\n(Simplify your answer.)"
+          },
+          {
+            "label": "b.",
+            "text": "The limit does not exist."
+          }
+        ],
+        "note": "Print harvest: one drawn alternate per pool. poolIds lists every ID in the pool; questionId is the first."
+      },
+      {
+        "poolOrder": 6,
+        "questionId": "2.3.39-Setup & Solve",
+        "poolIds": [
+          "2.3.39-Setup & Solve"
+        ],
+        "objective": "Evaluate two-sided limits using limit laws and theorems.",
+        "summary": "a. Find the derivative function",
+        "fullText": "6.\nPart 1\na. Find the derivative function\nf prime\nf\u2032 for the function f.\nb. Find an equation of the line tan to the graph of f at (a , f(a)) for the given value of a.\nf(x) = 2x\u00b2 + x \u2212 1 , a\nnegative 1\n\u2212 1\nPart 1\na.\nf prime (x)\nf\u2032(x)\nPart 2\nb. y",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "6.\nPart 1"
+          },
+          {
+            "label": "a.",
+            "text": "Find the derivative function\nf prime\nf\u2032 for the function f."
+          },
+          {
+            "label": "b.",
+            "text": "Find an equation of the line tan to the graph of f at (a , f(a)) for the given value of a.\nf(x) = 2x\u00b2 + x \u2212 1 , a\nnegative 1\n\u2212 1\nPart 1"
+          },
+          {
+            "label": "a.",
+            "text": "f prime (x)\nf\u2032(x)\nPart 2"
+          },
+          {
+            "label": "b.",
+            "text": "y"
+          }
+        ],
+        "note": "Print harvest: one drawn alternate per pool. poolIds lists every ID in the pool; questionId is the first."
+      },
+      {
+        "poolOrder": 7,
+        "questionId": "2.3.40-Setup & Solve",
+        "poolIds": [
+          "2.3.40-Setup & Solve"
+        ],
+        "objective": "Evaluate two-sided limits using limit laws and theorems.",
+        "summary": "Find the following limit or state that it does not exist.",
+        "fullText": "7.\nPart 1\nFind the following limit or state that it does not exist.\nlim x -> \u2212 5 (2 (2 x + 1) \u00b2 \u2212 162)/(x + 5)\nx\u2192\u22125\n2(2x + 1)2 \u2212 162\nx + 5\nPart 1\nReplace the limit with an equivalent limit that can be evaluated by direct substitution.\nlim x -> \u2212 5 (2 (2 x + 1) \u00b2 \u2212 162)/(x + 5)\nx\u2192\u22125\n2(2x + 1)2 \u2212 162\nx + 5\nlim x -> \u2212 5 (nothing)\nx\u2192\u22125\n(Type an expression. Simplify your answer.)\nPart 2\nEvaluate the limit, if possible. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> \u2212 5 (2 (2 x + 1) \u00b2 \u2212 162)/(x + 5)\nx\u2192\u22125\n2(2x + 1)2 \u2212 162\nx + 5\n(Type an exact answer.)\nB.\nThe limit does not exist.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "7.\nPart 1\nFind the following limit or state that it does not exist.\nlim x -> \u2212 5 (2 (2 x + 1) \u00b2 \u2212 162)/(x + 5)\nx\u2192\u22125\n2(2x + 1)2 \u2212 162\nx + 5\nPart 1\nReplace the limit with an equivalent limit that can be evaluated by direct substitution.\nlim x -> \u2212 5 (2 (2 x + 1) \u00b2 \u2212 162)/(x + 5)\nx\u2192\u22125\n2(2x + 1)2 \u2212 162\nx + 5\nlim x -> \u2212 5 (nothing)\nx\u2192\u22125\n(Type an expression. Simplify your answer.)\nPart 2\nEvaluate the limit, if possible. Select the correct choice below and, if necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "a.",
+            "text": "lim x -> \u2212 5 (2 (2 x + 1) \u00b2 \u2212 162)/(x + 5)\nx\u2192\u22125\n2(2x + 1)2 \u2212 162\nx + 5\n(Type an exact answer.)"
+          },
+          {
+            "label": "b.",
+            "text": "The limit does not exist."
+          }
+        ],
+        "note": "Print harvest: one drawn alternate per pool. poolIds lists every ID in the pool; questionId is the first."
+      },
+      {
+        "poolOrder": 8,
+        "questionId": "2.3.41-Setup & Solve",
+        "poolIds": [
+          "2.3.41-Setup & Solve",
+          "2.3.47-Setup & Solve"
+        ],
+        "objective": "Evaluate two-sided limits using limit laws and theorems.",
+        "summary": "Determine the following limit.",
+        "fullText": "8.\nPart 1\nDetermine the following limit.\nlim w -> infinity (12 w\u00b2 + 9 w + 1)/(\u221a(4 w\u2074 + 5 w\u00b3))\nw\u2192\u221e\n12w\u00b2 + 9w + 1\n4w\u2074 + 5w\u00b3\nPart 1\nSelect the correct choice, and, if necessary, fill in the answer box to complete your choice.\nA.\nlim w -> infinity (12 w\u00b2 + 9 w + 1)/(\u221a(4 w\u2074 + 5 w\u00b3))\nw\u2192\u221e\n12w\u00b2 + 9w + 1\n4w\u2074 + 5w\u00b3\n(Simplify your answer.)\nB.\nThe limit does not exist and is neither\ninfinity\n\u221e nor\ninfinity\n\u221e.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "8.\nPart 1\nDetermine the following limit.\nlim w -> infinity (12 w\u00b2 + 9 w + 1)/(\u221a(4 w\u2074 + 5 w\u00b3))\nw\u2192\u221e\n12w\u00b2 + 9w + 1\n4w\u2074 + 5w\u00b3\nPart 1\nSelect the correct choice, and, if necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "a.",
+            "text": "lim w -> infinity (12 w\u00b2 + 9 w + 1)/(\u221a(4 w\u2074 + 5 w\u00b3))\nw\u2192\u221e\n12w\u00b2 + 9w + 1\n4w\u2074 + 5w\u00b3\n(Simplify your answer.)"
+          },
+          {
+            "label": "b.",
+            "text": "The limit does not exist and is neither\ninfinity\n\u221e nor\ninfinity\n\u221e."
+          }
+        ],
+        "note": "Print harvest: one drawn alternate per pool. poolIds lists every ID in the pool; questionId is the first."
+      },
+      {
+        "poolOrder": 9,
+        "questionId": "2.4.25",
+        "poolIds": [
+          "2.4.25",
+          "2.4.47"
+        ],
+        "objective": "Evaluate limits analytically.",
+        "summary": "Find the following limit or state that it does not exist.",
+        "fullText": "9.\nPart 1\nFind the following limit or state that it does not exist.\nlim x -> 441 (\u221a(x) \u2212 21)/(x \u2212 441)\nx\u2192441\nx \u2212 21\nx \u2212 441\nPart 1\nReplace the limit with an equivalent limit that can be evaluated by direct substitution.\nlim x -> 441 (\u221a(x) \u2212 21)/(x \u2212 441)\nx\u2192441\nx \u2212 21\nx \u2212 441\nlim x -> 441 (nothing)\nx\u2192441\n(Type an expression. Simplify your answer.)\nPart 2\nEvaluate the limit, if possible. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> 441 (\u221a(x) \u2212 21)/(x \u2212 441)\nx\u2192441\nx \u2212 21\nx \u2212 441\n(Type an exact answer.)\nB.\nThe limit does not exist.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "9.\nPart 1\nFind the following limit or state that it does not exist.\nlim x -> 441 (\u221a(x) \u2212 21)/(x \u2212 441)\nx\u2192441\nx \u2212 21\nx \u2212 441\nPart 1\nReplace the limit with an equivalent limit that can be evaluated by direct substitution.\nlim x -> 441 (\u221a(x) \u2212 21)/(x \u2212 441)\nx\u2192441\nx \u2212 21\nx \u2212 441\nlim x -> 441 (nothing)\nx\u2192441\n(Type an expression. Simplify your answer.)\nPart 2\nEvaluate the limit, if possible. Select the correct choice below and, if necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "a.",
+            "text": "lim x -> 441 (\u221a(x) \u2212 21)/(x \u2212 441)\nx\u2192441\nx \u2212 21\nx \u2212 441\n(Type an exact answer.)"
+          },
+          {
+            "label": "b.",
+            "text": "The limit does not exist."
+          }
+        ],
+        "note": "Print harvest: one drawn alternate per pool. poolIds lists every ID in the pool; questionId is the first."
+      },
+      {
+        "poolOrder": 10,
+        "questionId": "2.4.35-Setup & Solve",
+        "poolIds": [
+          "2.4.35-Setup & Solve",
+          "2.4.45-Setup & Solve"
+        ],
+        "objective": "Evaluate limits analytically.",
+        "summary": "Use the graph of f in the figure to find the following values or state that they do not exist.\u2026",
+        "fullText": "10.\nPart 1\nUse the graph of f in the figure to find the following values or state that they do not exist. If a limit does not exist, explain why.\na.\nf (3)\nb.\nlim font size decreased by 1 x -> 3^(\u2212f) (x)\nx\u21923\u2212\nf(x) = c. lim font size decreased by 1 x -> 3^(+ f) (x) lim x\u21923 + f(x) d. lim font size decreased by 1 x -> 3 f(x) lim x\u21923 f(x) -2 3 -4 6 -2 3 -4 6 x y nbsp y = f(x) y = f(x) A coordinate plane has a horizontal x-axis labeled from \u2212 4 to 6 in increments of 1 and a vertical y-axis labeled from \u2212 4 to 6 in increments of 1. The graph of a function labeled y = f(x) has two smooth curves. One starts at (\u2212 0.5 , 3) and passes through (2 , 1.8) to a closed endpoint at (3 , 3). The other starts at an open endpoint at (3 , \u2212 2) and passes through (4 , \u2212 2.7) to (6.3 , \u2212 0.5). All coordinates are approximate.\nPart 1\na. Find the function value. Select the correct choice and, if necessary, fill in the answer box within your choice.\nA.\nf(3) =\n(Type an integer or a fraction.)\nB.\nThe value of f(\n3\n3) is undefined.\nPart 2\nb. Find the limit. Select the correct choice and, if necessary, fill in the answer box within your choice.\nA.\nlim font size decreased by 1 x -> 3^(\u2212f) (x) =\nx\u21923\u2212\nf(x) =\n(Type an integer or a fraction.)\nB.\nThe limit does not exist because f is not defined for all x near\n3\n3 with x\nless than\n<\n3\n3.\nPart 3\nc. Find the limit. Select the correct choice and, if necessary, fill in the answer box within your choice.\nA.\nlim font size decreased by 1 x -> 3^(+ f) (x) =\nx\u21923+\nf(x) =\n(Type an integer or a fraction.)\nB.\nThe limit does not exist because f is not defined for all x near\n3\n3 with x\ngreater than\n>\n3\n3.\nPart 4\nd. Find the limit. Select the correct choice and, if necessary, fill in the answer box within your choice.\nA.\nlim font size decreased by 1 x -> 3 f(x) =\nx\u21923\nf(x) =\n(Type an integer or a fraction.)\nB.\nThe limit does not exist because\nlim font size decreased by 1 x -> 3^(\u2212f) (x)\nx\u21923\u2212\nf(x) = not = \u2260 lim font size decreased by 1 x -> 3^(+ f) (x) lim x\u21923 + f(x).",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "10.\nPart 1\nUse the graph of f in the figure to find the following values or state that they do not exist. If a limit does not exist, explain why."
+          },
+          {
+            "label": "a.",
+            "text": "f (3)"
+          },
+          {
+            "label": "b.",
+            "text": "lim font size decreased by 1 x -> 3^(\u2212f) (x)\nx\u21923\u2212\nf(x)"
+          },
+          {
+            "label": "c.",
+            "text": "lim font size decreased by 1 x -> 3^(+ f) (x)\nx\u21923+\nf(x)"
+          },
+          {
+            "label": "d.",
+            "text": "lim font size decreased by 1 x -> 3 f(x)\nx\u21923\nf(x) = -2 3 -4 6 -2 3 -4 6 x y nbsp y = f(x) y = f(x) A coordinate plane has a horizontal x-axis labeled from \u2212 4 to 6 in increments of 1 and a vertical y-axis labeled from \u2212 4 to 6 in increments of 1. The graph of a function labeled y = f(x) has two smooth curves. One starts at (\u2212 0.5 , 3) and passes through (2 , 1.8) to a closed endpoint at (3 , 3). The other starts at an open endpoint at (3 , \u2212 2) and passes through (4 , \u2212 2.7) to (6.3 , \u2212 0.5). All coordinates are approximate.\nPart 1"
+          },
+          {
+            "label": "a.",
+            "text": "Find the function value. Select the correct choice and, if necessary, fill in the answer box within your choice."
+          },
+          {
+            "label": "a.",
+            "text": "f(3) =\n(Type an integer or a fraction.)"
+          },
+          {
+            "label": "b.",
+            "text": "The value of f(\n3\n3) is undefined.\nPart 2"
+          },
+          {
+            "label": "b.",
+            "text": "Find the limit. Select the correct choice and, if necessary, fill in the answer box within your choice."
+          },
+          {
+            "label": "a.",
+            "text": "lim font size decreased by 1 x -> 3^(\u2212f) (x) =\nx\u21923\u2212\nf(x) =\n(Type an integer or a fraction.)"
+          },
+          {
+            "label": "b.",
+            "text": "The limit does not exist because f is not defined for all x near\n3\n3 with x\nless than\n<\n3\n3.\nPart 3"
+          },
+          {
+            "label": "c.",
+            "text": "Find the limit. Select the correct choice and, if necessary, fill in the answer box within your choice."
+          },
+          {
+            "label": "a.",
+            "text": "lim font size decreased by 1 x -> 3^(+ f) (x) =\nx\u21923+\nf(x) =\n(Type an integer or a fraction.)"
+          },
+          {
+            "label": "b.",
+            "text": "The limit does not exist because f is not defined for all x near\n3\n3 with x\ngreater than\n>\n3\n3.\nPart 4"
+          },
+          {
+            "label": "d.",
+            "text": "Find the limit. Select the correct choice and, if necessary, fill in the answer box within your choice."
+          },
+          {
+            "label": "a.",
+            "text": "lim font size decreased by 1 x -> 3 f(x) =\nx\u21923\nf(x) =\n(Type an integer or a fraction.)"
+          },
+          {
+            "label": "b.",
+            "text": "The limit does not exist because\nlim font size decreased by 1 x -> 3^(\u2212f) (x)\nx\u21923\u2212\nf(x) = not = \u2260 lim font size decreased by 1 x -> 3^(+ f) (x) lim x\u21923 + f(x)."
+          }
+        ],
+        "note": "Print harvest: one drawn alternate per pool. poolIds lists every ID in the pool; questionId is the first."
+      },
+      {
+        "poolOrder": 11,
+        "questionId": "2.4.33-Setup & Solve",
+        "poolIds": [
+          "2.4.33-Setup & Solve"
+        ],
+        "objective": "Evaluate limits analytically.",
+        "summary": "Find the following limit or state that it does not exist.",
+        "fullText": "11.\nPart 1\nFind the following limit or state that it does not exist.\nlim h -> 0 (\u221a(25 + h) \u2212 5)/(h)\nh\u21920\n25 + h \u2212 5\nPart 1\nSelect the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nlim h -> 0 (\u221a(25 + h) \u2212 5)/(h)\nh\u21920\n25 + h \u2212 5\n(Type an exact answer.)\nB.\nThe limit does not exist.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "11.\nPart 1\nFind the following limit or state that it does not exist.\nlim h -> 0 (\u221a(25 + h) \u2212 5)/(h)\nh\u21920\n25 + h \u2212 5\nPart 1\nSelect the correct choice below and, if necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "a.",
+            "text": "lim h -> 0 (\u221a(25 + h) \u2212 5)/(h)\nh\u21920\n25 + h \u2212 5\n(Type an exact answer.)"
+          },
+          {
+            "label": "b.",
+            "text": "The limit does not exist."
+          }
+        ],
+        "note": "Print harvest: one drawn alternate per pool. poolIds lists every ID in the pool; questionId is the first."
+      },
+      {
+        "poolOrder": 12,
+        "questionId": "2.5.9",
+        "poolIds": [
+          "2.5.9"
+        ],
+        "objective": "Evaluate limits at infinity.",
+        "summary": "Determine the following limit.",
+        "fullText": "12.\nPart 1\nDetermine the following limit.\nlim x -> infinity (3 x\u00b3 \u2212 5 x\u00b2 + 1)\nx\u2192\u221e\n3x\u00b3 \u2212 5x\u00b2 + 1\nPart 1\nSelect the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> infinity (3 x\u00b3 \u2212 5 x\u00b2 + 1) = enter your response here\nx\u2192\u221e\n3x\u00b3 \u2212 5x\u00b2 + 1\nB.\nThe limit does not exist and is neither\ninfinity\n\u221e nor\ninfinity\n\u221e.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "12.\nPart 1\nDetermine the following limit.\nlim x -> infinity (3 x\u00b3 \u2212 5 x\u00b2 + 1)\nx\u2192\u221e\n3x\u00b3 \u2212 5x\u00b2 + 1\nPart 1\nSelect the correct choice below and, if necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "a.",
+            "text": "lim x -> infinity (3 x\u00b3 \u2212 5 x\u00b2 + 1) = enter your response here\nx\u2192\u221e\n3x\u00b3 \u2212 5x\u00b2 + 1"
+          },
+          {
+            "label": "b.",
+            "text": "The limit does not exist and is neither\ninfinity\n\u221e nor\ninfinity\n\u221e."
+          }
+        ],
+        "note": "Print harvest: one drawn alternate per pool. poolIds lists every ID in the pool; questionId is the first."
+      },
+      {
+        "poolOrder": 13,
+        "questionId": "2.5.21",
+        "poolIds": [
+          "2.5.21"
+        ],
+        "objective": "Evaluate limits at infinity.",
+        "summary": "Determine the interval(s) on which the following function is continuous.",
+        "fullText": "13.\nPart 1\nDetermine the interval(s) on which the following function is continuous.\nf(x) = (x\u00b2 \u2212 4 x + 3)/(x\u00b2 \u2212 9)\nPart 1\nThe function is continuous on the interval(s)\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "13.\nPart 1\nDetermine the interval(s) on which the following function is continuous.\nf(x) = (x\u00b2 \u2212 4 x + 3)/(x\u00b2 \u2212 9)\nPart 1\nThe function is continuous on the interval(s)\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)"
+          }
+        ],
+        "note": "Print harvest: one drawn alternate per pool. poolIds lists every ID in the pool; questionId is the first."
+      },
+      {
+        "poolOrder": 14,
+        "questionId": "2.5.39",
+        "poolIds": [
+          "2.5.39",
+          "2.5.41"
+        ],
+        "objective": "Find horizontal and vertical asymptotes of functions.",
+        "summary": "Determine the following limit, using",
+        "fullText": "14.\nPart 1\nDetermine the following limit, using\ninfinity\n\u221e or\ninfinity\n\u221e when appropriate, or state that it does not exist.\nlim x -> 0 (x\u2074 \u2212 7 x\u00b3)/(x\u00b3)\nx\u21920\nx\u2074 \u2212 7x\u00b3\nPart 1\nSimplify the expression inside the limit, if possible. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> 0 (x\u2074 \u2212 7 x\u00b3)/(x\u00b3) = lim x -> 0 (nothing)\nx\u21920\nx\u2074 \u2212 7x\u00b3\nlim x -> 0 (nothing)\nx\u21920\nB.\nThe expression inside the limit cannot be simplified.\nPart 2\nNow, evaluate the limit. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> 0 (x\u2074 \u2212 7 x\u00b3)/(x\u00b3)\nx\u21920\nx\u2074 \u2212 7x\u00b3\n(Type an integer or a simplified fraction.)\nB.\nThe limit does not exist and is neither\ninfinity\n\u221e nor\ninfinity\n\u221e.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "14.\nPart 1\nDetermine the following limit, using\ninfinity\n\u221e or\ninfinity\n\u221e when appropriate, or state that it does not exist.\nlim x -> 0 (x\u2074 \u2212 7 x\u00b3)/(x\u00b3)\nx\u21920\nx\u2074 \u2212 7x\u00b3\nPart 1\nSimplify the expression inside the limit, if possible. Select the correct choice below and, if necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "a.",
+            "text": "lim x -> 0 (x\u2074 \u2212 7 x\u00b3)/(x\u00b3) = lim x -> 0 (nothing)\nx\u21920\nx\u2074 \u2212 7x\u00b3\nlim x -> 0 (nothing)\nx\u21920"
+          },
+          {
+            "label": "b.",
+            "text": "The expression inside the limit cannot be simplified.\nPart 2\nNow, evaluate the limit. Select the correct choice below and, if necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "a.",
+            "text": "lim x -> 0 (x\u2074 \u2212 7 x\u00b3)/(x\u00b3)\nx\u21920\nx\u2074 \u2212 7x\u00b3\n(Type an integer or a simplified fraction.)"
+          },
+          {
+            "label": "b.",
+            "text": "The limit does not exist and is neither\ninfinity\n\u221e nor\ninfinity\n\u221e."
+          }
+        ],
+        "note": "Print harvest: one drawn alternate per pool. poolIds lists every ID in the pool; questionId is the first."
+      },
+      {
+        "poolOrder": 15,
+        "questionId": "2.5.12",
+        "poolIds": [
+          "2.5.12",
+          "2.5.25"
+        ],
+        "objective": "Evaluate limits at infinity.",
+        "summary": "a. Find the derivative function",
+        "fullText": "15.\nPart 1\na. Find the derivative function\nf prime\nf\u2032 for the function f.\nb. Determine an equation of the line tan to the graph of f at (a , f(a)) for the given value of a.\nf(x) = \u221a(5 x + 1) 5x + 1 , a 7\nPart 1\na.\nf prime\nf\u2032(x)\nPart 2\nb. y",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "15.\nPart 1"
+          },
+          {
+            "label": "a.",
+            "text": "Find the derivative function\nf prime\nf\u2032 for the function f."
+          },
+          {
+            "label": "b.",
+            "text": "Determine an equation of the line tan to the graph of f at (a , f(a)) for the given value of a.\nf(x) = \u221a(5 x + 1) 5x + 1 , a 7\nPart 1"
+          },
+          {
+            "label": "a.",
+            "text": "f prime\nf\u2032(x)\nPart 2"
+          },
+          {
+            "label": "b.",
+            "text": "y"
+          }
+        ],
+        "note": "Print harvest: one drawn alternate per pool. poolIds lists every ID in the pool; questionId is the first."
+      },
+      {
+        "poolOrder": 16,
+        "questionId": "2.5.28",
+        "poolIds": [
+          "2.5.28"
+        ],
+        "objective": "Evaluate limits at infinity.",
+        "summary": "Determine the following limit.",
+        "fullText": "16.\nPart 1\nDetermine the following limit.\nlim x -> infinity\nx\u2192\u221e\n(6 x\u2074 + 23)/(7 x\u2075 + 4 x\u00b3 \u2212 2 x)\nPart 1\nSelect the correct choice and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> infinity\nx\u2192\u221e\n(6 x\u2074 + 23)/(7 x\u2075 + 4 x\u00b3 \u2212 2 x)\n(Simplify your answer.)\nB.\nThe limit does not exist and is neither\ninfinity\n\u221e nor\ninfinity\n\u221e.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "16.\nPart 1\nDetermine the following limit.\nlim x -> infinity\nx\u2192\u221e\n(6 x\u2074 + 23)/(7 x\u2075 + 4 x\u00b3 \u2212 2 x)\nPart 1\nSelect the correct choice and, if necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "a.",
+            "text": "lim x -> infinity\nx\u2192\u221e\n(6 x\u2074 + 23)/(7 x\u2075 + 4 x\u00b3 \u2212 2 x)\n(Simplify your answer.)"
+          },
+          {
+            "label": "b.",
+            "text": "The limit does not exist and is neither\ninfinity\n\u221e nor\ninfinity\n\u221e."
+          }
+        ],
+        "note": "Print harvest: one drawn alternate per pool. poolIds lists every ID in the pool; questionId is the first."
+      },
+      {
+        "poolOrder": 17,
+        "questionId": "2.5.29",
+        "poolIds": [
+          "2.5.29",
+          "2.5.31"
+        ],
+        "objective": "Evaluate limits at infinity.",
+        "summary": "Determine the following limit, using",
+        "fullText": "17.\nPart 1\nDetermine the following limit, using\ninfinity\n\u221e or\ninfinity\n\u221e when appropriate, or state that it does not exist.\nlim x -> 5^(+ (x\u00b2 \u2212 7x + 12)/(x \u2212 5))\nx\u21925+\nx\u00b2 \u2212 7x + 12\nx \u2212 5\nPart 1\nSimplify the expression inside the limit, if possible. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> 5^(+ (x\u00b2 \u2212 7x + 12)/(x \u2212 5) = limx->5^(+ nothing))\nlim x -> 5^(+ (x\u00b2 \u2212 7x + 12)/(x \u2212 5))\nx\u21925+\nx\u00b2 \u2212 7x + 12\nx \u2212 5\nlim x -> 5^(+ nothing)\nx\u21925+\nB.\nThe expression inside the limit cannot be simplified.\nPart 2\nNow, evaluate the limit. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> 5^(+ (x\u00b2 \u2212 7x + 12)/(x \u2212 5))\nx\u21925+\nx\u00b2 \u2212 7x + 12\nx \u2212 5\n(Simplify your answer.)\nB.\nThe limit does not exist and is neither\ninfinity\n\u221e nor\ninfinity\n\u221e.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "17.\nPart 1\nDetermine the following limit, using\ninfinity\n\u221e or\ninfinity\n\u221e when appropriate, or state that it does not exist.\nlim x -> 5^(+ (x\u00b2 \u2212 7x + 12)/(x \u2212 5))\nx\u21925+\nx\u00b2 \u2212 7x + 12\nx \u2212 5\nPart 1\nSimplify the expression inside the limit, if possible. Select the correct choice below and, if necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "a.",
+            "text": "lim x -> 5^(+ (x\u00b2 \u2212 7x + 12)/(x \u2212 5) = limx->5^(+ nothing))\nlim x -> 5^(+ (x\u00b2 \u2212 7x + 12)/(x \u2212 5))\nx\u21925+\nx\u00b2 \u2212 7x + 12\nx \u2212 5\nlim x -> 5^(+ nothing)\nx\u21925+"
+          },
+          {
+            "label": "b.",
+            "text": "The expression inside the limit cannot be simplified.\nPart 2\nNow, evaluate the limit. Select the correct choice below and, if necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "a.",
+            "text": "lim x -> 5^(+ (x\u00b2 \u2212 7x + 12)/(x \u2212 5))\nx\u21925+\nx\u00b2 \u2212 7x + 12\nx \u2212 5\n(Simplify your answer.)"
+          },
+          {
+            "label": "b.",
+            "text": "The limit does not exist and is neither\ninfinity\n\u221e nor\ninfinity\n\u221e."
+          }
+        ],
+        "note": "Print harvest: one drawn alternate per pool. poolIds lists every ID in the pool; questionId is the first."
+      },
+      {
+        "poolOrder": 18,
+        "questionId": "2.6.23",
+        "poolIds": [
+          "2.6.23"
+        ],
+        "objective": "Determine if functions are continuous at given values.",
+        "summary": "Determine the following limits.",
+        "fullText": "18.\nPart 1\nDetermine the following limits.\na.\nlim x -> \u2212 10^(\u2212 ((x \u2212 1)(x \u2212 10))/(x + 10))\nx\u2192\u221210\u2212\n(x \u2212 1)(x \u2212 10)\nx + 10\nb.\nlim x -> \u2212 10^(+ ((x \u2212 1)(x \u2212 10))/(x + 10))\nx\u2192\u221210+\n(x \u2212 1)(x \u2212 10)\nx + 10\nc.\nlim x -> \u2212 10 ((x \u2212 1) (x \u2212 10))/(x + 10)\nx\u2192\u221210\n(x \u2212 1)(x \u2212 10)\nx + 10\nPart 1\na. Select the correct choice and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> \u2212 10^(\u2212 ((x \u2212 1)(x \u2212 10))/(x + 10))\nx\u2192\u221210\u2212\n(x \u2212 1)(x \u2212 10)\nx + 10\n(Simplify your answer.)\nB.\nThe limit does not exist and is neither\ninfinity\n\u221e nor\ninfinity\n\u221e.\nPart 2\nb. Select the correct choice and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> \u2212 10^(+ ((x \u2212 1)(x \u2212 10))/(x + 10))\nx\u2192\u221210+\n(x \u2212 1)(x \u2212 10)\nx + 10\n(Simplify your answer.)\nB.\nThe limit does not exist and is neither\ninfinity\n\u221e nor\ninfinity\n\u221e.\nPart 3\nc. Select the correct choice and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> \u2212 10 ((x \u2212 1) (x \u2212 10))/(x + 10)\nx\u2192\u221210\n(x \u2212 1)(x \u2212 10)\nx + 10\n(Simplify your answer.)\nB.\nThe limit does not exist and is neither\ninfinity\n\u221e nor\ninfinity\n\u221e.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "18.\nPart 1\nDetermine the following limits."
+          },
+          {
+            "label": "a.",
+            "text": "lim x -> \u2212 10^(\u2212 ((x \u2212 1)(x \u2212 10))/(x + 10))\nx\u2192\u221210\u2212\n(x \u2212 1)(x \u2212 10)\nx + 10"
+          },
+          {
+            "label": "b.",
+            "text": "lim x -> \u2212 10^(+ ((x \u2212 1)(x \u2212 10))/(x + 10))\nx\u2192\u221210+\n(x \u2212 1)(x \u2212 10)\nx + 10"
+          },
+          {
+            "label": "c.",
+            "text": "lim x -> \u2212 10 ((x \u2212 1) (x \u2212 10))/(x + 10)\nx\u2192\u221210\n(x \u2212 1)(x \u2212 10)\nx + 10\nPart 1"
+          },
+          {
+            "label": "a.",
+            "text": "Select the correct choice and, if necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "a.",
+            "text": "lim x -> \u2212 10^(\u2212 ((x \u2212 1)(x \u2212 10))/(x + 10))\nx\u2192\u221210\u2212\n(x \u2212 1)(x \u2212 10)\nx + 10\n(Simplify your answer.)"
+          },
+          {
+            "label": "b.",
+            "text": "The limit does not exist and is neither\ninfinity\n\u221e nor\ninfinity\n\u221e.\nPart 2"
+          },
+          {
+            "label": "b.",
+            "text": "Select the correct choice and, if necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "a.",
+            "text": "lim x -> \u2212 10^(+ ((x \u2212 1)(x \u2212 10))/(x + 10))\nx\u2192\u221210+\n(x \u2212 1)(x \u2212 10)\nx + 10\n(Simplify your answer.)"
+          },
+          {
+            "label": "b.",
+            "text": "The limit does not exist and is neither\ninfinity\n\u221e nor\ninfinity\n\u221e.\nPart 3"
+          },
+          {
+            "label": "c.",
+            "text": "Select the correct choice and, if necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "a.",
+            "text": "lim x -> \u2212 10 ((x \u2212 1) (x \u2212 10))/(x + 10)\nx\u2192\u221210\n(x \u2212 1)(x \u2212 10)\nx + 10\n(Simplify your answer.)"
+          },
+          {
+            "label": "b.",
+            "text": "The limit does not exist and is neither\ninfinity\n\u221e nor\ninfinity\n\u221e."
+          }
+        ],
+        "note": "Print harvest: one drawn alternate per pool. poolIds lists every ID in the pool; questionId is the first."
+      },
+      {
+        "poolOrder": 19,
+        "questionId": "2.6.28",
+        "poolIds": [
+          "2.6.28",
+          "2.6.30"
+        ],
+        "objective": "Find points of discontinuity or intervals of continuity.",
+        "summary": "The function f in the figure satisfies",
+        "fullText": "19.\nPart 1\nThe function f in the figure satisfies\nlim x -> 3 f(x) = 6\nx\u21923\nf(x) = 6. Determine the largest value of\ndelta\n\u03b4\ngreater than\n>0 satisfying each statement.\n(0 , 1)\nx\ny = f(x)\nA coordinate system has a horizontal x-axis labeled from 0 to 6 in increments of 1 and a vertical y-axis labeled from 0 to 12 in increments of 1. From left to right , a smooth curve labeled y = f(x) falls at a decreasing rate through (0 , 2.8) to (0.3 , 2.7) , rises at an increasing rate to a closed circle at (3 , 6) , rises at a decreasing rate to (5.7 , 9.3) , and falls at an increasing rate through (6 , 9.2). The curve passes through the points (1 , 3) , (2.5 , 5.0) , (3.5 , 7.0) , and (5 , 9). All coordinates are approximate.\na. If\n0 less than |x \u2212 3| less than delta\n0<x\u22123<\u03b4, then\n|f(x) \u2212 6| less than 3\nf(x)\u22126<3.\nb. If\n0 less than |x \u2212 3| less than delta\n0<x\u22123<\u03b4, then\n|f(x) \u2212 6| less than 1\nf(x)\u22126<1.\nPart 1\na. Determine the largest value of\ndelta\n\u03b4\ngreater than\n>0 satisfying the following statement.\nIf\n0 less than |x \u2212 3| less than delta\n0<x\u22123<\u03b4, then\n|f(x) \u2212 6| less than 3\nf(x)\u22126<3.\ndelta\n\u03b4\n(Simplify your answer.)\nPart 2\nb. Determine the largest value of\ndelta\n\u03b4\ngreater than\n>0 satisfying the following statement.\nIf\n0 less than |x \u2212 3| less than delta\n0<x\u22123<\u03b4, then\n|f(x) \u2212 6| less than 1\nf(x)\u22126<1.\nRound to the nearest half unit.\ndelta\n\u03b4\n(Simplify your answer.)",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "19.\nPart 1\nThe function f in the figure satisfies\nlim x -> 3 f(x) = 6\nx\u21923\nf(x) = 6. Determine the largest value of\ndelta\n\u03b4\ngreater than\n>0 satisfying each statement.\n(0 , 1)\nx\ny = f(x)\nA coordinate system has a horizontal x-axis labeled from 0 to 6 in increments of 1 and a vertical y-axis labeled from 0 to 12 in increments of 1. From left to right , a smooth curve labeled y = f(x) falls at a decreasing rate through (0 , 2.8) to (0.3 , 2.7) , rises at an increasing rate to a closed circle at (3 , 6) , rises at a decreasing rate to (5.7 , 9.3) , and falls at an increasing rate through (6 , 9.2). The curve passes through the points (1 , 3) , (2.5 , 5.0) , (3.5 , 7.0) , and (5 , 9). All coordinates are approximate."
+          },
+          {
+            "label": "a.",
+            "text": "If\n0 less than |x \u2212 3| less than delta\n0<x\u22123<\u03b4, then\n|f(x) \u2212 6| less than 3\nf(x)\u22126<3."
+          },
+          {
+            "label": "b.",
+            "text": "If\n0 less than |x \u2212 3| less than delta\n0<x\u22123<\u03b4, then\n|f(x) \u2212 6| less than 1\nf(x)\u22126<1.\nPart 1"
+          },
+          {
+            "label": "a.",
+            "text": "Determine the largest value of\ndelta\n\u03b4\ngreater than\n>0 satisfying the following statement.\nIf\n0 less than |x \u2212 3| less than delta\n0<x\u22123<\u03b4, then\n|f(x) \u2212 6| less than 3\nf(x)\u22126<3.\ndelta\n\u03b4\n(Simplify your answer.)\nPart 2"
+          },
+          {
+            "label": "b.",
+            "text": "Determine the largest value of\ndelta\n\u03b4\ngreater than\n>0 satisfying the following statement.\nIf\n0 less than |x \u2212 3| less than delta\n0<x\u22123<\u03b4, then\n|f(x) \u2212 6| less than 1\nf(x)\u22126<1.\nRound to the nearest half unit.\ndelta\n\u03b4\n(Simplify your answer.)"
+          }
+        ],
+        "note": "Print harvest: one drawn alternate per pool. poolIds lists every ID in the pool; questionId is the first."
+      },
+      {
+        "poolOrder": 20,
+        "questionId": "2.7.11",
+        "poolIds": [
+          "2.7.11",
+          "2.7.12"
+        ],
+        "objective": "Determine delta values associated with the precise definition of a limit.",
+        "summary": "a. Find the derivative function",
+        "fullText": "20.\nPart 1\na. Find the derivative function\nf prime\nf\u2032 for the function f.\nb. Determine an equation of the line tan to the graph of f at (a , f(a)) for the given value of a.\nf(x) = (3)/(5 x + 2)\n, a\nnegative 1\n\u2212 1\nPart 1\na.\nf prime\nf\u2032(x)\nPart 2\nb. y",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "20.\nPart 1"
+          },
+          {
+            "label": "a.",
+            "text": "Find the derivative function\nf prime\nf\u2032 for the function f."
+          },
+          {
+            "label": "b.",
+            "text": "Determine an equation of the line tan to the graph of f at (a , f(a)) for the given value of a.\nf(x) = (3)/(5 x + 2)\n, a\nnegative 1\n\u2212 1\nPart 1"
+          },
+          {
+            "label": "a.",
+            "text": "f prime\nf\u2032(x)\nPart 2"
+          },
+          {
+            "label": "b.",
+            "text": "y"
+          }
+        ],
+        "note": "Print harvest: one drawn alternate per pool. poolIds lists every ID in the pool; questionId is the first."
+      },
+      {
+        "poolOrder": 21,
+        "questionId": "3.2.35",
+        "poolIds": [
+          "3.2.35",
+          "3.2.36"
+        ],
+        "objective": "Find derivatives of functions using limits.",
+        "summary": "Determine whether the following function is continuous at a. Use the continuity checklist to j\u2026",
+        "fullText": "21.\nPart 1\nDetermine whether the following function is continuous at a. Use the continuity checklist to justify your answer.\nf(x) = (7 x \u2212 4)/(x\u00b2 \u2212 11 x + 28)\n, a\n4\nPart 1\nSelect the correct choice and, if necessary, fill in the answer box(es) to complete your choice.\nA.\nThe function is continuous at a\n4\n4 because\nlim x -> 4 f(x)\nx\u21924\nf(x) = exists. B. The function is not continuous at a 4 because although f(4) is defined , lim x -> 4 f(x) lim x\u21924 f(x) does not exist. C. The function is continuous at a 4 because f(4) is defined. D. The function is continuous at a 4 because f(4) is defined and lim x -> 4 f(x) lim x\u21924 f(x) exists and is equal to f(4). E. The function is not continuous at a 4 because although f(4) is defined and lim x -> 4 f(x) lim x\u21924 f(x) exists , f(4) not = \u2260 lim x -> 4 f(x) lim x\u21924 f(x). F. The function is not continuous at a 4 because f(4) is not defined.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "21.\nPart 1\nDetermine whether the following function is continuous at a. Use the continuity checklist to justify your answer.\nf(x) = (7 x \u2212 4)/(x\u00b2 \u2212 11 x + 28)\n, a\n4\nPart 1\nSelect the correct choice and, if necessary, fill in the answer box(es) to complete your choice."
+          },
+          {
+            "label": "a.",
+            "text": "The function is continuous at a\n4\n4 because\nlim x -> 4 f(x)\nx\u21924\nf(x) = exists."
+          },
+          {
+            "label": "b.",
+            "text": "The function is not continuous at a\n4\n4 because although f(\n4)\nis defined,\nlim x -> 4 f(x)\nx\u21924\nf(x) does not exist."
+          },
+          {
+            "label": "c.",
+            "text": "The function is continuous at a\n4\n4 because f(\n4)\nis defined."
+          },
+          {
+            "label": "d.",
+            "text": "The function is continuous at a\n4\n4 because f(\n4)\nis defined and\nlim x -> 4 f(x)\nx\u21924\nf(x) exists and is equal to f(\n4\n4)."
+          },
+          {
+            "label": "e.",
+            "text": "The function is not continuous at a\n4\n4 because although f(\n4)\nis defined and\nlim x -> 4 f(x)\nx\u21924\nf(x) = exists , f(4) not = \u2260 lim x -> 4 f(x) lim x\u21924 f(x)."
+          },
+          {
+            "label": "f.",
+            "text": "The function is not continuous at a\n4\n4 because f(\n4) is not defined."
+          }
+        ],
+        "note": "Print harvest: one drawn alternate per pool. poolIds lists every ID in the pool; questionId is the first."
+      },
+      {
+        "poolOrder": 22,
+        "questionId": "3.2.37",
+        "poolIds": [
+          "3.2.37",
+          "3.2.38"
+        ],
+        "objective": "Find derivatives of functions using limits.",
+        "summary": "Use the graph of g in the figure to find the following values or state that they do not exist.\u2026",
+        "fullText": "22.\nPart 1\nUse the graph of g in the figure to find the following values or state that they do not exist. If a limit does not exist, explain why.\na. g(\n2\n2)\nb.\nlim x -> 2^(\u2212g) (x)\nx\u21922\u2212\ng(x)\nc.\nlim x -> 2^(+ g) (x)\nx\u21922+\ng(x)\nd.\nlim x -> 2 g (x)\nx\u21922\ng(x)\ne. g(\n3\n3)\nf.\nlim x -> 3^(\u2212g) (x)\nx\u21923\u2212\ng(x)\ng.\nlim x -> 3^(+ g) (x)\nx\u21923+\ng(x)\nh. g(\n4\n4)\ni.\nlim x -> 4 g (x)\nx\u21924\ng(x)\n(0 , 3)\nx\ny = g(x)\nA coordinate system has a horizontal x-axis labeled from 0 to 6 in increments of 1 and a vertical y-axis labeled from 0 to 6 in increments of 1. From left to right , the graph of a function labeled y = g(x) consists of the following: a ray that rises through (0 , 0) to an open circle at (2 , 1) ; a horizontal line segment that extends from a closed circle at (2 , 2) to an open circle at (3 , 2) ; and a smooth curve that rises at a decreasing rate from a closed circle at (3 , 3) to (4 , 4) , then falls at an increasing rate through (5 , 3).\nPart 1\na. Select the correct answer and, if necessary, fill in the answer box within your choice.\nA.\ng(\n2\n2)\n(Type an integer or a decimal.)\nB.\nThe value g(\n2\n2) does not exist because g is not defined at x\n2.\nPart 2\nb. Select the correct answer and, if necessary, fill in the answer box within your choice.\nA.\nlim x -> 2^(\u2212g) (x)\nx\u21922\u2212\ng(x)\n(Type an integer or a decimal.)\nB.\nThe limit does not exist because g is not defined for all x near\n2\nwith x less than 2\nwith\u00a0x<2.\nPart 3\nc. Select the correct answer and, if necessary, fill in the answer box within your choice.\nA.\nlim x -> 2^(+ g) (x)\nx\u21922+\ng(x)\n(Type an integer or a decimal.)\nB.\nThe limit does not exist because g is not defined for all x near\n2\nwith x greater than 2\nwith\u00a0x>2.\nPart 4\nd. Select the correct answer and, if necessary, fill in the answer box within your choice.\nA.\nlim x -> 2 g (x)\nx\u21922\ng(x)\n(Type an integer or a decimal.)\nB.\nThe limit does not exist because\nlim x -> 2^(+ g) (x)\nx\u21922+\ng(x)\nnot =\n\u2260\nlim x -> 2^(\u2212g) (x)\nx\u21922\u2212\ng(x).\nPart 5\ne. Select the correct answer and, if necessary, fill in the answer box within your choice.\nA.\ng(\n3\n3)\n(Type an integer or a decimal.)\nB.\nThe value g(\n3\n3) does not exist because g is not defined at x\n3.\nPart 6\nf. Select the correct answer and, if necessary, fill in the answer box within your choice.\nA.\nlim x -> 3^(\u2212g) (x)\nx\u21923\u2212\ng(x)\n(Type an integer or a decimal.)\nB.\nThe limit does not exist because g is not defined for all x near\n3\nwith x less than 3\nwith\u00a0x<3.\nPart 7\ng. Select the correct answer and, if necessary, fill in the answer box within your choice.\nA.\nlim x -> 3^(+ g) (x)\nx\u21923+\ng(x)\n(Type an integer or a decimal.)\nB.\nThe limit does not exist because g is not defined for all x near\n2\nwith x greater than 3\nwith\u00a0x>3.\nPart 8\nh. Select the correct answer and, if necessary, fill in the answer box within your choice.\nA.\ng(\n4\n4)\n(Type an integer or a decimal.)\nB.\nThe value g(\n4\n4) does not exist because g is not defined at x\n4.\nPart 9\ni. Select the correct answer and, if necessary, fill in the answer box within your choice.\nA.\nlim x -> 4 g (x)\nx\u21924\ng(x)\n(Type an integer or a decimal.)\nB.\nThe limit does not exist because\nlim x -> 4^(+ g) (x)\nx\u21924+\ng(x)\nnot =\n\u2260\nlim x -> 4^(\u2212g) (x)\nx\u21924\u2212\ng(x).",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "22.\nPart 1\nUse the graph of g in the figure to find the following values or state that they do not exist. If a limit does not exist, explain why."
+          },
+          {
+            "label": "a.",
+            "text": "g(\n2\n2)"
+          },
+          {
+            "label": "b.",
+            "text": "lim x -> 2^(\u2212g) (x)\nx\u21922\u2212\ng(x)"
+          },
+          {
+            "label": "c.",
+            "text": "lim x -> 2^(+ g) (x)\nx\u21922+\ng(x)"
+          },
+          {
+            "label": "d.",
+            "text": "lim x -> 2 g (x)\nx\u21922\ng(x)"
+          },
+          {
+            "label": "e.",
+            "text": "g(\n3\n3)"
+          },
+          {
+            "label": "f.",
+            "text": "lim x -> 3^(\u2212g) (x)\nx\u21923\u2212\ng(x)"
+          },
+          {
+            "label": "g.",
+            "text": "lim x -> 3^(+ g) (x)\nx\u21923+\ng(x)"
+          },
+          {
+            "label": "h.",
+            "text": "g(\n4\n4)\ni.\nlim x -> 4 g (x)\nx\u21924\ng(x)\n(0 , 3)\nx\ny = g(x)\nA coordinate system has a horizontal x-axis labeled from 0 to 6 in increments of 1 and a vertical y-axis labeled from 0 to 6 in increments of 1. From left to right , the graph of a function labeled y = g(x) consists of the following: a ray that rises through (0 , 0) to an open circle at (2 , 1) ; a horizontal line segment that extends from a closed circle at (2 , 2) to an open circle at (3 , 2) ; and a smooth curve that rises at a decreasing rate from a closed circle at (3 , 3) to (4 , 4) , then falls at an increasing rate through (5 , 3).\nPart 1"
+          },
+          {
+            "label": "a.",
+            "text": "Select the correct answer and, if necessary, fill in the answer box within your choice."
+          },
+          {
+            "label": "a.",
+            "text": "g(\n2\n2)\n(Type an integer or a decimal.)"
+          },
+          {
+            "label": "b.",
+            "text": "The value g(\n2\n2) does not exist because g is not defined at x\n2.\nPart 2"
+          },
+          {
+            "label": "b.",
+            "text": "Select the correct answer and, if necessary, fill in the answer box within your choice."
+          },
+          {
+            "label": "a.",
+            "text": "lim x -> 2^(\u2212g) (x)\nx\u21922\u2212\ng(x)\n(Type an integer or a decimal.)"
+          },
+          {
+            "label": "b.",
+            "text": "The limit does not exist because g is not defined for all x near\n2\nwith x less than 2\nwith\u00a0x<2.\nPart 3"
+          },
+          {
+            "label": "c.",
+            "text": "Select the correct answer and, if necessary, fill in the answer box within your choice."
+          },
+          {
+            "label": "a.",
+            "text": "lim x -> 2^(+ g) (x)\nx\u21922+\ng(x)\n(Type an integer or a decimal.)"
+          },
+          {
+            "label": "b.",
+            "text": "The limit does not exist because g is not defined for all x near\n2\nwith x greater than 2\nwith\u00a0x>2.\nPart 4"
+          },
+          {
+            "label": "d.",
+            "text": "Select the correct answer and, if necessary, fill in the answer box within your choice."
+          },
+          {
+            "label": "a.",
+            "text": "lim x -> 2 g (x)\nx\u21922\ng(x)\n(Type an integer or a decimal.)"
+          },
+          {
+            "label": "b.",
+            "text": "The limit does not exist because\nlim x -> 2^(+ g) (x)\nx\u21922+\ng(x)\nnot =\n\u2260\nlim x -> 2^(\u2212g) (x)\nx\u21922\u2212\ng(x).\nPart 5"
+          },
+          {
+            "label": "e.",
+            "text": "Select the correct answer and, if necessary, fill in the answer box within your choice."
+          },
+          {
+            "label": "a.",
+            "text": "g(\n3\n3)\n(Type an integer or a decimal.)"
+          },
+          {
+            "label": "b.",
+            "text": "The value g(\n3\n3) does not exist because g is not defined at x\n3.\nPart 6"
+          },
+          {
+            "label": "f.",
+            "text": "Select the correct answer and, if necessary, fill in the answer box within your choice."
+          },
+          {
+            "label": "a.",
+            "text": "lim x -> 3^(\u2212g) (x)\nx\u21923\u2212\ng(x)\n(Type an integer or a decimal.)"
+          },
+          {
+            "label": "b.",
+            "text": "The limit does not exist because g is not defined for all x near\n3\nwith x less than 3\nwith\u00a0x<3.\nPart 7"
+          },
+          {
+            "label": "g.",
+            "text": "Select the correct answer and, if necessary, fill in the answer box within your choice."
+          },
+          {
+            "label": "a.",
+            "text": "lim x -> 3^(+ g) (x)\nx\u21923+\ng(x)\n(Type an integer or a decimal.)"
+          },
+          {
+            "label": "b.",
+            "text": "The limit does not exist because g is not defined for all x near\n2\nwith x greater than 3\nwith\u00a0x>3.\nPart 8"
+          },
+          {
+            "label": "h.",
+            "text": "Select the correct answer and, if necessary, fill in the answer box within your choice."
+          },
+          {
+            "label": "a.",
+            "text": "g(\n4\n4)\n(Type an integer or a decimal.)"
+          },
+          {
+            "label": "b.",
+            "text": "The value g(\n4\n4) does not exist because g is not defined at x\n4.\nPart 9\ni. Select the correct answer and, if necessary, fill in the answer box within your choice."
+          },
+          {
+            "label": "a.",
+            "text": "lim x -> 4 g (x)\nx\u21924\ng(x)\n(Type an integer or a decimal.)"
+          },
+          {
+            "label": "b.",
+            "text": "The limit does not exist because\nlim x -> 4^(+ g) (x)\nx\u21924+\ng(x)\nnot =\n\u2260\nlim x -> 4^(\u2212g) (x)\nx\u21924\u2212\ng(x)."
+          }
+        ],
+        "note": "Print harvest: one drawn alternate per pool. poolIds lists every ID in the pool; questionId is the first."
+      },
+      {
+        "poolOrder": 23,
+        "questionId": "3.2.39",
+        "poolIds": [
+          "3.2.39"
+        ],
+        "objective": "Find derivatives of functions using limits.",
+        "summary": "Find the following limit or state that it does not exist.",
+        "fullText": "23.\nPart 1\nFind the following limit or state that it does not exist.\nlim h -> 0 Start(StartFraction 6)/(5 + h) \u2212 six fifths OverOver h EndEndFraction\nh\u21920\n6\n5 + h\n(6 , 5)\nh\nPart 1\nReplace the limit with an equivalent limit that can be evaluated by direct substitution.\nlim h -> 0 Start(StartFraction 6)/(5 + h) \u2212 six fifths OverOver h EndEndFraction\nh\u21920\n6\n5 + h\n(6 , 5)\nh\nlim h -> 0 (nothing)\nh\u21920\n(Type an expression. Simplify your answer.)\nPart 2\nEvaluate the limit, if possible. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nlim h -> 0 Start(StartFraction 6)/(5 + h) \u2212 six fifths OverOver h EndEndFraction\nh\u21920\n6\n5 + h\n(6 , 5)\nh\n(Type an exact answer.)\nB.\nThe limit does not exist.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "23.\nPart 1\nFind the following limit or state that it does not exist.\nlim h -> 0 Start(StartFraction 6)/(5 + h) \u2212 six fifths OverOver h EndEndFraction\nh\u21920\n6\n5 + h\n(6 , 5)\nh\nPart 1\nReplace the limit with an equivalent limit that can be evaluated by direct substitution.\nlim h -> 0 Start(StartFraction 6)/(5 + h) \u2212 six fifths OverOver h EndEndFraction\nh\u21920\n6\n5 + h\n(6 , 5)\nh\nlim h -> 0 (nothing)\nh\u21920\n(Type an expression. Simplify your answer.)\nPart 2\nEvaluate the limit, if possible. Select the correct choice below and, if necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "a.",
+            "text": "lim h -> 0 Start(StartFraction 6)/(5 + h) \u2212 six fifths OverOver h EndEndFraction\nh\u21920\n6\n5 + h\n(6 , 5)\nh\n(Type an exact answer.)"
+          },
+          {
+            "label": "b.",
+            "text": "The limit does not exist."
+          }
+        ],
+        "note": "Print harvest: one drawn alternate per pool. poolIds lists every ID in the pool; questionId is the first."
+      },
+      {
+        "poolOrder": 24,
+        "questionId": "3.1.34",
+        "poolIds": [
+          "3.1.34"
+        ],
+        "objective": "Use limit definitions to find equations of tangent lines.",
+        "summary": "a. For the function and point below, find",
+        "fullText": "24.\nPart 1\na. For the function and point below, find\nf prime (a)\nf\u2032(a).\nb. Determine an equation of the line tan to the graph of f at (a , f(a)) for the given value of a.\nf(x) = 4x\u00b2 , a\nPart 1\na.\nf prime (a)\nf\u2032(a)\n(Simplify your answer.)\nPart 2\nb. y",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "24.\nPart 1"
+          },
+          {
+            "label": "a.",
+            "text": "For the function and point below, find\nf prime (a)\nf\u2032(a)."
+          },
+          {
+            "label": "b.",
+            "text": "Determine an equation of the line tan to the graph of f at (a , f(a)) for the given value of a.\nf(x) = 4x\u00b2 , a\nPart 1"
+          },
+          {
+            "label": "a.",
+            "text": "f prime (a)\nf\u2032(a)\n(Simplify your answer.)\nPart 2"
+          },
+          {
+            "label": "b.",
+            "text": "y"
+          }
+        ],
+        "note": "Print harvest: one drawn alternate per pool. poolIds lists every ID in the pool; questionId is the first."
+      },
+      {
+        "poolOrder": 25,
+        "questionId": "3.1.37",
+        "poolIds": [
+          "3.1.37",
+          "3.1.39"
+        ],
+        "objective": "Use limit definitions to find equations of tangent lines.",
+        "summary": "Determine the following limit at infinity.",
+        "fullText": "25.\nPart 1\nDetermine the following limit at infinity.\nlim x -> infinity\nx\u2192\u221e\n(3 + x + 7 x\u2074)/(x\u2074)\nPart 1\nSelect the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> infinity (3 + x + 7 x\u2074)/(x\u2074) = enter your response here\nx\u2192\u221e\n(3 + x + 7 x\u2074)/(x\u2074)\nB.\nThe limit does not exist and is neither\ninfinity\n\u221e nor\ninfinity\n\u221e.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "25.\nPart 1\nDetermine the following limit at infinity.\nlim x -> infinity\nx\u2192\u221e\n(3 + x + 7 x\u2074)/(x\u2074)\nPart 1\nSelect the correct choice below and, if necessary, fill in the answer box to complete your choice."
+          },
+          {
+            "label": "a.",
+            "text": "lim x -> infinity (3 + x + 7 x\u2074)/(x\u2074) = enter your response here\nx\u2192\u221e\n(3 + x + 7 x\u2074)/(x\u2074)"
+          },
+          {
+            "label": "b.",
+            "text": "The limit does not exist and is neither\ninfinity\n\u221e nor\ninfinity\n\u221e."
+          }
+        ],
+        "note": "Print harvest: one drawn alternate per pool. poolIds lists every ID in the pool; questionId is the first."
+      }
+    ]
+  }
+]

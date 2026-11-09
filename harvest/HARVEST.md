@@ -45,6 +45,11 @@ python harvest/run_exam3_review_harvest.py
 python harvest/clean_exam3_math.py
 ```
 
+**Exam IV Review (2026-11-05):** MCP print harvest of assignment **Exam IV Review** →
+`exam4-review-harvest.json` (+ `.a11y.json` backup) → `python harvest/write_exam4_map_data.py`.
+Question IDs from `scripts/pearson_question_details.py`. Merge helper:
+`harvest/merge_exam4_review_harvest.py` (one-shot for that capture).
+
 Or map data only (already cleaned JSON):
 
 ```powershell

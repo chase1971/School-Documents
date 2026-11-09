@@ -1,0 +1,596 @@
+{
+  "2.2.15": {
+    "exam": "exam1",
+    "objective": "Find limits from a graph.",
+    "summary": "a.",
+    "fullText": "Part 1\nUse the graph of f in the figure to find the following values or state that they do not exist. If a limit does not exist, explain why.\na.\nf (1)\nb.\nlim font size decreased by 1 x -> 1^(−f) (x)\nx→1−\nf(x) = c. lim font size decreased by 1 x -> 1^(+ f) (x) lim x→1 + f(x) d. lim font size decreased by 1 x -> 1 f(x) lim x→1 f(x) -2 3 -4 6 -2 3 -4 6 x y nbsp y = f(x) y = f(x) A coordinate plane has a horizontal x-axis labeled from − 4 to 6 in increments of 1 and a vertical y-axis labeled from − 4 to 6 in increments of 1. The graph of a function labeled y = f(x) has two smooth curves. One starts at (− 2.5 , 3) and passes through (0 , 1.8) to a closed endpoint at (1 , 3). The other starts at an open endpoint at (1 , 2) and passes through (2 , 1.3) to (4.3 , 3.5). All coordinates are approximate.\nPart 1\na. Find the function value. Select the correct choice and, if necessary, fill in the answer box within your choice.\nA.\nf(1) =\n(Type an integer or a fraction.)\nB.\nThe value of f(\n1\n1) is undefined.\nPart 2\nb. Find the limit. Select the correct choice and, if necessary, fill in the answer box within your choice.\nA.\nlim font size decreased by 1 x -> 1^(−f) (x) =\nx→1−\nf(x) =\n(Type an integer or a fraction.)\nB.\nThe limit does not exist because f is not defined for all x near\n1\n1 with x\nless than\n<\n1\n1.\nPart 3\nc. Find the limit. Select the correct choice and, if necessary, fill in the answer box within your choice.\nA.\nlim font size decreased by 1 x -> 1^(+ f) (x) =\nx→1+\nf(x) =\n(Type an integer or a fraction.)\nB.\nThe limit does not exist because f is not defined for all x near\n1\n1 with x\ngreater than\n>\n1\n1.\nPart 4\nd. Find the limit. Select the correct choice and, if necessary, fill in the answer box within your choice.\nA.\nlim font size decreased by 1 x -> 1 f(x) =\nx→1\nf(x) =\n(Type an integer or a fraction.)\nB.\nThe limit does not exist because\nlim font size decreased by 1 x -> 1^(−f) (x)\nx→1−\nf(x) = not = ≠ lim font size decreased by 1 x -> 1^(+ f) (x) lim x→1 + f(x). input field 1Select the correct choice and , if necessary , fill in the answer box within your choice.input field 2Select the correct choice and , if necessary , fill in the answer box within your choice.input field 3Select the correct choice and , if necessary , fill in the answer box within your choice.input field 4Select the correct choice and , if necessary , fill in the answer box within your choice."
+  },
+  "2.2.17": {
+    "exam": "exam1",
+    "objective": "Find limits from a graph.",
+    "summary": "A.",
+    "fullText": "Part 1\nUse the graph of f to complete parts (a) through (l). If a limit does not exist, explain why.\n-1\n(1 , 2)\n-3\n-2\n-1\n(1 , 2)\nx\ny\nA coordinate system has a horizontal x-axis labeled from negative 1 to 5 in increments of 1 and a vertical y-axis labeled from negative 3 to 8 in increments of 1. From left to right, a graph consists of the following: a ray that falls through (0, 2) to an open circle at (1, negative 1), a closed circle at (1, 0), a line segment that rises from the open circle at (1, negative 1) to an open circle at (3, 3), a closed circle at (3, negative 1), and a ray that rises from an open circle at (3, negative 2) through (4, negative 1).\nPart 1\n(a) Find f(\n1\n1). Select the correct choice below , and fill in the answer box if necessary.\nA.\nf(\n1\n1)\n(Type an integer or a fraction.)\nB.\nThe value of f(\n1\n1) is undefined.\nPart 2\n(b) Find\nlim x -> 1^(−f) (x)\nx→1−\nf(x). Select the correct choice below, and fill in the answer box if necessary.\nA.\nlim x -> 1^(−f) (x)\nx→1−\nf(x) = (Type an integer or a fraction.) B. The limit does not exist because f(x) is not defined for all x less than < 1.\nPart 3\n(c) Find\nlim x -> 1^(+ f) (x)\nx→1+\nf(x). Select the correct choice below, and fill in the answer box if necessary.\nA.\nlim x -> 1^(+ f) (x)\nx→1+\nf(x) = (Type an integer or a fraction.) B. The limit does not exist because f(x) is not defined for all x greater than > 1.\nPart 4\n(d) Find\nlim x -> 1 f(x)\nx→1\nf(x). Select the correct choice below, and fill in the answer box if necessary.\nA.\nlim x -> 1 f(x)\nx→1\nf(x) = (Type an integer or a fraction.) B. The limit does not exist because lim x -> 1^(−f) (x) lim x→1 − f(x) not = ≠ lim x -> 1^(+ f) (x) lim x→1 + f(x).\nPart 5\n(e) Find f(\n3\n3). Select the correct choice below , and fill in the answer box if necessary.\nA.\nf(\n3\n3)\n(Type an integer or a fraction.)\nB.\nThe value of f(\n3\n3) is undefined.\nPart 6\n(f) Find\nlim x -> 3^(−f) (x)\nx→3−\nf(x). Select the correct choice below, and fill in the answer box if necessary.\nA.\nlim x -> 3^(−f) (x)\nx→3−\nf(x) = (Type an integer or a fraction.) B. The limit does not exist because f(x) is not defined for all x less than < 3.\nPart 7\n(g) Find\nlim x -> 3^(+ f) (x)\nx→3+\nf(x). Select the correct choice below, and fill in the answer box if necessary.\nA.\nlim x -> 3^(+ f) (x)\nx→3+\nf(x) = (Type an integer or a fraction.) B. The limit does not exist because f(x) is not defined for all x greater than > 3.\nPart 8\n(h) Find\nlim x -> 3 f(x)\nx→3\nf(x). Select the correct choice below, and fill in the answer box if necessary.\nA.\nlim x -> 3 f(x)\nx→3\nf(x) = (Type an integer or a fraction.) B. The limit does not exist because lim x -> 3^(−f) (x) lim x→3 − f(x) not = ≠ lim x -> 3^(+ f) (x) lim x→3 + f(x).\nPart 9\n(i) Find f(\n2\n2). Select the correct choice below , and fill in the answer box if necessary.\nA.\nf(\n2\n2)\n(Type an integer or a fraction.)\nB.\nThe value f(\n2\n2) is undefined.\nPart 10\n(j) Find\nlim x -> 2^(−f) (x)\nx→2−\nf(x). Select the correct choice below, and fill in the answer box if necessary.\nA.\nlim x -> 2^(−f) (x)\nx→2−\nf(x) = (Type an integer or a fraction.) B. The limit does not exist because f(x) is not defined for all x less than < 2.\nPart 11\n(k) Find\nlim x -> 2^(+ f) (x)\nx→2+\nf(x). Select the correct choice below, and fill in the answer box if necessary.\nA.\nlim x -> 2^(+ f) (x)\nx→2+\nf(x) = (Type an integer or a fraction.) B. The limit does not exist because f(x) is not defined for all x greater than > 2.\nPart 12\n(l) Find\nlim x -> 2 f(x)\nx→2\nf(x). Select the correct choice below, and fill in the answer box if necessary.\nA.\nlim x -> 2 f(x)\nx→2\nf(x) = (Type an integer or a fraction.) B. The limit does not exist because lim x -> 2^(−f) (x) lim x→2 − f(x) not = ≠ lim x -> 2^(+ f) (x) lim x→2 + f(x). input field 1Select the correct choice below , and fill in the answer box if necessary.input field 2Select the correct choice below , and fill in the answer box if necessary.input field 3Select the correct choice below , and fill in the answer box if necessary.input field 4Select the correct choice below , and fill in the answer box if necessary.input field 5Select the correct choice below , and fill in the answer box if necessary.input field 6Select the correct choice below , and fill in the answer box if necessary.input field 7Select the correct choice below , and fill in the answer box if necessary.input field 8Select the correct choice below , and fill in the answer box if necessary.input field 9Select the correct choice below , and fill in the answer box if necessary.input field 10Select the correct choice below , and fill in the answer box if necessary.input field 11Select the correct choice below , and fill in the answer box if necessary.input field 12Select the correct choice below , and fill in the answer box if necessary."
+  },
+  "2.2.18": {
+    "exam": "exam1",
+    "objective": "Find limits from a graph.",
+    "summary": "a. g(",
+    "fullText": "Part 1\nUse the graph of g in the figure to find the following values or state that they do not exist. If a limit does not exist, explain why.\na. g(\n1\n1)\nb.\nlim x -> 1^(−g) (x)\nx→1−\ng(x)\nc.\nlim x -> 1^(+ g) (x)\nx→1+\ng(x)\nd.\nlim x -> 1 g (x)\nx→1\ng(x)\ne. g(\n2\n2)\nf.\nlim x -> 2^(−g) (x)\nx→2−\ng(x)\ng.\nlim x -> 2^(+ g) (x)\nx→2+\ng(x)\nh. g(\n3\n3)\ni.\nlim x -> 3 g (x)\nx→3\ng(x)\n(0 , 2)\nx\ny = g(x)\nA coordinate system has a horizontal x-axis labeled from 0 to 4 in increments of 0.5 and a vertical y-axis labeled from 0 to 6 in increments of 1. From left to right , the graph of a function labeled y = g(x) consists of the following: a ray that rises through (0 , 0) to an open circle at (1 , 2) ; a horizontal line segment that extends from a closed circle at (1 , 4) to an open circle at (2 , 4) ; and a smooth curve that rises at a decreasing rate from a closed circle at (2 , 1) to (3 , 2) , then falls at an increasing rate through (4 , 1).\nPart 1\na. Select the correct answer and, if necessary, fill in the answer box within your choice.\nA.\ng(\n1\n1)\n(Type an integer or a decimal.)\nB.\nThe value g(\n1\n1) does not exist because g is not defined at x\n1.\nPart 2\nb. Select the correct answer and, if necessary, fill in the answer box within your choice.\nA.\nlim x -> 1^(−g) (x)\nx→1−\ng(x)\n(Type an integer or a decimal.)\nB.\nThe limit does not exist because g is not defined for all x near\n1\nwith x less than 1\nwith x<1.\nPart 3\nc. Select the correct answer and, if necessary, fill in the answer box within your choice.\nA.\nlim x -> 1^(+ g) (x)\nx→1+\ng(x)\n(Type an integer or a decimal.)\nB.\nThe limit does not exist because g is not defined for all x near\n1\nwith x greater than 1\nwith x>1.\nPart 4\nd. Select the correct answer and, if necessary, fill in the answer box within your choice.\nA.\nlim x -> 1 g (x)\nx→1\ng(x)\n(Type an integer or a decimal.)\nB.\nThe limit does not exist because\nlim x -> 1^(+ g) (x)\nx→1+\ng(x)\nnot =\n≠\nlim x -> 1^(−g) (x)\nx→1−\ng(x).\nPart 5\ne. Select the correct answer and, if necessary, fill in the answer box within your choice.\nA.\ng(\n2\n2)\n(Type an integer or a decimal.)\nB.\nThe value g(\n2\n2) does not exist because g is not defined at x\n2.\nPart 6\nf. Select the correct answer and, if necessary, fill in the answer box within your choice.\nA.\nlim x -> 2^(−g) (x)\nx→2−\ng(x)\n(Type an integer or a decimal.)\nB.\nThe limit does not exist because g is not defined for all x near\n2\nwith x less than 2\nwith x<2.\nPart 7\ng. Select the correct answer and, if necessary, fill in the answer box within your choice.\nA.\nlim x -> 2^(+ g) (x)\nx→2+\ng(x)\n(Type an integer or a decimal.)\nB.\nThe limit does not exist because g is not defined for all x near\n1\nwith x greater than 2\nwith x>2.\nPart 8\nh. Select the correct answer and, if necessary, fill in the answer box within your choice.\nA.\ng(\n3\n3)\n(Type an integer or a decimal.)\nB.\nThe value g(\n3\n3) does not exist because g is not defined at x\n3.\nPart 9\ni. Select the correct answer and, if necessary, fill in the answer box within your choice.\nA.\nlim x -> 3 g (x)\nx→3\ng(x)\n(Type an integer or a decimal.)\nB.\nThe limit does not exist because\nlim x -> 3^(+ g) (x)\nx→3+\ng(x)\nnot =\n≠\nlim x -> 3^(−g) (x)\nx→3−\ng(x).\ninput field 1Select the correct answer and, if necessary, fill in the answer box within your choice.input field 2Select the correct answer and, if necessary, fill in the answer box within your choice.input field 3Select the correct answer and, if necessary, fill in the answer box within your choice.input field 4Select the correct answer and, if necessary, fill in the answer box within your choice.input field 5Select the correct answer and, if necessary, fill in the answer box within your choice.input field 6Select the correct answer and, if necessary, fill in the answer box within your choice.input field 7Select the correct answer and, if necessary, fill in the answer box within your choice.input field 8Select the correct answer and, if necessary, fill in the answer box within your choice.input field 9Select the correct answer and, if necessary, fill in the answer box within your choice."
+  },
+  "2.3.22": {
+    "exam": "exam1",
+    "objective": "Evaluate two-sided limits using limit laws and theorems.",
+    "summary": "Find the following limit or state that it does not exist.",
+    "fullText": "Part 1\nFind the following limit or state that it does not exist.\nlim x -> − 3 1\nx→−3\n1"
+  },
+  "2.3.27": {
+    "exam": "exam1",
+    "objective": "Evaluate two-sided limits using limit laws and theorems.",
+    "summary": "Find the following limit or state that it does not exist.",
+    "fullText": "Part 1\nFind the following limit or state that it does not exist.\nlim b -> 3 (8 b)/(√(5 b + 1) − 1)\nb→3\n8b\n5b + 1 − 1"
+  },
+  "2.3.35": {
+    "exam": "exam1",
+    "objective": "Evaluate two-sided limits using limit laws and theorems.",
+    "summary": "Find the following limit or state that it does not exist.",
+    "fullText": "Part 1\nFind the following limit or state that it does not exist.\nlim x -> 19 (x² − 361)/(19 − x)\nx→19\nx² − 361\n19 − x"
+  },
+  "2.3.47": {
+    "exam": "exam1",
+    "objective": "Evaluate two-sided limits using limit laws and theorems.",
+    "summary": "Find the following limit or state that it does not exist.",
+    "fullText": "Part 1\nFind the following limit or state that it does not exist.\nlim h -> 0 (√(289 + h) − 17)/(h)\nh→0\n289 + h − 17"
+  },
+  "2.3.74": {
+    "exam": "exam1",
+    "objective": "Evaluate one-sided limits using limit laws and theorems.",
+    "summary": "For the function g(x) shown below, compute the following limits or state that they do not exis…",
+    "fullText": "Part 1\nFor the function g(x) shown below, compute the following limits or state that they do not exist.\ng(x) = 0\tif x≤ − 5\n25−x2\tif −5<x<5\n3x\tif x≥5\na.\nlim x -> − 5^(−g) (x)\nx→−5−\ng(x)  b.\nlim x -> − 5^(+ g) (x)\nx→−5+\ng(x) c.\nlim x -> − 5 g (x)\nx→−5\ng(x)  d.\nlim x -> 5^(−g) (x)\nx→5−\ng(x)  e.\nlim x -> 5^(+ g) (x)\nx→5+\ng(x)   f.\nlim x -> 5 g (x)\nx→5\ng(x)\nPart 1\na. Find\nlim x -> − 5^(−g) (x)\nx→−5−\ng(x). Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> − 5^(−g) (x) = enter your response here\nx→−5−\ng(x)\nB.\nThe limit does not exist.\nPart 2\nb. Find\nlim x -> − 5^(+ g) (x)\nx→−5+\ng(x). Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> − 5^(+ g) (x) = enter your response here\nx→−5+\ng(x)\nB.\nThe limit does not exist.\nPart 3\nc. Find\nlim x -> − 5 g (x)\nx→−5\ng(x). Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> − 5 g (x) = enter your response here\nx→−5\ng(x)\nB.\nThe limit does not exist.\nPart 4\nd. Find\nlim x -> 5^(−g) (x)\nx→5−\ng(x). Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> 5^(−g) (x) = enter your response here\nx→5−\ng(x)\nB.\nThe limit does not exist.\nPart 5\ne. Find\nlim x -> 5^(+ g) (x)\nx→5+\ng(x). Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> 5^(+ g) (x) = enter your response here\nx→5+\ng(x)\nB.\nThe limit does not exist.\nPart 6\nf. Find\nlim x -> 5 g (x)\nx→5\ng(x). Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> 5 g (x) = enter your response here\nx→5\ng(x)\nB.\nThe limit does not exist.\nlim x -> 5^(+ g) (x) f. lim x -> 5 g (x right parenthesisSelect the correct choice below and , if necessary , fill in the answer box to complete your choice.input field 2Select the correct choice below and , if necessary , fill in the answer box to complete your choice.input field 3Select the correct choice below and , if necessary , fill in the answer box to complete your choice.input field 4Select the correct choice below and , if necessary , fill in the answer box to complete your choice.input field 5Select the correct choice below and , if necessary , fill in the answer box to complete your choice.input field 6Select the correct choice below and , if necessary , fill in the answer box to complete your choice."
+  },
+  "2.3.39-Setup & Solve": {
+    "exam": "exam1",
+    "objective": "Evaluate two-sided limits using limit laws and theorems.",
+    "summary": "Find the following limit or state that it does not exist.",
+    "fullText": "Part 1\nFind the following limit or state that it does not exist.\nlim x -> − 1 (3 (2 x − 4) ² − 108)/(x + 1)\nx→−1\n3(2x − 4)2 − 108\nx + 1\nPart 1\nReplace the limit with an equivalent limit that can be evaluated by direct substitution.\nlim x -> − 1 (3 (2 x − 4) ² − 108)/(x + 1)\nx→−1\n3(2x − 4)2 − 108\nx + 1\nlim x -> − 1\nx→−1\n(Type an expression. Simplify your answer.)\nPart 2\nEvaluate the limit, if possible. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> − 1 (3 (2 x − 4) ² − 108)/(x + 1)\nx→−1\n3(2x − 4)2 − 108\nx + 1\n(Type an exact answer.)\nB.\nThe limit does not exist.\nlim x -> − 1 (3 (2 x − 4) ² − 108)/(x + 1))Select the correct choice below and , if necessary , fill in the answer box to complete your choice."
+  },
+  "2.3.40-Setup & Solve": {
+    "exam": "exam1",
+    "objective": "Evaluate two-sided limits using limit laws and theorems.",
+    "summary": "Find the following limit or state that it does not exist.",
+    "fullText": "Part 1\nFind the following limit or state that it does not exist.\nlim h -> 0 Start(StartFraction 1)/(4 + h) − one fourth OverOver h EndEndFraction\nh→0\n1\n4 + h\n(1 , 4)\nh\nPart 1\nReplace the limit with an equivalent limit that can be evaluated by direct substitution.\nlim h -> 0 Start(StartFraction 1)/(4 + h) − one fourth OverOver h EndEndFraction\nh→0\n1\n4 + h\n(1 , 4)\nh\nlim h -> 0\nh→0\n(Type an expression. Simplify your answer.)\nPart 2\nEvaluate the limit, if possible. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nlim h -> 0 Start(StartFraction 1)/(4 + h) − one fourth OverOver h EndEndFraction\nh→0\n1\n4 + h\n(1 , 4)\nh\n(Type an exact answer.)\nB.\nThe limit does not exist.\nlim h -> 0 Start(StartFraction 1)/(4 + h) − one fourth OverOver h EndEndFraction)Select the correct choice below and , if necessary , fill in the answer box to complete your choice."
+  },
+  "2.3.41-Setup & Solve": {
+    "exam": "exam1",
+    "objective": "Evaluate two-sided limits using limit laws and theorems.",
+    "summary": "Find the following limit or state that it does not exist.",
+    "fullText": "Part 1\nFind the following limit or state that it does not exist.\nlim x -> 361 (√(x) − 19)/(x − 361)\nx→361\nx − 19\nx − 361\nPart 1\nReplace the limit with an equivalent limit that can be evaluated by direct substitution.\nlim x -> 361 (√(x) − 19)/(x − 361)\nx→361\nx − 19\nx − 361\nlim x -> 361\nx→361\n(Type an expression. Simplify your answer.)\nPart 2\nEvaluate the limit, if possible. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> 361 (√(x) − 19)/(x − 361)\nx→361\nx − 19\nx − 361\n(Type an exact answer.)\nB.\nThe limit does not exist.\nlim x -> 361 (√(x) − 19)/(x − 361))Select the correct choice below and , if necessary , fill in the answer box to complete your choice."
+  },
+  "2.3.47-Setup & Solve": {
+    "exam": "exam1",
+    "objective": "Evaluate two-sided limits using limit laws and theorems.",
+    "summary": "Find the following limit or state that it does not exist.",
+    "fullText": "Part 1\nFind the following limit or state that it does not exist.\nlim h -> 0 (√(256 + h) − 16)/(h)\nh→0\n256 + h − 16\nPart 1\nReplace the limit with an equivalent limit that can be evaluated by direct substitution.\nlim h -> 0 (√(256 + h) − 16)/(h)\nh→0\n256 + h − 16\nlim h -> 0\nh→0\n(Type an expression. Simplify your answer.)\nPart 2\nEvaluate the limit, if possible. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nlim h -> 0 (√(256 + h) − 16)/(h)\nh→0\n256 + h − 16\n(Type an exact answer.)\nB.\nThe limit does not exist.\nlim h -> 0 (√(256 + h) − 16)/(h))Select the correct choice below and , if necessary , fill in the answer box to complete your choice."
+  },
+  "2.4.25": {
+    "exam": "exam1",
+    "objective": "Evaluate limits analytically.",
+    "summary": "Determine the following limits.",
+    "fullText": "Part 1\nDetermine the following limits.\na.\nlim x -> − 4^(− ((x − 1)(x − 4))/(x + 4))\nx→−4−\n(x − 1)(x − 4)\nx + 4\nb.\nlim x -> − 4^(+ ((x − 1)(x − 4))/(x + 4))\nx→−4+\n(x − 1)(x − 4)\nx + 4\nc.\nlim x -> − 4 ((x − 1) (x − 4))/(x + 4)\nx→−4\n(x − 1)(x − 4)\nx + 4\nPart 1\na. Select the correct choice and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> − 4^(− ((x − 1)(x − 4))/(x + 4))\nx→−4−\n(x − 1)(x − 4)\nx + 4\n(Simplify your answer.)\nB.\nThe limit does not exist and is neither\ninfinity\n∞ nor\ninfinity\n∞.\nPart 2\nb. Select the correct choice and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> − 4^(+ ((x − 1)(x − 4))/(x + 4))\nx→−4+\n(x − 1)(x − 4)\nx + 4\n(Simplify your answer.)\nB.\nThe limit does not exist and is neither\ninfinity\n∞ nor\ninfinity\n∞.\nPart 3\nc. Select the correct choice and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> − 4 ((x − 1) (x − 4))/(x + 4)\nx→−4\n(x − 1)(x − 4)\nx + 4\n(Simplify your answer.)\nB.\nThe limit does not exist and is neither\ninfinity\n∞ nor\ninfinity\n∞.\nlim x -> − 4^(+ ((x − 1)(x − 4))/(x + 4)c.limx-> − 4((x − 1)(x − 4))/(x + 4)Selectthecorrectchoiceand , ifnecessary , fillintheanswerboxtocompleteyourchoice.inputfield²Selectthecorrectchoiceand , ifnecessary , fillintheanswerboxtocompleteyourchoice.inputfield³Selectthecorrectchoiceand , ifnecessary , fillintheanswerboxtocompleteyourchoice.)"
+  },
+  "2.4.47": {
+    "exam": "exam1",
+    "objective": "Find vertical asymptotes.",
+    "summary": "Find all vertical asymptotes, x",
+    "fullText": "Part 1\nFind all vertical asymptotes, x\n= a , of the following function. For each value of a , evaluate\nlim x -> a^(+ f) (x)\nx→a+\nf(x),\nlim x -> a^(−f) (x)\nx→a−\nf(x), and\nlim x -> a f(x)\nx→a\nf(x). Use\ninfinity\n∞ or\ninfinity\n∞ when appropriate.\nf(x) =\nx² − 9x + 14\nx² − 6x + 8"
+  },
+  "2.4.35-Setup & Solve": {
+    "exam": "exam1",
+    "objective": "Evaluate limits analytically.",
+    "summary": "Determine the following limit, using",
+    "fullText": "Part 1\nDetermine the following limit, using\ninfinity\n∞ or\ninfinity\n∞ when appropriate, or state that it does not exist.\nlim x -> 1^(+ (x² − 7x + 12)/(x − 1))\nx→1+\nx² − 7x + 12\nx − 1\nPart 1\nSimplify the expression inside the limit, if possible. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> 1^(+ (x² − 7x + 12)/(x − 1) = limx->1^(+ nothing))\nlim x -> 1^(+ (x² − 7x + 12)/(x − 1))\nx→1+\nx² − 7x + 12\nx − 1\nlim x -> 1^(+ nothing)\nx→1+\nB.\nThe expression inside the limit cannot be simplified.\nPart 2\nNow, evaluate the limit. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> 1^(+ (x² − 7x + 12)/(x − 1))\nx→1+\nx² − 7x + 12\nx − 1\n(Simplify your answer.)\nB.\nThe limit does not exist and is neither\ninfinity\n∞ nor\ninfinity\n∞.\nlim x -> 1^(+ (x² − 7x + 12)/(x − 1)Selectthecorrectchoicebelowand , ifnecessary , fillintheanswerboxtocompleteyourchoice.inputfield²Selectthecorrectchoicebelowand , ifnecessary , fillintheanswerboxtocompleteyourchoice.)"
+  },
+  "2.4.45-Setup & Solve": {
+    "exam": "exam1",
+    "objective": "Find vertical asymptotes.",
+    "summary": "a.",
+    "fullText": "Part 1\nAnalyze the following limits and find the vertical asymptotes of f(x)\n(x − 1)/(x² − 1)\na.\nlim x -> 1 f(x)\nx→1\nf(x) = b. lim x -> − 1^(−f) (x) lim x→ − 1 − f(x) c. lim x -> − 1^(+ f) (x) lim x→ − 1 + f(x)\nPart 1\na. Rewrite the given limit in a way that can be evaluated using direct substitution.\nlim x -> 1 (x − 1)/(x² − 1)\nx→1\nx − 1\nx² − 1\nlim x -> 1\nx→1\n(Simplify your answer.)\nPart 2\nNow, evaluate the limit. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> 1 f(x)\nx→1\nf(x) = (Simplify your answer.) B. The limit does not exist and is neither infinity ∞ nor − infinity ∞.\nPart 3\nb. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> − 1^(−f) (x)\nx→−1−\nf(x) = (Simplify your answer.) B. The limit does not exist and is neither infinity ∞ nor − infinity ∞.\nPart 4\nc. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> − 1^(+ f) (x)\nx→−1+\nf(x) = (Simplify your answer.) B. The limit does not exist and is neither infinity ∞ nor − infinity ∞.\nPart 5\nWhere are the vertical asymptotes of the function, if any exist? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe vertical asymptote(s) occur(s) at x\n(Use a comma to separate answers as needed. Type an integer or a simplified fraction.)\nB.\nThere are no vertical asymptotes.\nAnalyze the following limits and find the vertical asymptotes of f(x)(x − 1)/(x² − 1).)Select the correct choice below and , if necessary , fill in the answer box to complete your choice.input field 3Select the correct choice below and , if necessary , fill in the answer box to complete your choice.input field 4Select the correct choice below and , if necessary , fill in the answer box to complete your choice.input field 5Select the correct choice below and , if necessary , fill in the answer box to complete your choice."
+  },
+  "2.4.33-Setup & Solve": {
+    "exam": "exam1",
+    "objective": "Evaluate limits analytically.",
+    "summary": "Determine the following limit, using",
+    "fullText": "Part 1\nDetermine the following limit, using\ninfinity\n∞ or\ninfinity\n∞ when appropriate, or state that it does not exist.\nlim x -> 0 (x⁶ − 6 x⁵)/(x⁵)\nx→0\nx⁶ − 6x⁵\nPart 1\nSimplify the expression inside the limit, if possible. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> 0 (x⁶ − 6 x⁵)/(x⁵) = lim x→0 x⁶ − 6x⁵\nlim x→0 B.\nThe expression inside the limit cannot be simplified.\nPart 2\nNow, evaluate the limit. Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> 0 (x⁶ − 6 x⁵)/(x⁵)\nx→0\nx⁶ − 6x⁵\n(Type an integer or a simplified fraction.)\nB.\nThe limit does not exist and is neither\ninfinity\n∞ nor\ninfinity\n∞.\nlim x -> 0 (x⁶ − 6 x⁵)/(x⁵)Select the correct choice below and , if necessary , fill in the answer box to complete your choice.input field 2Select the correct choice below and , if necessary , fill in the answer box to complete your choice."
+  },
+  "2.5.9": {
+    "exam": "exam1",
+    "objective": "Evaluate limits at infinity.",
+    "summary": "Evaluate the following limit.",
+    "fullText": "Part 1\nEvaluate the following limit.\nlim x -> infinity (5 + (8)/(x²))\nx→∞\n5 + 8x²"
+  },
+  "2.5.21": {
+    "exam": "exam1",
+    "objective": "Evaluate limits at infinity.",
+    "summary": "Determine the following limit.",
+    "fullText": "Part 1\nDetermine the following limit.\nlim x -> infinity (4 x⁵ − 5 x⁴ + 1)\nx→∞\n4x⁵ − 5x⁴ + 1"
+  },
+  "2.5.39": {
+    "exam": "exam1",
+    "objective": "Find horizontal and vertical asymptotes of functions.",
+    "summary": "Evaluate",
+    "fullText": "Part 1\nEvaluate\nlim x -> infinity f(x)\nx→∞\nf(x) and\nlim x -> − infinity f(x)\nx→−∞\nf(x) for the following function. Then give the horizontal asymptote of f (if any).\nf(x) =\n16x² − 9x + 8\n4x² + 1\nPart 1\nEvaluate\nlim x -> infinity f(x)\nx→∞\nf(x). Select the correct choice and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> infinity f(x)\nx→∞\nf(x) = (Simplify your answer.) B. The limit does not exist and is neither infinity ∞ nor − infinity ∞.\nPart 2\nEvaluate\nlim x -> − infinity f(x)\nx→−∞\nf(x). Select the correct choice and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> − infinity f(x)\nx→−∞\nf(x) = (Simplify your answer.) B. The limit does not exist and is neither infinity ∞ nor − infinity ∞.\nPart 3\nIdentify the horizontal asymptote(s). Select the correct choice and, if necessary, fill in the answer box(es) to complete your choice.\nA.\nThe function has two horizontal asymptotes. The top asymptote is\nand the bottom asymptote is\n(Type equations.)\nB.\nThe function has one horizontal asymptote,\n(Type an equation.)\nC.\nThere function has no horizontal asymptotes.\nf(x) = (16 x² − 9 x + 8)/(4 x² + 1)Select the correct choice and , if necessary , fill in the answer box to complete your choice.input field 2Select the correct choice and , if necessary , fill in the answer box to complete your choice.input field 3input field 4input field 5Select the correct choice and , if necessary , fill in the answer box(es) to complete your choice."
+  },
+  "2.5.41": {
+    "exam": "exam1",
+    "objective": "Find horizontal and vertical asymptotes of functions.",
+    "summary": "Determine",
+    "fullText": "Part 1\nDetermine\nlim x -> infinity\nx→∞\nf(x) and\nlim x -> − infinity\nx→−∞\nf(x) for the following function. Then give the horizontal asymptotes of f, if any.\nf(x) =\n2x⁵ − 7\nx⁶ + 5x⁴\nPart 1\nEvaluate\nlim x -> infinity\nx→∞\nf(x). Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> infinity\nx→∞\n(2 x⁵ − 7)/(x⁶ + 5 x⁴)\n(Simplify your answer.)\nB.\nThe limit does not exist and is neither\ninfinity\n∞ nor\ninfinity\n∞.\nPart 2\nEvaluate\nlim x -> − infinity\nx→−∞\nf(x). Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nlim x -> − infinity\nx→−∞\n(2 x⁵ − 7)/(x⁶ + 5 x⁴)\n(Simplify your answer.)\nB.\nThe limit does not exist and is neither\ninfinity\n∞ nor\ninfinity\n∞.\nPart 3\nIdentify the horizontal asymptotes. Select the correct choice below and, if necessary, fill in the answer box(es) to complete your choice.\nA.\nThe function has one horizontal asymptote,\n(Type an equation.)\nB.\nThe function has two horizontal asymptotes. The top asymptote is\nand the bottom asymptote is\n(Type equations.)\nC.\nThe function has no horizontal asymptotes.\nf(x) = (2 x⁵ − 7)/(x⁶ + 5 x⁴)Select the correct choice below and , if necessary , fill in the answer box to complete your choice.input field 2Select the correct choice below and , if necessary , fill in the answer box to complete your choice.input field 3input field 4input field 5Select the correct choice below and , if necessary , fill in the answer box(es) to complete your choice."
+  },
+  "2.5.12": {
+    "exam": "exam1",
+    "objective": "Evaluate limits at infinity.",
+    "summary": "Determine the following limit at infinity.",
+    "fullText": "Part 1\nDetermine the following limit at infinity.\nlim x -> infinity\nx→∞\n(6 + 3 x + 9 x²)/(x²)"
+  },
+  "2.5.25": {
+    "exam": "exam1",
+    "objective": "Evaluate limits at infinity.",
+    "summary": "Determine the following limit.",
+    "fullText": "Part 1\nDetermine the following limit.\nlim x -> infinity\nx→∞\n(25 x⁵ + 9 x³ − 6 x²)/(20 x⁵ + x³ + 6 x² + 2)"
+  },
+  "2.5.28": {
+    "exam": "exam1",
+    "objective": "Evaluate limits at infinity.",
+    "summary": "Determine the following limit.",
+    "fullText": "Part 1\nDetermine the following limit.\nlim x -> infinity\nx→∞\n(3 x⁵ + 4)/(7 x⁶ + x⁵ − 5 x²)"
+  },
+  "2.5.29": {
+    "exam": "exam1",
+    "objective": "Evaluate limits at infinity.",
+    "summary": "Determine the following limit.",
+    "fullText": "Part 1\nDetermine the following limit.\nlim w -> infinity (8 w² + 6 w + 1)/(√(4 w⁴ + 2 w³))\nw→∞\n8w² + 6w + 1\n4w⁴ + 2w³"
+  },
+  "2.5.31": {
+    "exam": "exam1",
+    "objective": "Evaluate limits at infinity.",
+    "summary": "Determine the following limit.",
+    "fullText": "Part 1\nDetermine the following limit.\nlim x -> − infinity (√(121 x² + x))/(x)\nx→−∞\n121x² + x"
+  },
+  "2.6.23": {
+    "exam": "exam1",
+    "objective": "Determine if functions are continuous at given values.",
+    "summary": "Determine whether the following function is continuous at a. Use the continuity checklist to j…",
+    "fullText": "Part 1\nDetermine whether the following function is continuous at a. Use the continuity checklist to justify your answer.\nf(x) = (8 x − 2)/(x² − 10 x + 16)\n, a\n2"
+  },
+  "2.6.28": {
+    "exam": "exam1",
+    "objective": "Find points of discontinuity or intervals of continuity.",
+    "summary": "Determine the interval(s) on which the following function is continuous.",
+    "fullText": "Part 1\nDetermine the interval(s) on which the following function is continuous.\nf(x) = (x² − 8 x + 15)/(x² − 9)\nPart 1\nThe function is continuous on the interval(s)\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)\nThe function is continuous on the interval(s)(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)"
+  },
+  "2.6.30": {
+    "exam": "exam1",
+    "objective": "Find points of discontinuity or intervals of continuity.",
+    "summary": "Determine the intervals on which the following function is continuous.",
+    "fullText": "Part 1\nDetermine the intervals on which the following function is continuous.\nf(x) = (x + 2)/(x² − 4)\nPart 1\nThe function is continuous on the interval(s)\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)\nThe function is continuous on the interval(s)(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)"
+  },
+  "2.7.11": {
+    "exam": "exam1",
+    "objective": "Determine delta values associated with the precise definition of a limit.",
+    "summary": "a. If",
+    "fullText": "Part 1\nThe function f in the figure satisfies\nlim x -> 4 f(x) = 8\nx→4\nf(x) = 8. Determine the largest value of\ndelta\nδ\ngreater than\n>0 satisfying each statement.\n(0 , 1)\nx\ny = f(x)\nA coordinate system has a horizontal x-axis labeled from 0 to 6 in increments of 1 and a vertical y-axis labeled from 0 to 12 in increments of 1. From left to right , a smooth curve labeled y = f(x) falls at a decreasing rate through (0 , 6.2) to (1.3 , 4.7) , rises at an increasing rate to a closed circle at (4 , 8) , and rises at a decreasing rate through (6.11). The curve passes through the points (2 , 5) , (3.5 , 7.0) , (4.5 , 9.0) , and (6.11). All coordinates are approximate.\na. If\n0 less than |x − 4| less than delta\n0<x−4<δ, then\n|f(x) − 8| less than 3\nf(x)−8<3.\nb. If\n0 less than |x − 4| less than delta\n0<x−4<δ, then\n|f(x) − 8| less than 1\nf(x)−8<1.\nPart 1\na. Determine the largest value of\ndelta\nδ\ngreater than\n>0 satisfying the following statement.\nIf\n0 less than |x − 4| less than delta\n0<x−4<δ, then\n|f(x) − 8| less than 3\nf(x)−8<3.\ndelta\nδ\n(Simplify your answer.)\nPart 2\nb. Determine the largest value of\ndelta\nδ\ngreater than\n>0 satisfying the following statement.\nIf\n0 less than |x − 4| less than delta\n0<x−4<δ, then\n|f(x) − 8| less than 1\nf(x)−8<1.\nRound to the nearest half unit.\ndelta\nδ\n(Simplify your answer.)\nIf 0 less than |x − 4| less than delta , then |f(x) − 8| less than 3.(Simplify your answer.)Round to the nearest half unit.(Simplify your answer.)"
+  },
+  "2.7.12": {
+    "exam": "exam1",
+    "objective": "Determine delta values associated with the precise definition of a limit.",
+    "summary": "a. If 0",
+    "fullText": "Part 1\nThe function f in the figure satisfies\nlim x -> 7 f(x) = 6\nx→7\nf(x) = 6. Determine the largest value of\ndelta\nδ\ngreater than\n>0 satisfying each statement.\na. If 0\nless than\n<\n|x − 7|\nless than\n<\ndelta\nδ, then\n|f(x) − 6|\nless than\n<1.\nb. If 0\nless than\n<\n|x − 7|\nless than\n<\ndelta\nδ, then\n|f(x) − 6|\nless than\n<0.5.\n(7 , 0)\nx\ny = f(x)\nA coordinate system has a horizontal x-axis from 0 to 14 in increments of 1 and a vertical y-axis from 0 to 14 in increments of 1. From left to right , a smooth curve labeled y = f(x) passes through the points (4 , 5) , (5 , 5.5) , (9 , 6.5) , and (10 , 7). A solid dot is plotted on the curve at (7 , 6).\nPart 1\na.\ndelta\nδ\nPart 2\nb.\ndelta\nδ\na.b."
+  },
+  "3.2.35": {
+    "exam": "exam1",
+    "objective": "Find derivatives of functions using limits.",
+    "summary": "a. Find the derivative function",
+    "fullText": "Part 1\na. Find the derivative function\nf′\nf′ for the function f.\nb. Find an equation of the line tan to the graph of f at (a , f(a)) for the given value of a.\nf(x) = 2x² + 3x − 2 , a\nnegative 2\n− 2\nPart 1\na.\nf′ (x)\nPart 2\nb. y\na. f′ (x right parenthesisy"
+  },
+  "3.2.36": {
+    "exam": "exam1",
+    "objective": "Find derivatives of functions using limits.",
+    "summary": "a. Find the derivative function",
+    "fullText": "Part 1\na. Find the derivative function\nf′\nf′ for the following function f.\nb. Find an equation of the line tan to the graph of f at (a , f(a)) for the given value of a.\nf(x) = 4 4x² − 2 2x + 7 ; a 1\nPart 1\na. The derivative function is\nf′ (x)\nPart 2\nb. An equation of the tan line is y\nThe derivative function is f′ (x).An equation of the tan line is y."
+  },
+  "3.2.37": {
+    "exam": "exam1",
+    "objective": "Find derivatives of functions using limits.",
+    "summary": "a. Find the derivative function",
+    "fullText": "Part 1\na. Find the derivative function\nf′\nf′ for the function f.\nb. Determine an equation of the line tan to the graph of f at (a , f(a)) for the given value of a.\nf(x) = √(5 x + 4) 5x + 4 , a 9\nPart 1\na.\nf′\nf′(x)\nPart 2\nb. y\nf′(x)y"
+  },
+  "3.2.38": {
+    "exam": "exam1",
+    "objective": "Find derivatives of functions using limits.",
+    "summary": "a. Find the derivative function",
+    "fullText": "Part 1\na. Find the derivative function\nf′\nf′ for the function f.\nb. Determine an equation of the line tan to the graph of f at (a , f(a)) for the given value of a.\nf(x) = √(x + 6) x + 6 , a 10\nPart 1\na.\nf′\nf′(x)\nPart 2\nb. y\nf′(x)y"
+  },
+  "3.2.39": {
+    "exam": "exam1",
+    "objective": "Find derivatives of functions using limits.",
+    "summary": "a. Find the derivative function",
+    "fullText": "Part 1\na. Find the derivative function\nf′\nf′ for the function f.\nb. Determine an equation of the line tan to the graph of f at (a , f(a)) for the given value of a.\nf(x) = (6)/(5 x + 2)\n, a\nnegative 1\n− 1\nPart 1\na.\nf′\nf′(x)\nPart 2\nb. y\nf′(x)y"
+  },
+  "3.1.34": {
+    "exam": "exam1",
+    "objective": "Use limit definitions to find equations of tangent lines.",
+    "summary": "a. For the function and point below, find",
+    "fullText": "Part 1\na. For the function and point below, find\nf′ (a)\nf′(a).\nb. Determine an equation of the line tan to the graph of f at (a , f(a)) for the given value of a.\nf(x) = − 3x² , a\nnegative 2\n− 2\nPart 1\na.\nf′ (a)\n(Simplify your answer.)\nPart 2\nb. y\na. f′ (a)(Simplify your answer.)y"
+  },
+  "3.1.37": {
+    "exam": "exam1",
+    "objective": "Use limit definitions to find equations of tangent lines.",
+    "summary": "a. For the function and point below, find",
+    "fullText": "Part 1\na. For the function and point below, find\nf′ (a)\nf′(a).\nb. Determine an equation of the line tan to the graph of f at (a , f(a)) for the given value of a.\nf(x) = (4)/(√(x))\n, a\none ninth\n(1 , 9)\nPart 1\na.\nf′ (a)\nPart 2\nb. y\na. f′ (a right parenthesisy"
+  },
+  "3.1.39": {
+    "exam": "exam1",
+    "objective": "Use limit definitions to find equations of tangent lines.",
+    "summary": "a. For the following function, find",
+    "fullText": "Part 1\na. For the following function, find\nf′\nf′(a).\nb. Determine an equation of the line tan to the graph of f at (a , f(a)) for the given value of a.\nf(x) = √(7 x + 4) 7x + 4 , a 3\nPart 1\na.\nf′\nf′(a)\n(Simplify your answer.)\nPart 2\nb. The equation of the line tan to the graph of f at the given value of a is y\nf′(a)(Simplify your answer.)The equation of the line tan to the graph of f at the given value of a is y."
+  },
+  "3.3.25": {
+    "exam": "exam2",
+    "objective": "Find derivatives using rules of differentiation.",
+    "summary": "Find the derivative of the following function.",
+    "fullText": "Part 1\nFind the derivative of the following function.\nh (t)\nt²/2 + 9\nPart 1\nh prime (t)\nh′(t)\nh prime (t)"
+  },
+  "3.3.28": {
+    "exam": "exam2",
+    "objective": "Find derivatives using rules of differentiation.",
+    "summary": "Find the derivative of the following function.",
+    "fullText": "Part 1\nFind the derivative of the following function.\ng(t)\n6 √(t)\nPart 1\ng prime (t)\ng′(t)\ng prime (t)"
+  },
+  "3.3.35": {
+    "exam": "exam2",
+    "objective": "Find derivatives using rules of differentiation.",
+    "summary": "Find the derivative of the following function.",
+    "fullText": "Part 1\nFind the derivative of the following function.\ng (w)\n9 w⁸ + 3 w² + 19 w\nPart 1\ng prime (w)\ng′(w)\ng prime (w)"
+  },
+  "3.3.48": {
+    "exam": "exam2",
+    "objective": "Simplify products and quotients and find their derivatives.",
+    "summary": "Find the derivative of the following function by first expanding the expression.",
+    "fullText": "Part 1\nFind the derivative of the following function by first expanding the expression.\ng(r)\n= (\n6\n6r³\n3\n3r\n7\n7)(r²\nPart 1\ng prime (r)\ng′(r)\ng prime (r)"
+  },
+  "3.3.49": {
+    "exam": "exam2",
+    "objective": "Simplify products and quotients and find their derivatives.",
+    "summary": "Find the derivative of the following function by first simplifying the expression.",
+    "fullText": "Part 1\nFind the derivative of the following function by first simplifying the expression.\nf(w)\n(7 w⁷ − 5 w³)/(4 w³)\nPart 1\nf′ (w)"
+  },
+  "3.4.20": {
+    "exam": "exam2",
+    "objective": "Find derivatives of products and quotients of functions involving exponentials.",
+    "summary": "Part 1",
+    "fullText": "Part 1\nCompute the derivative of the following function.\nf(x) = 10 x + 13 x e^x\n10x + 13xex\nPart 1\nf′ (x)"
+  },
+  "3.4.24-Setup & Solve": {
+    "exam": "exam2",
+    "objective": "Find derivatives of products and quotients of functions involving exponentials.",
+    "summary": "Find and simplify the derivative of the following function.",
+    "fullText": "Part 1\nFind and simplify the derivative of the following function.\ng(x) = ex³x² − 6x + 6\nPart 1\nWhich of the following shows how to find the derivative of g(x)?\nA.\ng prime (x) = ((3 x² − 6 x + 6) (d/dx (3 x² − 6 x + 6)) + (e^x) (d/dx (e^x)))/((3 x² − 6 x + 6) ²)\ng′(x)\n((3 x² − 6 x + 6) (d/dx (3 x² − 6 x + 6)) + (e^x) (d/dx (e^x)))/((3 x² − 6 x + 6) ²)\n3x² − 6x + 6 + e^x\nd\ndx\nex\n3x² − 6x + 62\nB.\ng prime (x) = ((3 x² − 6 x + 6) (d/dx (e^x)) + (e^x) (d/dx (3 x² − 6 x + 6)))/((e^x) ²)\ng′(x)\n((3 x² − 6 x + 6) (d/dx (e^x)) + (e^x) (d/dx (3 x² − 6 x + 6)))/((e^x) ²)\ne^x + e^x\nd\ndx\n3x² − 6x + 6\nex²\nC.\ng prime (x) = (e^x) (d/dx (e^x)) + (3 x² − 6 x + 6) (d/dx (3 x² − 6 x + 6))\ng′(x)\n(e^x) (d/dx (e^x)) + (3 x² − 6 x + 6) (d/dx (3 x² − 6 x + 6))\nex\nd\ndx\ne^x + 3x² − 6x + 6\nd\ndx\n3x² − 6x + 6\nD.\ng prime (x) = (d/dx (e^x)) (3 x² − 6 x + 6) + (e^x) (d/dx (3 x² − 6 x + 6))\ng′(x)\n(d/dx (e^x)) (3 x² − 6 x + 6) + (e^x) (d/dx (3 x² − 6 x + 6))\nex³x² − 6x + 6 + e^x\nd\ndx\n3x² − 6x + 6\nPart 2\nThe derivative of\ng(x) = ex³x² − 6x + 6 is\nWhich of the following shows how to find the derivative of g(x)?The derivative of g (x) = e^x (3 x² − 6 x + 6) is."
+  },
+  "3.4.22": {
+    "exam": "exam2",
+    "objective": "Find derivatives of products and quotients of algebraic expressions.",
+    "summary": "Find the derivative of the following function.",
+    "fullText": "Part 1\nFind the derivative of the following function.\nf(x) =\nx³ − 7x² + x\nx − 1\nPart 1\nf′(x) ="
+  },
+  "3.4.25-Setup & Solve": {
+    "exam": "exam2",
+    "objective": "Find derivatives of products and quotients of functions involving exponentials.",
+    "summary": "Find and simplify the derivative of the following function.",
+    "fullText": "Part 1\nFind and simplify the derivative of the following function.\nf(x) = (e^x)/(5 e^x + 8)\nPart 1\nWhich of the following shows how to find the derivative of f(x)?\nA.\nf′ (x) = (5 e^x + 8) (d/dx (e^(x)) − (eSuperscriptx)(d/dx(5eSuperscriptx) + 8))\ne^x − e^x\nd\ndx\n5e^x + 8\nB.\nf′ (x) = ((5 e^x + 8) (d/dx (e^x)) − (e^x) (d/dx (5 e^x + 8)))/((5 e^x + 8) ²)\ne^x − e^x\nd\ndx\n5e^x + 8\n5e^x + 82\nC.\nf′ (x) = ((e^x) (d/dx (e^(x)) + (5eSuperscriptx) + 8) (d/dx (5 e^x + 8)))/((5 e^x + 8))\nex\nd\ndx\ne^x + 5e^x + 8\nd\ndx\n5e^x + 8\nD.\nf′ (x) = (e^(x)(d/dx(eSuperscriptx)) + (5eSuperscriptx) + 8) (d/dx (5 e^x + 8))\nex\nd\ndx\ne^x + 5e^x + 8\nd\ndx\n5e^x + 8\nPart 2\nThe derivative of f(x)\n(e^x)/(5 e^x + 8)\nWhich of the following shows how to find the derivative of f(x)?The derivative of f(x)(e^x)/(5 e^x + 8) is."
+  },
+  "3.5.29": {
+    "exam": "exam2",
+    "objective": "Find derivatives of products, quotients, and powers of functions with trigonometric...",
+    "summary": "Find",
+    "fullText": "Part 1\nFind\ndy/dx\nfor the following function.\ny\n(6 cos x)/(6 − 7 cos x)\nPart 1\ndy/dx"
+  },
+  "3.5.34": {
+    "exam": "exam2",
+    "objective": "Find derivatives of products, quotients, and powers of functions with trigonometric...",
+    "summary": "Find the derivative of the following function.",
+    "fullText": "Part 1\nFind the derivative of the following function.\ny =\n6xsinx\n1 + cos x\nPart 1\ndy/dx"
+  },
+  "3.5.59": {
+    "exam": "exam2",
+    "objective": "Find higher order derivatives of functions involving trigonometric expressions.",
+    "summary": "Find",
+    "fullText": "Part 1\nFind\ny double prime\ny′′.\ny = exsinx\nPart 1\ny double prime\ny′′\ny double prime"
+  },
+  "3.5.61": {
+    "exam": "exam2",
+    "objective": "Find higher order derivatives of functions involving trigonometric expressions.",
+    "summary": "Find",
+    "fullText": "Part 1\nFind\ny double prime\ny′′ for the following function.\n8 tan x\nPart 1\ny double prime\ny′′\ny double prime"
+  },
+  "3.6.29": {
+    "exam": "exam2",
+    "objective": "Find average and marginal cost and profit functions.",
+    "summary": "Consider the following cost function.",
+    "fullText": "Part 1\nConsider the following cost function.\na. Find the average cost and marginal cost functions.\nb. Determine the average and marginal cost when x\n= a.\nc. Interpret the values obtained in part (b).\nC(x) = 1900 + 0.9x , 0\nless than or =\n≤x\nless than or =\n≤5000, a\n2400\nPart 1\na. The average cost function is\nUpper C overbar (x)\nC(x)\nPart 2\nThe marginal cost function is\nUpper C prime (x)\nC′(x)\nPart 3\nb. The average cost when x\n2400\n2400 is $\n. (Round to two decimal places as needed.)\nPart 4\nThe marginal cost when x\n2400\n2400 is $\nper item. (Round to two decimal places as needed.)\nPart 5\nc. The average cost per item is about $\nwhen\nitems are produced.\n(Round to two decimal places as needed.)\nPart 6\nThe cost of producing the\n2401\n2401st item is $\n(Round to two decimal places as needed.)\nThe average cos t function is Upper C overbar (x).The marginal cos t function is Upper C prime (x).The average cos t when x2400 is $(Round to two decimal places as needed.)The marginal cos t when x2400 is $(Round to two decimal places as needed.)The average cos t per item is about $whenwhen(Round to two decimal places as needed.)The cos t of producing the 2401st item is $(Round to two decimal places as needed.)"
+  },
+  "3.6.32": {
+    "exam": "exam2",
+    "objective": "Find average and marginal cost and profit functions.",
+    "summary": "Consider the following cost function.",
+    "fullText": "Part 1\nConsider the following cost function.\na. Find the average cost and marginal cost functions.\nb. Determine the average and marginal cost when x\n= a.\nc. Interpret the values obtained in part (b).\nC(x) = − 0.03x² + 190x + 800 , 0\nless than or =\n≤x\nless than or =\n≤\n(1000 , 800)\nPart 1\na. The average cost function is\nUpper C overbar (x)\nC(x)\nPart 2\nThe marginal cost is function is\nUpper C prime (x)\nC′(x)\nPart 3\nb. The average cost when x\n= a is $\n. (Round to two decimal places as needed.)\nPart 4\nThe marginal cost when x\n= a is $\n. (Round to two decimal places as needed.)\nPart 5\nc. The average cost per item is about $\nwhen\n800\n800 items are produced.\n(Round to two decimal places as needed.)\nPart 6\nThe cost of producing the\n801\n801st item is about $\n(Round to two decimal places as needed.)\nThe average cos t function is Upper C overbar (x).The marginal cos t is function is Upper C prime (x).The average cos t when xa is $(Round to two decimal places as needed.)The marginal cos t when xa is $(Round to two decimal places as needed.)The average cos t per item is about $800(Round to two decimal places as needed.)The cos t of producing the 801st item is about $(Round to two decimal places as needed.)"
+  },
+  "3.6.36": {
+    "exam": "exam2",
+    "objective": "Solve applications involving position, velocity, and acceleration functions.",
+    "summary": "Part 1",
+    "fullText": "Part 1\nAn object is dropped from a tower,\n1936\n1936 ft above the ground. The object's height above the ground t seconds after it is dropped is s(t)\n1936 − 16 t²\n1936−16t2. Determine the velocity and acceleration of the object the moment it reaches the ground.\nPart 1\nThe velocity of the object the moment it reaches the ground is\nft/s.\n(Simplify your answer.)\nPart 2\nThe acceleration of the object the moment it reaches the ground is\nft/s\n²\n2.\n(Simplify your answer.)\nThe velocity of the object the moment it reaches the ground is(Simplify your answer.)The acceleration of the object the moment it reaches the ground is(Simplify your answer.)"
+  },
+  "3.7.14": {
+    "exam": "exam2",
+    "objective": "Find derivatives of basic functions using the chain rule.",
+    "summary": "Find",
+    "fullText": "Part 1\nFind\nf′ (x)\nf′(x) if f(x)\n4 e^(6x)\n4e⁶x.\nPart 1\nf′ (x)"
+  },
+  "3.7.15": {
+    "exam": "exam2",
+    "objective": "Identify inner functions and outer functions for composite functions, and then apply...",
+    "summary": "For the following composite function, find an inner function u",
+    "fullText": "Part 1\nFor the following composite function, find an inner function u\n= g(x) and an outer function y\n= f(u) such that y\n= f(g(x)). Then calculate\ndy/dx\n(2 x + 9) ⁸\n(2x + 9)8\nPart 1\nIdentify the inner and outer functions. Choose the correct answer.\nA.\nu\n= g(x)\n2 x plus 9\n2x + 9 and y\n= f(u)\nu⁸\nB.\nu\n= g(x)\n2\n2x and y\n= f(u)\nu⁸\nC.\nu\n= g(x)\nx⁸ and y\n= f(u)\n2 u plus 9\n2u + 9\nD.\nu\n= g(x)\n2 x plus 9\n2x + 9 and y\n= f(u)\n= u\nPart 2\ndy/dx"
+  },
+  "3.7.19": {
+    "exam": "exam2",
+    "objective": "Identify inner functions and outer functions for composite functions, and then apply...",
+    "summary": "For the following composite function, find an inner function u",
+    "fullText": "Part 1\nFor the following composite function, find an inner function u\n= g(x) and an outer function y\n= f(u) such that y\n= f(g(x)). Then calculate\ndy/dx\n√(4 x⁸ + 9)\nPart 1\nIdentify the inner and outer functions. Choose the correct answer.\nA.\nu\n= g(x)\n= x and y\n= f(u)\n√(u)\nB.\nu\n= g(x)\n4 x⁸ + 9\n4x⁸ + 9 and y\n= f(u)\n√(u)\nC.\nu\n= g(x)\n4 x⁸ + 9\n4x⁸ + 9 and y\n= f(u)\n= u\nD.\nu\n= g(x)\n√(x)\nx and y\n= f(u)\n4 u⁸ + 9\nPart 2\ndy/dx"
+  },
+  "3.7.20": {
+    "exam": "exam2",
+    "objective": "Identify inner functions and outer functions for composite functions, and then apply...",
+    "summary": "For the following composite function, find an inner function u",
+    "fullText": "Part 1\nFor the following composite function, find an inner function u\n= g(x) and an outer function y\n= f(u) such that y\n= f(g(x)). Then calculate\ndy/dx\n√(− 6 + 3 x)\nPart 1\nIdentify the inner and outer functions. Choose the correct answer.\nA.\nu\n= g(x)\nnegative 6\n− 6\n3\n3x and y\n= f(u)\n= u\nB.\nu\n= g(x)\n3\n3x and y\n= f(u)\n√(u)\nC.\nu\n= g(x)\nnegative 6\n− 6\n3\n3x and y\n= f(u)\n√(u)\nD.\nu\n= g(x)\n√(x)\nx and y\n= f(u)\nnegative 6\n− 6\n3\n3u\nPart 2\ndy/dx"
+  },
+  "3.7.24": {
+    "exam": "exam2",
+    "objective": "Identify inner functions and outer functions for composite functions, and then apply...",
+    "summary": "For the following composite function, find an inner function u",
+    "fullText": "Part 1\nFor the following composite function, find an inner function u\n= g(x) and an outer function y\n= f(u) such that y\n= f(g(x)). Then calculate\ndy/dx\nsin x/8\nPart 1\nIdentify the inner and outer functions. Choose the correct answer.\nA.\nu\n= g(x)\nsin x\nsinx and y\n= f(u)\nu/8\nB.\nu\n= g(x)\nsin x\nsinx and y\n= f(u)\n8 u\nC.\nu\n= g(x)\nx/8\nand y\n= f(u)\nsin u\nD.\nu\n= g(x)\n8 x\n8x and y\n= f(u)\nsin u\nPart 2\ndy/dx"
+  },
+  "3.7.29": {
+    "exam": "exam2",
+    "objective": "Find derivatives of basic functions using the chain rule.",
+    "summary": "Part 1",
+    "fullText": "Part 1\nCalculate the derivative of the following function.\ny\n√(15 x + 17)\nPart 1\ndy/dx"
+  },
+  "3.7.31": {
+    "exam": "exam2",
+    "objective": "Find derivatives of basic functions using the chain rule.",
+    "summary": "Part 1",
+    "fullText": "Part 1\nCalculate the derivative of the following function.\ny\n4 (6 x⁴ + 1)^(−8)\n46x⁴ + 1 − 8\nPart 1\ndy/dx"
+  },
+  "3.9.16": {
+    "exam": "exam2",
+    "objective": "Find derivatives involving logarithms and exponentials.",
+    "summary": "Find the derivative of the following function.",
+    "fullText": "Part 1\nFind the derivative of the following function.\nf(x) = 5x⁴lnx\nPart 1\nf′ (x)"
+  },
+  "3.9.36": {
+    "exam": "exam2",
+    "objective": "Find derivatives involving logarithms and exponentials.",
+    "summary": "Find the derivative of the following function.",
+    "fullText": "Part 1\nFind the derivative of the following function.\ny\nln (x² + 5)^(π)\nlnx² + 5π\nPart 1\ndy/dx\n(Type an exact answer, using\npi\nπ as needed.)\ndy/dx(Type an exact answer , using as needed.)"
+  },
+  "3.9.29": {
+    "exam": "exam2",
+    "objective": "Find derivatives involving logarithms and exponentials.",
+    "summary": "Find the derivative of the following function.",
+    "fullText": "Part 1\nFind the derivative of the following function.\ny\nln (ln (6 x))\nPart 1\ndy/dx\n(Use parentheses to clearly denote the argument of each function.)\ndy/dx(Use parentheses to clearly denote the argument of each function.)"
+  },
+  "3.9.30": {
+    "exam": "exam2",
+    "objective": "Find derivatives involving logarithms and exponentials.",
+    "summary": "Find the derivative of y with respect to",
+    "fullText": "Part 1\nFind the derivative of y with respect to\ntheta\nθ.\ny\nln (2 cos⁴ theta)\nln2cos4θ\nPart 1\n(dy)/(d theta)\ndθ\n(dy)/(d theta)"
+  },
+  "3.9.41": {
+    "exam": "exam2",
+    "objective": "Find derivatives involving logarithms and exponentials.",
+    "summary": "Find the derivative of y",
+    "fullText": "Part 1\nFind the derivative of y\n3 ² + cotangent x\n32 + cotx.\nPart 1\ndy/dx"
+  },
+  "3.9.43": {
+    "exam": "exam2",
+    "objective": "Find derivatives involving logarithms and exponentials.",
+    "summary": "Find the derivative of y",
+    "fullText": "Part 1\nFind the derivative of y\nx³ 6^x\nx36x.\nPart 1\ndy/dx"
+  },
+  "3.9.73": {
+    "exam": "exam2",
+    "objective": "Find derivatives involving logarithms and exponentials.",
+    "summary": "Part 1",
+    "fullText": "Part 1\nDifferentiate.\nf(x) = ln [((5 x + 9) (x + 3) ³)/((1 − 8 x) ⁴)]\n(5x + 9)(x + 3)3\n(1 − 8x)4\nPart 1\nd/dx [ln [((5 x + 9) (x + 3) ³)/((1 − 8 x) ⁴)]]\n(5x + 9)(x + 3)3\n(1 − 8x)4\nd/dx [ln [((5 x + 9) (x + 3) ³)/((1 − 8 x) ⁴)]]"
+  },
+  "3.10.23": {
+    "exam": "exam2",
+    "objective": "Find derivatives of functions involving inverse trigonometric functions.",
+    "summary": "Evaluate the derivative of the following function.",
+    "fullText": "Part 1\nEvaluate the derivative of the following function.\nf (z)\n8 cotangent^(−1) √(7 z)\n8cot − 1\n7z\nPart 1\nf′ (z)"
+  },
+  "3.10.29": {
+    "exam": "exam2",
+    "objective": "Find derivatives of functions involving inverse trigonometric functions.",
+    "summary": "Evaluate the derivative of the following function.",
+    "fullText": "Part 1\nEvaluate the derivative of the following function.\nf(x) = cos^(−1) (7/x) cos − 1 7 x\nPart 1\nf′ (x)"
+  },
+  "3.10.21": {
+    "exam": "exam2",
+    "objective": "Find derivatives of functions involving inverse trigonometric functions.",
+    "summary": "Find the derivative of the function f(y)",
+    "fullText": "Part 1\nFind the derivative of the function f(y)\nBold tan^(−1) (9 y⁴ + 5)\ntan − 19y⁴ + 5.\nPart 1\nf′ (y)"
+  },
+  "3.8.15": {
+    "exam": "exam3",
+    "objective": "Use implicit differentiation to find slopes of curves at given points.",
+    "summary": "a. Use implicit differentiation to find",
+    "fullText": "Part 1\na. Use implicit differentiation to find\ndy/dx\nb. Find the slope of the curve at the given point.\ny⁴ = 625x ; (81.15)\nPart 1\na.\ndy/dx\nPart 2\nb. The slope of the curve at(81.15)\n15) is\n. (Simplify your answer.)\na. dy/dxThe slope of the curve at (81.15) is(Simplify your answer.)"
+  },
+  "3.8.24": {
+    "exam": "exam3",
+    "objective": "Use implicit differentiation to find slopes of curves at given points.",
+    "summary": "a. Use implicit differentiation to find",
+    "fullText": "Part 1\na. Use implicit differentiation to find\ndy/dx\nb. Find the slope of the curve at the given point.\nx¹/5 + y¹/5 = 2 ;\n(1 , 1)\nPart 1\na.\ndy/dx\nPart 2\nb. The slope at\n(1 , 1)\n(1 , 1) is\n(Simplify your answer.)\na. dy/dxThe slope at (1 , 1) is.(Simplify your answer.)"
+  },
+  "3.11.11": {
+    "exam": "exam3",
+    "objective": "Solve related rates problems involving geometry.",
+    "summary": "a. At what rate is the area of the square changing when the sides are",
+    "fullText": "Part 1\nThe sides of a square increase in length at a rate of\n6\n6 m/sec.\na. At what rate is the area of the square changing when the sides are\n12\n12 m long?\nb. At what rate is the area of the square changing when the sides are\n21\n21 m long?\nPart 1\na. The area of the square is changing at a rate of\n▼\nm\nm² / s\nm³ / s\nm divided by s\nm/s\nwhen the sides are\n12\n12 m long.\nPart 2\nb. The area of the square is changing at a rate of\n▼\nm³ / s\nm² / s\nm divided by s\nm/s\nwhen the sides are\n21\n21 m long.\nThe area of the square is changing at a rate of12The area of the square is changing at a rate of unitsThe area of the square is changing at a rate of21The area of the square is changing at a rate of units"
+  },
+  "3.11.17": {
+    "exam": "exam3",
+    "objective": "Solve related rates problems involving geometry.",
+    "summary": "Part 1",
+    "fullText": "Part 1\nA circle has an initial radius of 50 ft when the radius begins decreasing at the rate of\n2\n2 ft/min. What is the rate in the change of area at the instant that the radius is\n26\n26 ft?\nPart 1\nThe rate of change of the area is\n▼\nft.\nft² / min.\nft² .\nft³ .\nft divided by min.\nft/min.\nft³ / min.\n(Type an exact answer in terms of\npi\nπ.)\nThe rate of change of the area is(Type an exact answer in terms of .)The rate of change of the area is units"
+  },
+  "3.11.19": {
+    "exam": "exam3",
+    "objective": "Solve applications involving related rates.",
+    "summary": "Part 1",
+    "fullText": "Part 1\nA spherical balloon is inflated and its volume increases at a rate of\n44\nin. ³ / min\nin.3/min. What is the rate of change of its radius when the radius is\n12\n12 in.?\nPart 1\nThe balloon's radius is increasing at a rate of\n▼\nin. ³ / min\nin.3/min\nin. ² / min\nin.2/min\nin. divided by min\nin./min\nat the instant the radius is\n12\n12 in.\n(Round to three decimal places as needed.)\nThe balloon's radius is increasing at a rate of12(Round to three decimal places as needed.)The balloon's radius is increasing at a rate of units"
+  },
+  "4.1.23": {
+    "exam": "exam3",
+    "objective": "Locate critical points of functions.",
+    "summary": "Find the critical points of the following function.",
+    "fullText": "Part 1\nFind the critical points of the following function.\nf(x) = 3x² − 5x − 4"
+  },
+  "4.1.27": {
+    "exam": "exam3",
+    "objective": "Locate critical points of functions.",
+    "summary": "Find the critical points of the following function.",
+    "fullText": "Part 1\nFind the critical points of the following function.\nf(x) = 3 x³ + 9 x² + 8 x"
+  },
+  "4.1.49": {
+    "exam": "exam3",
+    "objective": "Determine the existence, location, and value of absolute extrema on a given interval...",
+    "summary": "Determine the location and value of the absolute extreme values of f on the given interval, if…",
+    "fullText": "Part 1\nDetermine the location and value of the absolute extreme values of f on the given interval, if they exist.\nf(x) = 3 cos² x 3cos²x [0 , π]"
+  },
+  "4.1.57": {
+    "exam": "exam3",
+    "objective": "Determine the existence, location, and value of absolute extrema on a given interval...",
+    "summary": "Determine the location and value of the absolute extreme values of f on the given interval, if…",
+    "fullText": "Part 1\nDetermine the location and value of the absolute extreme values of f on the given interval, if they exist.\nf(x) = − 2 x³ + 15 x² − 24 x − 2x³ + 15x² − 24x on [0 , 5]\nPart 1\nWhat is/are the absolute maximum/maxima of f on the given interval? Select the correct choice below and, if necessary, fill in the answer boxes to complete your choice.\nA.\nThe absolute maximum/maxima is/are\nat x\n(Use a comma to separate answers as needed. Type exact answers, using radicals as needed.)\nB.\nThere is no absolute maximum of f on the given interval.\nPart 2\nWhat is/are the absolute minimum/minima of f on the given interval? Select the correct choice below and, if necessary, fill in the answer boxes to complete your choice.\nA.\nThe absolute minimum/minima is/are\nat x\n(Use a comma to separate answers as needed. Type exact answers, using radicals as needed.)\nB.\nThere is no absolute minimum of f on the given interval.\nf (x right parenthesisnegative 2 x³ + 15 x² − 24 x on [0 , 5 right bracketf (x right parenthesisnegative 2 x³ + 15 x² − 24 x on [0 , 5 right bracketSelect the correct choice below and , if necessary , fill in the answer boxes to complete your choice.input field 3input field 4Select the correct choice below and , if necessary , fill in the answer boxes to complete your choice."
+  },
+  "4.2.13": {
+    "exam": "exam3",
+    "objective": "Determine if Rolle's Theorem applies and find the point(s) guaranteed to exist by...",
+    "summary": "Determine whether Rolle's Theorem applies to the given function on the given interval. If so, …",
+    "fullText": "Part 1\nDetermine whether Rolle's Theorem applies to the given function on the given interval. If so, find the point(s) that are guaranteed to exist by Rolle's Theorem.\nf(x) = cos 2 x cos²x ; π 4 , 3π 4 on [π/4 , (3 π)/(4)]"
+  },
+  "4.3.39-Setup & Solve": {
+    "exam": "exam3",
+    "objective": "Find the intervals on which a function is increasing or decreasing.",
+    "summary": "Find the intervals on which f is increasing and the intervals on which it is decreasing.",
+    "fullText": "Part 1\nFind the intervals on which f is increasing and the intervals on which it is decreasing.\nf(x) = − 12 x⁵ + 75 x⁴ − 80 x³\nPart 1\nFind\nf′ (x)\nf′(x).\nPart 2\nSelect the correct choice below and, if necessary, fill in the answer box(es) to complete your choice.\nA.\nThe function is increasing on the open interval(s)\nand decreasing on the open interval(s)\n(Simplify your answers. Type your answers in interval notation. Use a comma to separate answers as needed.)\nB.\nThe function is increasing on the open interval(s)\n. The function is never decreasing.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)\nC.\nThe function is decreasing on the open interval(s)\n. The function is never increasing.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)\nD.\nThe function is never increasing or decreasing.\nf′ (x right parenthesisinput field 2input field 3input field 4input field 5Select the correct choice below and , if necessary , fill in the answer box(es) to complete your choice."
+  },
+  "4.3.40": {
+    "exam": "exam3",
+    "objective": "Find the intervals on which a function is increasing or decreasing.",
+    "summary": "Find the intervals on which f is increasing and decreasing.",
+    "fullText": "Part 1\nFind the intervals on which f is increasing and decreasing.\nf(x) = − x² + 8 ln x"
+  },
+  "4.3.63": {
+    "exam": "exam3",
+    "objective": "Determine the concavity on intervals and find inflection points.",
+    "summary": "Determine the intervals on which the following function is concave up or concave down. Identif…",
+    "fullText": "Part 1\nDetermine the intervals on which the following function is concave up or concave down. Identify any inflection points.\nf(x) = 2 x⁴ − 2 x³ + 1\nPart 1\nDetermine the intervals on which the given function is concave up or concave down. Select the correct choice and, if necessary, fill in the answer box(es) to complete your choice.\nA.\nThe function is concave down on\nand the function is never concave up.\n(Simplify your answer. Type your answer in interval notation. Use integers or fractions for any numbers in the expression. Use a comma to separate answers as needed.)\nB.\nThe function is concave up on\nand the function is never concave down.\n(Simplify your answer. Type your answer in interval notation. Use integers or fractions for any numbers in the expression. Use a comma to separate answers as needed.)\nC.\nThe function is concave up on\nand concave down on\n(Simplify your answers. Type your answers in interval notation. Use integers or fractions for any numbers in the expression. Use a comma to separate answers as needed.)\nD.\nThe function is never concave up nor concave down.\nPart 2\nLocate any inflection points of f. Select the correct choice and, if necessary, fill in the answer box to complete your choice.\nA.\nAn inflection point occurs at x\n(Type an integer or a simplified fraction. Use a comma to separate answers as needed.)\nB.\nThere are no inflection points for f.\nf(x)2 x⁴ − 2 x³ + 1f(x)2 x⁴ − 2 x³ + 1f(x)2 x⁴ − 2 x³ + 1f(x)2 x⁴ − 2 x³ + 1Select the correct choice and , if necessary , fill in the answer box(es) to complete your choice.input field 5Select the correct choice and , if necessary , fill in the answer box to complete your choice."
+  },
+  "4.3.65": {
+    "exam": "exam3",
+    "objective": "Determine the concavity on intervals and find inflection points.",
+    "summary": "Determine the intervals on which the following function is concave up or concave down. Identif…",
+    "fullText": "Part 1\nDetermine the intervals on which the following function is concave up or concave down. Identify any inflection points.\nf(x) = 5 x⁴ + 50 x³ − 10\nPart 1\nDetermine the intervals on which the following functions are concave up or concave down. Select the correct choice and, if necessary, fill in the answer box(es) to complete your choice.\nA.\nThe function is concave up on\nand concave down on\n(Simplify your answers. Type your answers in interval notation. Use a comma to separate answers as needed.)\nB.\nThe function is concave down on\nand the function is never concave up.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)\nC.\nThe function is concave up on\nand the function is never concave down.\n(Simplify your answer. Type your answer in interval notation. Use a comma to separate answers as needed.)\nD.\nThe function is never concave up nor concave down.\nPart 2\nLocate any inflection points of f. Select the correct choice and, if necessary, fill in the answer box to complete your choice.\nA.\nAn inflection point occurs at x\n(Use a comma to separate answers as needed.)\nB.\nThere are no inflection points for f.\nf (x right parenthesis⁵ x⁴ + 50 x³ − 10f (x right parenthesis⁵ x⁴ + 50 x³ − 10f (x right parenthesis⁵ x⁴ + 50 x³ − 10f (x right parenthesis⁵ x⁴ + 50 x³ − 10Select the correct choice and , if necessary , fill in the answer box(es) to complete your choice.input field 5Select the correct choice and , if necessary , fill in the answer box to complete your choice."
+  },
+  "4.3.83": {
+    "exam": "exam3",
+    "objective": "Determine if critical points correspond to local minima/maxima using the second...",
+    "summary": "Locate the critical points of the following function. Then use the Second Derivative Test to d…",
+    "fullText": "Part 1\nLocate the critical points of the following function. Then use the Second Derivative Test to determine whether they correspond to local maxima, local minima, or neither.\nf(x) = − 3 x³ − 9 x² + 8\nPart 1\nWhat is(are) the critical point(s) of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe critical point(s) is(are) x\n(Use a comma to separate answers as needed. Type an integer or a simplified fraction.)\nB.\nThere are no critical points for f.\nPart 2\nWhat is/are the local maximum/maxima of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe local maximum/maxima of f is/are at x\n(Use a comma to separate answers as needed. Type an integer or a simplified fraction.)\nB.\nThere is no local maximum of f.\nPart 3\nWhat is/are the local minimum/minima of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe local minimum/minima of f is/are at x\n(Use a comma to separate answers as needed. Type an integer or a simplified fraction.)\nB.\nThere is no local minimum of f.\nf (x right parenthesisnegative 3 x³ − 9 x² + 8Select the correct choice below and , if necessary , fill in the answer box to complete your choice.input field 2Select the correct choice below and , if necessary , fill in the answer box to complete your choice.input field 3Select the correct choice below and , if necessary , fill in the answer box to complete your choice."
+  },
+  "4.3.85": {
+    "exam": "exam3",
+    "objective": "Determine if critical points correspond to local minima/maxima using the second...",
+    "summary": "Locate the critical points of the following function. Then use the Second Derivative Test to d…",
+    "fullText": "Part 1\nLocate the critical points of the following function. Then use the Second Derivative Test to determine whether they correspond to local maxima, local minima, or neither.\nf(x) = 3 x² e^(−2x) − 5 3x²e − 2x − 5\nPart 1\nWhat is(are) the critical point(s) of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe critical point(s) is(are) x\n. (Use a comma to separate answers as needed.)\nB.\nThere are no critical points for f.\nPart 2\nWhat is/are the local minimum/minima of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe local minimum/minima of f is/are at x\n(Use a comma to separate answers as needed.)\nB.\nThere is no local minimum of f.\nPart 3\nWhat is/are the local maximum/maxima of f? Select the correct choice below and, if necessary, fill in the answer box to complete your choice.\nA.\nThe local maximum/maxima of f is/are at x\n(Use a comma to separate answers as needed.)\nB.\nThere is no local maximum of f.\nf (x right parenthesis³ x² e^(−2x) − 5Select the correct choice below and , if necessary , fill in the answer box to complete your choice.input field 2Select the correct choice below and , if necessary , fill in the answer box to complete your choice.input field 3Select the correct choice below and , if necessary , fill in the answer box to complete your choice."
+  },
+  "4.5.13": {
+    "exam": "exam3",
+    "objective": "Optimize the area given the perimeter or the perimeter given the area of a rectangle.",
+    "summary": "Part 1",
+    "fullText": "Part 1\nOf all rectangles of area\n400\n400, which one has the minimum perimeter?\nPart 1\nThe rectangle that has the minimum perimeter has a width of\nand a height of\n(Simplify your answers.)\nThe rectangle that has the minimum perimeter has a width ofand a height ofand a height of(Simplify your answers.)"
+  },
+  "+ (4.5) Copy of 4.5.19": {
+    "exam": "exam3",
+    "objective": "Solve applications involving optimization.",
+    "summary": "Part 1",
+    "fullText": "Part 1\nA rectangular tank with a square base, an open top, and a volume of\n1 , 372\nft³ is to be constructed of sheet steel. Find the dimensions of the tan k that has the minimum surface area. (SA = s^(2 + 4sh))\nPart 1\nThe tank with the minimum surface area has a height of\nft and a square base with a side length of\nft.\nThe tank with the minimum surface area has a height offt and a square base with a side length offt and a square base with a side length offt."
+  },
+  "4.5.20": {
+    "exam": "exam3",
+    "objective": "Solve applications involving optimization.",
+    "summary": "Part 1",
+    "fullText": "Part 1\nSuppose an airline policy states that all baggage must be box-shaped with a sum of length, width, and height not exceeding\n168\n168 in. What are the dimensions and volume of a square-based box with the greatest volume under these conditions?\nPart 1\nThe length of the square-end edge is\nin.\nThe box height is\nin.\n(Simplify your answers.)\nPart 2\nThe greatest volume of the box is\nin\n³\n3.\n(Simplify your answer.)\nThe length of the square-end edge isin.The box height is(Simplify your answers.)The greatest volume of the box is(Simplify your answer.)"
+  },
+  "4.6.28": {
+    "exam": "exam3",
+    "objective": "Construct a linear approximation to estimate the value of a function and find the...",
+    "summary": "a. Write the equation of the line that represents the linear approximation to the following fu…",
+    "fullText": "Part 1\na. Write the equation of the line that represents the linear approximation to the following function at the given point a.\nb. Use the linear approximation to estimate the given quantity.\nc. Compute the percent error in the approximation,\n100 · (|approximation − exact|)/(|exact|)\n, where the exact value is given by a calculator.\nf(x) = (x)/(x + 2)\n; a\n= 1 ; f(1 , 2)\nPart 1\na. L(x)\n(Use integers or fractions for any numbers in the expression.)\nPart 2\nb. Using the linear approximation, f(\n1.2)\n(Round to three decimal places as needed.)\nPart 3\nc. The percent error in the approximation is\n%.\n(Round to three decimal places as needed.)\nL(x)(Use integers or fractions for any numbers in the expression.)Using the linear approximation, f(1.2)(Round to three decimal places as needed.)The percent error in the approximation is(Round to three decimal places as needed.)"
+  },
+  "4.6.55": {
+    "exam": "exam3",
+    "objective": "Use linear approximations to approximate changes in volume or surface area of...",
+    "summary": "Part 1",
+    "fullText": "Part 1\nApproximate the change in the volume of a sphere when its radius changes from r =\n10\n10 ft to\nr = 10.02 ft\n(Upper V (r) = four thirds π r³)\n(4 , 3)\nπr³.\nPart 1\nWhen r changes from\n10\n10 ft to\n10.02 ft ,\nUpper Delta\nΔV\nft\n³\n3.\n(Type an exact answer.)\nWhen r changes from 10 ft to 10.02 ft , V(Type an exact answer.)"
+  },
+  "4.6.64": {
+    "exam": "exam3",
+    "objective": "Given y=f(x), write a differential expressing the change in y as a function of a...",
+    "summary": "Consider the following function and express the relationship between a small change in x and t…",
+    "fullText": "Part 1\nConsider the following function and express the relationship between a small change in x and the corresponding change in y in the form dy\nf′ (x) dx\nf′(x)dx.\nf(x) = e^(3x)\nPart 1\ndy\ndx\ndx (Type an exact answer in terms of\ne.)\nf(x)e^(3x)"
+  },
+  "4.6.67": {
+    "exam": "exam3",
+    "objective": "Given y=f(x), write a differential expressing the change in y as a function of a...",
+    "summary": "Consider the following function and express the relationship between a small change in x and t…",
+    "fullText": "Part 1\nConsider the following function and express the relationship between a small change in x and the corresponding change in y in the form\ndy = f′(x)dx.\nf(x) = 3 x³ − 3 x\nPart 1\ndy\ndx\nf(x)3 x³ − 3 x"
+  },
+  "4.7.22-Setup & Solve": {
+    "exam": "exam3",
+    "objective": "Evaluate limits using the form 0/0 or infinity/infinity of l'Hopital's Rule if it applies.",
+    "summary": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.",
+    "fullText": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\nlim x→0 (e^(2x) − 1)/(4 x² + 5 x)"
+  },
+  "4.7.25-Setup & Solve": {
+    "exam": "exam3",
+    "objective": "Evaluate limits using the form 0/0 or infinity/infinity of l'Hopital's Rule if it applies.",
+    "summary": "Evaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.",
+    "fullText": "Part 1\nEvaluate the following limit. Use l'Hôpital's Rule when it is convenient and applicable.\nlim x→e (15 ln x − 15)/(x − e)\nPart 1\nUse l'Hôpital's Rule to rewrite the given limit so that it is not an indeterminate form.\nlim x→e (15 ln x − 15)/(x − e)\nlim x→e Part 2\nEvaluate the limit.\nlim x→e (15 ln x − 15)/(x − e)\n(Type an exact answer.)\nlim x -> e(15 ln x − 15)/(x − e)lim x -> e(15 ln x − 15)/(x − e)(Type an exact answer.)"
+  },
+  "4.8.9": {
+    "exam": "exam3",
+    "objective": "Given an initial approximation, use Newton's method to find the first two approximations.",
+    "summary": "Write the formula for Newton's method and use the given initial approximation to compute the a…",
+    "fullText": "Part 1\nWrite the formula for Newton's method and use the given initial approximation to compute the approximations x₁ and x₂.\nf(x) = x² − 12\nx2−12; x₀ = 3\nPart 1\nWrite the formula for Newton's method for the given function. Choose the correct answer.\nA.\nx_{n + 1} = x_n + (x _{n}² − 12)/(2 x Subscript n)\nxn + 1\nx_n + (x _{n}² − 12)/(2 x Subscript n)\nB.\nx_{n + 1} = x_n − (x _{n}² − 12)/(2 x Subscript n)\nxn + 1\nx_n − (x _{n}² − 12)/(2 x Subscript n)\nC.\nx_{n + 1} = x_n − (2 x Subscript n)/(x _{n}² − 12)\nxn + 1\nx_n − (2 x Subscript n)/(x _{n}² − 12)\nD.\nx_{n + 1} = x_n + (2 x Subscript n)/(x _{n}² − 12)\nxn + 1\nx_n + (2 x Subscript n)/(x _{n}² − 12)\nPart 2\nUse the given initial approximation to compute the approximation\nx¹.\n(Do not round until the final answer. Then round to three decimal places as needed.)\nPart 3\nUse the given initial approximation to compute the approximation\nx².\n(Do not round until the final answer. Then round to three decimal places as needed.)"
+  },
+  "4.8.10": {
+    "exam": "exam3",
+    "objective": "Given an initial approximation, use Newton's method to find the first two approximations.",
+    "summary": "Write the formula for Newton's method and use the given initial approximation to compute the a…",
+    "fullText": "Part 1\nWrite the formula for Newton's method and use the given initial approximation to compute the approximations x₁ and x₂.\nf(x) = x² + 4x − 21 , x₀ = 5\nPart 1\nWrite the formula for Newton's method for the given function. Choose the correct answer below.\nA.\nxn + 1 = xn −\nx²n + 4xn − 21\nx²n − 21\nB.\nxn + 1 = xn +\nx²n + 4xn − 21\n2xn + 4\nC.\nxn + 1 = xn −\nx²n + 4xn − 21\n2xn + 4\nD.\nxn + 1 = xn −\n2xn + 4\nx²n + 4xn − 21\nPart 2\nUse the given initial approximation to compute the approximations x₁ and x₂.\nx₁\n(Do not round until the final answer. Then round to three decimal places as needed.)\nPart 3\nx₂\n(Do not round until the final answer. Then round to three decimal places as needed.)"
+  }
+}

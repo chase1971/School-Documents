@@ -1,0 +1,585 @@
+{
+  "poolList": [
+    {
+      "poolOrder": "1",
+      "questionId": "3.3.25",
+      "objective": "Find derivatives using rules of differentiation.",
+      "estimatedTime": ""
+    },
+    {
+      "poolOrder": "1",
+      "questionId": "3.3.28",
+      "objective": "Find derivatives using rules of differentiation.",
+      "estimatedTime": ""
+    },
+    {
+      "poolOrder": "2",
+      "questionId": "3.3.35",
+      "objective": "Find derivatives using rules of differentiation.",
+      "estimatedTime": ""
+    },
+    {
+      "poolOrder": "2",
+      "questionId": "3.3.48",
+      "objective": "Simplify products and quotients and find their derivatives.",
+      "estimatedTime": ""
+    },
+    {
+      "poolOrder": "3",
+      "questionId": "3.3.49",
+      "objective": "Simplify products and quotients and find their derivatives.",
+      "estimatedTime": ""
+    },
+    {
+      "poolOrder": "4",
+      "questionId": "3.4.20",
+      "objective": "Find derivatives of products and quotients of functions involving exponentials.",
+      "estimatedTime": ""
+    },
+    {
+      "poolOrder": "4",
+      "questionId": "3.4.24-Setup & Solve",
+      "objective": "Find derivatives of products and quotients of functions involving exponentials.",
+      "estimatedTime": ""
+    },
+    {
+      "poolOrder": "5",
+      "questionId": "3.4.22",
+      "objective": "Find derivatives of products and quotients of algebraic expressions.",
+      "estimatedTime": ""
+    },
+    {
+      "poolOrder": "5",
+      "questionId": "3.4.25-Setup & Solve",
+      "objective": "Find derivatives of products and quotients of functions involving exponentials.",
+      "estimatedTime": ""
+    },
+    {
+      "poolOrder": "6",
+      "questionId": "3.5.29",
+      "objective": "Find derivatives of products, quotients, and powers of functions with trigonometric...",
+      "estimatedTime": ""
+    },
+    {
+      "poolOrder": "6",
+      "questionId": "3.5.34",
+      "objective": "Find derivatives of products, quotients, and powers of functions with trigonometric...",
+      "estimatedTime": ""
+    },
+    {
+      "poolOrder": "7",
+      "questionId": "3.5.59",
+      "objective": "Find higher order derivatives of functions involving trigonometric expressions.",
+      "estimatedTime": ""
+    },
+    {
+      "poolOrder": "7",
+      "questionId": "3.5.61",
+      "objective": "Find higher order derivatives of functions involving trigonometric expressions.",
+      "estimatedTime": ""
+    },
+    {
+      "poolOrder": "8",
+      "questionId": "3.6.29",
+      "objective": "Find average and marginal cost and profit functions.",
+      "estimatedTime": ""
+    },
+    {
+      "poolOrder": "8",
+      "questionId": "3.6.32",
+      "objective": "Find average and marginal cost and profit functions.",
+      "estimatedTime": ""
+    },
+    {
+      "poolOrder": "9",
+      "questionId": "3.6.36",
+      "objective": "Solve applications involving position, velocity, and acceleration functions.",
+      "estimatedTime": ""
+    },
+    {
+      "poolOrder": "10",
+      "questionId": "3.7.14",
+      "objective": "Find derivatives of basic functions using the chain rule.",
+      "estimatedTime": ""
+    },
+    {
+      "poolOrder": "10",
+      "questionId": "3.7.15",
+      "objective": "Identify inner functions and outer functions for composite functions, and then apply...",
+      "estimatedTime": ""
+    },
+    {
+      "poolOrder": "11",
+      "questionId": "3.7.19",
+      "objective": "Identify inner functions and outer functions for composite functions, and then apply...",
+      "estimatedTime": ""
+    },
+    {
+      "poolOrder": "11",
+      "questionId": "3.7.20",
+      "objective": "Identify inner functions and outer functions for composite functions, and then apply...",
+      "estimatedTime": ""
+    },
+    {
+      "poolOrder": "12",
+      "questionId": "3.7.20",
+      "objective": "Identify inner functions and outer functions for composite functions, and then apply...",
+      "estimatedTime": ""
+    },
+    {
+      "poolOrder": "12",
+      "questionId": "3.7.24",
+      "objective": "Identify inner functions and outer functions for composite functions, and then apply...",
+      "estimatedTime": ""
+    },
+    {
+      "poolOrder": "13",
+      "questionId": "3.7.29",
+      "objective": "Find derivatives of basic functions using the chain rule.",
+      "estimatedTime": ""
+    },
+    {
+      "poolOrder": "13",
+      "questionId": "3.7.31",
+      "objective": "Find derivatives of basic functions using the chain rule.",
+      "estimatedTime": ""
+    },
+    {
+      "poolOrder": "14",
+      "questionId": "3.9.16",
+      "objective": "Find derivatives involving logarithms and exponentials.",
+      "estimatedTime": ""
+    },
+    {
+      "poolOrder": "14",
+      "questionId": "3.9.36",
+      "objective": "Find derivatives involving logarithms and exponentials.",
+      "estimatedTime": ""
+    },
+    {
+      "poolOrder": "15",
+      "questionId": "3.9.29",
+      "objective": "Find derivatives involving logarithms and exponentials.",
+      "estimatedTime": ""
+    },
+    {
+      "poolOrder": "16",
+      "questionId": "3.9.30",
+      "objective": "Find derivatives involving logarithms and exponentials.",
+      "estimatedTime": ""
+    },
+    {
+      "poolOrder": "17",
+      "questionId": "3.9.41",
+      "objective": "Find derivatives involving logarithms and exponentials.",
+      "estimatedTime": ""
+    },
+    {
+      "poolOrder": "17",
+      "questionId": "3.9.43",
+      "objective": "Find derivatives involving logarithms and exponentials.",
+      "estimatedTime": ""
+    },
+    {
+      "poolOrder": "18",
+      "questionId": "3.9.73",
+      "objective": "Find derivatives involving logarithms and exponentials.",
+      "estimatedTime": ""
+    },
+    {
+      "poolOrder": "19",
+      "questionId": "3.10.23",
+      "objective": "Find derivatives of functions involving inverse trigonometric functions.",
+      "estimatedTime": ""
+    },
+    {
+      "poolOrder": "19",
+      "questionId": "3.10.29",
+      "objective": "Find derivatives of functions involving inverse trigonometric functions.",
+      "estimatedTime": ""
+    },
+    {
+      "poolOrder": "20",
+      "questionId": "3.10.21",
+      "objective": "Find derivatives of functions involving inverse trigonometric functions.",
+      "estimatedTime": ""
+    }
+  ],
+  "count": 34,
+  "results": [
+    {
+      "previewIndex": "1",
+      "previewTotal": "34",
+      "questionId": "3.3.25",
+      "objective": "Find derivatives using rules of differentiation.",
+      "difficulty": "Easy",
+      "estimatedTime": "1m 11s",
+      "stem": "Part 1\nFind the derivative of the following function.\nh left parenthesis t right parenthesis\nh(t)\nequals\n=\nStartFraction t squared Over 2 EndFraction plus 9\nt2\n2\n+9\nQuestion content area bottom\nPart 1\nh prime left parenthesis t right parenthesis\nh\u2032(t)\nequals\n=\nenter your response here\nh prime left parenthesis t right parenthesis",
+      "poolOrder": "1",
+      "listObjective": "Find derivatives using rules of differentiation."
+    },
+    {
+      "previewIndex": "2",
+      "previewTotal": "34",
+      "questionId": "3.3.28",
+      "objective": "Find derivatives using rules of differentiation.",
+      "difficulty": "Easy",
+      "estimatedTime": "1m 5s",
+      "stem": "Part 1\nFind the derivative of the following function.\n\u200bg(t)\nequals\n=\n6 StartRoot t EndRoot\n6\nt\nQuestion content area bottom\nPart 1\ng prime left parenthesis t right parenthesis\ng\u2032(t)\nequals\n=\nenter your response here\n \ng prime left parenthesis t right parenthesis",
+      "poolOrder": "1",
+      "listObjective": "Find derivatives using rules of differentiation."
+    },
+    {
+      "previewIndex": "3",
+      "previewTotal": "34",
+      "questionId": "3.3.35",
+      "objective": "Find derivatives using rules of differentiation.",
+      "difficulty": "Easy",
+      "estimatedTime": "1m 16s",
+      "stem": "Part 1\nFind the derivative of the following function.\ng left parenthesis w right parenthesis\ng(w)\nequals\n=\n9 w Superscript 8 Baseline plus 3 w squared plus 19 w\n9w8+3w2+19w\nQuestion content area bottom\nPart 1\ng prime left parenthesis w right parenthesis\ng\u2032(w)\nequals\n=\nenter your response here\ng prime left parenthesis w right parenthesis",
+      "poolOrder": "2",
+      "listObjective": "Find derivatives using rules of differentiation."
+    },
+    {
+      "previewIndex": "4",
+      "previewTotal": "34",
+      "questionId": "3.3.48",
+      "objective": "Simplify products and quotients and find their derivatives.",
+      "difficulty": "Moderate",
+      "estimatedTime": "2m 19s",
+      "stem": "Part 1\nFind the derivative of the following function by first expanding the expression.\n\u200bg(r)\nequals\n=\u200b(\n6\n6r\n\u00a0Superscript\u00a0\n3\nplus\n+\n3\n3r\nplus\n+\n7\n7\u200b)(r\n\u00a0Superscript\u00a0\n2\nplus\n+\n7\n7\u200b)\nQuestion content area bottom\nPart 1\ng prime left parenthesis r right parenthesis\ng\u2032(r)\nequals\n=\nenter your response here\ng prime left parenthesis r right parenthesis",
+      "poolOrder": "2",
+      "listObjective": "Simplify products and quotients and find their derivatives."
+    },
+    {
+      "previewIndex": "5",
+      "previewTotal": "34",
+      "questionId": "3.3.49",
+      "objective": "Simplify products and quotients and find their derivatives.",
+      "difficulty": "Moderate",
+      "estimatedTime": "1m 58s",
+      "stem": "Part 1\nFind the derivative of the following function by first simplifying the expression.\n\u200bf(w)\nequals\n=\nStartFraction 7 w Superscript 7 Baseline minus 5 w cubed Over 4 w cubed EndFraction\n7w7\u22125w3\n4w3\nQuestion content area bottom\nPart 1\nf prime left parenthesis w right parenthesis\nf\u2032(w)\nequals\n=\nenter your response here\nf prime left parenthesis w right parenthesis",
+      "poolOrder": "3",
+      "listObjective": "Simplify products and quotients and find their derivatives."
+    },
+    {
+      "previewIndex": "6",
+      "previewTotal": "34",
+      "questionId": "3.4.20",
+      "objective": "Find derivatives of products and quotients of functions involving exponentials.",
+      "difficulty": "Moderate",
+      "estimatedTime": "1m 34s",
+      "stem": "Part 1\nCompute the derivative of the following function.\n\u200bf(x)\nequals\n=\n10 x plus 13 x e Superscript x\n10x+13xex\nQuestion content area bottom\nPart 1\nf prime left parenthesis x right parenthesis\nf\u2032(x)\nequals\n=\nenter your response here\nf prime left parenthesis x right parenthesis",
+      "poolOrder": "4",
+      "listObjective": "Find derivatives of products and quotients of functions involving exponentials."
+    },
+    {
+      "previewIndex": "7",
+      "previewTotal": "34",
+      "questionId": "3.4.24-Setup & Solve",
+      "objective": "Find derivatives of products and quotients of functions involving exponentials.",
+      "difficulty": "Moderate",
+      "estimatedTime": "2m 31s",
+      "stem": "Part 1\nFind and simplify the derivative of the following function.\ng left parenthesis x right parenthesis equals e Superscript x Baseline left parenthesis 3 x squared minus 6 x plus 6 right parenthesis\ng(x)=ex3x2\u22126x+6\nQuestion content area bottom\nPart 1\nWhich of the following shows how to find the derivative of\u200b g(x)?\nA.\ng prime left parenthesis x right parenthesis equals StartFraction left parenthesis 3 x squared minus 6 x plus 6 right parenthesis left parenthesis StartFraction d Over dx EndFraction left parenthesis 3 x squared minus 6 x plus 6 right parenthesis right parenthesis plus left parenthesis e Superscript x right parenthesis left parenthesis StartFraction d Over dx EndFraction left parenthesis e Superscript x right parenthesis right parenthesis Over left parenthesis 3 x squared minus 6 x plus 6 right parenthesis squared EndFraction\ng prime left parenthesis x right parenthesis\ng\u2032(x)\nequals\n=\nStartFraction left parenthesis 3 x squared minus 6 x plus 6 right parenthesis left parenthesis StartFraction d Over dx EndFraction left parenthesis 3 x squared minus 6 x plus 6 right parenthesis right parenthesis plus left parenthesis e Superscript x right parenthesis left parenthesis StartFraction d Over dx EndFraction left parenthesis e Superscript x right parenthesis right parenthesis Over left parenthesis 3 x squared minus 6 x plus 6 right parenthesis squared EndFraction\n3x2\u22126x+6\nd\ndx\n3x2\u22126x+6+ex\nd\ndx\nex\n3x2\u22126x+62\nB.\ng prime left parenthesis x right parenthesis equals StartFraction left parenthesis 3 x squared minus 6 x plus 6 right parenthesis left parenthesis StartFraction d Over dx EndFraction left parenthesis e Superscript x right parenthesis right parenthesis plus left parenthesis e Superscript x right parenthesis left parenthesis StartFraction d Over dx EndFraction left parenthesis 3 x squared minus 6 x plus 6 right parenthesis right parenthesis Over left parenthesis e Superscript x right parenthesis squared EndFraction\ng prime left parenthesis x right parenthesis\ng\u2032(x)\nequals\n=\nStartFraction left parenthesis 3 x squared minus 6 x plus 6 right parenthesis left parenthesis StartFraction d Over dx EndFraction left parenthesis e Superscript x right parenthesis right parenthesis plus left parenthesis e Superscript x right parenthesis left parenthesis StartFraction d Over dx EndFraction left parenthesis 3 x squared minus 6 x plus 6 right parenthesis right parenthesis Over left parenthesis e Superscript x right parenthesis squared EndFraction\n3x2\u22126x+6\nd\ndx\nex+ex\nd\ndx\n3x2\u22126x+6\nex2\nC.\ng prime left parenthesis x right parenthesis equals left parenthesis e Superscript x right parenthesis left parenthesis StartFraction d Over dx EndFraction left parenthesis e Superscript x right parenthesis right parenthesis plus left parenthesis 3 x squared minus 6 x plus 6 right parenthesis left parenthesis StartFraction d Over dx EndFraction left parenthesis 3 x squared minus 6 x plus 6 right parenthesis right parenthesis\ng prime left parenthesis x right parenthesis\ng\u2032(x)\nequals\n=\nleft parenthesis e Superscript x right parenthesis left parenthesis StartFraction d Over dx EndFraction left parenthesis e Superscript x right parenthesis right parenthesis plus left parenthesis 3 x squared minus 6 x plus 6 right parenthesis left parenthesis StartFraction d Over dx EndFraction left parenthesis 3 x squared minus 6 x plus 6 right parenthesis right parenthesis\nex\nd\ndx\nex+3x2\u22126x+6\nd\ndx\n3x2\u22126x+6\nD.\ng prime left parenthesis x right parenthesis equals left parenthesis StartFraction d Over dx EndFraction left parenthesis e Superscript x right parenthesis right parenthesis left parenthesis 3 x squared minus 6 x plus 6 right parenthesis plus left parenthesis e Superscript x right parenthesis left parenthesis StartFraction d Over dx EndFraction left parenthesis 3 x squared minus 6 x plus 6 right parenthesis right parenthesis\ng prime left parenthesis x right parenthesis\ng\u2032(x)\nequals\n=\nleft parenthesis StartFraction d Over dx EndFraction left parenthesis e Superscript x right parenthesis right parenthesis left parenthesis 3 x squared minus 6 x plus 6 right parenthesis plus left parenthesis e Superscript x right parenthesis left parenthesis StartFraction d Over dx EndFraction left parenthesis 3 x squared minus 6 x plus 6 right parenthesis right parenthesis\nd\ndx\nex3x2\u22126x+6+ex\nd\ndx\n3x2\u22126x+6\nPart 2\nThe derivative of \ng left parenthesis x right parenthesis equals e Superscript x Baseline left parenthesis 3 x squared minus 6 x plus 6 right parenthesis\ng(x)=ex3x2\u22126x+6 is \nenter your response here\n.\nWhich of the following shows how to find the derivative of g(x)?The derivative of g left parenthesis x right parenthesis equals e Superscript x Baseline left parenthesis 3 x squared minus 6 x plus 6 right parenthesis is.",
+      "poolOrder": "4",
+      "listObjective": "Find derivatives of products and quotients of functions involving exponentials."
+    },
+    {
+      "previewIndex": "8",
+      "previewTotal": "34",
+      "questionId": "3.4.22",
+      "objective": "Find derivatives of products and quotients of algebraic expressions.",
+      "difficulty": "Moderate",
+      "estimatedTime": "2m 49s",
+      "stem": "Part 1\nFind the derivative of the following function.\nf left parenthesis x right parenthesis equals StartFraction x cubed minus 7 x squared plus x Over x minus 1 EndFraction\nf(x)=\nx3\u22127x2+x\nx\u22121\nQuestion content area bottom\nPart 1\nf prime left parenthesis x right parenthesis equals\nf\u2032(x)=\nenter your response here\nf prime left parenthesis x right parenthesis equals",
+      "poolOrder": "5",
+      "listObjective": "Find derivatives of products and quotients of algebraic expressions."
+    },
+    {
+      "previewIndex": "9",
+      "previewTotal": "34",
+      "questionId": "3.4.25-Setup & Solve",
+      "objective": "Find derivatives of products and quotients of functions involving exponentials.",
+      "difficulty": "Moderate",
+      "estimatedTime": "2m 55s",
+      "stem": "Part 1\nFind and simplify the derivative of the following function.\n\u200bf(x)\nequals\n=\nStartFraction e Superscript x Over 5 e Superscript x Baseline plus 8 EndFraction\nex\n5ex+8\nQuestion content area bottom\nPart 1\nWhich of the following shows how to find the derivative of\u200b f(x)?\nA.\nf prime left parenthesis x right parenthesis equals left parenthesis 5 e Superscript x Baseline plus 8 right parenthesis left parenthesis StartFraction d Over dx EndFraction left parenthesis e Superscript x right parenthesis right parenthesis minus left parenthesis e Superscript x right parenthesis left parenthesis StartFraction d Over dx EndFraction left parenthesis 5 e Superscript x Baseline plus 8 right parenthesis right parenthesis\nf prime left parenthesis x right parenthesis\nf\u2032(x)\nequals\n=\nleft parenthesis 5 e Superscript x Baseline plus 8 right parenthesis left parenthesis StartFraction d Over dx EndFraction left parenthesis e Superscript x right parenthesis right parenthesis minus left parenthesis e Superscript x right parenthesis left parenthesis StartFraction d Over dx EndFraction left parenthesis 5 e Superscript x Baseline plus 8 right parenthesis right parenthesis\n5ex+8\nd\ndx\nex\u2212ex\nd\ndx\n5ex+8\nB.\nf prime left parenthesis x right parenthesis equals StartFraction left parenthesis 5 e Superscript x Baseline plus 8 right parenthesis left parenthesis StartFraction d Over dx EndFraction left parenthesis e Superscript x right parenthesis right parenthesis minus left parenthesis e Superscript x right parenthesis left parenthesis StartFraction d Over dx EndFraction left parenthesis 5 e Superscript x Baseline plus 8 right parenthesis right parenthesis Over left parenthesis 5 e Superscript x Baseline plus 8 right parenthesis squared EndFraction\nf prime left parenthesis x right parenthesis\nf\u2032(x)\nequals\n=\nStartFraction left parenthesis 5 e Superscript x Baseline plus 8 right parenthesis left parenthesis StartFraction d Over dx EndFraction left parenthesis e Superscript x right parenthesis right parenthesis minus left parenthesis e Superscript x right parenthesis left parenthesis StartFraction d Over dx EndFraction left parenthesis 5 e Superscript x Baseline plus 8 right parenthesis right parenthesis Over left parenthesis 5 e Superscript x Baseline plus 8 right parenthesis squared EndFraction\n5ex+8\nd\ndx\nex\u2212ex\nd\ndx\n5ex+8\n5ex+82\nC.\nf prime left parenthesis x right parenthesis equals StartFraction left parenthesis e Superscript x right parenthesis left parenthesis StartFraction d Over dx EndFraction left parenthesis e Superscript x right parenthesis right parenthesis plus left parenthesis 5 e Superscript x Baseline plus 8 right parenthesis left parenthesis StartFraction d Over dx EndFraction left parenthesis 5 e Superscript x Baseline plus 8 right parenthesis right parenthesis Over left parenthesis 5 e Superscript x Baseline plus 8 right parenthesis EndFraction\nf prime left parenthesis x right parenthesis\nf\u2032(x)\nequals\n=\nStartFraction left parenthesis e Superscript x right parenthesis left parenthesis StartFraction d Over dx EndFraction left parenthesis e Superscript x right parenthesis right parenthesis plus left parenthesis 5 e Superscript x Baseline plus 8 right parenthesis left parenthesis StartFraction d Over dx EndFraction left parenthesis 5 e Superscript x Baseline plus 8 right parenthesis right parenthesis Over left parenthesis 5 e Superscript x Baseline plus 8 right parenthesis EndFraction\nex\nd\ndx\nex+5ex+8\nd\ndx\n5ex+8\n5ex+8\nD.\nf prime left parenthesis x right parenthesis equals left parenthesis e Superscript x right parenthesis left parenthesis StartFraction d Over dx EndFraction left parenthesis e Superscript x right parenthesis right parenthesis plus left parenthesis 5 e Superscript x Baseline plus 8 right parenthesis left parenthesis StartFraction d Over dx EndFraction left parenthesis 5 e Superscript x Baseline plus 8 right parenthesis right parenthesis\nf prime left parenthesis x right parenthesis\nf\u2032(x)\nequals\n=\nleft parenthesis e Superscript x right parenthesis left parenthesis StartFraction d Over dx EndFraction left parenthesis e Superscript x right parenthesis right parenthesis plus left parenthesis 5 e Superscript x Baseline plus 8 right parenthesis left parenthesis StartFraction d Over dx EndFraction left parenthesis 5 e Superscript x Baseline plus 8 right parenthesis right parenthesis\nex\nd\ndx\nex+5ex+8\nd\ndx\n5ex+8\nPart 2\nThe derivative of \u200bf(x)\nequals\n=\nStartFraction e Superscript x Over 5 e Superscript x Baseline plus 8 EndFraction\nex\n5ex+8\n is \nenter your response here\n.\nWhich of the following shows how to find the derivative of f(x)?The derivative of f(x)StartFraction e Superscript x Over 5 e Superscript x Baseline plus 8 EndFraction is.",
+      "poolOrder": "5",
+      "listObjective": "Find derivatives of products and quotients of functions involving exponentials."
+    },
+    {
+      "previewIndex": "10",
+      "previewTotal": "34",
+      "questionId": "3.5.29",
+      "objective": "Find derivatives of products, quotients, and powers of functions with trigonometric...",
+      "difficulty": "Moderate",
+      "estimatedTime": "2m 27s",
+      "stem": "Part 1\nFind \nStartFraction dy Over dx EndFraction\ndy\ndx\n for the following function.\ny\nequals\n=\nStartFraction 6 cosine x Over 6 minus 7 cosine x EndFraction\n6cos\u00a0x\n6\u22127cos\u00a0x\nQuestion content area bottom\nPart 1\nStartFraction dy Over dx EndFraction\ndy\ndx\nequals\n=\nenter your response here\nStartFraction dy Over dx EndFraction",
+      "poolOrder": "6",
+      "listObjective": "Find derivatives of products, quotients, and powers of functions with trigonometric..."
+    },
+    {
+      "previewIndex": "11",
+      "previewTotal": "34",
+      "questionId": "3.5.34",
+      "objective": "Find derivatives of products, quotients, and powers of functions with trigonometric...",
+      "difficulty": "Moderate",
+      "estimatedTime": "3m 19s",
+      "stem": "Part 1\nFind the derivative of the following function.\ny equals StartFraction 6 x sine x Over 1 plus cosine x EndFraction\ny=\n6xsinx\n1+cosx\nQuestion content area bottom\nPart 1\nStartFraction dy Over dx EndFraction\ndy\ndx\nequals\n=\nenter your response here\nStartFraction dy Over dx EndFraction",
+      "poolOrder": "6",
+      "listObjective": "Find derivatives of products, quotients, and powers of functions with trigonometric..."
+    },
+    {
+      "previewIndex": "12",
+      "previewTotal": "34",
+      "questionId": "3.5.59",
+      "objective": "Find higher order derivatives of functions involving trigonometric expressions.",
+      "difficulty": "Moderate",
+      "estimatedTime": "1m 50s",
+      "stem": "Part 1\nFind \ny double prime\ny\u2032\u2032.\ny equals e Superscript x Baseline sine x\ny=exsinx\nQuestion content area bottom\nPart 1\ny double prime\ny\u2032\u2032\nequals\n=\nenter your response here\ny double prime",
+      "poolOrder": "7",
+      "listObjective": "Find higher order derivatives of functions involving trigonometric expressions."
+    },
+    {
+      "previewIndex": "13",
+      "previewTotal": "34",
+      "questionId": "3.5.61",
+      "objective": "Find higher order derivatives of functions involving trigonometric expressions.",
+      "difficulty": "Moderate",
+      "estimatedTime": "1m 39s",
+      "stem": "Part 1\nFind \ny double prime\ny\u2032\u2032 for the following function.\ny\nequals\n=\n8 tangent x\n8tan\u00a0x\nQuestion content area bottom\nPart 1\ny double prime\ny\u2032\u2032\nequals\n=\nenter your response here\ny double prime",
+      "poolOrder": "7",
+      "listObjective": "Find higher order derivatives of functions involving trigonometric expressions."
+    },
+    {
+      "previewIndex": "14",
+      "previewTotal": "34",
+      "questionId": "3.6.29",
+      "objective": "Find average and marginal cost and profit functions.",
+      "difficulty": "Moderate",
+      "estimatedTime": "3m 17s",
+      "stem": "Part 1\nConsider the following cost function.\na. Find the average cost and marginal cost functions.\nb. Determine the average and marginal cost when x\nequals\n=a.\nc. Interpret the values obtained in part\u200b (b).\nUpper C left parenthesis x right parenthesis equals 1900 plus 0.9 x\nC(x)=1900+0.9x\u200b, 0\nless than or equals\n\u2264x\nless than or equals\n\u2264\u200b5000, a\nequals\n=\n2400\n2400\nQuestion content area bottom\nPart 1\na. The average cost function is \nUpper C overbar left parenthesis x right parenthesis\nC(x)\nequals\n=\nenter your response here\n.\nPart 2\nThe marginal cost function is \nUpper C prime left parenthesis x right parenthesis\nC\u2032(x)\nequals\n=\nenter your response here\n.\nPart 3\nb. The average cost when x\nequals\n=\n2400\n2400 is \u200b$\nenter your response here\n. \u200b(Round to two decimal places as\u200b needed.)\nPart 4\nThe marginal cost when x\nequals\n=\n2400\n2400 is \u200b$\nenter your response here\n per item. \u200b(Round to two decimal places as\u200b needed.)\nPart 5\nc. The average cost per item is about \u200b$\nenter your response here\n when \nenter your response here\n items are produced. \n\u200b(Round to two decimal places as\u200b needed.)\nPart 6\nThe cost of producing the \n2401\n2401st item is \u200b$\nenter your response here\n.\n\u200b(Round to two decimal places as\u200b needed.)\nThe average cost function is Upper C overbar left parenthesis x right parenthesis.The marginal cost function is Upper C prime left parenthesis x right parenthesis.The average cost when x2400 is $(Round to two decimal places as needed.)The marginal cost when x2400 is $(Round to two decimal places as needed.)The average cost per item is about $whenwhen(Round to two decimal places as needed.)The cost of producing the 2401st item is $(Round to two decimal places as needed.)",
+      "poolOrder": "8",
+      "listObjective": "Find average and marginal cost and profit functions."
+    },
+    {
+      "previewIndex": "15",
+      "previewTotal": "34",
+      "questionId": "3.6.32",
+      "objective": "Find average and marginal cost and profit functions.",
+      "difficulty": "Hard",
+      "estimatedTime": "3m 44s",
+      "stem": "Part 1\nConsider the following cost function.\na. Find the average cost and marginal cost functions.\nb. Determine the average and marginal cost when x\nequals\n=a.\nc. Interpret the values obtained in part\u200b (b).\nUpper C left parenthesis x right parenthesis equals negative 0.03 x squared plus 190 x plus 800\nC(x)=\u22120.03x2+190x+800\u200b, 0\nless than or equals\n\u2264x\nless than or equals\n\u2264\n1000\n1000\u200b, a\nequals\n=\n800\n800\nQuestion content area bottom\nPart 1\na. The average cost function is \nUpper C overbar left parenthesis x right parenthesis\nC(x)\nequals\n=\nenter your response here\n.\nPart 2\nThe marginal cost is function is \nUpper C prime left parenthesis x right parenthesis\nC\u2032(x)\nequals\n=\nenter your response here\n.\nPart 3\nb. The average cost when x\nequals\n=a is \u200b$\nenter your response here\n. \u200b(Round to two decimal places as\u200b needed.)\nPart 4\nThe marginal cost when x\nequals\n=a is \u200b$\nenter your response here\n. \u200b(Round to two decimal places as\u200b needed.)\nPart 5\nc. The average cost per item is about \u200b$\nenter your response here\n when \n800\n800 items are produced.\n\u200b(Round to two decimal places as\u200b needed.)\nPart 6\nThe cost of producing the \n801\n801st item is about \u200b$\nenter your response here\n.\n\u200b(Round to two decimal places as\u200b needed.)\nThe average cost function is Upper C overbar left parenthesis x right parenthesis.The marginal cost is function is Upper C prime left parenthesis x right parenthesis.The average cost when xa is $(Round to two decimal places as needed.)The marginal cost when xa is $(Round to two decimal places as needed.)The average cost per item is about $800(Round to two decimal places as needed.)The cost of producing the 801st item is about $(Round to two decimal places as needed.)",
+      "poolOrder": "8",
+      "listObjective": "Find average and marginal cost and profit functions."
+    },
+    {
+      "previewIndex": "16",
+      "previewTotal": "34",
+      "questionId": "3.6.36",
+      "objective": "Solve applications involving position, velocity, and acceleration functions.",
+      "difficulty": "Moderate",
+      "estimatedTime": "2m 21s",
+      "stem": "Part 1\nAn object is dropped from a\u200b tower, \n1936\n1936 ft above the ground. The\u200b object's height above the ground t seconds after it is dropped is \u200bs(t)\nequals\n=\n1936 minus 16 t squared\n1936\u221216t2. Determine the velocity and acceleration of the object the moment it reaches the ground.\nQuestion content area bottom\nPart 1\nThe velocity of the object the moment it reaches the ground is \nenter your response here\n \u200bft/s.\n\u200b(Simplify your\u200b answer.)\nPart 2\nThe acceleration of the object the moment it reaches the ground is \nenter your response here\n \u200bft/s\nsquared\n2. \n\u200b(Simplify your\u200b answer.)\nThe velocity of the object the moment it reaches the ground is(Simplify your answer.)The acceleration of the object the moment it reaches the ground is(Simplify your answer.)",
+      "poolOrder": "9",
+      "listObjective": "Solve applications involving position, velocity, and acceleration functions."
+    },
+    {
+      "previewIndex": "17",
+      "previewTotal": "34",
+      "questionId": "3.7.14",
+      "objective": "Find derivatives of basic functions using the chain rule.",
+      "difficulty": "Moderate",
+      "estimatedTime": "1m 12s",
+      "stem": "Part 1\nFind \nf prime left parenthesis x right parenthesis\nf\u2032(x) if \u200bf(x)\nequals\n=\n4 e Superscript 6 x\n4e6x.\nQuestion content area bottom\nPart 1\nf prime left parenthesis x right parenthesis\nf\u2032(x)\nequals\n=\nenter your response here\nf prime left parenthesis x right parenthesis",
+      "poolOrder": "10",
+      "listObjective": "Find derivatives of basic functions using the chain rule."
+    },
+    {
+      "previewIndex": "18",
+      "previewTotal": "34",
+      "questionId": "3.7.15",
+      "objective": "Identify inner functions and outer functions for composite functions, and then apply...",
+      "difficulty": "Easy",
+      "estimatedTime": "1m 33s",
+      "stem": "Part 1\nFor the following composite\u200b function, find an inner function u\nequals\n=\u200bg(x) and an outer function y\nequals\n=\u200bf(u) such that y\nequals\n=\u200bf(g(x)). Then calculate \nStartFraction dy Over dx EndFraction\ndy\ndx\n.\ny\nequals\n=\nleft parenthesis 2 x plus 9 right parenthesis Superscript 8\n(2x+9)8\nQuestion content area bottom\nPart 1\nIdentify the inner and outer functions. Choose the correct answer.\nA.\nu\nequals\n=\u200bg(x)\nequals\n=\n2 x plus 9\n2x+9 and y\nequals\n=\u200bf(u)\nequals\n=\nu Superscript 8\nu8\nB.\nu\nequals\n=\u200bg(x)\nequals\n=\n2\n2x and y\nequals\n=\u200bf(u)\nequals\n=\nu Superscript 8\nu8\nC.\nu\nequals\n=\u200bg(x)\nequals\n=\nx Superscript 8\nx8 and y\nequals\n=\u200bf(u)\nequals\n=\n2 u plus 9\n2u+9\nD.\nu\nequals\n=\u200bg(x)\nequals\n=\n2 x plus 9\n2x+9 and y\nequals\n=\u200bf(u)\nequals\n=u\nPart 2\nStartFraction dy Over dx EndFraction\ndy\ndx\nequals\n=\nenter your response here\nChoose the correct answer.StartFraction dy Over dx EndFraction",
+      "poolOrder": "10",
+      "listObjective": "Identify inner functions and outer functions for composite functions, and then apply..."
+    },
+    {
+      "previewIndex": "19",
+      "previewTotal": "34",
+      "questionId": "3.7.19",
+      "objective": "Identify inner functions and outer functions for composite functions, and then apply...",
+      "difficulty": "Moderate",
+      "estimatedTime": "2m 6s",
+      "stem": "Part 1\nFor the following composite\u200b function, find an inner function u\nequals\n=\u200bg(x) and an outer function y\nequals\n=\u200bf(u) such that y\nequals\n=\u200bf(g(x)). Then calculate \nStartFraction dy Over dx EndFraction\ndy\ndx\n.\ny\nequals\n=\nStartRoot 4 x Superscript 8 Baseline plus 9 EndRoot\n4x8+9\nQuestion content area bottom\nPart 1\nIdentify the inner and outer functions. Choose the correct answer.\nA.\nu\nequals\n=\u200bg(x)\nequals\n=x and y\nequals\n=\u200bf(u)\nequals\n=\nStartRoot u EndRoot\nu\nB.\nu\nequals\n=\u200bg(x)\nequals\n=\n4 x Superscript 8 Baseline plus 9\n4x8+9 and y\nequals\n=\u200bf(u)\nequals\n=\nStartRoot u EndRoot\nu\nC.\nu\nequals\n=\u200bg(x)\nequals\n=\n4 x Superscript 8 Baseline plus 9\n4x8+9 and y\nequals\n=\u200bf(u)\nequals\n=u\nD.\nu\nequals\n=\u200bg(x)\nequals\n=\nStartRoot x EndRoot\nx and y\nequals\n=\u200bf(u)\nequals\n=\n4 u Superscript 8 Baseline plus 9\n4u8+9\nPart 2\nStartFraction dy Over dx EndFraction\ndy\ndx\nequals\n=\nenter your response here\nChoose the correct answer.StartFraction dy Over dx EndFraction",
+      "poolOrder": "11",
+      "listObjective": "Identify inner functions and outer functions for composite functions, and then apply..."
+    },
+    {
+      "previewIndex": "20",
+      "previewTotal": "34",
+      "questionId": "3.7.20",
+      "objective": "Identify inner functions and outer functions for composite functions, and then apply...",
+      "difficulty": "Moderate",
+      "estimatedTime": "1m 30s",
+      "stem": "Part 1\nFor the following composite\u200b function, find an inner function u\nequals\n=\u200bg(x) and an outer function y\nequals\n=\u200bf(u) such that y\nequals\n=\u200bf(g(x)). Then calculate \nStartFraction dy Over dx EndFraction\ndy\ndx\n.\ny\nequals\n=\nStartRoot negative 1 plus 3 x EndRoot\n\u22121+3x\nQuestion content area bottom\nPart 1\nIdentify the inner and outer functions. Choose the correct answer.\nA.\nu\nequals\n=\u200bg(x)\nequals\n=\n3\n3x and y\nequals\n=\u200bf(u)\nequals\n=\nStartRoot u EndRoot\nu\nB.\nu\nequals\n=\u200bg(x)\nequals\n=\nnegative 1\n\u22121\nplus\n+\n3\n3x and y\nequals\n=\u200bf(u)\nequals\n=u\nC.\nu\nequals\n=\u200bg(x)\nequals\n=\nStartRoot x EndRoot\nx and y\nequals\n=\u200bf(u)\nequals\n=\nnegative 1\n\u22121\nplus\n+\n3\n3u\nD.\nu\nequals\n=\u200bg(x)\nequals\n=\nnegative 1\n\u22121\nplus\n+\n3\n3x and y\nequals\n=\u200bf(u)\nequals\n=\nStartRoot u EndRoot\nu\nPart 2\nStartFraction dy Over dx EndFraction\ndy\ndx\nequals\n=\nenter your response here\nChoose the correct answer.StartFraction dy Over dx EndFraction",
+      "poolOrder": "11",
+      "listObjective": "Identify inner functions and outer functions for composite functions, and then apply..."
+    },
+    {
+      "previewIndex": "21",
+      "previewTotal": "34",
+      "questionId": "3.7.20",
+      "objective": "Identify inner functions and outer functions for composite functions, and then apply...",
+      "difficulty": "Moderate",
+      "estimatedTime": "1m 30s",
+      "stem": "Part 1\nFor the following composite\u200b function, find an inner function u\nequals\n=\u200bg(x) and an outer function y\nequals\n=\u200bf(u) such that y\nequals\n=\u200bf(g(x)). Then calculate \nStartFraction dy Over dx EndFraction\ndy\ndx\n.\ny\nequals\n=\nStartRoot negative 6 plus 3 x EndRoot\n\u22126+3x\nQuestion content area bottom\nPart 1\nIdentify the inner and outer functions. Choose the correct answer.\nA.\nu\nequals\n=\u200bg(x)\nequals\n=\nnegative 6\n\u22126\nplus\n+\n3\n3x and y\nequals\n=\u200bf(u)\nequals\n=u\nB.\nu\nequals\n=\u200bg(x)\nequals\n=\n3\n3x and y\nequals\n=\u200bf(u)\nequals\n=\nStartRoot u EndRoot\nu\nC.\nu\nequals\n=\u200bg(x)\nequals\n=\nnegative 6\n\u22126\nplus\n+\n3\n3x and y\nequals\n=\u200bf(u)\nequals\n=\nStartRoot u EndRoot\nu\nD.\nu\nequals\n=\u200bg(x)\nequals\n=\nStartRoot x EndRoot\nx and y\nequals\n=\u200bf(u)\nequals\n=\nnegative 6\n\u22126\nplus\n+\n3\n3u\nPart 2\nStartFraction dy Over dx EndFraction\ndy\ndx\nequals\n=\nenter your response here\nChoose the correct answer.StartFraction dy Over dx EndFraction",
+      "poolOrder": "12",
+      "listObjective": "Identify inner functions and outer functions for composite functions, and then apply..."
+    },
+    {
+      "previewIndex": "22",
+      "previewTotal": "34",
+      "questionId": "3.7.24",
+      "objective": "Identify inner functions and outer functions for composite functions, and then apply...",
+      "difficulty": "Moderate",
+      "estimatedTime": "1m 59s",
+      "stem": "Part 1\nFor the following composite\u200b function, find an inner function u\nequals\n=\u200bg(x) and an outer function y\nequals\n=\u200bf(u) such that y\nequals\n=\u200bf(g(x)). Then calculate \nStartFraction dy Over dx EndFraction\ndy\ndx\n.\ny\nequals\n=\nsine StartFraction x Over 8 EndFraction\nsin\nx\n8\nQuestion content area bottom\nPart 1\nIdentify the inner and outer functions. Choose the correct answer.\nA.\nu\nequals\n=\u200bg(x)\nequals\n=\nsine x\nsinx and y\nequals\n=\u200bf(u)\nequals\n=\nStartFraction u Over 8 EndFraction\nu\n8\nB.\nu\nequals\n=\u200bg(x)\nequals\n=\nsine x\nsinx and y\nequals\n=\u200bf(u)\nequals\n=\n8 u\n8u\nC.\nu\nequals\n=\u200bg(x)\nequals\n=\nStartFraction x Over 8 EndFraction\nx\n8\n and y\nequals\n=\u200bf(u)\nequals\n=\nsine u\nsinu\nD.\nu\nequals\n=\u200bg(x)\nequals\n=\n8 x\n8x and y\nequals\n=\u200bf(u)\nequals\n=\nsine u\nsinu\nPart 2\nStartFraction dy Over dx EndFraction\ndy\ndx\nequals\n=\nenter your response here\nChoose the correct answer.StartFraction dy Over dx EndFraction",
+      "poolOrder": "12",
+      "listObjective": "Identify inner functions and outer functions for composite functions, and then apply..."
+    },
+    {
+      "previewIndex": "23",
+      "previewTotal": "34",
+      "questionId": "3.7.29",
+      "objective": "Find derivatives of basic functions using the chain rule.",
+      "difficulty": "Moderate",
+      "estimatedTime": "1m 18s",
+      "stem": "Part 1\nCalculate the derivative of the following function.\ny\nequals\n=\nStartRoot 15 x plus 17 EndRoot\n15x+17\nQuestion content area bottom\nPart 1\nStartFraction dy Over dx EndFraction\ndy\ndx\nequals\n=\nenter your response here\nStartFraction dy Over dx EndFraction",
+      "poolOrder": "13",
+      "listObjective": "Find derivatives of basic functions using the chain rule."
+    },
+    {
+      "previewIndex": "24",
+      "previewTotal": "34",
+      "questionId": "3.7.31",
+      "objective": "Find derivatives of basic functions using the chain rule.",
+      "difficulty": "Moderate",
+      "estimatedTime": "2m 9s",
+      "stem": "Part 1\nCalculate the derivative of the following function.\ny\nequals\n=\n4 left parenthesis 6 x Superscript 4 Baseline plus 1 right parenthesis Superscript negative 8\n46x4+1\u22128\nQuestion content area bottom\nPart 1\nStartFraction dy Over dx EndFraction\ndy\ndx\nequals\n=\nenter your response here\nStartFraction dy Over dx EndFraction",
+      "poolOrder": "13",
+      "listObjective": "Find derivatives of basic functions using the chain rule."
+    },
+    {
+      "previewIndex": "25",
+      "previewTotal": "34",
+      "questionId": "3.9.16",
+      "objective": "Find derivatives involving logarithms and exponentials.",
+      "difficulty": "Moderate",
+      "estimatedTime": "1m 35s",
+      "stem": "Part 1\nFind the derivative of the following function.\nf left parenthesis x right parenthesis equals 5 x Superscript 4 Baseline ln x\nf(x)=5x4lnx\nQuestion content area bottom\nPart 1\nf prime left parenthesis x right parenthesis\nf\u2032(x)\nequals\n=\nenter your response here\nf prime left parenthesis x right parenthesis",
+      "poolOrder": "14",
+      "listObjective": "Find derivatives involving logarithms and exponentials."
+    },
+    {
+      "previewIndex": "26",
+      "previewTotal": "34",
+      "questionId": "3.9.36",
+      "objective": "Find derivatives involving logarithms and exponentials.",
+      "difficulty": "Moderate",
+      "estimatedTime": "2m 3s",
+      "stem": "Part 1\nFind the derivative of the following function.\n y\nequals\n=\nln left parenthesis x squared plus 5 right parenthesis Superscript pi\nlnx2+5\u03c0\nQuestion content area bottom\nPart 1\nStartFraction dy Over dx EndFraction\ndy\ndx\nequals\n=\nenter your response here\n\u200b(Type an exact\u200b answer, using \npi\n\u03c0 as\u200b needed.)\nStartFraction dy Over dx EndFraction(Type an exact answer, using as needed.)",
+      "poolOrder": "14",
+      "listObjective": "Find derivatives involving logarithms and exponentials."
+    },
+    {
+      "previewIndex": "27",
+      "previewTotal": "34",
+      "questionId": "3.9.29",
+      "objective": "Find derivatives involving logarithms and exponentials.",
+      "difficulty": "Moderate",
+      "estimatedTime": "1m 28s",
+      "stem": "Part 1\nFind the derivative of the following function.\ny\nequals\n=\nln left parenthesis ln left parenthesis 6 x right parenthesis right parenthesis\nln(ln(6x))\nQuestion content area bottom\nPart 1\nStartFraction dy Over dx EndFraction\ndy\ndx\nequals\n=\nenter your response here\n\u200b(Use parentheses to clearly denote the argument of each\u200b function.)\nStartFraction dy Over dx EndFraction(Use parentheses to clearly denote the argument of each function.)",
+      "poolOrder": "15",
+      "listObjective": "Find derivatives involving logarithms and exponentials."
+    },
+    {
+      "previewIndex": "28",
+      "previewTotal": "34",
+      "questionId": "3.9.30",
+      "objective": "Find derivatives involving logarithms and exponentials.",
+      "difficulty": "Moderate",
+      "estimatedTime": "1m 45s",
+      "stem": "Part 1\nFind the derivative of y with respect to \ntheta\n\u03b8.\ny\nequals\n=\nln left parenthesis 2 cosine Superscript 4 Baseline theta right parenthesis\nln2cos4\u03b8\nQuestion content area bottom\nPart 1\nStartFraction dy Over d theta EndFraction\ndy\nd\u03b8\nequals\n=\nenter your response here\nStartFraction dy Over d theta EndFraction",
+      "poolOrder": "16",
+      "listObjective": "Find derivatives involving logarithms and exponentials."
+    },
+    {
+      "previewIndex": "29",
+      "previewTotal": "34",
+      "questionId": "3.9.41",
+      "objective": "Find derivatives involving logarithms and exponentials.",
+      "difficulty": "Moderate",
+      "estimatedTime": "1m 57s",
+      "stem": "Part 1\nFind the derivative of y\nequals\n=\n3 Superscript 2 plus cotangent x\n32+cotx.\nQuestion content area bottom\nPart 1\nStartFraction dy Over dx EndFraction\ndy\ndx\nequals\n=\nenter your response here\nStartFraction dy Over dx EndFraction",
+      "poolOrder": "17",
+      "listObjective": "Find derivatives involving logarithms and exponentials."
+    },
+    {
+      "previewIndex": "30",
+      "previewTotal": "34",
+      "questionId": "3.9.43",
+      "objective": "Find derivatives involving logarithms and exponentials.",
+      "difficulty": "Moderate",
+      "estimatedTime": "2m 29s",
+      "stem": "Part 1\nFind the derivative of y\nequals\n=\nx cubed 6 Superscript x\nx36x.\nQuestion content area bottom\nPart 1\nStartFraction dy Over dx EndFraction\ndy\ndx\nequals\n=\nenter your response here\nStartFraction dy Over dx EndFraction",
+      "poolOrder": "17",
+      "listObjective": "Find derivatives involving logarithms and exponentials."
+    },
+    {
+      "previewIndex": "31",
+      "previewTotal": "34",
+      "questionId": "3.9.73",
+      "objective": "Find derivatives involving logarithms and exponentials.",
+      "difficulty": "Moderate",
+      "estimatedTime": "2m 27s",
+      "stem": "Part 1\nDifferentiate.\n\u200bf(x)\nequals\n=\nln left bracket StartFraction left parenthesis 5 x plus 9 right parenthesis left parenthesis x plus 3 right parenthesis cubed Over left parenthesis 1 minus 8 x right parenthesis Superscript 4 EndFraction right bracket\nln\n(5x+9)(x+3)3\n(1\u22128x)4\nQuestion content area bottom\nPart 1\nStartFraction d Over dx EndFraction left bracket ln left bracket StartFraction left parenthesis 5 x plus 9 right parenthesis left parenthesis x plus 3 right parenthesis cubed Over left parenthesis 1 minus 8 x right parenthesis Superscript 4 EndFraction right bracket right bracket\nd\ndx\nln\n(5x+9)(x+3)3\n(1\u22128x)4\nequals\n=\nenter your response here\nStartFraction d Over dx EndFraction left bracket ln left bracket StartFraction left parenthesis 5 x plus 9 right parenthesis left parenthesis x plus 3 right parenthesis cubed Over left parenthesis 1 minus 8 x right parenthesis Superscript 4 EndFraction right bracket right bracket",
+      "poolOrder": "18",
+      "listObjective": "Find derivatives involving logarithms and exponentials."
+    },
+    {
+      "previewIndex": "32",
+      "previewTotal": "34",
+      "questionId": "3.10.23",
+      "objective": "Find derivatives of functions involving inverse trigonometric functions.",
+      "difficulty": "Moderate",
+      "estimatedTime": "2m 40s",
+      "stem": "Part 1\nEvaluate the derivative of the following function.\nf left parenthesis z right parenthesis\nf(z)\nequals\n=\n8 cotangent Superscript negative 1 Baseline StartRoot 7 z EndRoot\n8cot\u22121\n7z\nQuestion content area bottom\nPart 1\nf prime left parenthesis z right parenthesis\nf\u2032(z)\nequals\n=\nenter your response here\nf prime left parenthesis z right parenthesis",
+      "poolOrder": "19",
+      "listObjective": "Find derivatives of functions involving inverse trigonometric functions."
+    },
+    {
+      "previewIndex": "33",
+      "previewTotal": "34",
+      "questionId": "3.10.29",
+      "objective": "Find derivatives of functions involving inverse trigonometric functions.",
+      "difficulty": "Hard",
+      "estimatedTime": "2m 24s",
+      "stem": "Part 1\nEvaluate the derivative of the following function.\nf left parenthesis x right parenthesis\nf(x)\nequals\n=\ncosine Superscript negative 1 Baseline left parenthesis StartFraction 7 Over x EndFraction right parenthesis\ncos\u22121\n7\nx\nQuestion content area bottom\nPart 1\nf prime left parenthesis x right parenthesis\nf\u2032(x)\nequals\n=\nenter your response here\nf prime left parenthesis x right parenthesis",
+      "poolOrder": "19",
+      "listObjective": "Find derivatives of functions involving inverse trigonometric functions."
+    },
+    {
+      "previewIndex": "34",
+      "previewTotal": "34",
+      "questionId": "3.10.21",
+      "objective": "Find derivatives of functions involving inverse trigonometric functions.",
+      "difficulty": "Moderate",
+      "estimatedTime": "2m 13s",
+      "stem": "Part 1\nFind the derivative of the function \u200bf(y)\nequals\n=\nBold tan Superscript negative 1 Baseline left parenthesis 9 y Superscript 4 Baseline plus 5 right parenthesis\ntan\u221219y4+5.\nQuestion content area bottom\nPart 1\nf prime left parenthesis y right parenthesis\nf\u2032(y)\nequals\n=\nenter your response here\nf prime left parenthesis y right parenthesis",
+      "poolOrder": "20",
+      "listObjective": "Find derivatives of functions involving inverse trigonometric functions."
+    }
+  ]
+}

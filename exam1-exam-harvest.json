@@ -1,0 +1,838 @@
+[
+  {
+    "requested": "Exam 1",
+    "captureMethod": "Pearson editor copy (Exam 1 (Copy)): Add/Remove Content → question link → PlayerAddAndRemove Next loop (Work as student)",
+    "capturedAt": "2026-11-06T18:30:28Z",
+    "questionIds": [
+      "2.2.15",
+      "2.2.17",
+      "2.2.18",
+      "2.3.22",
+      "2.3.27",
+      "2.3.35",
+      "2.3.47",
+      "2.3.74",
+      "2.3.39-Setup & Solve",
+      "2.3.40-Setup & Solve",
+      "2.3.41-Setup & Solve",
+      "2.3.47-Setup & Solve",
+      "2.4.25",
+      "2.4.47",
+      "2.4.35-Setup & Solve",
+      "2.4.45-Setup & Solve",
+      "2.4.33-Setup & Solve",
+      "2.5.9",
+      "2.5.21",
+      "2.5.39",
+      "2.5.41",
+      "2.5.12",
+      "2.5.25",
+      "2.5.28",
+      "2.5.29",
+      "2.5.31",
+      "2.6.23",
+      "2.6.28",
+      "2.6.30",
+      "2.7.11",
+      "2.7.12",
+      "3.2.35",
+      "3.2.36",
+      "3.2.37",
+      "3.2.38",
+      "3.2.39",
+      "3.1.34",
+      "3.1.37",
+      "3.1.39"
+    ],
+    "capturedQuestionIds": [
+      "2.2.15",
+      "2.2.17",
+      "2.2.18",
+      "2.3.22",
+      "2.3.27",
+      "2.3.35",
+      "2.3.47",
+      "2.3.74",
+      "2.3.39-Setup & Solve",
+      "2.3.40-Setup & Solve",
+      "2.3.41-Setup & Solve",
+      "2.3.47-Setup & Solve",
+      "2.4.25",
+      "2.4.47",
+      "2.4.35-Setup & Solve",
+      "2.4.45-Setup & Solve",
+      "2.4.33-Setup & Solve",
+      "2.5.9",
+      "2.5.21",
+      "2.5.39",
+      "2.5.41",
+      "2.5.12",
+      "2.5.25",
+      "2.5.28",
+      "2.5.29",
+      "2.5.31",
+      "2.6.23",
+      "2.6.28",
+      "2.6.30",
+      "2.7.11",
+      "2.7.12",
+      "3.2.35",
+      "3.2.36",
+      "3.2.37",
+      "3.2.38",
+      "3.2.39",
+      "3.1.34",
+      "3.1.37",
+      "3.1.39"
+    ],
+    "missingQuestionIds": [],
+    "unexpectedQuestionIds": [],
+    "coverage": {
+      "captured": 39,
+      "expected": 39
+    },
+    "problems": [
+      {
+        "printOrder": 1,
+        "questionId": "2.2.15",
+        "summary": "Limits and value of $f$ at $x=1$ from a graph (see figure).",
+        "fullText": "Use the graph of $f$ in the figure to find the following values or state that they do not exist. If a limit does not exist, explain why. (see figure)\n\na. $f(1)$\n\nb. $\\lim_{x\\to 1^-} f(x)$\n\nc. $\\lim_{x\\to 1^+} f(x)$\n\nd. $\\lim_{x\\to 1} f(x)$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Use the graph of $f$ in the figure to find the following values or state that they do not exist. If a limit does not exist, explain why. (see figure)\n\na. $f(1)$\n\nb. $\\lim_{x\\to 1^-} f(x)$\n\nc. $\\lim_{x\\to 1^+} f(x)$\n\nd. $\\lim_{x\\to 1} f(x)$"
+          }
+        ],
+        "prompt": "Limits and value of $f$ at $x=1$ from a graph (see figure).",
+        "expr": "",
+        "objective": "Find limits from a graph.",
+        "poolOrder": "1",
+        "difficulty": "Moderate",
+        "estimatedTime": "1m 22s",
+        "latex": true
+      },
+      {
+        "printOrder": 2,
+        "questionId": "2.2.17",
+        "summary": "Values and limits of $f$ at $x=1,3,2$ from a graph (see figure).",
+        "fullText": "Use the graph of $f$ to complete parts (a) through (l). If a limit does not exist, explain why. (see figure)\n\na. $f(1)$\n\nb. $\\lim_{x\\to 1^-} f(x)$\n\nc. $\\lim_{x\\to 1^+} f(x)$\n\nd. $\\lim_{x\\to 1} f(x)$\n\ne. $f(3)$\n\nf. $\\lim_{x\\to 3^-} f(x)$\n\ng. $\\lim_{x\\to 3^+} f(x)$\n\nh. $\\lim_{x\\to 3} f(x)$\n\ni. $f(2)$\n\nj. $\\lim_{x\\to 2^-} f(x)$\n\nk. $\\lim_{x\\to 2^+} f(x)$\n\nl. $\\lim_{x\\to 2} f(x)$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Use the graph of $f$ to complete parts (a) through (l). If a limit does not exist, explain why. (see figure)\n\na. $f(1)$\n\nb. $\\lim_{x\\to 1^-} f(x)$\n\nc. $\\lim_{x\\to 1^+} f(x)$\n\nd. $\\lim_{x\\to 1} f(x)$\n\ne. $f(3)$\n\nf. $\\lim_{x\\to 3^-} f(x)$\n\ng. $\\lim_{x\\to 3^+} f(x)$\n\nh. $\\lim_{x\\to 3} f(x)$\n\ni. $f(2)$\n\nj. $\\lim_{x\\to 2^-} f(x)$\n\nk. $\\lim_{x\\to 2^+} f(x)$\n\nl. $\\lim_{x\\to 2} f(x)$"
+          }
+        ],
+        "prompt": "Values and limits of $f$ at $x=1,3,2$ from a graph (see figure).",
+        "expr": "",
+        "objective": "Find limits from a graph.",
+        "poolOrder": "2",
+        "difficulty": "Moderate",
+        "estimatedTime": "2m 23s",
+        "latex": true
+      },
+      {
+        "printOrder": 3,
+        "questionId": "2.2.18",
+        "summary": "Values and limits of $g$ at $x=1,2,3$ from a graph (see figure).",
+        "fullText": "Use the graph of $g$ in the figure to find the following values or state that they do not exist. If a limit does not exist, explain why. (see figure)\n\na. $g(1)$\n\nb. $\\lim_{x\\to 1^-} g(x)$\n\nc. $\\lim_{x\\to 1^+} g(x)$\n\nd. $\\lim_{x\\to 1} g(x)$\n\ne. $g(2)$\n\nf. $\\lim_{x\\to 2^-} g(x)$\n\ng. $\\lim_{x\\to 2^+} g(x)$\n\nh. $g(3)$\n\ni. $\\lim_{x\\to 3} g(x)$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Use the graph of $g$ in the figure to find the following values or state that they do not exist. If a limit does not exist, explain why. (see figure)\n\na. $g(1)$\n\nb. $\\lim_{x\\to 1^-} g(x)$\n\nc. $\\lim_{x\\to 1^+} g(x)$\n\nd. $\\lim_{x\\to 1} g(x)$\n\ne. $g(2)$\n\nf. $\\lim_{x\\to 2^-} g(x)$\n\ng. $\\lim_{x\\to 2^+} g(x)$\n\nh. $g(3)$\n\ni. $\\lim_{x\\to 3} g(x)$"
+          }
+        ],
+        "prompt": "Values and limits of $g$ at $x=1,2,3$ from a graph (see figure).",
+        "expr": "",
+        "objective": "Find limits from a graph.",
+        "poolOrder": "2",
+        "difficulty": "Moderate",
+        "estimatedTime": "2m 36s",
+        "latex": true
+      },
+      {
+        "printOrder": 4,
+        "questionId": "2.3.22",
+        "summary": "Find $\\lim_{x\\to -3} 1$.",
+        "fullText": "Find the following limit or state that it does not exist.\n\n$$\\lim_{x\\to -3} 1$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Find the following limit or state that it does not exist.\n\n$$\\lim_{x\\to -3} 1$$"
+          }
+        ],
+        "prompt": "Find $\\lim_{x\\to -3} 1$.",
+        "expr": "",
+        "objective": "Evaluate two-sided limits using limit laws and theorems.",
+        "poolOrder": "3",
+        "difficulty": "Easy",
+        "estimatedTime": "38s",
+        "latex": true
+      },
+      {
+        "printOrder": 5,
+        "questionId": "2.3.27",
+        "summary": "Find $\\lim_{b\\to 3}\\dfrac{8b}{\\sqrt{5b+1}-1}$.",
+        "fullText": "Find the following limit or state that it does not exist.\n\n$$\\lim_{b\\to 3}\\dfrac{8b}{\\sqrt{5b+1}-1}$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Find the following limit or state that it does not exist.\n\n$$\\lim_{b\\to 3}\\dfrac{8b}{\\sqrt{5b+1}-1}$$"
+          }
+        ],
+        "prompt": "Find $\\lim_{b\\to 3}\\dfrac{8b}{\\sqrt{5b+1}-1}$.",
+        "expr": "",
+        "objective": "Evaluate two-sided limits using limit laws and theorems.",
+        "poolOrder": "3",
+        "difficulty": "Moderate",
+        "estimatedTime": "1m 43s",
+        "latex": true
+      },
+      {
+        "printOrder": 6,
+        "questionId": "2.3.35",
+        "summary": "Find $\\lim_{x\\to 19}\\dfrac{x^{2}-361}{19-x}$.",
+        "fullText": "Find the following limit or state that it does not exist.\n\n$$\\lim_{x\\to 19}\\dfrac{x^{2}-361}{19-x}$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Find the following limit or state that it does not exist.\n\n$$\\lim_{x\\to 19}\\dfrac{x^{2}-361}{19-x}$$"
+          }
+        ],
+        "prompt": "Find $\\lim_{x\\to 19}\\dfrac{x^{2}-361}{19-x}$.",
+        "expr": "",
+        "objective": "Evaluate two-sided limits using limit laws and theorems.",
+        "poolOrder": "4",
+        "difficulty": "Moderate",
+        "estimatedTime": "1m 31s",
+        "latex": true
+      },
+      {
+        "printOrder": 7,
+        "questionId": "2.3.47",
+        "summary": "Find $\\lim_{h\\to 0}\\dfrac{\\sqrt{289+h}-17}{h}$.",
+        "fullText": "Find the following limit or state that it does not exist.\n\n$$\\lim_{h\\to 0}\\dfrac{\\sqrt{289+h}-17}{h}$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Find the following limit or state that it does not exist.\n\n$$\\lim_{h\\to 0}\\dfrac{\\sqrt{289+h}-17}{h}$$"
+          }
+        ],
+        "prompt": "Find $\\lim_{h\\to 0}\\dfrac{\\sqrt{289+h}-17}{h}$.",
+        "expr": "",
+        "objective": "Evaluate two-sided limits using limit laws and theorems.",
+        "poolOrder": "4",
+        "difficulty": "Moderate",
+        "estimatedTime": "2m 5s",
+        "latex": true
+      },
+      {
+        "printOrder": 8,
+        "questionId": "2.3.74",
+        "summary": "One-sided and two-sided limits of a piecewise $g(x)$ at $x=-5$ and $x=5$.",
+        "fullText": "For the function $g(x)$ shown below, compute the following limits or state that they do not exist.\n\n$$g(x)=\\begin{cases}0 & \\text{if } x\\le -5\\\\ \\sqrt{25-x^{2}} & \\text{if } -5<x<5\\\\ 3x & \\text{if } x\\ge 5\\end{cases}$$\n\na. $\\lim_{x\\to -5^-} g(x)$\n\nb. $\\lim_{x\\to -5^+} g(x)$\n\nc. $\\lim_{x\\to -5} g(x)$\n\nd. $\\lim_{x\\to 5^-} g(x)$\n\ne. $\\lim_{x\\to 5^+} g(x)$\n\nf. $\\lim_{x\\to 5} g(x)$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "For the function $g(x)$ shown below, compute the following limits or state that they do not exist.\n\n$$g(x)=\\begin{cases}0 & \\text{if } x\\le -5\\\\ \\sqrt{25-x^{2}} & \\text{if } -5<x<5\\\\ 3x & \\text{if } x\\ge 5\\end{cases}$$\n\na. $\\lim_{x\\to -5^-} g(x)$\n\nb. $\\lim_{x\\to -5^+} g(x)$\n\nc. $\\lim_{x\\to -5} g(x)$\n\nd. $\\lim_{x\\to 5^-} g(x)$\n\ne. $\\lim_{x\\to 5^+} g(x)$\n\nf. $\\lim_{x\\to 5} g(x)$"
+          }
+        ],
+        "prompt": "One-sided and two-sided limits of a piecewise $g(x)$ at $x=-5$ and $x=5$.",
+        "expr": "",
+        "objective": "Evaluate one-sided limits using limit laws and theorems.",
+        "poolOrder": "5",
+        "difficulty": "Moderate",
+        "estimatedTime": "2m 43s",
+        "latex": true
+      },
+      {
+        "printOrder": 9,
+        "questionId": "2.3.39-Setup & Solve",
+        "summary": "Limit $\\lim_{x\\to -1}\\dfrac{3(2x-4)^{2}-108}{x+1}$: rewrite for direct substitution, then evaluate.",
+        "fullText": "Find the following limit or state that it does not exist.\n\n$$\\lim_{x\\to -1} \\dfrac{3(2x-4)^{2}-108}{x+1}$$\n\na. Replace the limit with an equivalent limit that can be evaluated by direct substitution.\n\nb. Evaluate the limit, if possible.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Find the following limit or state that it does not exist.\n\n$$\\lim_{x\\to -1} \\dfrac{3(2x-4)^{2}-108}{x+1}$$\n\na. Replace the limit with an equivalent limit that can be evaluated by direct substitution.\n\nb. Evaluate the limit, if possible."
+          }
+        ],
+        "prompt": "Limit $\\lim_{x\\to -1}\\dfrac{3(2x-4)^{2}-108}{x+1}$: rewrite for direct substitution, then evaluate.",
+        "expr": "",
+        "objective": "Evaluate two-sided limits using limit laws and theorems.",
+        "poolOrder": "6",
+        "difficulty": "Moderate",
+        "estimatedTime": "3m 28s",
+        "latex": true
+      },
+      {
+        "printOrder": 10,
+        "questionId": "2.3.40-Setup & Solve",
+        "summary": "Limit $\\lim_{h\\to 0}\\dfrac{\\frac{1}{4+h}-\\frac14}{h}$: rewrite for direct substitution, then evaluate.",
+        "fullText": "Find the following limit or state that it does not exist.\n\n$$\\lim_{h\\to 0} \\dfrac{\\dfrac{1}{4+h}-\\dfrac{1}{4}}{h}$$\n\na. Replace the limit with an equivalent limit that can be evaluated by direct substitution.\n\nb. Evaluate the limit, if possible.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Find the following limit or state that it does not exist.\n\n$$\\lim_{h\\to 0} \\dfrac{\\dfrac{1}{4+h}-\\dfrac{1}{4}}{h}$$\n\na. Replace the limit with an equivalent limit that can be evaluated by direct substitution.\n\nb. Evaluate the limit, if possible."
+          }
+        ],
+        "prompt": "Limit $\\lim_{h\\to 0}\\dfrac{\\frac{1}{4+h}-\\frac14}{h}$: rewrite for direct substitution, then evaluate.",
+        "expr": "",
+        "objective": "Evaluate two-sided limits using limit laws and theorems.",
+        "poolOrder": "7",
+        "difficulty": "Moderate",
+        "estimatedTime": "3m 16s",
+        "latex": true
+      },
+      {
+        "printOrder": 11,
+        "questionId": "2.3.41-Setup & Solve",
+        "summary": "Limit $\\lim_{x\\to 361}\\dfrac{\\sqrt{x}-19}{x-361}$: rewrite for direct substitution, then evaluate.",
+        "fullText": "Find the following limit or state that it does not exist.\n\n$$\\lim_{x\\to 361} \\dfrac{\\sqrt{x}-19}{x-361}$$\n\na. Replace the limit with an equivalent limit that can be evaluated by direct substitution.\n\nb. Evaluate the limit, if possible.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Find the following limit or state that it does not exist.\n\n$$\\lim_{x\\to 361} \\dfrac{\\sqrt{x}-19}{x-361}$$\n\na. Replace the limit with an equivalent limit that can be evaluated by direct substitution.\n\nb. Evaluate the limit, if possible."
+          }
+        ],
+        "prompt": "Limit $\\lim_{x\\to 361}\\dfrac{\\sqrt{x}-19}{x-361}$: rewrite for direct substitution, then evaluate.",
+        "expr": "",
+        "objective": "Evaluate two-sided limits using limit laws and theorems.",
+        "poolOrder": "8",
+        "difficulty": "Moderate",
+        "estimatedTime": "1m 51s",
+        "latex": true
+      },
+      {
+        "printOrder": 12,
+        "questionId": "2.3.47-Setup & Solve",
+        "summary": "Limit $\\lim_{h\\to 0}\\dfrac{\\sqrt{256+h}-16}{h}$: rewrite for direct substitution, then evaluate.",
+        "fullText": "Find the following limit or state that it does not exist.\n\n$$\\lim_{h\\to 0} \\dfrac{\\sqrt{256+h}-16}{h}$$\n\na. Replace the limit with an equivalent limit that can be evaluated by direct substitution.\n\nb. Evaluate the limit, if possible.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Find the following limit or state that it does not exist.\n\n$$\\lim_{h\\to 0} \\dfrac{\\sqrt{256+h}-16}{h}$$\n\na. Replace the limit with an equivalent limit that can be evaluated by direct substitution.\n\nb. Evaluate the limit, if possible."
+          }
+        ],
+        "prompt": "Limit $\\lim_{h\\to 0}\\dfrac{\\sqrt{256+h}-16}{h}$: rewrite for direct substitution, then evaluate.",
+        "expr": "",
+        "objective": "Evaluate two-sided limits using limit laws and theorems.",
+        "poolOrder": "8",
+        "difficulty": "Moderate",
+        "estimatedTime": "2m 17s",
+        "latex": true
+      },
+      {
+        "printOrder": 13,
+        "questionId": "2.4.25",
+        "summary": "One-sided and two-sided limits of $\\dfrac{(x-1)(x-4)}{x+4}$ at $x=-4$.",
+        "fullText": "Determine the following limits.\n\na. $\\displaystyle\\lim_{x\\to -4^-}\\dfrac{(x-1)(x-4)}{x+4}$\n\nb. $\\displaystyle\\lim_{x\\to -4^+}\\dfrac{(x-1)(x-4)}{x+4}$\n\nc. $\\displaystyle\\lim_{x\\to -4}\\dfrac{(x-1)(x-4)}{x+4}$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Determine the following limits.\n\na. $\\displaystyle\\lim_{x\\to -4^-}\\dfrac{(x-1)(x-4)}{x+4}$\n\nb. $\\displaystyle\\lim_{x\\to -4^+}\\dfrac{(x-1)(x-4)}{x+4}$\n\nc. $\\displaystyle\\lim_{x\\to -4}\\dfrac{(x-1)(x-4)}{x+4}$"
+          }
+        ],
+        "prompt": "One-sided and two-sided limits of $\\dfrac{(x-1)(x-4)}{x+4}$ at $x=-4$.",
+        "expr": "",
+        "objective": "Evaluate limits analytically.",
+        "poolOrder": "9",
+        "difficulty": "Moderate",
+        "estimatedTime": "2m 7s",
+        "latex": true
+      },
+      {
+        "printOrder": 14,
+        "questionId": "2.4.47",
+        "summary": "Vertical asymptotes of $f(x)=\\dfrac{x^{2}-9x+14}{x^{2}-6x+8}$ and the related limits.",
+        "fullText": "Find all vertical asymptotes $x=a$ of the following function. For each value of $a$, evaluate $\\lim_{x\\to a^+} f(x)$, $\\lim_{x\\to a^-} f(x)$, and $\\lim_{x\\to a} f(x)$. Use $\\infty$ or $-\\infty$ when appropriate.\n\n$$f(x)=\\dfrac{x^{2}-9x+14}{x^{2}-6x+8}$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Find all vertical asymptotes $x=a$ of the following function. For each value of $a$, evaluate $\\lim_{x\\to a^+} f(x)$, $\\lim_{x\\to a^-} f(x)$, and $\\lim_{x\\to a} f(x)$. Use $\\infty$ or $-\\infty$ when appropriate.\n\n$$f(x)=\\dfrac{x^{2}-9x+14}{x^{2}-6x+8}$$"
+          }
+        ],
+        "prompt": "Vertical asymptotes of $f(x)=\\dfrac{x^{2}-9x+14}{x^{2}-6x+8}$ and the related limits.",
+        "expr": "",
+        "objective": "Find vertical asymptotes.",
+        "poolOrder": "9",
+        "difficulty": "Moderate",
+        "estimatedTime": "2m 54s",
+        "latex": true
+      },
+      {
+        "printOrder": 15,
+        "questionId": "2.4.35-Setup & Solve",
+        "summary": "Find $\\lim_{x\\to 1^+}\\dfrac{x^{2}-7x+12}{x-1}$ (simplify, then evaluate).",
+        "fullText": "Determine the following limit, using $\\infty$ or $-\\infty$ when appropriate, or state that it does not exist.\n\n$$\\lim_{x\\to 1^+}\\dfrac{x^{2}-7x+12}{x-1}$$\n\na. Simplify the expression inside the limit, if possible.\n\nb. Now, evaluate the limit.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Determine the following limit, using $\\infty$ or $-\\infty$ when appropriate, or state that it does not exist.\n\n$$\\lim_{x\\to 1^+}\\dfrac{x^{2}-7x+12}{x-1}$$\n\na. Simplify the expression inside the limit, if possible.\n\nb. Now, evaluate the limit."
+          }
+        ],
+        "prompt": "Find $\\lim_{x\\to 1^+}\\dfrac{x^{2}-7x+12}{x-1}$ (simplify, then evaluate).",
+        "expr": "",
+        "objective": "Evaluate limits analytically.",
+        "poolOrder": "10",
+        "difficulty": "Hard",
+        "estimatedTime": "1m 51s",
+        "latex": true
+      },
+      {
+        "printOrder": 16,
+        "questionId": "2.4.45-Setup & Solve",
+        "summary": "Limits of $f(x)=\\dfrac{x-1}{x^{2}-1}$ at $x=1$ and $x=-1$, and vertical asymptotes.",
+        "fullText": "Analyze the following limits and find the vertical asymptotes of\n\n$$f(x)=\\dfrac{x-1}{x^{2}-1}$$\n\na. $\\lim_{x\\to 1} f(x)$ (first rewrite the limit so it can be evaluated by direct substitution, then evaluate)\n\nb. $\\lim_{x\\to -1^-} f(x)$\n\nc. $\\lim_{x\\to -1^+} f(x)$\n\nd. Where are the vertical asymptotes of the function, if any exist?",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Analyze the following limits and find the vertical asymptotes of\n\n$$f(x)=\\dfrac{x-1}{x^{2}-1}$$\n\na. $\\lim_{x\\to 1} f(x)$ (first rewrite the limit so it can be evaluated by direct substitution, then evaluate)\n\nb. $\\lim_{x\\to -1^-} f(x)$\n\nc. $\\lim_{x\\to -1^+} f(x)$\n\nd. Where are the vertical asymptotes of the function, if any exist?"
+          }
+        ],
+        "prompt": "Limits of $f(x)=\\dfrac{x-1}{x^{2}-1}$ at $x=1$ and $x=-1$, and vertical asymptotes.",
+        "expr": "",
+        "objective": "Find vertical asymptotes.",
+        "poolOrder": "10",
+        "difficulty": "Hard",
+        "estimatedTime": "4m 16s",
+        "latex": true
+      },
+      {
+        "printOrder": 17,
+        "questionId": "2.4.33-Setup & Solve",
+        "summary": "Find $\\lim_{x\\to 0}\\dfrac{x^{6}-6x^{5}}{x^{5}}$ (simplify, then evaluate).",
+        "fullText": "Determine the following limit, using $\\infty$ or $-\\infty$ when appropriate, or state that it does not exist.\n\n$$\\lim_{x\\to 0}\\dfrac{x^{6}-6x^{5}}{x^{5}}$$\n\na. Simplify the expression inside the limit, if possible.\n\nb. Now, evaluate the limit.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Determine the following limit, using $\\infty$ or $-\\infty$ when appropriate, or state that it does not exist.\n\n$$\\lim_{x\\to 0}\\dfrac{x^{6}-6x^{5}}{x^{5}}$$\n\na. Simplify the expression inside the limit, if possible.\n\nb. Now, evaluate the limit."
+          }
+        ],
+        "prompt": "Find $\\lim_{x\\to 0}\\dfrac{x^{6}-6x^{5}}{x^{5}}$ (simplify, then evaluate).",
+        "expr": "",
+        "objective": "Evaluate limits analytically.",
+        "poolOrder": "11",
+        "difficulty": "Moderate",
+        "estimatedTime": "1m 21s",
+        "latex": true
+      },
+      {
+        "printOrder": 18,
+        "questionId": "2.5.9",
+        "summary": "Evaluate $\\lim_{x\\to\\infty}\\left(5+\\dfrac{8}{x^{2}}\\right)$.",
+        "fullText": "Evaluate the following limit.\n\n$$\\lim_{x\\to\\infty}\\left(5+\\dfrac{8}{x^{2}}\\right)$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Evaluate the following limit.\n\n$$\\lim_{x\\to\\infty}\\left(5+\\dfrac{8}{x^{2}}\\right)$$"
+          }
+        ],
+        "prompt": "Evaluate $\\lim_{x\\to\\infty}\\left(5+\\dfrac{8}{x^{2}}\\right)$.",
+        "expr": "",
+        "objective": "Evaluate limits at infinity.",
+        "poolOrder": "12",
+        "difficulty": "Easy",
+        "estimatedTime": "52s",
+        "latex": true
+      },
+      {
+        "printOrder": 19,
+        "questionId": "2.5.21",
+        "summary": "Find $\\lim_{x\\to\\infty}(4x^{5}-5x^{4}+1)$.",
+        "fullText": "Determine the following limit.\n\n$$\\lim_{x\\to\\infty}\\left(4x^{5}-5x^{4}+1\\right)$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Determine the following limit.\n\n$$\\lim_{x\\to\\infty}\\left(4x^{5}-5x^{4}+1\\right)$$"
+          }
+        ],
+        "prompt": "Find $\\lim_{x\\to\\infty}(4x^{5}-5x^{4}+1)$.",
+        "expr": "",
+        "objective": "Evaluate limits at infinity.",
+        "poolOrder": "13",
+        "difficulty": "Moderate",
+        "estimatedTime": "58s",
+        "latex": true
+      },
+      {
+        "printOrder": 20,
+        "questionId": "2.5.39",
+        "summary": "Limits at $\\pm\\infty$ and horizontal asymptote of $f(x)=\\dfrac{16x^{2}-9x+8}{4x^{2}+1}$.",
+        "fullText": "Evaluate $\\lim_{x\\to\\infty} f(x)$ and $\\lim_{x\\to -\\infty} f(x)$ for the following function. Then give the horizontal asymptote of $f$ (if any).\n\n$$f(x)=\\dfrac{16x^{2}-9x+8}{4x^{2}+1}$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Evaluate $\\lim_{x\\to\\infty} f(x)$ and $\\lim_{x\\to -\\infty} f(x)$ for the following function. Then give the horizontal asymptote of $f$ (if any).\n\n$$f(x)=\\dfrac{16x^{2}-9x+8}{4x^{2}+1}$$"
+          }
+        ],
+        "prompt": "Limits at $\\pm\\infty$ and horizontal asymptote of $f(x)=\\dfrac{16x^{2}-9x+8}{4x^{2}+1}$.",
+        "expr": "",
+        "objective": "Find horizontal and vertical asymptotes of functions.",
+        "poolOrder": "14",
+        "difficulty": "Moderate",
+        "estimatedTime": "1m 56s",
+        "latex": true
+      },
+      {
+        "printOrder": 21,
+        "questionId": "2.5.41",
+        "summary": "Limits at $\\pm\\infty$ and horizontal asymptotes of $f(x)=\\dfrac{2x^{5}-7}{x^{6}+5x^{4}}$.",
+        "fullText": "Determine $\\lim_{x\\to\\infty} f(x)$ and $\\lim_{x\\to -\\infty} f(x)$ for the following function. Then give the horizontal asymptotes of $f$, if any.\n\n$$f(x)=\\dfrac{2x^{5}-7}{x^{6}+5x^{4}}$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Determine $\\lim_{x\\to\\infty} f(x)$ and $\\lim_{x\\to -\\infty} f(x)$ for the following function. Then give the horizontal asymptotes of $f$, if any.\n\n$$f(x)=\\dfrac{2x^{5}-7}{x^{6}+5x^{4}}$$"
+          }
+        ],
+        "prompt": "Limits at $\\pm\\infty$ and horizontal asymptotes of $f(x)=\\dfrac{2x^{5}-7}{x^{6}+5x^{4}}$.",
+        "expr": "",
+        "objective": "Find horizontal and vertical asymptotes of functions.",
+        "poolOrder": "14",
+        "difficulty": "Moderate",
+        "estimatedTime": "1m 32s",
+        "latex": true
+      },
+      {
+        "printOrder": 22,
+        "questionId": "2.5.12",
+        "summary": "Find $\\lim_{x\\to\\infty}\\dfrac{6+3x+9x^{2}}{x^{2}}$.",
+        "fullText": "Determine the following limit at infinity.\n\n$$\\lim_{x\\to\\infty}\\dfrac{6+3x+9x^{2}}{x^{2}}$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Determine the following limit at infinity.\n\n$$\\lim_{x\\to\\infty}\\dfrac{6+3x+9x^{2}}{x^{2}}$$"
+          }
+        ],
+        "prompt": "Find $\\lim_{x\\to\\infty}\\dfrac{6+3x+9x^{2}}{x^{2}}$.",
+        "expr": "",
+        "objective": "Evaluate limits at infinity.",
+        "poolOrder": "15",
+        "difficulty": "Moderate",
+        "estimatedTime": "1m 8s",
+        "latex": true
+      },
+      {
+        "printOrder": 23,
+        "questionId": "2.5.25",
+        "summary": "Find $\\lim_{x\\to\\infty}\\dfrac{25x^{5}+9x^{3}-6x^{2}}{20x^{5}+x^{3}+6x^{2}+2}$.",
+        "fullText": "Determine the following limit.\n\n$$\\lim_{x\\to\\infty}\\dfrac{25x^{5}+9x^{3}-6x^{2}}{20x^{5}+x^{3}+6x^{2}+2}$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Determine the following limit.\n\n$$\\lim_{x\\to\\infty}\\dfrac{25x^{5}+9x^{3}-6x^{2}}{20x^{5}+x^{3}+6x^{2}+2}$$"
+          }
+        ],
+        "prompt": "Find $\\lim_{x\\to\\infty}\\dfrac{25x^{5}+9x^{3}-6x^{2}}{20x^{5}+x^{3}+6x^{2}+2}$.",
+        "expr": "",
+        "objective": "Evaluate limits at infinity.",
+        "poolOrder": "15",
+        "difficulty": "Moderate",
+        "estimatedTime": "1m 16s",
+        "latex": true
+      },
+      {
+        "printOrder": 24,
+        "questionId": "2.5.28",
+        "summary": "Find $\\lim_{x\\to\\infty}\\dfrac{3x^{5}+4}{7x^{6}+x^{5}-5x^{2}}$.",
+        "fullText": "Determine the following limit.\n\n$$\\lim_{x\\to\\infty}\\dfrac{3x^{5}+4}{7x^{6}+x^{5}-5x^{2}}$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Determine the following limit.\n\n$$\\lim_{x\\to\\infty}\\dfrac{3x^{5}+4}{7x^{6}+x^{5}-5x^{2}}$$"
+          }
+        ],
+        "prompt": "Find $\\lim_{x\\to\\infty}\\dfrac{3x^{5}+4}{7x^{6}+x^{5}-5x^{2}}$.",
+        "expr": "",
+        "objective": "Evaluate limits at infinity.",
+        "poolOrder": "16",
+        "difficulty": "Moderate",
+        "estimatedTime": "1m 9s",
+        "latex": true
+      },
+      {
+        "printOrder": 25,
+        "questionId": "2.5.29",
+        "summary": "Find $\\lim_{w\\to\\infty}\\dfrac{8w^{2}+6w+1}{\\sqrt{4w^{4}+2w^{3}}}$.",
+        "fullText": "Determine the following limit.\n\n$$\\lim_{w\\to\\infty}\\dfrac{8w^{2}+6w+1}{\\sqrt{4w^{4}+2w^{3}}}$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Determine the following limit.\n\n$$\\lim_{w\\to\\infty}\\dfrac{8w^{2}+6w+1}{\\sqrt{4w^{4}+2w^{3}}}$$"
+          }
+        ],
+        "prompt": "Find $\\lim_{w\\to\\infty}\\dfrac{8w^{2}+6w+1}{\\sqrt{4w^{4}+2w^{3}}}$.",
+        "expr": "",
+        "objective": "Evaluate limits at infinity.",
+        "poolOrder": "17",
+        "difficulty": "Moderate",
+        "estimatedTime": "1m 53s",
+        "latex": true
+      },
+      {
+        "printOrder": 26,
+        "questionId": "2.5.31",
+        "summary": "Find $\\lim_{x\\to -\\infty}\\dfrac{\\sqrt{121x^{2}+x}}{x}$.",
+        "fullText": "Determine the following limit.\n\n$$\\lim_{x\\to -\\infty}\\dfrac{\\sqrt{121x^{2}+x}}{x}$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Determine the following limit.\n\n$$\\lim_{x\\to -\\infty}\\dfrac{\\sqrt{121x^{2}+x}}{x}$$"
+          }
+        ],
+        "prompt": "Find $\\lim_{x\\to -\\infty}\\dfrac{\\sqrt{121x^{2}+x}}{x}$.",
+        "expr": "",
+        "objective": "Evaluate limits at infinity.",
+        "poolOrder": "17",
+        "difficulty": "Moderate",
+        "estimatedTime": "1m 48s",
+        "latex": true
+      },
+      {
+        "printOrder": 27,
+        "questionId": "2.6.23",
+        "summary": "Continuity of $f(x)=\\dfrac{8x-2}{x^{2}-10x+16}$ at $a=2$ using the continuity checklist.",
+        "fullText": "Determine whether the following function is continuous at $a$. Use the continuity checklist to justify your answer.\n\n$$f(x)=\\dfrac{8x-2}{x^{2}-10x+16},\\quad a=2$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Determine whether the following function is continuous at $a$. Use the continuity checklist to justify your answer.\n\n$$f(x)=\\dfrac{8x-2}{x^{2}-10x+16},\\quad a=2$$"
+          }
+        ],
+        "prompt": "Continuity of $f(x)=\\dfrac{8x-2}{x^{2}-10x+16}$ at $a=2$ using the continuity checklist.",
+        "expr": "",
+        "objective": "Determine if functions are continuous at given values.",
+        "poolOrder": "18",
+        "difficulty": "Moderate",
+        "estimatedTime": "1m 40s",
+        "latex": true
+      },
+      {
+        "printOrder": 28,
+        "questionId": "2.6.28",
+        "summary": "Intervals of continuity of $f(x)=\\dfrac{x^{2}-8x+15}{x^{2}-9}$.",
+        "fullText": "Determine the interval(s) on which the following function is continuous. Give your answer in interval notation.\n\n$$f(x)=\\dfrac{x^{2}-8x+15}{x^{2}-9}$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Determine the interval(s) on which the following function is continuous. Give your answer in interval notation.\n\n$$f(x)=\\dfrac{x^{2}-8x+15}{x^{2}-9}$$"
+          }
+        ],
+        "prompt": "Intervals of continuity of $f(x)=\\dfrac{x^{2}-8x+15}{x^{2}-9}$.",
+        "expr": "",
+        "objective": "Find points of discontinuity or intervals of continuity.",
+        "poolOrder": "19",
+        "difficulty": "Moderate",
+        "estimatedTime": "1m 30s",
+        "latex": true
+      },
+      {
+        "printOrder": 29,
+        "questionId": "2.6.30",
+        "summary": "Intervals of continuity of $f(x)=\\dfrac{x+2}{x^{2}-4}$.",
+        "fullText": "Determine the intervals on which the following function is continuous. Give your answer in interval notation.\n\n$$f(x)=\\dfrac{x+2}{x^{2}-4}$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "Determine the intervals on which the following function is continuous. Give your answer in interval notation.\n\n$$f(x)=\\dfrac{x+2}{x^{2}-4}$$"
+          }
+        ],
+        "prompt": "Intervals of continuity of $f(x)=\\dfrac{x+2}{x^{2}-4}$.",
+        "expr": "",
+        "objective": "Find points of discontinuity or intervals of continuity.",
+        "poolOrder": "19",
+        "difficulty": "Moderate",
+        "estimatedTime": "1m 37s",
+        "latex": true
+      },
+      {
+        "printOrder": 30,
+        "questionId": "2.7.11",
+        "summary": "Largest $\\delta$ for $\\lim_{x\\to 4} f(x)=8$ with $\\varepsilon=3$ and $\\varepsilon=1$ (see figure).",
+        "fullText": "The function $f$ in the figure satisfies $\\lim_{x\\to 4} f(x)=8$. Determine the largest value of $\\delta>0$ satisfying each statement. (see figure)\n\na. If $0<|x-4|<\\delta$, then $|f(x)-8|<3$.\n\nb. If $0<|x-4|<\\delta$, then $|f(x)-8|<1$. Round to the nearest half unit.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "The function $f$ in the figure satisfies $\\lim_{x\\to 4} f(x)=8$. Determine the largest value of $\\delta>0$ satisfying each statement. (see figure)\n\na. If $0<|x-4|<\\delta$, then $|f(x)-8|<3$.\n\nb. If $0<|x-4|<\\delta$, then $|f(x)-8|<1$. Round to the nearest half unit."
+          }
+        ],
+        "prompt": "Largest $\\delta$ for $\\lim_{x\\to 4} f(x)=8$ with $\\varepsilon=3$ and $\\varepsilon=1$ (see figure).",
+        "expr": "",
+        "objective": "Determine delta values associated with the precise definition of a limit.",
+        "poolOrder": "20",
+        "difficulty": "Hard",
+        "estimatedTime": "2m 16s",
+        "latex": true
+      },
+      {
+        "printOrder": 31,
+        "questionId": "2.7.12",
+        "summary": "Largest $\\delta$ for $\\lim_{x\\to 7} f(x)=6$ with $\\varepsilon=1$ and $\\varepsilon=0.5$ (see figure).",
+        "fullText": "The function $f$ in the figure satisfies $\\lim_{x\\to 7} f(x)=6$. Determine the largest value of $\\delta>0$ satisfying each statement. (see figure)\n\na. If $0<|x-7|<\\delta$, then $|f(x)-6|<1$.\n\nb. If $0<|x-7|<\\delta$, then $|f(x)-6|<0.5$.",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "The function $f$ in the figure satisfies $\\lim_{x\\to 7} f(x)=6$. Determine the largest value of $\\delta>0$ satisfying each statement. (see figure)\n\na. If $0<|x-7|<\\delta$, then $|f(x)-6|<1$.\n\nb. If $0<|x-7|<\\delta$, then $|f(x)-6|<0.5$."
+          }
+        ],
+        "prompt": "Largest $\\delta$ for $\\lim_{x\\to 7} f(x)=6$ with $\\varepsilon=1$ and $\\varepsilon=0.5$ (see figure).",
+        "expr": "",
+        "objective": "Determine delta values associated with the precise definition of a limit.",
+        "poolOrder": "20",
+        "difficulty": "Hard",
+        "estimatedTime": "2m 37s",
+        "latex": true
+      },
+      {
+        "printOrder": 32,
+        "questionId": "3.2.35",
+        "summary": "Derivative of $f(x)=2x^{2}+3x-2$ and tangent line at $a=-2$.",
+        "fullText": "a. Find the derivative function $f'$ for the function $f$.\n\nb. Find an equation of the line tangent to the graph of $f$ at $(a,f(a))$ for the given value of $a$.\n\n$$f(x)=2x^{2}+3x-2,\\quad a=-2$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "a. Find the derivative function $f'$ for the function $f$.\n\nb. Find an equation of the line tangent to the graph of $f$ at $(a,f(a))$ for the given value of $a$.\n\n$$f(x)=2x^{2}+3x-2,\\quad a=-2$$"
+          }
+        ],
+        "prompt": "Derivative of $f(x)=2x^{2}+3x-2$ and tangent line at $a=-2$.",
+        "expr": "",
+        "objective": "Find derivatives of functions using limits.",
+        "poolOrder": "21",
+        "difficulty": "Moderate",
+        "estimatedTime": "2m 9s",
+        "latex": true
+      },
+      {
+        "printOrder": 33,
+        "questionId": "3.2.36",
+        "summary": "Derivative of $f(x)=4x^{2}-2x+7$ and tangent line at $a=1$.",
+        "fullText": "a. Find the derivative function $f'$ for the following function $f$.\n\nb. Find an equation of the line tangent to the graph of $f$ at $(a,f(a))$ for the given value of $a$.\n\n$$f(x)=4x^{2}-2x+7,\\quad a=1$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "a. Find the derivative function $f'$ for the following function $f$.\n\nb. Find an equation of the line tangent to the graph of $f$ at $(a,f(a))$ for the given value of $a$.\n\n$$f(x)=4x^{2}-2x+7,\\quad a=1$$"
+          }
+        ],
+        "prompt": "Derivative of $f(x)=4x^{2}-2x+7$ and tangent line at $a=1$.",
+        "expr": "",
+        "objective": "Find derivatives of functions using limits.",
+        "poolOrder": "21",
+        "difficulty": "Moderate",
+        "estimatedTime": "2m 24s",
+        "latex": true
+      },
+      {
+        "printOrder": 34,
+        "questionId": "3.2.37",
+        "summary": "Derivative of $f(x)=\\sqrt{5x+4}$ and tangent line at $a=9$.",
+        "fullText": "a. Find the derivative function $f'$ for the function $f$.\n\nb. Find an equation of the line tangent to the graph of $f$ at $(a,f(a))$ for the given value of $a$.\n\n$$f(x)=\\sqrt{5x+4},\\quad a=9$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "a. Find the derivative function $f'$ for the function $f$.\n\nb. Find an equation of the line tangent to the graph of $f$ at $(a,f(a))$ for the given value of $a$.\n\n$$f(x)=\\sqrt{5x+4},\\quad a=9$$"
+          }
+        ],
+        "prompt": "Derivative of $f(x)=\\sqrt{5x+4}$ and tangent line at $a=9$.",
+        "expr": "",
+        "objective": "Find derivatives of functions using limits.",
+        "poolOrder": "22",
+        "difficulty": "Moderate",
+        "estimatedTime": "3m 7s",
+        "latex": true
+      },
+      {
+        "printOrder": 35,
+        "questionId": "3.2.38",
+        "summary": "Derivative of $f(x)=\\sqrt{x+6}$ and tangent line at $a=10$.",
+        "fullText": "a. Find the derivative function $f'$ for the function $f$.\n\nb. Find an equation of the line tangent to the graph of $f$ at $(a,f(a))$ for the given value of $a$.\n\n$$f(x)=\\sqrt{x+6},\\quad a=10$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "a. Find the derivative function $f'$ for the function $f$.\n\nb. Find an equation of the line tangent to the graph of $f$ at $(a,f(a))$ for the given value of $a$.\n\n$$f(x)=\\sqrt{x+6},\\quad a=10$$"
+          }
+        ],
+        "prompt": "Derivative of $f(x)=\\sqrt{x+6}$ and tangent line at $a=10$.",
+        "expr": "",
+        "objective": "Find derivatives of functions using limits.",
+        "poolOrder": "22",
+        "difficulty": "Moderate",
+        "estimatedTime": "2m 44s",
+        "latex": true
+      },
+      {
+        "printOrder": 36,
+        "questionId": "3.2.39",
+        "summary": "Derivative of $f(x)=\\dfrac{6}{5x+2}$ and tangent line at $a=-1$.",
+        "fullText": "a. Find the derivative function $f'$ for the function $f$.\n\nb. Find an equation of the line tangent to the graph of $f$ at $(a,f(a))$ for the given value of $a$.\n\n$$f(x)=\\dfrac{6}{5x+2},\\quad a=-1$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "a. Find the derivative function $f'$ for the function $f$.\n\nb. Find an equation of the line tangent to the graph of $f$ at $(a,f(a))$ for the given value of $a$.\n\n$$f(x)=\\dfrac{6}{5x+2},\\quad a=-1$$"
+          }
+        ],
+        "prompt": "Derivative of $f(x)=\\dfrac{6}{5x+2}$ and tangent line at $a=-1$.",
+        "expr": "",
+        "objective": "Find derivatives of functions using limits.",
+        "poolOrder": "23",
+        "difficulty": "Moderate",
+        "estimatedTime": "3m 13s",
+        "latex": true
+      },
+      {
+        "printOrder": 37,
+        "questionId": "3.1.34",
+        "summary": "Find $f'(a)$ and the tangent line for $f(x)=-3x^{2}$ at $a=-2$.",
+        "fullText": "a. For the function and point below, find $f'(a)$.\n\nb. Determine an equation of the line tangent to the graph of $f$ at $(a,f(a))$ for the given value of $a$.\n\n$$f(x)=-3x^{2},\\quad a=-2$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "a. For the function and point below, find $f'(a)$.\n\nb. Determine an equation of the line tangent to the graph of $f$ at $(a,f(a))$ for the given value of $a$.\n\n$$f(x)=-3x^{2},\\quad a=-2$$"
+          }
+        ],
+        "prompt": "Find $f'(a)$ and the tangent line for $f(x)=-3x^{2}$ at $a=-2$.",
+        "expr": "",
+        "objective": "Use limit definitions to find equations of tangent lines.",
+        "poolOrder": "24",
+        "difficulty": "Moderate",
+        "estimatedTime": "2m 6s",
+        "latex": true
+      },
+      {
+        "printOrder": 38,
+        "questionId": "3.1.37",
+        "summary": "Find $f'(a)$ and the tangent line for $f(x)=\\dfrac{4}{\\sqrt{x}}$ at $a=\\frac19$.",
+        "fullText": "a. For the function and point below, find $f'(a)$.\n\nb. Determine an equation of the line tangent to the graph of $f$ at $(a,f(a))$ for the given value of $a$.\n\n$$f(x)=\\dfrac{4}{\\sqrt{x}},\\quad a=\\dfrac{1}{9}$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "a. For the function and point below, find $f'(a)$.\n\nb. Determine an equation of the line tangent to the graph of $f$ at $(a,f(a))$ for the given value of $a$.\n\n$$f(x)=\\dfrac{4}{\\sqrt{x}},\\quad a=\\dfrac{1}{9}$$"
+          }
+        ],
+        "prompt": "Find $f'(a)$ and the tangent line for $f(x)=\\dfrac{4}{\\sqrt{x}}$ at $a=\\frac19$.",
+        "expr": "",
+        "objective": "Use limit definitions to find equations of tangent lines.",
+        "poolOrder": "25",
+        "difficulty": "Moderate",
+        "estimatedTime": "2m 50s",
+        "latex": true
+      },
+      {
+        "printOrder": 39,
+        "questionId": "3.1.39",
+        "summary": "Find $f'(a)$ and the tangent line for $f(x)=\\sqrt{7x+4}$ at $a=3$.",
+        "fullText": "a. For the following function, find $f'(a)$.\n\nb. Determine an equation of the line tangent to the graph of $f$ at $(a,f(a))$ for the given value of $a$.\n\n$$f(x)=\\sqrt{7x+4},\\quad a=3$$",
+        "parts": [
+          {
+            "label": "Problem",
+            "text": "a. For the following function, find $f'(a)$.\n\nb. Determine an equation of the line tangent to the graph of $f$ at $(a,f(a))$ for the given value of $a$.\n\n$$f(x)=\\sqrt{7x+4},\\quad a=3$$"
+          }
+        ],
+        "prompt": "Find $f'(a)$ and the tangent line for $f(x)=\\sqrt{7x+4}$ at $a=3$.",
+        "expr": "",
+        "objective": "Use limit definitions to find equations of tangent lines.",
+        "poolOrder": "25",
+        "difficulty": "Moderate",
+        "estimatedTime": "3m 22s",
+        "latex": true
+      }
+    ]
+  }
+]
